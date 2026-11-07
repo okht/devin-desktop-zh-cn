@@ -1,0 +1,17 @@
+[
+[3153,0,"(__devinDesktopZhLocale()?\"企业已成功删除\":"],
+[3186,0,")"],
+[3271,0,"(__devinDesktopZhLocale()?\"删除企业失败\":"],
+[3300,0,")"],
+[3617,0,"(__devinDesktopZhLocale()?`使用${e}组织恢复企业。成员需要重新登录。`:"],
+[3693,0,")"],
+[3780,0,"(__devinDesktopZhLocale()?\"无法恢复企业级功能\":"],
+[3810,0,")"],
+[10180,0,"(__devinDesktopZhLocale()?\"更新成员角色失败\":"],
+[10210,0,")"],
+[10962,0,"(__devinDesktopZhLocale()?\"移除成员失败\":"],
+[10987,0,")"],
+[11244,0,"(__devinDesktopZhLocale()?\"无法请求个人组织删除\":"],
+[11286,0,")"],
+[12513,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

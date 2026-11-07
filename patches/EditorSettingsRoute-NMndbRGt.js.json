@@ -1,0 +1,8 @@
+[
+[52685,17,"(__devinDesktopZhLocale()?\"设置已更新\":`Setting updated`)"],
+[52777,0,"(__devinDesktopZhLocale()?\"更新设置失败\":"],
+[52803,0,")"],
+[101436,0,"(__devinDesktopZhLocale()?\"无法重置设置\":"],
+[101461,0,")"],
+[106672,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

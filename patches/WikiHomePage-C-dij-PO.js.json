@@ -1,0 +1,13 @@
+[
+[4655,18,"(__devinDesktopZhLocale()?\"生成维基……\":`Generating wiki…`)"],
+[5236,13,"(__devinDesktopZhLocale()?\"生成中…\":`Generating…`)"],
+[5284,10,"(__devinDesktopZhLocale()?\"生成\":`Generate`)"],
+[11311,0,"(__devinDesktopZhLocale()?`维基生成失败，针对${i(t)}。请联系支持部门。`:"],
+[11372,0,")"],
+[11614,0,"(__devinDesktopZhLocale()?\"Wiki 生成已开始\":"],
+[11639,0,")"],
+[14978,13,"(__devinDesktopZhLocale()?\"正在连接…\":`Connecting…`)"],
+[15062,21,"(__devinDesktopZhLocale()?\"关联 GitHub 账户\":`Link GitHub Account`)"],
+[17811,10,"(__devinDesktopZhLocale()?\"正在加载…\":`Loading…`)"],
+[19067,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

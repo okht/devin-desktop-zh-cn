@@ -1,0 +1,10 @@
+[
+[2246,22,"(__devinDesktopZhLocale()?`需要${t}次访问`:`${t} access required`)"],
+[2479,60,"(__devinDesktopZhLocale()?\"转到 Devin\":`Go to Devin`)})]}):(0,F.jsxs)(D,{title:(__devinDesktopZhLocale()?`重定向到${t}`:`Redirecting to ${t}`)"],
+[2894,17,"(__devinDesktopZhLocale()?\"前往 \":`Go to `),t,(__devinDesktopZhLocale()?\" 现在\":` now`)"],
+[2940,22,"(__devinDesktopZhLocale()?\"出了点问题\":`Something went wrong`)"],
+[3210,47,"(__devinDesktopZhLocale()?\"返回登录\":`Back to login`)})]}):(0,F.jsx)(D,{title:(__devinDesktopZhLocale()?\"错误\":`Error`)"],
+[3581,0,"(__devinDesktopZhLocale()?`选择一个账户以登录到${t}。您的账户管理员将能够查看并控制您的${t}用量。`:"],
+[3694,0,")"],
+[4105,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

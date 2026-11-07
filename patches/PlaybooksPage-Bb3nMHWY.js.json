@@ -1,0 +1,14 @@
+[
+[2793,7,"(__devinDesktopZhLocale()?\"宏\":`Macro`)"],
+[3436,14,"(__devinDesktopZhLocale()?\"上次更新\":`Last updated`)"],
+[3807,21,"(__devinDesktopZhLocale()?\"搜索剧本...\":`Search playbooks...`)"],
+[5122,14,"(__devinDesktopZhLocale()?\"组织\":`Organization`)"],
+[5305,12,"(__devinDesktopZhLocale()?\"企业\":`Enterprise`)"],
+[5482,8,"(__devinDesktopZhLocale()?\"跟随系统\":`System`)"],
+[6133,0,"(__devinDesktopZhLocale()?\"寻找企业级操作手册吗？\":"],
+[6168,0,")"],
+[6507,0,"(__devinDesktopZhLocale()?\"可复用的系统提示，用于自定义Devin的工作方式。了解更多请访问我们的...\":"],
+[6582,0,")"],
+[6722,15,"(__devinDesktopZhLocale()?\"文档\":`documentation`)"],
+[7213,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

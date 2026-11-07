@@ -1,0 +1,21 @@
+[
+[1210,0,"(__devinDesktopZhLocale()?\"美国政府信息系统\":"],
+[1246,0,")"],
+[1516,10,"(__devinDesktopZhLocale()?\"我接受\":`I accept`)"],
+[4068,14,"(__devinDesktopZhLocale()?\"欢迎回来\":`Welcome back`)"],
+[4161,0,"(__devinDesktopZhLocale()?\"登录你的账户\":"],
+[4185,0,")"],
+[7026,0,"(__devinDesktopZhLocale()?\"没有账户？\":"],
+[7050,0,")"],
+[7249,9,"(__devinDesktopZhLocale()?\"注册\":`Sign up`)"],
+[7898,16,"(__devinDesktopZhLocale()?\"继续 \":`Continue with `)"],
+[8257,45,"(__devinDesktopZhLocale()?\"使用单点登录登录\":`Log in with SSO`):fe||!e.account?(__devinDesktopZhLocale()?`使用"],
+[8339,1," 登录`:`Log in with ${e.display_name??e.connection_name}`)"],
+[8397,32,"(__devinDesktopZhLocale()?`使用 ${e.account.name}（"],
+[8465,1,"）登录"],
+[8498,1," (${e.display_name??e.connection_name})`):(__devinDesktopZhLocale()?`使用 ${e.account.name} 登录`:`Log in with ${e.account.name}`)"],
+[9100,0,"(__devinDesktopZhLocale()?\"没有可用的登录方法。请联系管理员以获取登录帮助。\":"],
+[9181,0,")"],
+[9425,4,"(__devinDesktopZhLocale()?\"或\":`OR`)"],
+[9962,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

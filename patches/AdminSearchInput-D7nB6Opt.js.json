@@ -1,0 +1,5 @@
+[
+[590,7,"(__devinDesktopZhLocale()?\"清除\":`Clear`)"],
+[677,14,"(__devinDesktopZhLocale()?\"清除搜索\":`Clear search`)"],
+[893,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,5 @@
+[
+[535,16,"(__devinDesktopZhLocale()?\"每页显示行数：\":`Rows per page:`)"],
+[702,16,"(__devinDesktopZhLocale()?\"每页项数\":`Items per page`)"],
+[889,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

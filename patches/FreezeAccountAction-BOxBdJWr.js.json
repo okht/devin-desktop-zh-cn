@@ -1,0 +1,11 @@
+[
+[539,8,"(__devinDesktopZhLocale()?\"已冻结\":`Frozen`)"],
+[735,0,"(__devinDesktopZhLocale()?\"解除该账户的支出冻结\":"],
+[778,0,"):(__devinDesktopZhLocale()?\"冻结该账户的ACU支出\""],
+[817,0,")"],
+[961,19,"(__devinDesktopZhLocale()?\"解冻\":`Unfreeze`):(__devinDesktopZhLocale()?\"冻结\":`Freeze`)"],
+[1053,46,"(__devinDesktopZhLocale()?\"解冻用户？\":`Unfreeze user?`):(__devinDesktopZhLocale()?\"冻结用户？\":`Freeze user?`),description:a?(__devinDesktopZhLocale()?`这解除了在${i}这个用户的支出冻结。他们将能够再次使用现金支付。`:"],
+[1193,0,"):(__devinDesktopZhLocale()?`这封冻了该用户在${i}的ACU支出。只有当\\`enterprise-user-freeze\\`功能标志对此企业启用时，封冻才生效；否则，封冻会被记录但不会被执行。`"],
+[1404,0,")"],
+[1640,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,7 @@
+[
+[17081,0,"(__devinDesktopZhLocale()?\"无法对文件分组 - PR 可能过大\":"],
+[17126,0,")"],
+[17447,18,"(__devinDesktopZhLocale()?\"按部分查看\":`View as sections`)"],
+[17622,13,"(__devinDesktopZhLocale()?\"文件夹视图\":`Folder view`)"],
+[18014,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,7 @@
+[
+[5541,22,"(__devinDesktopZhLocale()?\"复制部分内容\":`Copy section content`)"],
+[5762,17,"(__devinDesktopZhLocale()?\"已复制部分！\":`Section copied!`)"],
+[7679,21,"(__devinDesktopZhLocale()?\"复制链接到头部\":`Copy link to header`)"],
+[7893,14,"(__devinDesktopZhLocale()?\"链接已复制！\":`Link copied!`)"],
+[8869,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

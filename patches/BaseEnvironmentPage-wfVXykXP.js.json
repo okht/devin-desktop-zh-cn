@@ -1,0 +1,18 @@
+[
+[2508,16,"(__devinDesktopZhLocale()?\"搜索机密\":`Search secrets`)"],
+[2651,16,"(__devinDesktopZhLocale()?\"导入机密\":`Import secrets`)"],
+[2730,15,"(__devinDesktopZhLocale()?\"创建机密\":`Create secret`)"],
+[2867,0,"(__devinDesktopZhLocale()?\"无法加载密钥。请稍后重试。\":"],
+[2908,0,")"],
+[2994,40,"(__devinDesktopZhLocale()?\"未匹配到密钥\":`No matching secrets`):(__devinDesktopZhLocale()?\"未找到任何密钥\":`No secrets found`)"],
+[3061,0,"(__devinDesktopZhLocale()?\"尝试其他搜索词。\":"],
+[3091,3,"):c?(__devinDesktopZhLocale()?\"添加你的第一个密钥以开始使用。\":"],
+[3133,0,"):(__devinDesktopZhLocale()?\"尚未添加任何密钥。\""],
+[3167,0,")"],
+[4139,9,"(__devinDesktopZhLocale()?\"密钥\":`Secrets`)"],
+[4414,14,"(__devinDesktopZhLocale()?\"组织\":`Organization`)"],
+[5030,0,"(__devinDesktopZhLocale()?\"适用于所有会话的指令，在仓库特定设置之前运行。\":"],
+[5103,0,")"],
+[5355,12,"(__devinDesktopZhLocale()?\"了解详情\":`Learn more`)"],
+[5594,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

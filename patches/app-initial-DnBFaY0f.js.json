@@ -1,0 +1,10 @@
+[
+[50105,23,"(__devinDesktopZhLocale()?\"名称不能为空。\":`Name cannot be empty.`)"],
+[109789,6,"(__devinDesktopZhLocale()?\"更多\":`More`)"],
+[167999,11,"(__devinDesktopZhLocale()?\"仓库备注\":`Repo Note`)"],
+[196323,6,"(__devinDesktopZhLocale()?\"测试版\":`Beta`)"],
+[199528,6,"(__devinDesktopZhLocale()?\"测试版\":`Beta`)"],
+[200846,6,"(__devinDesktopZhLocale()?\"测试版\":`Beta`)"],
+[201322,6,"(__devinDesktopZhLocale()?\"测试版\":`Beta`)"],
+[215742,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

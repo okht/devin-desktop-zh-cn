@@ -1,0 +1,11 @@
+[
+[45054,16,"(__devinDesktopZhLocale()?\"找不到页面\":`Page Not Found`)"],
+[45149,0,"(__devinDesktopZhLocale()?\"您正在寻找的页面不存在。\":"],
+[45193,0,")"],
+[112335,11,"(__devinDesktopZhLocale()?\"响应者\":`Responder`)"],
+[166303,11,"(__devinDesktopZhLocale()?\"知识库\":`Knowledge`)"],
+[219628,12,"(__devinDesktopZhLocale()?\"自动化\":`Automation`)"],
+[341124,10,"(__devinDesktopZhLocale()?\"手册\":`Playbook`)"],
+[361911,12,"(__devinDesktopZhLocale()?\"自动化\":`Automation`)"],
+[467418,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

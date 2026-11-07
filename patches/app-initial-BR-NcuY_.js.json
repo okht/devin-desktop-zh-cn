@@ -1,0 +1,6 @@
+[
+[26407,0,"(__devinDesktopZhLocale()?\"我们无法为您宣传\":"],
+[26437,0,")"],
+[26562,8,"(__devinDesktopZhLocale()?\"明白了\":`Got it`)"],
+[29065,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

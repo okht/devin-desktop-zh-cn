@@ -1,0 +1,7 @@
+[
+[23045,0,"(__devinDesktopZhLocale()?`${n.name} 触发需要 '${i.label}' 的过滤器`:"],
+[23098,0,")"],
+[23511,0,"(__devinDesktopZhLocale()?`进行${t?.name??`incident.io`}触发需要选择团队`:"],
+[23572,0,")"],
+[101357,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

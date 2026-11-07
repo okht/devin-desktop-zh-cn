@@ -1,0 +1,12 @@
+[
+[1010,15,"(__devinDesktopZhLocale()?\"创建板\":`Board created`)"],
+[1158,0,"(__devinDesktopZhLocale()?\"创建板失败\":"],
+[1182,0,")"],
+[1739,0,"(__devinDesktopZhLocale()?\"更新板失败\":"],
+[1763,0,")"],
+[1832,15,"(__devinDesktopZhLocale()?\"更新了界面\":`Board updated`)"],
+[2222,15,"(__devinDesktopZhLocale()?\"板删除\":`Board deleted`)"],
+[2328,0,"(__devinDesktopZhLocale()?\"删除板失败\":"],
+[2352,0,")"],
+[6616,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

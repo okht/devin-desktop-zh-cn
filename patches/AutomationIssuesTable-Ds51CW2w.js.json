@@ -1,0 +1,7 @@
+[
+[1775,20,"(__devinDesktopZhLocale()?\"更改优先级...\":`Change priority...`)"],
+[2072,21,"(__devinDesktopZhLocale()?\"未找到优先级。\":`No priorities found`)"],
+[3687,18,"(__devinDesktopZhLocale()?\"更改状态...\":`Change status...`)"],
+[4012,19,"(__devinDesktopZhLocale()?\"未找到状态\":`No statuses found`)"],
+[12521,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

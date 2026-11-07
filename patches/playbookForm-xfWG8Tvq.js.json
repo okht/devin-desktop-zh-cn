@@ -1,0 +1,5 @@
+[
+[847,24,"(__devinDesktopZhLocale()?\"Devin 模式\":`Devin mode`),description:(__devinDesktopZhLocale()?\"控制从该剧本启动的会话的智能体模式\""],
+[938,0,")"],
+[2531,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

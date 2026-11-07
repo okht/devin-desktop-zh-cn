@@ -1,0 +1,4 @@
+[
+[41904,23,"(__devinDesktopZhLocale()?\"保留所有格式标记（如 FILE_BROWSER_PROFILE），并换行。\":`$FILE_BROWSER_PROFILE`)"],
+[139306,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

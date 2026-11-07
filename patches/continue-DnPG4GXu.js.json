@@ -1,0 +1,21 @@
+[
+[1733,0,"(__devinDesktopZhLocale()?\"免费获取 Devin 试用版\":"],
+[1762,0,")"],
+[1841,0,"(__devinDesktopZhLocale()?\"释放 Devin 的全部功能。您的卡片在14天内不会产生费用，您可以随时取消使用。\":"],
+[1945,0,")"],
+[2587,31,"(__devinDesktopZhLocale()?\"正在加载…\":`Loading...`):(__devinDesktopZhLocale()?\"开始免费试用\":`Start free trial`)"],
+[2764,14,"(__devinDesktopZhLocale()?\"暂时跳过\":`Skip for now`)"],
+[3022,22,"(__devinDesktopZhLocale()?\"复制你的登录代码\":`Copy your login code`)"],
+[3136,0,"(__devinDesktopZhLocale()?\"将以下代码粘贴到Devin CLI中以完成登录过程。\":"],
+[3199,0,")"],
+[3508,21,"(__devinDesktopZhLocale()?\"已复制！\":`Copied!`):(__devinDesktopZhLocale()?\"复制代码\":`Copy code`)"],
+[3613,0,"(__devinDesktopZhLocale()?\"这段代码只能使用一次，有效期为5分钟。\":"],
+[3672,0,")"],
+[5104,19,"(__devinDesktopZhLocale()?\"无法登录\":`Unable to sign in`)"],
+[5481,0,"(__devinDesktopZhLocale()?\"尝试其他账户\":"],
+[5506,0,")"],
+[5531,7,"(__devinDesktopZhLocale()?\"错误\":`Error`)"],
+[5854,0,"(__devinDesktopZhLocale()?\"选择一个账户以登录 Devin CLI。您的账户管理员将能够查看并控制您的用量。\":"],
+[5967,0,")"],
+[6273,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

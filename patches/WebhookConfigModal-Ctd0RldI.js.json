@@ -1,0 +1,7 @@
+[
+[1114,0,"(__devinDesktopZhLocale()?\"Webhook令牌生成成功\":"],
+[1154,0,")"],
+[1243,0,"(__devinDesktopZhLocale()?\"无法生成Webhook令牌\":"],
+[1279,0,")"],
+[4327,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

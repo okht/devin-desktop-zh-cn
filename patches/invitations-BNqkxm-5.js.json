@@ -1,0 +1,16 @@
+[
+[830,13,"(__devinDesktopZhLocale()?\"邀请\":`Invitations`)"],
+[915,0,"(__devinDesktopZhLocale()?\"为新用户创建邀请函\":"],
+[949,0,")"],
+[1214,0,"(__devinDesktopZhLocale()?\"请输入至少一个电子邮件地址\":"],
+[1255,0,")"],
+[1446,0,"(__devinDesktopZhLocale()?\"创建邀请失败\":"],
+[1476,0,")"],
+[1533,0,"(__devinDesktopZhLocale()?\"成功创建邀请函\":"],
+[1567,0,")"],
+[1812,0,"(__devinDesktopZhLocale()?\"邮件列表，每行一个\":"],
+[1838,0,")"],
+[2040,34,"(__devinDesktopZhLocale()?\"正在创建...\":`Creating...`):(__devinDesktopZhLocale()?\"创建邀请\":`Create invitations`)"],
+[2212,8,"(__devinDesktopZhLocale()?\"输出\":`Output`)"],
+[2548,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

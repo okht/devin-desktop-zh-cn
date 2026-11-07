@@ -1,0 +1,6 @@
+[
+[1322,13,"(__devinDesktopZhLocale()?\"权限\":`Permissions`)"],
+[1991,0,"(__devinDesktopZhLocale()?\"可用角色及其相关权限的概述。角色分配可以从「用户」选项卡进行管理。\":"],
+[2106,0,")"],
+[5053,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

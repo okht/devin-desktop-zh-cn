@@ -1,0 +1,11 @@
+[
+[32666,0,"(__devinDesktopZhLocale()?`搜索${t.toLowerCase()}...`:"],
+[32696,0,")"],
+[33111,10,"(__devinDesktopZhLocale()?\"正在加载…\":`Loading…`)"],
+[33390,30,"(__devinDesktopZhLocale()?\"否 \":`No `),t.toLowerCase(),(__devinDesktopZhLocale()?\" 找到\":` found`)"],
+[33521,24,"(__devinDesktopZhLocale()?\"全部清除\":`Clear All`):(__devinDesktopZhLocale()?\"全选\":`Select All`)"],
+[33823,23,"(__devinDesktopZhLocale()?\"清除\":`Clear`):(__devinDesktopZhLocale()?\"选择\":`Select`),(__devinDesktopZhLocale()?\" 全部\":` All`)"],
+[35433,23,"(__devinStaticIsZh()?\"筛选 Devin 会话\":\"Filter Devin sessions\")"],
+[36414,17,"(__devinDesktopZhLocale()?\"保存为默认设置\":`Save as Default`)"],
+[83506,0,"\nfunction __devinStaticIsZh(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

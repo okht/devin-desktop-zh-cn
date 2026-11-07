@@ -1,0 +1,5 @@
+[
+[2331,18,"(__devinDesktopZhLocale()?\"服务条款\":`Terms of Service`)"],
+[2443,16,"(__devinDesktopZhLocale()?\"隐私政策\":`Privacy Policy`)"],
+[2520,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

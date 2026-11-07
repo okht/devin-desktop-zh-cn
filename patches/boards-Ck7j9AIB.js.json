@@ -1,0 +1,20 @@
+[
+[1494,11,"(__devinDesktopZhLocale()?\"新董事会\":`New board`)"],
+[1694,6,"(__devinDesktopZhLocale()?\"名称\":`Name`)"],
+[1844,0,"(__devinDesktopZhLocale()?\"无法创建论坛。请尝试再次操作。\":"],
+[1884,0,")"],
+[1936,13,"(__devinDesktopZhLocale()?\"说明\":`Description`)"],
+[2019,0,"(__devinDesktopZhLocale()?\"这个板子跟踪的内容。智能体读取这些内容来放置工单。\":"],
+[2079,0,")"],
+[2247,8,"(__devinDesktopZhLocale()?\"取消\":`Cancel`)"],
+[2309,50,"get pendingLabel(){return (__devinDesktopZhLocale()?\"正在创建...\":`Creating...`)},children:(__devinDesktopZhLocale()?\"创建板\":`Create board`)"],
+[3115,9,"(__devinDesktopZhLocale()?\"私有\":`Private`)"],
+[3260,18,"(__devinDesktopZhLocale()?\"票证\":`ticket`):(__devinDesktopZhLocale()?\"票证\":`tickets`)"],
+[3514,12,"(__devinDesktopZhLocale()?\"订阅\":`Subscribed`)"],
+[3720,25,"(__devinDesktopZhLocale()?\"取消订阅\":`Unsubscribe`):(__devinDesktopZhLocale()?\"订阅\":`Subscribe`)"],
+[4013,59,"(__devinDesktopZhLocale()?\"出了点问题\":`Something went wrong`),description:(__devinDesktopZhLocale()?\"加载板卡失败。\":`Failed to load boards.`)"],
+[4138,11,"(__devinDesktopZhLocale()?\"重试\":`Try again`)"],
+[4344,11,"(__devinDesktopZhLocale()?\"新董事会\":`New board`)"],
+[4669,15,"(__devinDesktopZhLocale()?\"尚未创建任何板\":`No boards yet`)"],
+[5231,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

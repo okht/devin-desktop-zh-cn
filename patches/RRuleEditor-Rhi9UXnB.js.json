@@ -1,0 +1,5 @@
+[
+[18086,0,"(__devinDesktopZhLocale()?\"FREQ=每周;BYDAY=周一;BYHOUR=9;BYMINUTE=0\":"],
+[18128,0,")"],
+[20235,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

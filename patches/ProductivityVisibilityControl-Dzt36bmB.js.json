@@ -1,0 +1,13 @@
+[
+[1803,0,"(__devinDesktopZhLocale()?\"生产力仪表板可见性已更新\":"],
+[1846,0,")"],
+[1930,0,"(__devinDesktopZhLocale()?\"更新生产力仪表板可见性失败\":"],
+[1982,0,")"],
+[2065,19,"(__devinDesktopZhLocale()?\"选择可见性\":`Select visibility`)"],
+[2324,0,"(__devinDesktopZhLocale()?\"生产力仪表板可见性\":"],
+[2359,0,")"],
+[2431,0,"(__devinDesktopZhLocale()?\"控制谁可以查看该企业的生产力（相当于生产性工程小时）仪表板。\":"],
+[2543,0,")"],
+[2838,12,"(__devinDesktopZhLocale()?\"可见性\":`Visibility`)"],
+[3102,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

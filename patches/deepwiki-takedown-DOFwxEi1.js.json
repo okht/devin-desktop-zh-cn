@@ -1,0 +1,20 @@
+[
+[1507,20,"(__devinDesktopZhLocale()?\"Deep Wiki 下架\":`Deep Wiki takedown`)"],
+[1599,0,"(__devinDesktopZhLocale()?\"输入一个Deep Wiki URL，以删除公共wiki，或者添加企业ID（该企业的每个组织，包括已删除的组织）或组织ID（例如个人组织）来删除私有仓库的wiki。这将删除仓库的索引作业、分支、自动生成的笔记以及存储的索引/wiki文件，并禁用索引功能。\":"],
+[1935,0,")"],
+[2268,15,"(__devinDesktopZhLocale()?\"深度维基网址\":`Deep Wiki URL`)"],
+[2564,0,"(__devinDesktopZhLocale()?\"企业ID（可选，用于私有仓库）\":"],
+[2609,0,")"],
+[2694,14,"(__devinDesktopZhLocale()?\"企业-…\":`enterprise-…`)"],
+[2863,0,"(__devinDesktopZhLocale()?\"组织ID（可选，适用于企业外的私有仓库）\":"],
+[2923,0,")"],
+[3213,35,"(__devinDesktopZhLocale()?\"预览中...\":`Previewing...`):(__devinDesktopZhLocale()?\"预览（试运行）\":`Preview (dry run)`)"],
+[3364,32,"(__devinDesktopZhLocale()?\"正在移除...\":`Removing...`):(__devinDesktopZhLocale()?\"移除深度维基\":`Remove Deep Wiki`)"],
+[4050,60,"(__devinDesktopZhLocale()?\" 索引作业\":` indexing job(s) ·`),` `,e.indexing_branches,(__devinDesktopZhLocale()?\" 分支\":` branch(es) ·`)"],
+[4138,0,"(__devinDesktopZhLocale()?\" Devin 软件界面文本翻译为自然、准确的简体中文。保留原有变量、标签、代码、产品名和数字。直接输出译文。\":"],
+[4165,0,")"],
+[4192,63,"(__devinDesktopZhLocale()?\" 存储对象\":` stored object(s) ·`),` `,e.commit_keys.length,(__devinDesktopZhLocale()?\" 提交密钥\":` commit key(s)`)"],
+[4904,0,"(__devinDesktopZhLocale()?\"此操作会永久删除指定仓库的所有索引作业以及存储的wiki/index数据。公共wiki将不再可以在deepwiki.com上访问。\":"],
+[5064,0,")"],
+[5107,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

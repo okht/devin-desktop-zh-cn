@@ -1,0 +1,6 @@
+[
+[3571,14,"(__devinDesktopZhLocale()?\"添加了插件\":`Plugin added`)"],
+[3781,0,"(__devinDesktopZhLocale()?\"无法添加插件\":"],
+[3807,0,")"],
+[15309,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

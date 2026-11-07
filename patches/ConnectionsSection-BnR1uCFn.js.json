@@ -1,0 +1,4 @@
+[
+[28494,17,"(__devinDesktopZhLocale()?`保留所有格式标记（如 ${e.name}），并保留换行。`:`${e.name} (MCP)`)"],
+[32130,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

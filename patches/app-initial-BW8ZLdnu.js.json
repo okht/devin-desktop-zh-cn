@@ -1,0 +1,12 @@
+[
+[12807,2,"if(__devinDesktopZhLocale()){cons"],
+[12837,0,"000)),m=Math.floor(t/60),v=t%60;return m?(m+\" 分\"+(v?\" \"+v+\" 秒\":\"\")):v+\" 秒\"}let t=Math.max(1,Math.ceil(e/1"],
+[22665,16,"(__devinDesktopZhLocale()?\"打开侧边聊天\":`Open side chat`)"],
+[22739,16,"(__devinDesktopZhLocale()?\"打开侧边聊天\":`Open side chat`)"],
+[22881,16,"(__devinDesktopZhLocale()?\"打开侧边聊天\":`Open side chat`)"],
+[22979,16,"(__devinDesktopZhLocale()?\"打开侧边聊天\":`Open side chat`)"],
+[23225,11,"(__devinDesktopZhLocale()?\"侧边聊天\":`Side chat`)"],
+[172810,0,"(__devinDesktopZhLocale()?`进度: ${Math.round(r*100)}%`:"],
+[172843,0,")"],
+[194215,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,6 @@
+[
+[30132,15,"(__devinDesktopZhLocale()?\"密钥保存\":`Secrets saved`)"],
+[30557,17,"(__devinDesktopZhLocale()?\"密钥未关联\":`Secret unlinked`)"],
+[30867,16,"(__devinDesktopZhLocale()?\"机密已删除\":`Secret deleted`)"],
+[39518,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

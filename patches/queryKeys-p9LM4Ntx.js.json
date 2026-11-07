@@ -1,0 +1,6 @@
+[
+[6971,0,"(__devinDesktopZhLocale()?\"这个应用程序无法加载。\":"],
+[6997,0,")"],
+[8579,9,"(__devinDesktopZhLocale()?\"MCP应用程序\":`MCP app`)"],
+[10666,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

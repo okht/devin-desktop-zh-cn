@@ -1,0 +1,8 @@
+[
+[923,0,"(__devinDesktopZhLocale()?\"管理面板权限\":"],
+[948,0,")"],
+[1074,7,"(__devinDesktopZhLocale()?\"用户\":`Users`)"],
+[1174,8,"(__devinDesktopZhLocale()?\"分组\":`Groups`)"],
+[1273,7,"(__devinDesktopZhLocale()?\"角色\":`Roles`)"],
+[1652,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

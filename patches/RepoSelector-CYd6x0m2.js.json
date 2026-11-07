@@ -1,0 +1,7 @@
+[
+[3262,18,"(__devinDesktopZhLocale()?\"搜索分支…\":`Search branches…`)"],
+[3336,19,"(__devinDesktopZhLocale()?\"加载分支…\":`Loading branches…`)"],
+[3393,0,"(__devinDesktopZhLocale()?\"未找到索引的分支。\":"],
+[3420,0,")"],
+[22481,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

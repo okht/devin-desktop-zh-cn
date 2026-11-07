@@ -1,0 +1,17 @@
+[
+[1004,0,"(__devinDesktopZhLocale()?\"无法在浏览器存储中保存地图；重新加载时会丢失。\":"],
+[1074,0,")"],
+[1312,13,"(__devinDesktopZhLocale()?\"Devin Atlas 界面\":`Devin Atlas`)"],
+[1373,0,"(__devinDesktopZhLocale()?\"您的代码库的概念图，由COBOL迁移脚本生成——阅读这些图以建立心理模型，并深入了解您感兴趣的部分。\":"],
+[1527,0,")"],
+[1795,0,"(__devinDesktopZhLocale()?\"无法加载地图集地图\":"],
+[1822,0,")"],
+[2605,0,"(__devinDesktopZhLocale()?\"尚未保存地图——请运行COBOL迁移计划，或打开下方的树状文件。\":"],
+[2687,0,")"],
+[2940,0,"(__devinDesktopZhLocale()?\"打开一个树状文件——在这个浏览器会话中查看工作流程的Atlas工件，无需保存。\":"],
+[3035,0,")"],
+[3342,14,"(__devinDesktopZhLocale()?\"选择文件…\":`Choose file…`)"],
+[3460,20,"(__devinDesktopZhLocale()?\"打开已加载的文件： \":`Open loaded file: `)"],
+[3582,7,"(__devinDesktopZhLocale()?\"清除\":`Clear`)"],
+[3860,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

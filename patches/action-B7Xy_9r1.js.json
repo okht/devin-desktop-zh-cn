@@ -1,0 +1,20 @@
+[
+[992,17,"(__devinDesktopZhLocale()?\"批准\":`Approve`):(__devinDesktopZhLocale()?\"拒绝\":`Deny`),(__devinDesktopZhLocale()?\" 冒充请求？\":"],
+[1034,0,")"],
+[1109,29,"(__devinDesktopZhLocale()?\"您即将 \":`You are about to `),a.action,(__devinDesktopZhLocale()?\" 冒充访问请求\":"],
+[1169,0,")"],
+[1419,8,"(__devinDesktopZhLocale()?\"取消\":`Cancel`)"],
+[1886,16,"(__devinDesktopZhLocale()?\"批准\":`Approve`):(__devinDesktopZhLocale()?\"拒绝\":`Deny`)"],
+[1998,23,"(__devinDesktopZhLocale()?\"处理请求中...\":`Processing request...`)"],
+[2156,51,"(__devinDesktopZhLocale()?\"请求 \":`Request `),a.action===`approve`?(__devinDesktopZhLocale()?\"批准\":`approved`):(__devinDesktopZhLocale()?\"被拒绝\":`denied`)"],
+[2277,0,"(__devinDesktopZhLocale()?\"冒充访问请求已处理\":"],
+[2320,0,")"],
+[2346,19,"(__devinDesktopZhLocale()?\"批准\":`approved`):(__devinDesktopZhLocale()?\"被拒绝\":`denied`)"],
+[2517,19,"(__devinDesktopZhLocale()?\"查看所有请求\":`View all requests`)"],
+[2674,15,"(__devinDesktopZhLocale()?\"操作失败\":`Action failed`)"],
+[2901,19,"(__devinDesktopZhLocale()?\"查看所有请求\":`View all requests`)"],
+[3060,16,"(__devinDesktopZhLocale()?\"无效操作\":`Invalid action`)"],
+[3143,0,"(__devinDesktopZhLocale()?\"该操作链接无效。\":"],
+[3174,0,")"],
+[3455,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

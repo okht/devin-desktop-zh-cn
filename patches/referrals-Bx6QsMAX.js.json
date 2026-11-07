@@ -1,0 +1,21 @@
+[
+[6292,20,"(__devinDesktopZhLocale()?\"给钱\":`Give $`),t,(__devinDesktopZhLocale()?\". 获取$\":`. Get $`)"],
+[6386,0,"(__devinDesktopZhLocale()?\"推荐一个团队使用 Devin。当他们加入后，将获得报酬。\":"],
+[6444,29,"),t,(__devinDesktopZhLocale()?\" 你将获得$\":` and you'll receive $`),e,(__devinDesktopZhLocale()?\" 尝试使用 Devin 的额外功能。\":"],
+[6504,0,")"],
+[8753,18,"(__devinDesktopZhLocale()?\"已邀请\":`Invited`):(__devinDesktopZhLocale()?\"邀请\":`Invite`)"],
+[8854,0,"(__devinDesktopZhLocale()?\"该地址最近已被邀请——没有发送新的电子邮件。\":"],
+[8922,0,")"],
+[8983,13,"(__devinDesktopZhLocale()?\"邀请发送\":`Invite sent`)"],
+[9271,10,"(__devinDesktopZhLocale()?\"已奖励\":`Rewarded`)"],
+[9421,9,"(__devinDesktopZhLocale()?\"已过期\":`Expired`)"],
+[11010,29,"(__devinDesktopZhLocale()?\" 的 \":` of `),n,(__devinDesktopZhLocale()?\" 邀请剩余人员\":` invites remaining`)"],
+[11111,0,"(__devinDesktopZhLocale()?\"你已经用完了所有的邀请。\":"],
+[11142,0,")"],
+[11388,7,"(__devinDesktopZhLocale()?\"邮件\":`Email`)"],
+[11442,76,"(__devinDesktopZhLocale()?\"发送中\":`Sent by`)}),(0,Z.jsx)(A,{children:(__devinDesktopZhLocale()?\"发送于\":`Sent at`)}),(0,Z.jsx)(A,{children:(__devinDesktopZhLocale()?\"状态\":`Status`)"],
+[12316,13,"(__devinDesktopZhLocale()?\"邀请链接\":`Invite link`)"],
+[12618,18,"(__devinDesktopZhLocale()?\"重试\":`Retry`)}),children:(__devinDesktopZhLocale()?\"我们无法加载您发送的邀请。请重新尝试。\""],
+[12688,0,")"],
+[13817,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

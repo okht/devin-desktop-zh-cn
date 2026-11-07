@@ -1,0 +1,17 @@
+[
+[7688095,0,"(__devinDesktopZhLocale()?\"无法复制到剪贴板\":"],
+[7688124,0,")"],
+[7689238,7,"(__devinDesktopZhLocale()?\"图标\":`Icons`)"],
+[7689322,0,"(__devinDesktopZhLocale()?\"浏览所有图标和图标库\":"],
+[7689359,0,")"],
+[7689699,14,"(__devinDesktopZhLocale()?\"搜索图标\":`Search icons`)"],
+[7689777,0,"(__devinDesktopZhLocale()?`搜索 ${iee?.count??0} 图标`:"],
+[7689808,0,")"],
+[7689867,14,"(__devinDesktopZhLocale()?\"清除搜索\":`Clear search`)"],
+[7690024,14,"(__devinDesktopZhLocale()?\"清除搜索\":`Clear search`)"],
+[7690166,14,"(__devinDesktopZhLocale()?\"图标库\":`Icon library`)"],
+[7690338,11,"(__devinDesktopZhLocale()?\"图标大小\":`Icon size`)"],
+[7690748,18,"(__devinDesktopZhLocale()?\"没有图标匹配「\":`No icons match “`)"],
+[7691564,12,"(__devinDesktopZhLocale()?\"已弃用\":`Deprecated`)"],
+[7693019,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,11 @@
+[
+[21976,0,"(__devinDesktopZhLocale()?\"企业MCP服务器已更新\":"],
+[22007,0,"):(__devinDesktopZhLocale()?\"创建企业级MCP服务器\""],
+[22039,0,")"],
+[22318,0,"(__devinDesktopZhLocale()?\"无法启动OAuth流程——尝试使用Connect重新尝试。\":"],
+[22371,0,")"],
+[45601,16,"(__devinDesktopZhLocale()?\"机密已删除\":`Secret deleted`)"],
+[46547,0,"(__devinDesktopZhLocale()?\"企业 MCP 服务器已删除\":"],
+[46578,0,")"],
+[48861,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,4 @@
+[
+[7335,13,"(__devinDesktopZhLocale()?\"获取模型\":`GET /models`)"],
+[10992,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

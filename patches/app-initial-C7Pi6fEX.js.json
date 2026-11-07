@@ -1,0 +1,8 @@
+[
+[143381,12,"(__devinDesktopZhLocale()?\"未分配\":`Unassigned`)"],
+[155000,42,"(__devinDesktopZhLocale()?\"分配给...\":`Assign to...`),\"aria-label\":(__devinDesktopZhLocale()?\"分配给...\":`Assign to...`)"],
+[155259,10,"(__devinDesktopZhLocale()?\"负责人\":`Assignee`)"],
+[155393,13,"(__devinDesktopZhLocale()?\"无负责人\":`No assignee`)"],
+[155872,39,"(__devinDesktopZhLocale()?\"加载成员...\":`Loading members...`):(__devinDesktopZhLocale()?\"未找到成员\":`No members found`)"],
+[209925,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

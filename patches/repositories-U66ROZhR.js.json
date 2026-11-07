@@ -1,0 +1,8 @@
+[
+[727,14,"(__devinDesktopZhLocale()?\"仓库\":`Repositories`)"],
+[1861,0,"(__devinDesktopZhLocale()?\"加载仓库失败。请稍后再试。\":"],
+[1915,0,")"],
+[2103,0,"(__devinDesktopZhLocale()?\"未找到该企业的仓库。\":"],
+[2147,0,")"],
+[2912,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

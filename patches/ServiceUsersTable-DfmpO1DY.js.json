@@ -1,0 +1,20 @@
+[
+[21200,0,"(__devinDesktopZhLocale()?\"无法复制角色ID\":"],
+[21224,0,")"],
+[21556,7,"(__devinDesktopZhLocale()?\"从不\":`Never`)"],
+[22282,6,"(__devinDesktopZhLocale()?\"名称\":`Name`)"],
+[23521,7,"(__devinDesktopZhLocale()?\"范围\":`Scope`)"],
+[23652,14,"(__devinDesktopZhLocale()?\"组织\":`Organization`)"],
+[23958,11,"(__devinDesktopZhLocale()?\"角色名称\":`Role name`)"],
+[24227,14,"(__devinDesktopZhLocale()?\"复制角色ID\":`Copy role ID`)"],
+[24334,14,"(__devinDesktopZhLocale()?\"复制角色ID\":`Copy role ID`)"],
+[24441,18,"(__devinDesktopZhLocale()?\"未分配角色\":`No role assigned`)"],
+[24561,12,"(__devinDesktopZhLocale()?\"创建时间\":`Created at`)"],
+[24716,12,"(__devinDesktopZhLocale()?\"过期于\":`Expires at`)"],
+[25869,21,"(__devinDesktopZhLocale()?\"删除服务用户\":`Delete service user`)"],
+[25969,21,"(__devinDesktopZhLocale()?\"删除服务用户\":`Delete service user`)"],
+[26870,22,"(__devinDesktopZhLocale()?\"目前还没有服务用户。\":`No service users yet`)"],
+[26918,0,"(__devinDesktopZhLocale()?\"为服务用户提供查看列表的权限。\":"],
+[26969,0,")"],
+[28803,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

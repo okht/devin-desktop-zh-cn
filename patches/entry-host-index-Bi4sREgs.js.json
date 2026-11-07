@@ -1,0 +1,11 @@
+[
+[48750,0,"(__devinDesktopZhLocale()?\"无法加载会话的完整提示词。请重试。\":"],
+[48810,0,")"],
+[57367,0,"(__devinDesktopZhLocale()?\"GitHub链接的加载时间比预期要长。请刷新页面以检查其状态。\":"],
+[57450,0,")"],
+[74000,0,"if(t===\"zh-CN\"&&(typeof globalThis._VSCODE_NLS_LANGUAGE===\"string\"||typeof globalThis.__devinNativeDisplayPreference===\"function\"))return{ui_language:t};"],
+[74488,0,"(__devinDesktopZhLocale()?\"无法保存显示语言\":"],
+[74521,0,")"],
+[74923,0,"(typeof globalThis._VSCODE_NLS_LANGUAGE===\"string\"||typeof globalThis.__devinNativeDisplayPreference===\"function\")&&globalThis.__devinGetDesktopChoice){hc(e&&oc(e)?e:globalThis.__devinGetDesktopChoice());return}if("],
+[89141,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

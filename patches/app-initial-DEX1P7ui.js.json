@@ -1,0 +1,6 @@
+[
+[89493,15,"(__devinDesktopZhLocale()?\"调整列宽\":`Resize column`)"],
+[108403,34,"(__devinDesktopZhLocale()?\"不完整的任务\":`Incomplete task`):(__devinDesktopZhLocale()?\"已完成任务\":`Completed task`)"],
+[162229,11,"(__devinDesktopZhLocale()?\"快速模式\":`Fast mode`)"],
+[185660,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

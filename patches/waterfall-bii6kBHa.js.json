@@ -1,0 +1,21 @@
+[
+[1549,17,"(__devinDesktopZhLocale()?\"引用事件\":`Reference Event`)"],
+[1765,30,"(__devinDesktopZhLocale()?\"正在加载…\":`Loading...`):(__devinDesktopZhLocale()?\"选择事件\":`Select an event`)"],
+[1876,12,"(__devinDesktopZhLocale()?\"开始时间\":`Start Time`)"],
+[2053,10,"(__devinDesktopZhLocale()?\"时长\":`Duration`)"],
+[2128,15,"(__devinDesktopZhLocale()?\"胡须范围\":`Whisker Range`)"],
+[2642,0,"(__devinDesktopZhLocale()?\"按事件划分的启动时间分布\":"],
+[2678,0,")"],
+[2771,60,"(__devinDesktopZhLocale()?\" 事件\":` event`),L.length===1?``:(__devinDesktopZhLocale()?\"斯\":`s`),O.size>0&&(__devinDesktopZhLocale()?` (${O.size} 隐藏)`:` (${O.size} hidden)`)"],
+[2917,0,"(__devinDesktopZhLocale()?\"所选参数没有可用数据\":"],
+[2964,0,")"],
+[3362,0,"(__devinDesktopZhLocale()?\"选择参考事件以查看指标\":"],
+[3404,0,")"],
+[3650,17,"(__devinDesktopZhLocale()?\"隐藏事件\":`Hidden events (`)"],
+[3798,10,"(__devinDesktopZhLocale()?\"显示全部\":`Show all`)"],
+[4105,15,"(__devinDesktopZhLocale()?\"点击显示\":`Click to show`)"],
+[4542,0,"(__devinDesktopZhLocale()?\"箱线图显示P25-P75（四分位距），白线表示中位数（P50），黄色菱形表示平均值，须线延伸至\":"],
+[4664,13,"),` `,A.label,(__devinDesktopZhLocale()?\". 垂直灰线标记 t=0（参考事件）。将鼠标悬停在某一行上可以隐藏该行。\":"],
+[4757,0,")"],
+[4915,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

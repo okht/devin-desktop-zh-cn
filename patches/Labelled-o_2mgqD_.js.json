@@ -1,0 +1,4 @@
+[
+[1894,23,"(__devinDesktopZhLocale()?\"出错了。\":`Something went wrong.`)"],
+[2275,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,4 @@
+[
+[3764,19,"(__devinDesktopZhLocale()?\"未找到会话\":`No sessions found`)"],
+[5050,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

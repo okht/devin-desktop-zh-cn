@@ -1,0 +1,7 @@
+[
+[76034,0,"(__devinDesktopZhLocale()?\"impersonated用户在认证后失败。停止模拟身份。\":"],
+[76099,0,")"],
+[76675,0,"(__devinDesktopZhLocale()?\"未能完成认证后的设置\":"],
+[76721,0,")"],
+[90134,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

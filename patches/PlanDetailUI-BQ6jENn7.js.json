@@ -1,0 +1,21 @@
+[
+[1526,21,"(__devinDesktopZhLocale()?\"选择计划版本\":`Select plan version`)"],
+[1987,6,"(__devinDesktopZhLocale()?\"编辑\":`Edit`)"],
+[2042,6,"(__devinDesktopZhLocale()?\"编辑\":`Edit`)"],
+[2106,9,"(__devinDesktopZhLocale()?\"预览\":`Preview`)"],
+[2167,9,"(__devinDesktopZhLocale()?\"预览\":`Preview`)"],
+[2278,8,"(__devinDesktopZhLocale()?\"取消\":`Cancel`)"],
+[2360,8,"(__devinDesktopZhLocale()?\"提交\":`Submit`)"],
+[2428,17,"(__devinDesktopZhLocale()?\"下载为 .md\":`Download as .md`)"],
+[2507,22,"(__devinDesktopZhLocale()?\"将计划下载为 .md\":`Download plan as .md`)"],
+[2620,6,"(__devinDesktopZhLocale()?\"编辑\":`Edit`)"],
+[2960,0,"(__devinDesktopZhLocale()?\"更多执行选项\":"],
+[2984,0,")"],
+[3087,0,"(__devinDesktopZhLocale()?\"将计划拆分为多个会话\":"],
+[3126,0,")"],
+[3271,0,"(__devinDesktopZhLocale()?\"您即将执行版本 \":"],
+[3307,5,"),H+1,(__devinDesktopZhLocale()?\". 最新版本是 \":"],
+[3338,0,")"],
+[3658,14,"(__devinDesktopZhLocale()?\"· 正在生成\":`· generating`)"],
+[3818,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

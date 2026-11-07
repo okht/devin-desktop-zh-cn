@@ -1,0 +1,12 @@
+[
+[74914,18,"(__devinDesktopZhLocale()?\"Devin 的计算机\":`Devin's computer`)"],
+[75562,18,"(__devinDesktopZhLocale()?\"Devin 的计算机\":`Devin's computer`)"],
+[83520,0,"(__devinDesktopZhLocale()?`本地主机: ${r}${e.path??``}`:"],
+[83549,0,")"],
+[103186,3,"(__devinDesktopZhLocale()?\"斯\":`s`)"],
+[106561,20,"(__devinDesktopZhLocale()?`${t.display_path}升"],
+[106611,0,":`${t.display_path} L${r.start_line}-${r.end_line}`)"],
+[123300,4,"(__devinDesktopZhLocale()?\"或\":`or`)"],
+[123519,5,"(__devinDesktopZhLocale()?\"且\":`and`)"],
+[154243,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

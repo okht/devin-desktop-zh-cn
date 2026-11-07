@@ -1,0 +1,19 @@
+[
+[1129,0,"(__devinDesktopZhLocale()?\"默认租户超算器\":"],
+[1157,0,")"],
+[1216,0,"(__devinDesktopZhLocale()?\"共享默认租户中的虚拟机监控程序，不包括已终止的租户。\":"],
+[1287,0,")"],
+[1558,0,"(__devinDesktopZhLocale()?\"加载虚拟机管理程序...\":"],
+[1582,0,")"],
+[1681,0,"(__devinDesktopZhLocale()?\"获取超集时出现了错误\":"],
+[1727,0,")"],
+[1800,0,"(__devinDesktopZhLocale()?\"未找到默认租户。\":"],
+[1827,0,")"],
+[1892,16,"(__devinDesktopZhLocale()?\"默认租户\":`Default tenant`)"],
+[2373,11,"(__devinDesktopZhLocale()?\" 活动/\":` active /`)"],
+[2410,8,"(__devinDesktopZhLocale()?\" 总计\":` total`)"],
+[2582,21,"(__devinDesktopZhLocale()?\"插槽使用量（vCPU）：\":`Slot usage (vCPUs):`)"],
+[2709,21,"(__devinDesktopZhLocale()?\"刷新虚拟机管理程序\":`Refresh hypervisors`)"],
+[3257,29,"(__devinDesktopZhLocale()?\"MIG设置\":`MIG settings`):(__devinDesktopZhLocale()?\"ASG设置\":`ASG Settings`)"],
+[3679,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

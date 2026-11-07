@@ -1,0 +1,9 @@
+[
+[1504,19,"(__devinDesktopZhLocale()?\"注册 Devin\":`Sign up for Devin`)"],
+[1703,0,"(__devinDesktopZhLocale()?\"查看你的收件箱，寻找邀请链接\":"],
+[1741,0,")"],
+[2209,7,"(__devinDesktopZhLocale()?\"邮件\":`Email`)"],
+[2497,13,"(__devinDesktopZhLocale()?\"邀请码\":`Invite code`)"],
+[2746,23,"(__devinDesktopZhLocale()?\"注册…\":`Signing up…`):(__devinDesktopZhLocale()?\"注册\":`Sign up`)"],
+[3053,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,13 @@
+[
+[4569,11,"(__devinDesktopZhLocale()?\"只读\":`Read only`)"],
+[4638,11,"(__devinDesktopZhLocale()?\"只读\":`Read only`)"],
+[4922,11,"(__devinDesktopZhLocale()?\"只读\":`Read-only`)"],
+[5584,22,"(__devinDesktopZhLocale()?\"跳转到拉取请求\":`Jump to pull request`)"],
+[5835,6,"(__devinDesktopZhLocale()?\"尝试：\":`Try:`)"],
+[5942,5,"(__devinDesktopZhLocale()?\"或 \":`or `)"],
+[6070,20,"(__devinDesktopZhLocale()?\"转到拉取请求\":`Go to pull request`)"],
+[6228,20,"(__devinDesktopZhLocale()?\"转到拉取请求\":`Go to pull request`)"],
+[6363,10,"(__devinDesktopZhLocale()?\"打开拉取请求\":`Go to PR`)"],
+[6432,20,"(__devinDesktopZhLocale()?\"转到拉取请求\":`Go to pull request`)"],
+[31907,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

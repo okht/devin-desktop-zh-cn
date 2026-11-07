@@ -1,0 +1,9 @@
+[
+[566,25,"(__devinDesktopZhLocale()?\"虚拟机监控程序\":`Hypervisors`),description:(__devinDesktopZhLocale()?\"监控此企业的虚拟机管理程序\""],
+[633,0,")"],
+[858,15,"(__devinDesktopZhLocale()?\"代理路由\":`Proxy routing`)"],
+[994,0,"(__devinDesktopZhLocale()?\"代理路由（proxyrouter配置）已移至\":"],
+[1047,0,")"],
+[1243,16,"(__devinDesktopZhLocale()?\"网络选项卡\":`Networking tab`)"],
+[1510,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,10 @@
+[
+[16495,15,"(__devinDesktopZhLocale()?\"谷歌浏览器\":`Google Chrome`)"],
+[18486,7,"(__devinDesktopZhLocale()?\"清除\":`Clear`)"],
+[18613,33,"(__devinDesktopZhLocale()?\"更换频道\":`Change channel`):(__devinDesktopZhLocale()?\"选择频道\":`Select channel`)"],
+[37592,0,"(__devinDesktopZhLocale()?\"更改语言失败\":"],
+[37619,0,")"],
+[45784,30,"(__devinDesktopZhLocale()?\"连接 Git 账户\":`Connect a git account`)}),` `,(__devinDesktopZhLocale()?\"配置触发模式\":"],
+[45841,0,")"],
+[47097,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

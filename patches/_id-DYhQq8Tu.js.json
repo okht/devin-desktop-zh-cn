@@ -1,0 +1,4 @@
+[
+[895,16,"(__devinDesktopZhLocale()?\"未找到角色\":`Role not found`)"],
+[1188,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

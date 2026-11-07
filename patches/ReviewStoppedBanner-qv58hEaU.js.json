@@ -1,0 +1,6 @@
+[
+[185767,14,"(__devinDesktopZhLocale()?`${t} 版本`:`${t} version`)"],
+[191198,18,"(__devinDesktopZhLocale()?\"关闭比较\":`Close comparison`)"],
+[305932,13,"(__devinDesktopZhLocale()?\"新建会话\":`New session`)"],
+[371220,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

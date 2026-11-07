@@ -1,0 +1,9 @@
+[
+[2400,22,"(__devinDesktopZhLocale()?\"30分钟，2小时，1天，1周\":`e.g. 30m, 2h, 1d, 1w`)"],
+[4519,3,"(__devinDesktopZhLocale()?\"斯\":`s`)"],
+[4601,4,"(__devinDesktopZhLocale()?\"秒）\":`s)`)"],
+[4926,48,"(__devinDesktopZhLocale()?\"隐藏此事件\":`Hide this event`),\"aria-label\":(__devinDesktopZhLocale()?\"隐藏此事件\":`Hide this event`)"],
+[6569,21,"(__devinDesktopZhLocale()?\"错误加载数据：\":`Error loading data:`)"],
+[6624,15,"(__devinDesktopZhLocale()?\"未知错误\":`Unknown error`)"],
+[6959,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

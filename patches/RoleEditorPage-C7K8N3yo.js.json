@@ -1,0 +1,16 @@
+[
+[2107,12,"(__devinDesktopZhLocale()?\"权限\":`Permission`)"],
+[2144,13,"(__devinDesktopZhLocale()?\"说明\":`Description`)"],
+[3006,0,"(__devinDesktopZhLocale()?\"角色成功删除\":"],
+[3033,0,")"],
+[3153,23,"(__devinDesktopZhLocale()?\"删除角色失败\":`Failed to delete role`)"],
+[3258,0,"(__devinDesktopZhLocale()?\"这将永久删除「\":"],
+[3290,0,")"],
+[4422,8,"(__devinDesktopZhLocale()?\"删除\":`Delete`)"],
+[4590,11,"(__devinDesktopZhLocale()?\"编辑角色\":`Edit role`)"],
+[4751,8,"(__devinDesktopZhLocale()?\"取消\":`Cancel`)"],
+[4906,14,"(__devinDesktopZhLocale()?\"保存更改\":`Save changes`)"],
+[5276,14,"(__devinDesktopZhLocale()?\"角色名称...\":`Role name...`)"],
+[5610,13,"(__devinDesktopZhLocale()?\"删除角色\":`Delete role`)"],
+[6002,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

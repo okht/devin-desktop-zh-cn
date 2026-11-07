@@ -1,0 +1,8 @@
+[
+[125968,0,"(__devinDesktopZhLocale()?\"已启用 GitHub 自动加入\":"],
+[125997,0,"):(__devinDesktopZhLocale()?\"禁用 GitHub 自动加入功能\""],
+[126028,0,")"],
+[126097,0,"(__devinDesktopZhLocale()?\"无法更新 GitHub 自动连接设置\":"],
+[126143,0,")"],
+[184760,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

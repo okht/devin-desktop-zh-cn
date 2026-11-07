@@ -1,0 +1,20 @@
+[
+[13715,21,"(__devinDesktopZhLocale()?\"复制链接失败\":`Failed to copy link`)"],
+[28885,0,"(__devinDesktopZhLocale()?\"未找到组织 ID\":"],
+[28911,0,")"],
+[29216,0,"(__devinDesktopZhLocale()?\"连接 Linear 失败\":"],
+[29245,0,")"],
+[29502,0,"(__devinDesktopZhLocale()?\"线性断开成功\":"],
+[29536,0,")"],
+[29843,0,"(__devinDesktopZhLocale()?\"无法断开Linear连接\":"],
+[29872,0,")"],
+[30035,0,"(__devinDesktopZhLocale()?\"未找到组织 ID\":"],
+[30061,0,")"],
+[30345,0,"(__devinDesktopZhLocale()?\"连接 Linear 失败\":"],
+[30374,0,")"],
+[33086,0,"(__devinDesktopZhLocale()?\"成功保存线性映射\":"],
+[33122,0,")"],
+[33299,0,"(__devinDesktopZhLocale()?\"无法保存线性映射\":"],
+[33331,0,")"],
+[203237,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

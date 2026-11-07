@@ -1,0 +1,9 @@
+[
+[2550,19,"(__devinDesktopZhLocale()?\"无法登录\":`Unable to sign in`)"],
+[2813,0,"(__devinDesktopZhLocale()?\"尝试其他账户\":"],
+[2838,0,")"],
+[2863,7,"(__devinDesktopZhLocale()?\"错误\":`Error`)"],
+[3049,0,"(__devinDesktopZhLocale()?\"选择一个账户以登录 Devin 应用。您的账户管理员将能够查看和控制您的用量。\":"],
+[3166,0,")"],
+[3491,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

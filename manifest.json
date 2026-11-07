@@ -1,0 +1,2305 @@
+{
+  "appVersion": "3.12.17",
+  "editorVersion": "1.141.2",
+  "commit": "d23bb600ed8f90d7d985cef5ceca9b9235e88911",
+  "host": "out/vs/workbench/devin-webapp-host/assets/entry-host-editor-mode-menu-By4_JXI5.js",
+  "packId": "ms-ceintl.vscode-language-pack-zh-hans",
+  "packVersion": "1.131.0",
+  "packHash": "e7d4d303e9ed4ab773e32c40ea55151e",
+  "packUUID": "e4ee7751-6514-4731-9cdb-7580ffa9e70b",
+  "files": [
+    {
+      "path": "extensions/windsurf-dev-containers/package.json",
+      "original": "cf9ae4f33ec473372ea46b27606963642f03f43e322dc0d89ee832d22a0b4965",
+      "localized": "6d075f37d207b42c0dc3a21581db56aa9ea65f90b047e1d9c26ec93295f7b296",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-dev-containers/package.nls.json",
+      "original": null,
+      "localized": "a5c04f7b952af725d48e73a366fca292e5d6b78a68ac5735174eeb62169940e9",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-dev-containers/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "72363879e6f62147c8ae7f22101b3300d9305de5c97ff78488c88c09b8d83269",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-devin/package.json",
+      "original": "8e07803ea1da22b165ea853b1b1b074a12d20581b6ed5ccf46375df465e3d83c",
+      "localized": "b2a6a39c109eb1a2a4e109960179461dad484b02e86295c14f1449a31f1628d0",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-devin/package.nls.json",
+      "original": null,
+      "localized": "85d8b578a007b7651eb66a865f752736e4865d809f9c22af4e8a342a743223dc",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-devin/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "4b6f74e3c59a0d258bcfd30cb1422074a65193e3642c1929ef15637aabe4f9c6",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-openssh/package.json",
+      "original": "fbcc2b4c1df2cee2389f816fb4e5565ec6d821c5cb4436177d65848c0d65e35b",
+      "localized": "88fbde4854d5916ac61f78fa9792566a3de55b5f884bafe85b93483aa9610c03",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-openssh/package.nls.json",
+      "original": null,
+      "localized": "0d98b7908001759181bf98579ff9e04e2235d0718161a41a660ccde3a190bd7d",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-openssh/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "1b642b32b5b21ec2f8b8d22c6f989648b8083261718ad78d31ea5e762b108d3f",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-wsl/package.json",
+      "original": "ab7de088866aa92faf03b4e314cc463c103e1bae410ff2e6984b5f46cdceabfe",
+      "localized": "8ba422416e1b15e1ca9895b7ad095d1b0890c7911a3f5f71250c4058aba4c4b9",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-wsl/package.nls.json",
+      "original": null,
+      "localized": "a0f6bda5c4a45618dc563f23b6104a6cdf89f07c438f91bd9982f8874f63f9f8",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-wsl/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "3bbdf680544fd08c22d3753749459a4160559809d0bf469d2f87f9aed4b44f77",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf/package.json",
+      "original": "b682a3dcfa19a3bae77802a79a2b91087eacf62bc32818ef354cfbb61443a074",
+      "localized": "b167a0a9fc09474ec0fd8257289d21c39cd52c7030d34ce1a62f336d82ef7573",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf/package.nls.json",
+      "original": null,
+      "localized": "6272e5e713280c3c3e62e9d910d666619c62fb56185b08137ba515df5abb6205",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "b49c3cbb04f71eea1a4fc1d141013994ec9c29c3fa014f16f57165525a55a958",
+      "type": "extension"
+    },
+    {
+      "path": "ms-ceintl.vscode-language-pack-zh-hans-1.131.0-universal/translations/main.i18n.json",
+      "original": "dd07fd811a728567b1360c4d48f55f5717bf4145df1e7245412bd846c6e14517",
+      "localized": "2baec2b912e757884f67563b10310b8e2509170a7f2ce9653985d042b35f3d7f",
+      "type": "editor"
+    },
+    {
+      "path": "out/vs/sessions/sessions.desktop.main.js",
+      "original": "fc51e51d3348a25f6cf0b4fe7718390fe5e0953b1e60d5e3aa18a8053c762889",
+      "localized": "a0da6d3578477010f68573afc0c3fe0b40d1e5ba4d2cc02fd3bc1d8b5c0ef0f9",
+      "type": "edits",
+      "patch": "patches/sessions.desktop.main.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AddAssetDialogs-McdChnTO.js",
+      "original": "d34688961e794d86985ea10863a0ab48551bfa995bba6b089d1a42226cb1188b",
+      "localized": "c8170a08b283c62dd163506d383bdf552f46d45f6da877e139b197cd44cd1446",
+      "type": "edits",
+      "patch": "patches/AddAssetDialogs-McdChnTO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AddSecret-naO4nDLw.js",
+      "original": "5f54b64173c8720740700596cc5db742ac87bf0fa804a1172c83968a0919422a",
+      "localized": "83ce575c7f6ce21aa3c7e8ffc5da33530f91a7bc7e3955f3cc7b84656a4386ce",
+      "type": "edits",
+      "patch": "patches/AddSecret-naO4nDLw.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AdminEnterpriseSSO-jOogoJc-.js",
+      "original": "5cdd9e5b5b480842bef1ccfc58419b6744fc2c1d98b25ac9911390c01b2bdc7b",
+      "localized": "95e304966460d913fa6753040f81bd81e9afeed56bf374d0612b3e27268f4ab2",
+      "type": "edits",
+      "patch": "patches/AdminEnterpriseSSO-jOogoJc-.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AdminSearchInput-D7nB6Opt.js",
+      "original": "a4876751e886f8158f58d9c1b697f4b9a9617b1fab738f8e2d065068d7ecdfc4",
+      "localized": "6c336e4e3c9e426fcca37c0dcc05c533008504b085c33dc4a2181f1482c0b2c7",
+      "type": "edits",
+      "patch": "patches/AdminSearchInput-D7nB6Opt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AdminSessionsPanel-CAmtJvPb.js",
+      "original": "9a4d0396238665e6109e7a040a13eda1dd67456d9e4635c20e4f893c4c546ee9",
+      "localized": "064c81ff9b4d220cb429c714249e6bed662e1a3cddf232f4799ab523ef0c7188",
+      "type": "edits",
+      "patch": "patches/AdminSessionsPanel-CAmtJvPb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AutomationEditorPage-bMsqEz1c.js",
+      "original": "8d098b233c9f3b88b6e52427df30ef1d7f080eacc1863ce10faae72906e007f7",
+      "localized": "5f28b353498f888ae130e923329d73000fe87fe2fde192fb174255b4c835bb4f",
+      "type": "edits",
+      "patch": "patches/AutomationEditorPage-bMsqEz1c.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/AutomationIssuesTable-Ds51CW2w.js",
+      "original": "2535fa4a8cb7552eecd420e03a636acad435782111fbf6dbef01dbf4ce19dcc4",
+      "localized": "ded2aa812b8c0a85a64e5b781d32f2080efdda5a6c8208c27f336b8abd6b2f30",
+      "type": "edits",
+      "patch": "patches/AutomationIssuesTable-Ds51CW2w.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BaseEnvironmentPage-wfVXykXP.js",
+      "original": "8c04d11525bca2d47a838dc2adadf10a2acbf4156d313134d924a1a3e0b0ff66",
+      "localized": "0f3d6ee5c494ec07056c23f162fb1eb948822940dfecb02c3d472f67764ba161",
+      "type": "edits",
+      "patch": "patches/BaseEnvironmentPage-wfVXykXP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BillingPhasesDiff-CEcavfKp.js",
+      "original": "6134b40d2f3ebeaadf24d6527535649fb5e650b27bb52b1ebfc54ab12ba368e2",
+      "localized": "13280c9590f525fa864be8d3d1fed933e1b6c7d66304711286d5cb1fba8c36b9",
+      "type": "edits",
+      "patch": "patches/BillingPhasesDiff-CEcavfKp.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BillingTagsSettingsSection-4YTbOQvo.js",
+      "original": "77e87795eb7df9762c5c60627c88fe3bbe5e3d1aa41bc0fb53c1f5eee3f25d00",
+      "localized": "dc8f8b86890cffa228d2d0c20e16df5e1257239ae73e561e85388f80b5b4c890",
+      "type": "edits",
+      "patch": "patches/BillingTagsSettingsSection-4YTbOQvo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BlueprintEditorContainer-DuvaO5mD.js",
+      "original": "9535ec5cb4dc4ebde69fac4a7ca3b20f930d9543131daa4ac446f49b23f1e7f2",
+      "localized": "244ab43188e77c86348d5bcce5378f2ab52f4ef482912494a5d5f09ff27d1557",
+      "type": "edits",
+      "patch": "patches/BlueprintEditorContainer-DuvaO5mD.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BoardSettingsContent-CCnYuEiN.js",
+      "original": "3991b0594701fa755d7b619336c3f47e7bf1aff92bf2f2e57c072bc92198a02b",
+      "localized": "08c11885b5fc4cde20581264ec6e4e4002d5c28015bd5143c02a916159cb661d",
+      "type": "edits",
+      "patch": "patches/BoardSettingsContent-CCnYuEiN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BoardsPageShell-OKxikSIy.js",
+      "original": "25c65cc151b72fd3381f4a677f15a695de360fc52c0a4e60f8f99973bdd9cd59",
+      "localized": "e27aa5832a37ef03b61b069ebfaf938b9bc67759d21bd517acd198a80d95660c",
+      "type": "edits",
+      "patch": "patches/BoardsPageShell-OKxikSIy.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BrowserApp-CI7gKD9v.js",
+      "original": "71d690eb72376d1483348f0dc2fef564ac3d93adc177daa90aeb463d64ba4ca8",
+      "localized": "47cf91cbb3cafaccae2464f6c5321be42ecbb8a59821174751cb0c15d208671c",
+      "type": "edits",
+      "patch": "patches/BrowserApp-CI7gKD9v.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BuildDetailPage-B8OlDzVe.js",
+      "original": "e3ea57d5ea9f3fa9b53ae19163c2c731a5e813435006c6a6edd1556f3945eb28",
+      "localized": "002adb6c60b3a39e5b88084a42101fc90b7aed296aa8b9aec0113e4bce46b60f",
+      "type": "edits",
+      "patch": "patches/BuildDetailPage-B8OlDzVe.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/BulkUpdateUserNamesDialog-WGx_VjMA.js",
+      "original": "2d8bfd95e46e27cf2bea0a965c66bf5ccf4d8c5de56b5c1d384813ee7e1c2356",
+      "localized": "d1cd0a18c9b59766682695a043f96d71d801ae91307b76c0b9122abfaccf732d",
+      "type": "edits",
+      "patch": "patches/BulkUpdateUserNamesDialog-WGx_VjMA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ConfirmDialog-C-uHvc_l.js",
+      "original": "3c2689713ca1870b17b64a6dcd2d8cb9f16b95e1eeac206eb7be95611489896b",
+      "localized": "1fec9a0bb6ee28f6b3b5381546059f23967468d5e26870dcec4cb7cc12827ca3",
+      "type": "edits",
+      "patch": "patches/ConfirmDialog-C-uHvc_l.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ConnectionsSection-BnR1uCFn.js",
+      "original": "806db03bd5a5b123ab24f94b92f293ee712a377a7fae8b5f0656093d735ae60f",
+      "localized": "86fe62d14772594e3b2a4391ec24dc82b8eabe4c55b8531cbeefb460d590ac82",
+      "type": "edits",
+      "patch": "patches/ConnectionsSection-BnR1uCFn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ConsumptionDashboard-BT-0MTTV.js",
+      "original": "9f969d8c91ed01b274f4bd7b64297408c8ad562b8b6aee02cb01316ed8467024",
+      "localized": "a4a5e789f26876edb5ce9e6225a5003d4824b67476873cba1214e7d5e0a9e688",
+      "type": "edits",
+      "patch": "patches/ConsumptionDashboard-BT-0MTTV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ContentCharCount-DTmCfB9L.js",
+      "original": "542ab8cadc06a6738bc9fb41c7484e6ee535f943e5732cc9cd9642f43fc0f9d7",
+      "localized": "eafd6b98aaaaf21d846ab39882e9be943caae4adbf007954c0225847277bb819",
+      "type": "edits",
+      "patch": "patches/ContentCharCount-DTmCfB9L.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/CopyIdButton-BfMAogYA.js",
+      "original": "db2393236f0e9cea0c1601f3e05f91589a06ec0b9ea91233ddddba5c747b0a5e",
+      "localized": "00c9b6c827f52664c644abeb2c570c0a40a9eb318e3e5f610cb9c8e72556074c",
+      "type": "edits",
+      "patch": "patches/CopyIdButton-BfMAogYA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/CreatePlaybookSheet-BcBSxwbi.js",
+      "original": "04c710b4aeffdde6765dee686b65e028ad5ad79f57665375f3215c11161a5d29",
+      "localized": "44b5f328985f7e600a762eaff2fbdc18ab89bd453831bf2770707ba02f7818a2",
+      "type": "edits",
+      "patch": "patches/CreatePlaybookSheet-BcBSxwbi.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/CustomMarkdownRenderer-C-2byCHR.js",
+      "original": "8d8d23cc03f734dd2680a2b521c8798a72edb1c39a74cf9c421f16c9900e4719",
+      "localized": "c1cb364f7a82853e5aa3af1c53857b5f46856cf4013380eceb6ac94242dfa8a1",
+      "type": "edits",
+      "patch": "patches/CustomMarkdownRenderer-C-2byCHR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/CustomerNetworkCaSection-Dba4FiLn.js",
+      "original": "af3b9c0e3f77cd8560ffc62907398239463d55255296fb54daf699569c6ad705",
+      "localized": "766fe9a545c61b53de81b723ce069ec04ac3331cbbb7dacb5aa8c55e6c846747",
+      "type": "edits",
+      "patch": "patches/CustomerNetworkCaSection-Dba4FiLn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/CustomizationPage-Bh9QLeFd.js",
+      "original": "8d09f6330d31aacbec5ffef7f76bc4eb7e3b306aa79108cad21b30d00c146bf6",
+      "localized": "361a6fe010d4b0273566daf30381102e8d430d29f816654bcbf9bb0f15134295",
+      "type": "edits",
+      "patch": "patches/CustomizationPage-Bh9QLeFd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/DeepWikiPanel-gAeO_QEJ.js",
+      "original": "1d4a57bb8e6573f6ca2825ffe7155a979742fdf9f0ba291552a34c9be5c9a0ff",
+      "localized": "4d312a590be2d7d2cd54262145c166540033aac8b3e6960f04d9154eca458994",
+      "type": "edits",
+      "patch": "patches/DeepWikiPanel-gAeO_QEJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/DeleteOrganizationDialog-CNmQS9_1.js",
+      "original": "79f21a7e9df396fe6d1dd55e419a24f0dac074427e1e520c4f44b3bd7f3a1549",
+      "localized": "119e5425ba4372ef92abe24447b26b872f9c6851e022623dc8e69a24d9273f5e",
+      "type": "edits",
+      "patch": "patches/DeleteOrganizationDialog-CNmQS9_1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EditorSettingsRoute-NMndbRGt.js",
+      "original": "ad951f5d84d7686f112e6ac44297586c38984a60cd404148f57c53a33ed973e1",
+      "localized": "dabb36129acde2385faf3666389bf1617632ea6084686a41443514e0033c10e0",
+      "type": "edits",
+      "patch": "patches/EditorSettingsRoute-NMndbRGt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EmailDeliveryPanel-DoGfJSZn.js",
+      "original": "c6603f810a6bcad31dfc50b7a4ea3e6a2a442f18214c7329e272bcc396e57bf5",
+      "localized": "82fcde079dcf3c559fa03217ac8008603720cd6f296164fec86dccf1098d004d",
+      "type": "edits",
+      "patch": "patches/EmailDeliveryPanel-DoGfJSZn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EmbeddedSession-CrKTp5na.js",
+      "original": "3f60804e0150160c4ea5f8acfe7c1d2c51871eb5deae09f46c69e0e93cb88161",
+      "localized": "c6da6b89cc3b4ed2a5e9df7e706548b9b254d31e0a0e334d1cf2e51b5b5e40c8",
+      "type": "edits",
+      "patch": "patches/EmbeddedSession-CrKTp5na.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseContractStatus-Dk8GeT09.js",
+      "original": "a89a23f87341b7963400646c9dd638256e4a974f0830eabd1589b2fa963c381f",
+      "localized": "2ccb1482ec3b10e8b8357d6a047d9e5baa7956b328d94b71d448fd43b4ea045d",
+      "type": "edits",
+      "patch": "patches/EnterpriseContractStatus-Dk8GeT09.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseDetailLayout-DiTxJ-ls.js",
+      "original": "dd4b275a6f4ce0a94540d6ea685ec99f806131a19ba1906b722169af2dbf679f",
+      "localized": "c33004c6931e2c413436155b85a31414568aec0b6b6a52be3aa7b0f033ce3957",
+      "type": "edits",
+      "patch": "patches/EnterpriseDetailLayout-DiTxJ-ls.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseDisclaimerModal-DKcyEdEN.js",
+      "original": "0fc945b90a1ea99d74fb41a080ccacc5c751db5888d7ae068c604166201ec79b",
+      "localized": "83db1ce4f5a9ca7bf6fa9e3204d7b31050c441da78b5d5e6a34cfeaafab5d30f",
+      "type": "edits",
+      "patch": "patches/EnterpriseDisclaimerModal-DKcyEdEN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseLandingPage-7PrPTxHX.js",
+      "original": "9f4c5892896cae625b0fcb0420edb7f6abd93def86faadd532e266c3abea14cd",
+      "localized": "db887a82f53d2c3484ec46849303136e50d4e01faa8edd498e25c0231a26d293",
+      "type": "edits",
+      "patch": "patches/EnterpriseLandingPage-7PrPTxHX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseLogoUpload-CCIQsz88.js",
+      "original": "26dc2429033871cdc320ca8bcdf20b1a4342005a8447f58a63b574ce61c4f6d4",
+      "localized": "04acc3f2ed0053400417d63bab72412b78599de24768b3ca43a6b92c95160aa4",
+      "type": "edits",
+      "patch": "patches/EnterpriseLogoUpload-CCIQsz88.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseMcpCatalogPage-ClVni5zb.js",
+      "original": "4bdca55f3a8adc81217cd8ce29e4fd06e3c012092cca3cdbeab71684128e95be",
+      "localized": "7d84e08164a5ed91c516b1261ed5bfda6a354f0c9520d002df21f5fcd20c91e7",
+      "type": "edits",
+      "patch": "patches/EnterpriseMcpCatalogPage-ClVni5zb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/EnterpriseSetupPage-D7tKw2ta.js",
+      "original": "11ce17641e21324684f48c7d1ee666e717326732ca533abc47cf686413734198",
+      "localized": "3db494957e9fbfc32f1ac7fc628512b67a3375fea156cf8bafdc6f2f425d3b4b",
+      "type": "edits",
+      "patch": "patches/EnterpriseSetupPage-D7tKw2ta.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/FileHeader-Cf448whu.js",
+      "original": "e09fd3e55b3dedae253f7c9b813a9556300ea8763d5c8258fd3d3964f968b276",
+      "localized": "a7fd75db0de71aceda29f92e3ac470db2dacaa41542503f53db83a85b5b2e11b",
+      "type": "edits",
+      "patch": "patches/FileHeader-Cf448whu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/FreezeAccountAction-BOxBdJWr.js",
+      "original": "91dae7f9e7a4734960c633479aecadbce440501bb7e543ed1d95a10629422843",
+      "localized": "00d1bceb7e0e2c07bca5aea1fe040c5028310d5bebd11fe07e8f3b29faa77cf6",
+      "type": "edits",
+      "patch": "patches/FreezeAccountAction-BOxBdJWr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ItemsPerPageSelect-DFy3DBqy.js",
+      "original": "9a40d82cfdb0d0f1208afad3c25d8a50a3898ec31d8bb407921c509d8ebf52cf",
+      "localized": "d880962f7d1072eec1bd4a30059df21f32caf039e8b9532bccfc3492030da5ba",
+      "type": "edits",
+      "patch": "patches/ItemsPerPageSelect-DFy3DBqy.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/KnowledgePage-RFb_TBxK.js",
+      "original": "d54f62ca8ec3d37c1d0a86ccd15b0036fd72ab6f24cedb7c5c8c982ed5ad577e",
+      "localized": "d013efe2cc4680bdb91d15330336baab4cfc97474334fcdc8e28caa684b6d398",
+      "type": "edits",
+      "patch": "patches/KnowledgePage-RFb_TBxK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/Labelled-o_2mgqD_.js",
+      "original": "e8c58898961ea9b33976fab48ac08b84260d04e5fd4499df45a0a451b5e9ba8c",
+      "localized": "744cb043ae5628dcf44cb7f33732edabb6991824d9030882384c575b2b62b016",
+      "type": "edits",
+      "patch": "patches/Labelled-o_2mgqD_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/LiveVirtualizationDebugWindow-Br5OAcik.js",
+      "original": "a4249771c97b6f99b695cbbd63b2ada8380dc47f077d6bdbb2ea8d7530236d62",
+      "localized": "696cd0fbcb4d1becce38ce365a788c0803d7120f235e095f27305490a3789b6c",
+      "type": "edits",
+      "patch": "patches/LiveVirtualizationDebugWindow-Br5OAcik.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/Onboarding-D_bOeOyN.js",
+      "original": "3edad6ea6280dc1e5a69bce5f98750d357e5d05baedab264d2ac43ca06142b8d",
+      "localized": "d676fb8e67cf4e3db202951469172c3ee16c6000db914e08ff036266d1cb14b7",
+      "type": "edits",
+      "patch": "patches/Onboarding-D_bOeOyN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/Page-4Dl1-Bz7.js",
+      "original": "e971b82767caf32b01f4f91e63bf7e5db2f1898b6403bc1f0eabc225653cfd20",
+      "localized": "faab5e924cc4f21179ceb6cef2069eba53cbc2715736078756449957a4d0833d",
+      "type": "edits",
+      "patch": "patches/Page-4Dl1-Bz7.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/PastedEventsPreview-BEMLLQGh.js",
+      "original": "c7d4fde0990c826265f921d94624acbedec7016400238ce58042f83a5a68d708",
+      "localized": "06b06e27036d16d82cbbbbdbf25b1a08ce0c66793dc0e2eeb1014bae522cb8ec",
+      "type": "edits",
+      "patch": "patches/PastedEventsPreview-BEMLLQGh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/PersonalGeneralPage-B_d_I6ML.js",
+      "original": "d2fb57b5532b2b30a07150c0afe380c70ca2338b15162e6bf4687fddcf6051c6",
+      "localized": "896b48f2c9502feca83ed36facde5eb5f36742c6b3035f036d3221b431b11c0c",
+      "type": "edits",
+      "patch": "patches/PersonalGeneralPage-B_d_I6ML.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/PlanDetailUI-BQ6jENn7.js",
+      "original": "8fd68fa0c098e2f51902afa21464605fa50d91fdadcecc1e9f19046ed3eddb49",
+      "localized": "765c142557dcd4fa28965ac8e9d4ea6c6f43ccf88cc99b8aa0ccc229e3b4cf07",
+      "type": "edits",
+      "patch": "patches/PlanDetailUI-BQ6jENn7.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/PlaybookPage-B8hOW4U6.js",
+      "original": "8d7cc72c0d3a3a556f7a08189434c9425cd194f6a330ea8661aca1dd47b94857",
+      "localized": "cfffe7d979b91a5ebf20405d3bf04b9435914d9a2c02b51f3065a954602a1dd7",
+      "type": "edits",
+      "patch": "patches/PlaybookPage-B8hOW4U6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/PlaybooksPage-Bb3nMHWY.js",
+      "original": "7784e33c9a558736c44f30036e9533b3441d4ff54e3b33a6746676dabf03c93c",
+      "localized": "f7cea35ed501c2a0a084c4a4604cab30496b7120c46c0c18fc34298c16b33b96",
+      "type": "edits",
+      "patch": "patches/PlaybooksPage-Bb3nMHWY.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ProductivityPanel-Cn22bYAQ.js",
+      "original": "dbc8fe225d0219807fc5c7f7490e3b1b0700fa93e7dde2446a56a9ff6203f0a9",
+      "localized": "c2d84383ecf948f37a0c28d76659ea891350831ec169dbd86e2e4b10ecdeeaf2",
+      "type": "edits",
+      "patch": "patches/ProductivityPanel-Cn22bYAQ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ProductivityVisibilityControl-Dzt36bmB.js",
+      "original": "074ed09d0c9db00d14c88bcaed183b6a6daea24ebac1b6f6409ca38757c3b221",
+      "localized": "06f270bc85e2f3501571d8684c077a1e21da54358e770c9014e90bf9ef9450fe",
+      "type": "edits",
+      "patch": "patches/ProductivityVisibilityControl-Dzt36bmB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/PromoInvitesPage-C1W36fB6.js",
+      "original": "3971f7665e88c48bf1896fb0cd25ce216c088ca96e2121ab84cb22776f6f4435",
+      "localized": "072c963ccfebff27097b26ea4f0e7cb6391ec6b0191c23de38bf5bfc59a560b8",
+      "type": "edits",
+      "patch": "patches/PromoInvitesPage-C1W36fB6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RRuleEditor-Rhi9UXnB.js",
+      "original": "79ad983f193f81a60d8322943aa0341e6b7e69165ca0af90f432a8f51a941e31",
+      "localized": "0bbd28d5338bed0820694fd3787e2de3b275ba47beab381ad8d6affafe48a953",
+      "type": "edits",
+      "patch": "patches/RRuleEditor-Rhi9UXnB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ReplaySessionPage-DQfwZFPQ.js",
+      "original": "587cf7cb9c64033b331b1110b8f24befad603e1732a45aac170f56ec3208a494",
+      "localized": "4a33b065f0d7975d485c54bef5b1997b992de13993f0d423eab33bd40ab701a6",
+      "type": "edits",
+      "patch": "patches/ReplaySessionPage-DQfwZFPQ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RepoIndexingDetailPage-DkJb4Gz8.js",
+      "original": "722871ed2dacfa721cbfb502da05d20c1a697a395272fd16fddd09958e3efb57",
+      "localized": "dcb709cfad91853acf377433c80dac5124c59868dcdb93f032cdb0a93b21ce0b",
+      "type": "edits",
+      "patch": "patches/RepoIndexingDetailPage-DkJb4Gz8.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RepoSelector-CYd6x0m2.js",
+      "original": "8d66c4457896f4efc804bbec525a9ae3e09b4d22f0ecc0a54a042fa98f14827b",
+      "localized": "a9ad0d0af1820937d7a46d86b1f9e7891141e1d14f05cd8ec2d524a7c1f75f34",
+      "type": "edits",
+      "patch": "patches/RepoSelector-CYd6x0m2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RepositoryBlueprintEditorPage-C6rTEmX-.js",
+      "original": "d2ac99235b7b09b2fbae427635a4ab7c229a0820957ee9233c6741c0304ddaac",
+      "localized": "af3cfcdcd1e0eea95fcd5d53423d27385aedd2eabfc8e738670183c15295cdc1",
+      "type": "edits",
+      "patch": "patches/RepositoryBlueprintEditorPage-C6rTEmX-.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RequestsSection-Cfz9P8nG.js",
+      "original": "23c742cc833b6e694937f3e13ccbca6fef192460bc931f6ff167be10917aa7b3",
+      "localized": "ef75dc3bf28211fa2f8600105be9f26f9be441949d8839ee55f73d2d71d20852",
+      "type": "edits",
+      "patch": "patches/RequestsSection-Cfz9P8nG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RevealSecret-uJTp3ys4.js",
+      "original": "396a4844d6c4fdca1a0572ed5553ac7bb7eaf96e25546285068745722030aada",
+      "localized": "9a7ba7b345ed07a51e5a3f266481ed0b4eedeec8583ae0bce6e6e5fe9f4c48b1",
+      "type": "edits",
+      "patch": "patches/RevealSecret-uJTp3ys4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ReviewStoppedBanner-qv58hEaU.js",
+      "original": "9e720e155f8d586032a44cad6bc32272c7ef812a3d0fa9bad5c764eb4ffc5634",
+      "localized": "159e2cc89b40936f30550a93037b53783928cbf76146adbe3109ba94bdbc17eb",
+      "type": "edits",
+      "patch": "patches/ReviewStoppedBanner-qv58hEaU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/RoleEditorPage-C7K8N3yo.js",
+      "original": "087a83082007842d2b7fdb4a8a063902c0decf9e041c59398c812aaafdbbec94",
+      "localized": "a132fcf365f19571f8bb05a04b555c5927d43758a1e6d1926507ee7e58d97daa",
+      "type": "edits",
+      "patch": "patches/RoleEditorPage-C7K8N3yo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ScheduleEditorPage-DT1Az3Az.js",
+      "original": "421e525b03e829f4d00e12744073cfb3744faacbdeabeb321c70781e1e8302c6",
+      "localized": "b1bc54f6ffc8836674377d5c5c0ed44b98fb2a041bf133f1424f6e9ba7acf788",
+      "type": "edits",
+      "patch": "patches/ScheduleEditorPage-DT1Az3Az.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SearchOmniItemPage-LSlhjwMm.js",
+      "original": "214cfbd0bcdf0a2e3b455e56fb12aaaad547828277382de673353f0c03080af6",
+      "localized": "6ac265079d0c6716466794f54b9b63a5cfa863271d727ea81237aa3732e817e4",
+      "type": "edits",
+      "patch": "patches/SearchOmniItemPage-LSlhjwMm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ServiceUsersTable-DfmpO1DY.js",
+      "original": "f55e6f1baf306a2accff8cf96b33c8b7c49dd4bc92e77205b10d6b7cd298050a",
+      "localized": "405e38f11a612eb2505f363054bee5186b4ec053c1d26354ce106d426f5f716c",
+      "type": "edits",
+      "patch": "patches/ServiceUsersTable-DfmpO1DY.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SessionListRowUI-CYHlR77q.js",
+      "original": "5e862ddb7ec8ac4a6d7f05e0cda8bf2d29a77eac9f3d371686a1ad909b77eb81",
+      "localized": "89575a84c510a554f1b24e7b185c69788663a120c6bdbac3cac973ddf2a363fb",
+      "type": "edits",
+      "patch": "patches/SessionListRowUI-CYHlR77q.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SessionPanes-DvLuVLsF.js",
+      "original": "65bdc4425ef151cd6f57a1847ef9f1f059ece89b30ce2d3ae231955c68df72d1",
+      "localized": "f402d666010f0d41cab1372f19ee744ed84c882c84345dbd51376996a939a240",
+      "type": "edits",
+      "patch": "patches/SessionPanes-DvLuVLsF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SessionTabContent-CLU2O4-T.js",
+      "original": "6a3edf90e6fee1b62c4205726c50d493b22c3e31247a7904eaaccff44f5aa6e3",
+      "localized": "f61c4ee8f824fd3c18caa20ab24b373e6a2f8e9bc70216980686b24731132716",
+      "type": "edits",
+      "patch": "patches/SessionTabContent-CLU2O4-T.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SessionTimeline-LmemeitE.js",
+      "original": "c89b07815f9aa3876c6bf964e0c8dfd6418b4e98bf14c4a25442b0a2ace5b826",
+      "localized": "a119ca58211fe6e5cd54ffb97dbb1d25dd7d7da164fba86cb8c0d268d19d585a",
+      "type": "edits",
+      "patch": "patches/SessionTimeline-LmemeitE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SessionsTable-DtF2ddl6.js",
+      "original": "b097af71ee55c6490f870708a3dc6f2d98ffafed409c8e9fa43518da0076d4d5",
+      "localized": "d52e7155c36400e863fb5596591159b539a8a5f6f34708ce76a446139790a9f2",
+      "type": "edits",
+      "patch": "patches/SessionsTable-DtF2ddl6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SidebarContentReview-CDx_E5TV.js",
+      "original": "4bc9bebef5fac8c60646f0adecea2e8d690c00c71d3ee479bfd93cde7dc44ceb",
+      "localized": "4a2a43e16958e8f4e860d670544f06063d4a1c08e451a68627e9aa312283c0cf",
+      "type": "edits",
+      "patch": "patches/SidebarContentReview-CDx_E5TV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SignupConsent-m2FW5gZx.js",
+      "original": "b78e45d5b14a75c27b85c5fd20c034cc482b5293d115e366e6083365eed9fda2",
+      "localized": "d9f609fed6ec9e79d4952a6926f1dacef4dc50a7e5ce6aabaf4435735bb49697",
+      "type": "edits",
+      "patch": "patches/SignupConsent-m2FW5gZx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/SimpleDiffRenderer-CcBhWbr_.js",
+      "original": "6d8d6dbf24b9dfe7385fa5e46ddf08fdda15142e3d9c365683dbb76919ae1315",
+      "localized": "28b02e1c4901cb270844e48e4a06befe04b58d73ace5fc257ef0012a173e96f7",
+      "type": "edits",
+      "patch": "patches/SimpleDiffRenderer-CcBhWbr_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/TicketActivity-BM2Q18Bj.js",
+      "original": "b140634fa518cbbee5fd64dee88b7a24b48727421546e49cd448609883100c0c",
+      "localized": "f06978af3c8eb9dd2da7a95b7f81d929e89061e142d42411811f0aa94c679d8c",
+      "type": "edits",
+      "patch": "patches/TicketActivity-BM2Q18Bj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/TicketDetailPage-clqSIrpR.js",
+      "original": "19cffe8dff0aceb16f61f3db1e74c2268daea8e176812cf8545a1ad6a722a42c",
+      "localized": "afb4ff7236c60320fedaf2d5c0e366a4dbdbf707b389cbc40934424f87c8ef66",
+      "type": "edits",
+      "patch": "patches/TicketDetailPage-clqSIrpR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/TranscriptPlaygroundDebug-C4Py9pUA.js",
+      "original": "ecccd39fe4468729bfbb109a4749604eabdb85377088ac4da342dd6afb7d2d12",
+      "localized": "e967288ed66bf001ee23650e08f0f179000401a01875f787b3cc3b4ff7d6044a",
+      "type": "edits",
+      "patch": "patches/TranscriptPlaygroundDebug-C4Py9pUA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/VirtualizedSessionsList-yAK-3_TF.js",
+      "original": "82d2e9bf9eb7873b8bb2bccf6b4fdebd585c085d7eb67232cade5c7cfa30bb7f",
+      "localized": "ffc874f33731afcaed65001a12b5db8c8de2dde150b968e33efe759ffcb11fe3",
+      "type": "edits",
+      "patch": "patches/VirtualizedSessionsList-yAK-3_TF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/WebhookConfigModal-Ctd0RldI.js",
+      "original": "8dba6ca8a12e2b76e68e800dcbdd0f7e0bd4c51f84d7c5fdd9e9c08d3e7da7b6",
+      "localized": "64269b1631b74bab9d4f1ed758a027029ffe5f53745872e775508df4eba44ac7",
+      "type": "edits",
+      "patch": "patches/WebhookConfigModal-Ctd0RldI.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/WikiHomePage-C-dij-PO.js",
+      "original": "8b565a75a98083d561c9d8740c44f5a69f00d1f75738f33e5597f5160f026a51",
+      "localized": "0758cf49967e7a2076316f28021e4b8dad69cfbf1b99bcc1f1d92e04fc5bb593",
+      "type": "edits",
+      "patch": "patches/WikiHomePage-C-dij-PO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/WikiRepoEditPage-Cml-9wj4.js",
+      "original": "9b8a4347a01e20ee485b1f1d63384ee7ddecbc8133e52fe897ffa125066de530",
+      "localized": "8c6809a27495ca9dca1c9a44804ada63e084b92de1aa8e09c4a9d78c1d6b6f97",
+      "type": "edits",
+      "patch": "patches/WikiRepoEditPage-Cml-9wj4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_-6DGseHSp.js",
+      "original": "340e89a30cf2233285ad607d1aeba17d20a018b11e006bb7bd3b46e12dc9e325",
+      "localized": "afa7d3c9f20ec443204033b4064ffcc1396cabe341986c4e7ce864004918d989",
+      "type": "edits",
+      "patch": "patches/_-6DGseHSp.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_boardId-Cz1w7Unh.js",
+      "original": "b296a85aeb45d130fe47d76f8d097b6bf4366bd59947eab816457518077af7cb",
+      "localized": "97d127f000c80af9c72dabb3484aa9a2e67259a39c8cdeefb1aff538f230fd84",
+      "type": "edits",
+      "patch": "patches/_boardId-Cz1w7Unh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_boardId_.settings-CS9oAdXC.js",
+      "original": "f4863c5e88706f37186afeaeec2563fe9d7871a3817432d7ed52590a30e047b7",
+      "localized": "4200ef36896e006b3455587df3a1924097b0d2495703b04ba4210a20d7c082ff",
+      "type": "edits",
+      "patch": "patches/_boardId_.settings-CS9oAdXC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_componentId-BdKq_OXH.js",
+      "original": "ad95942d63dacf8b1e6aa90301f2effdc08f193137e074e1e7b385cdb413e2d4",
+      "localized": "5c4b0ab8b11c248f9f9ae286a896271387b9629fb93fc1859293408cd39f8824",
+      "type": "edits",
+      "patch": "patches/_componentId-BdKq_OXH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_enterpriseId-CPnstW8z.js",
+      "original": "849868e5e42aac81c3939ba68d22a95c09de870da8fa56e8eebe43d817bdedec",
+      "localized": "a9f856393230809d8ffce810b5014b660635cb70c213f485dac8f4078f3e2354",
+      "type": "edits",
+      "patch": "patches/_enterpriseId-CPnstW8z.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_id-D7Zjtj9x.js",
+      "original": "92192f8988e6a44828842402cd6c0335a2aa7d2528b9e1288afbcf6741adff0b",
+      "localized": "3a3d24b812c40b9fd276c606c8505ccd76f36a1de58438a4b0910b22f565dbce",
+      "type": "edits",
+      "patch": "patches/_id-D7Zjtj9x.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_id-DYhQq8Tu.js",
+      "original": "88a3425e5363d5e5d2de20a9dce4ff968b679d61ddf66029875f58f1d5a9d32d",
+      "localized": "77deb70908076c95c8e827297280f37df0c6f892093263d5530acbff29890b54",
+      "type": "edits",
+      "patch": "patches/_id-DYhQq8Tu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_mapId-CMOGZxix.js",
+      "original": "8d4093b8325d65d1641b2e030be6a56be8b00ebb0e6045472563a1cd3facdfe3",
+      "localized": "940742eee4ec62e6f8ba1a969b262e4349149e3fe23b20f9221e6b1934101b7b",
+      "type": "edits",
+      "patch": "patches/_mapId-CMOGZxix.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_orgId-BS52AuQJ.js",
+      "original": "6e40055303bef7da4986819a1d682be028c16c1b21bde1d2e022ef6a5f5285d9",
+      "localized": "fd3063e846e9dd727ec24ea3953b6ee5d17a19364d9cc535698d5ba3d5f339d0",
+      "type": "edits",
+      "patch": "patches/_orgId-BS52AuQJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_requestId-kyMPMbI8.js",
+      "original": "13ae1146376af07c0d736f23d71832f96626d3cb9d826a9bb10b8b4acee3abcd",
+      "localized": "ea440e02eea13688b27b961bbc5d6c37c72fcff1c984210e8aa95d19930c94d6",
+      "type": "edits",
+      "patch": "patches/_requestId-kyMPMbI8.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_runId-D-MQNpSv.js",
+      "original": "7cd20457d7e802c709c0c05bd509c78237ac42b22e471c51ff6c18321cc8ca07",
+      "localized": "bc600c616de7fc1812c15cb2d55f26155b4807e5b28f781e53dafe88ed31e9b3",
+      "type": "edits",
+      "patch": "patches/_runId-D-MQNpSv.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_serverId-BbCI76jM.js",
+      "original": "629925f3880a8488c486f222e388ad0b6ffdeed402e1b0f863bd6c93c9ee205c",
+      "localized": "d407e2642bef6ef0effa92a5117cfcd619362ab7322ca306be40ea60e98a7a2c",
+      "type": "edits",
+      "patch": "patches/_serverId-BbCI76jM.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_sessionId-YZVTDNdd.js",
+      "original": "fe5862f35d33932b991e584fab1c1e81369c3a3a6b03a079cea9eff0716b7f6f",
+      "localized": "ec4cde6df84bf63d107f0cdb3c44a5db475d1a005fafcd6364f6611c12acf409",
+      "type": "edits",
+      "patch": "patches/_sessionId-YZVTDNdd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_shareId-CYkCUB5V.js",
+      "original": "c23e950c42a2b5b9210c5e2b918fc274549328730421d8ce215ef8d21ffe1ab4",
+      "localized": "f50bc9a926ec2cc87b48f671ebc2ad650d9817c58429157d98c55053b4e5ad9e",
+      "type": "edits",
+      "patch": "patches/_shareId-CYkCUB5V.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_templateId-Cdus4M0A.js",
+      "original": "87558cf977b5fb2118877da44018cd23d4c970f1983f656cedfb473164c8ce94",
+      "localized": "68e2db8f6936d931fb000b77958ef01a66ee3bda5032889ac2851cebec073698",
+      "type": "edits",
+      "patch": "patches/_templateId-Cdus4M0A.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/_userId-D2KyKNk0.js",
+      "original": "27508953686910cf7eeecca2016af2d5757f2db07adf5679da0ad20b112801eb",
+      "localized": "886b057d4dfab4bdb5ee5038bae9177d1dddeeaf97fb67de22b1224641e3fd06",
+      "type": "edits",
+      "patch": "patches/_userId-D2KyKNk0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/action-B7Xy_9r1.js",
+      "original": "66fb3ee037a1eefe1c53d225cd93117349c7ddba81ce7092843d83b5a7a347ab",
+      "localized": "2d9b04b8c41c78f0367d5a09b4f79669bc1abd89c5cfb3490dc76f56e8f5947c",
+      "type": "edits",
+      "patch": "patches/action-B7Xy_9r1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ai-gateway-0dN-uR4T.js",
+      "original": "7d97d105aea35ea6cfd4bddff49b6c6198e4ca46cced36a0bb3141ac17bfb759",
+      "localized": "05072935c0c7705e05d54f685be534ff616356ca0abaf139a476718c00e07859",
+      "type": "edits",
+      "patch": "patches/ai-gateway-0dN-uR4T.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/analytics-B4-aYmki.js",
+      "original": "c9c1b610ce0c484e7084384148d73b331d89d039c2f425e7122a749d1670eff9",
+      "localized": "6850dc1cdd2583a18aac12df76ff16b5a2647da4c668ce725244dde95c0f5b39",
+      "type": "edits",
+      "patch": "patches/analytics-B4-aYmki.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/announcements-B63RFaNv.js",
+      "original": "de190324eac1e5ddc0e96587c199ef149427a48822deab1911a3fd070a71c725",
+      "localized": "d71b74d07d1c00801375c7298ec44d6e1d30f26681d875783b143bda72bf05f7",
+      "type": "edits",
+      "patch": "patches/announcements-B63RFaNv.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-2-X_ffDY.js",
+      "original": "956e71ad8f9844349372203b03ce50dfd0844ec7a2ce037a244414695b1a177d",
+      "localized": "0c35afcee9eefcc0aad6ff1a9cec7e584f17d14b31d2a9531545f167a8ab5f26",
+      "type": "edits",
+      "patch": "patches/app-initial-2-X_ffDY.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-9rqokvZU.js",
+      "original": "0a97f623aafc6cc3f70f7632d8b7afbb937ef25aaa80cd1b6460092a40ca7816",
+      "localized": "6fe42d519b4603d20e08d15770703f1dc83755c257612340c7dcd67ef02cbdd7",
+      "type": "edits",
+      "patch": "patches/app-initial-9rqokvZU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-B4I1524X.js",
+      "original": "4c075861cdee10591d930892736a9b24454b5b843ae856098eb9bacac0a30496",
+      "localized": "fca42a7c79ce3b5a3297e7fa10962c6d5011ffe12745d15f32df875a1ecd0b2a",
+      "type": "edits",
+      "patch": "patches/app-initial-B4I1524X.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-BCqqi6HH.js",
+      "original": "6141d1747602804bab3d186799d5073df44e60031a63cca986ac4a0f747c0796",
+      "localized": "3a4e899cfc9f813d0bf749bf794c438966f011edd3d989d7b4c72f97ff2f3a39",
+      "type": "edits",
+      "patch": "patches/app-initial-BCqqi6HH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-BR-NcuY_.js",
+      "original": "96945f7261fbaa635a9a72947452dfef89de40fd24f3a1feb3809ef10cd057f9",
+      "localized": "fe3366b8a6dd0d1eb28eb8f7eacd096873ce4f443b1865190358b3c0e4775066",
+      "type": "edits",
+      "patch": "patches/app-initial-BR-NcuY_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-BUDtwOvR.js",
+      "original": "2843bc0db12f99ee5884dc01723cc3e5f24fb1d0a88b8124447a49fe0601e8bf",
+      "localized": "ee1a71d505f42faba4bcad2124c9958281f2534a08270f824954464cb4ba7db1",
+      "type": "edits",
+      "patch": "patches/app-initial-BUDtwOvR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-BVHyIlmX.js",
+      "original": "01677e49245fa3da5e47338a81bb55fc651d948ba86f8cf4c4240ce032b017e1",
+      "localized": "2f4694a151c229e38646e5e627bbb391e91d70e2b185b07c71c77870d3e5cd62",
+      "type": "edits",
+      "patch": "patches/app-initial-BVHyIlmX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-BW8ZLdnu.js",
+      "original": "d8fdd26037fa51b63767163ae5f07e6e4264eb2b4cf32438874d880547857046",
+      "localized": "ce7bcc8d10940f21ceeb3832dfcd2bafe4cd82c934deadd247b4bcb3112c8b33",
+      "type": "edits",
+      "patch": "patches/app-initial-BW8ZLdnu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-C7Pi6fEX.js",
+      "original": "938d4aa670b1f389cee8c0c6b334104ea21dfce42b07fd6ef3d78fc75b19d8c5",
+      "localized": "35c7fb1f8cdc14b4fa980727c01866481e619337d30257f078527da92a9def9a",
+      "type": "edits",
+      "patch": "patches/app-initial-C7Pi6fEX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-C8bXqZH6.js",
+      "original": "469dddd2d9d6d26a1358eb58991c40c058c4d2ceb1df5ea373b7f4b99e2259f2",
+      "localized": "7179a09a42e6184043f3bc885fd5a636fc8ef03c23c36e951797fac2ef7f86b5",
+      "type": "edits",
+      "patch": "patches/app-initial-C8bXqZH6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-CYnTOZDP.js",
+      "original": "a15af19f24721064ba42b410e7ac8376f823478fddb558748431937029f97596",
+      "localized": "dbc222418e102763d2f2ebe6c63090d851f4a0e442ac0dd5237331fa6a6d4888",
+      "type": "edits",
+      "patch": "patches/app-initial-CYnTOZDP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-CZveJW1j.js",
+      "original": "e6431832c98cff37a17eb747399da2253b7d8e0bcea294e68464feab0c724be9",
+      "localized": "4a80784e5d92c34b81deddf7b1c3c96c0fc99f0c2f75f77bb8a4c212c6cea0ad",
+      "type": "edits",
+      "patch": "patches/app-initial-CZveJW1j.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-CmLMlrwI.js",
+      "original": "6edee74b3a92289aa74da5afaf03167e9b16154d63d26a85b67e5869c5d6e49a",
+      "localized": "f1410a4594b0015399ca4dc1cc5abbf4853999ad5be2bc7993bae392403a16fc",
+      "type": "edits",
+      "patch": "patches/app-initial-CmLMlrwI.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-CpeM7F81.js",
+      "original": "70bead81da4de7f894a0267129f095421826c944b480fa41c1f8f07bf3199af6",
+      "localized": "7e11ab580520ed9958f9f14d9a6200742b8e00be31162ed2bc4c0a1adbacb11a",
+      "type": "edits",
+      "patch": "patches/app-initial-CpeM7F81.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-Cq21WSL2.js",
+      "original": "45bbd0bb3a19b839a85976063631b892c503e3e090b3b0f1723534c8a880616b",
+      "localized": "8a764d4d01fa632e792367dbef009798d88f9492072070e25097f92056c03d9d",
+      "type": "edits",
+      "patch": "patches/app-initial-Cq21WSL2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-Cq_xoLy9.js",
+      "original": "bf6ee8a21f8a361e20b85c2e62dc3e61297694a8d0f5122651e7c204ed51d53e",
+      "localized": "659707818ff1c17654424ed39ca303b3232dc00755196b2cb5d5a83fb9ce2e7e",
+      "type": "edits",
+      "patch": "patches/app-initial-Cq_xoLy9.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-Cwlqavlr.js",
+      "original": "f3d52a7b866697f3937ddda915acc4dc2d882942ee7c199b48dc5da424264438",
+      "localized": "348513917e73fd245d2dfc9b1c39f878a59e3dfcda41878ae685259e96a17064",
+      "type": "edits",
+      "patch": "patches/app-initial-Cwlqavlr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-D7y1BwuW.js",
+      "original": "071fbc511c4c1440e86a9548a437de61323d6349eb9078e7113cea70a4768fa8",
+      "localized": "071aa8d749b5b0a312ed29ac51a7e1a5827337f84f894203c5fcf1babf8164b8",
+      "type": "edits",
+      "patch": "patches/app-initial-D7y1BwuW.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-D8OXKBGG.js",
+      "original": "6b4a30dc649f90b7fab0dd328098aa36a78cf8293717a9518fab36df05ad2329",
+      "localized": "d663f66662d4924a3857daf3e5ccfc8be895fcb6a0d763a215afc8bc9c910e17",
+      "type": "edits",
+      "patch": "patches/app-initial-D8OXKBGG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DEX1P7ui.js",
+      "original": "ec131dbf526cd4741139593f9d2eb13a81202570e1c0da7ba8f49e75b4d88159",
+      "localized": "76abfbaddfa2a5de7aa0076978d31157bf639f8bf0ad7e35e3929160d819e99e",
+      "type": "edits",
+      "patch": "patches/app-initial-DEX1P7ui.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DKgvEwcP.js",
+      "original": "3f6642f179313bfca94d6e2aa22169507a22ddec5794216cd602205dd310de8a",
+      "localized": "f08b45b497e31fc7403251cf8cef82ebe25ce0d035d4e904c257489a6d75f7b8",
+      "type": "edits",
+      "patch": "patches/app-initial-DKgvEwcP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DVNTjM6M.js",
+      "original": "9aeb7278a280e93064fa965c97590a5c6c6cb235e76936f0e9895b57226aa5d1",
+      "localized": "686ad53351c3d2823239f217c04fba26d429cdd0ce614b02c77070cd8f102244",
+      "type": "edits",
+      "patch": "patches/app-initial-DVNTjM6M.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DeNla-b3.js",
+      "original": "895f42bf3e19c22aa8061e94daa0b303918e1c4f8ba8fff483057ae21b68f6f6",
+      "localized": "47e4becfb7656f6f1444faac4803aed7bddfef1ba8b9dc2d0235e1cab466fb39",
+      "type": "edits",
+      "patch": "patches/app-initial-DeNla-b3.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DjbWSooG.js",
+      "original": "26863e1d18ec10c0a4f37a995091d889fb9f318f3d4590d975dbf1960d1534f1",
+      "localized": "e9ec14a2df44797aad7194da9cd7473ff4bde680c7e0aaf25e9859039e38ceb6",
+      "type": "edits",
+      "patch": "patches/app-initial-DjbWSooG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DnBFaY0f.js",
+      "original": "82692bf7c6d74bcd8d926846f183d8321b26dc2a55897b5010f753a234ea1d3c",
+      "localized": "bdd87bab47600dfee1389d73eec961f51caed2f6897d313a20617f1b85d4f03d",
+      "type": "edits",
+      "patch": "patches/app-initial-DnBFaY0f.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DsV4kQeD.js",
+      "original": "68b67142cfd778436d677f66f4761b4d856531967b53377209019a30c5d288f3",
+      "localized": "5b971f45155464ca6f998cd5f477957e69a05b31ff7d098ac6e7ac4a1a50ce60",
+      "type": "edits",
+      "patch": "patches/app-initial-DsV4kQeD.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-Dw92Ymqi.js",
+      "original": "bc07e4bde27c6b4d810bb0beff108f2a47c44020bd6903b77570624ee67c06fc",
+      "localized": "2217ef7f1e7f1a862ea9ec5832e19d6867e029d100fbd969bdf994b11eb055dc",
+      "type": "edits",
+      "patch": "patches/app-initial-Dw92Ymqi.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DwlsDQdL.js",
+      "original": "cb7bd6f8b7602d806f46b546f97449310a999ba5b744da9787b0e8c1e308976d",
+      "localized": "67924bde9949b469d72f8d4bf569641aeb1cefc2bd26118cba46971515c83168",
+      "type": "edits",
+      "patch": "patches/app-initial-DwlsDQdL.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-DytlIVzE.js",
+      "original": "70402c09f81dc22f47826d065be17c481ccd9165801673ca54755cb07e068d9a",
+      "localized": "2cd2d679807e32cbb58bcd8d5744b8a2f69a9c30e90e0ccf4b6e7688884a21c0",
+      "type": "edits",
+      "patch": "patches/app-initial-DytlIVzE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-Kukx6LWy.js",
+      "original": "80a3320c138bebd14ebdec8cae0c70512bbe751fa3361869d44f1bcdc2e2323b",
+      "localized": "54ccb2c9ff0d48e3986b09b900a9a97045f3ce0eb0607393549f0bc8053eb050",
+      "type": "edits",
+      "patch": "patches/app-initial-Kukx6LWy.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-MoBJf1sl.js",
+      "original": "cd20df496f8be12a6a4339d8920f7cc7a2e3c955bfc6ca847613e5442e637d77",
+      "localized": "6bc44f6b54248bbf2fd6e8466d9ddef18e392eb12aca9ef3e096e2054908314d",
+      "type": "edits",
+      "patch": "patches/app-initial-MoBJf1sl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-VAH5CJde.js",
+      "original": "dab5d4ba4a09990d5d854dec083758a2aa8f37c650d0998392316d35c32ec013",
+      "localized": "2ac2b5bf7e319506d1431f3dae022a8efab4cad83ed3ba215c78ef9f262ad5b2",
+      "type": "edits",
+      "patch": "patches/app-initial-VAH5CJde.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-_frKXr64.js",
+      "original": "6184a040d11132eccb9c225f666c771f78d66bc5ac0454dc83dc3394a6ab5393",
+      "localized": "863c479fb20bdc6fb321fe96b5c8efd91978255195242e0ac5ae56b842bcf6c1",
+      "type": "edits",
+      "patch": "patches/app-initial-_frKXr64.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-bDlfjlb0.js",
+      "original": "93ce528d0cfebc6099e34907177b1f8585ae4cc8d31b45dfac4d5b4faa596d14",
+      "localized": "226851adce9fe6cdae0ff40652919e3af687b58e336efe1873639413a8112e68",
+      "type": "edits",
+      "patch": "patches/app-initial-bDlfjlb0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-h05tvslE.js",
+      "original": "da9b5e68fbb5e99a8eb733c209ac98a883c2ac3ad6cd78eb6f93efc51e239f32",
+      "localized": "d9565b3347685ff3f7999ea24c2f066a7d622f7becef629a63dbd6b866efbd81",
+      "type": "edits",
+      "patch": "patches/app-initial-h05tvslE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/app-initial-zdrBXr2E.js",
+      "original": "9343f90d87e71107a3d6321eceb3d3544731b25ba7b790fcc20d16b58c41d3c2",
+      "localized": "ed9a8fe6115fac794925454847ea787ead287b9b62e17ea5f84adf1bb2f77346",
+      "type": "edits",
+      "patch": "patches/app-initial-zdrBXr2E.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/atlas-BN5HwdqT.js",
+      "original": "398749d707eb1d0ff9ed13691744fd351f137450e2d530b4af2ac4dcfda00e53",
+      "localized": "1a09e2438dc1d2c334176e9ced8abfc46bdec4791b7197ce53f61eaeb4f88475",
+      "type": "edits",
+      "patch": "patches/atlas-BN5HwdqT.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/audit-logs-auSz5HDy.js",
+      "original": "80e651dd4e4969d54b464a42d1abce935ada2515c97597e5ecaaca51013c9937",
+      "localized": "4cf86fd5c5335b392d2e58beb841d65d9af413cd0c0cc70646371dcab74ca809",
+      "type": "edits",
+      "patch": "patches/audit-logs-auSz5HDy.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/azure-devops-Rucyz0VA.js",
+      "original": "7d65552b37e4488b278215a3261a7404b66fa3bd6e0e24d478c1eb98a723b602",
+      "localized": "36d7fbc4c3be56c162da02a7840be5e7720551b2b523f2a52fe0d4b73e648fdc",
+      "type": "edits",
+      "patch": "patches/azure-devops-Rucyz0VA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/bar-list-D77HGUYI.js",
+      "original": "5285f6aa7ddf276c770e6cd15d38dbe64d15e8bcc0abc4c4c208d8ddf1cb6c85",
+      "localized": "36324b7f1061c4b69d766d7a7b196afa56b05aa32a3d0a16ebda4cc5d2b13715",
+      "type": "edits",
+      "patch": "patches/bar-list-D77HGUYI.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/bitbucket-CDXo5aCt.js",
+      "original": "32114da33d2142aeeed6e6a6d15c201491f2db6e0b1853ab46a2c89bade3e42c",
+      "localized": "6ddce4168aa2b08faa3bcdf2bd1be4f08737966ebcacbcca6357367cc9a4f899",
+      "type": "edits",
+      "patch": "patches/bitbucket-CDXo5aCt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/blacklisted-orgs-Cv_t8Qiu.js",
+      "original": "deed6d01c8ada43ba2855f609d9fbfd55107071050bebcecc99efb92ffdb1389",
+      "localized": "b8d5ab9a3ae4b78bf8a9c8969b50d5547c6c2953e0d7091dc4923df1369dec7c",
+      "type": "edits",
+      "patch": "patches/blacklisted-orgs-Cv_t8Qiu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/boards-Ck7j9AIB.js",
+      "original": "1b4e5575764c664744872282dd7315de583684363661d9352f47ee19867de719",
+      "localized": "4b213cfa74dc579a95b96aedf348992770a69ca2eb5ec15e3c7f68655a122186",
+      "type": "edits",
+      "patch": "patches/boards-Ck7j9AIB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-JAPRZBRM-CQ9sr0r6.js",
+      "original": "c42d61b8d4a495c21b4827b0fb47679948231ba0106f5b5fa9375cdff1a47da7",
+      "localized": "aef6ac58ceb7004789786cc5061c691a993cffb98ad31731d9d4dfaf2bdc3b04",
+      "type": "edits",
+      "patch": "patches/chunk-JAPRZBRM-CQ9sr0r6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/cog-face-gallery-CwHWGtk-.js",
+      "original": "cc17cfc9b0cdeced4b20d57509f1402e4b155cc178c2140446e69a4cbf0f665c",
+      "localized": "bdf05c5cb9b4ffc548bf52d6373ae90e7f891a318b4e840f9f4742ec55a3f32c",
+      "type": "edits",
+      "patch": "patches/cog-face-gallery-CwHWGtk-.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/colorSwatchUtils-BKrrcnQB.js",
+      "original": "a5b7268ef0bc0262de6c6cb09e180795aaac56e735eb4423d9651f0ae2a1bba0",
+      "localized": "0062dde6d970aeea9c573b7f4880df4fa5f69e364f4006ee4cce163a664c9b69",
+      "type": "edits",
+      "patch": "patches/colorSwatchUtils-BKrrcnQB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/connect-git-CPXKvLnz.js",
+      "original": "f2f45d5c8b6a5ba3b96988c36616e33d55a3a7a7a72e91ba17e92f2b7cdd8bfb",
+      "localized": "00dc5b889287cec7ae959c2c01a5fee4eeac21ca148d91e9baa82c24b429e972",
+      "type": "edits",
+      "patch": "patches/connect-git-CPXKvLnz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/connections-Bbk3ZbaU.js",
+      "original": "d32850838ca584484de051b2bec5b55047d2d0971e9f35022c50c888cbb4a999",
+      "localized": "b00ad7988709129234caa0de8ccf43fa9b94090e2a4e540786014dda22c2a401",
+      "type": "edits",
+      "patch": "patches/connections-Bbk3ZbaU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/connections-CRqJGmG4.js",
+      "original": "1e82d5b331956c27340d77ed02f3bfa1c7b0818fd049e0b902d8d466e7621f4e",
+      "localized": "64f490e19d4d8024f57647a3b8a1f8ee0b6460cb3672a3acf1071e0b889b6381",
+      "type": "edits",
+      "patch": "patches/connections-CRqJGmG4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/content-DIu6m19t.js",
+      "original": "f3a306baef2bddfb2a0b61c48710ea65fb23c242c2d769afb130dcd6c8e04a74",
+      "localized": "d435d7550c48abe8f5ddf0823a2abf35b8faa6ee9198092284220728f0c08e06",
+      "type": "edits",
+      "patch": "patches/content-DIu6m19t.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/continue-C22py_FR.js",
+      "original": "3c32e7defed4726dbc137b8587963cefdca423ca3abdec0d1af2e0e9287fff6b",
+      "localized": "2b0ebf3e3bcfcfe1a4f99e330364684b9b758e5b75dafbc0085376d4d7803e12",
+      "type": "edits",
+      "patch": "patches/continue-C22py_FR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/continue-Cn6VSGXP.js",
+      "original": "aedfbf0f5a71562cd9e4e06125afc09bf488ecf4df17240f6a0cba62e31fa2cb",
+      "localized": "0f95f7d8431372f9c7bac0ab23352b83ccb1546320cdd129dd71bc4db8378cf2",
+      "type": "edits",
+      "patch": "patches/continue-Cn6VSGXP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/continue-DnPG4GXu.js",
+      "original": "cf7dc737cb561af2178c91c3c718306c1ab5423a2607e2523f25b45d548f1ebd",
+      "localized": "cd901ac2ad0cf8acbc819706e8f7a49e8516fe7dd6ec92928ca78fbb4e312ecc",
+      "type": "edits",
+      "patch": "patches/continue-DnPG4GXu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/convert-limits-to-dollars-CGjXCh9b.js",
+      "original": "9bb6a6507bd8b67e98677bcce317834876b240ca2de2f05d9aad7b89da0c8912",
+      "localized": "9dcdfb51759b0b76d8a51972615ce7f34d75e6827cdf624925990322840b7840",
+      "type": "edits",
+      "patch": "patches/convert-limits-to-dollars-CGjXCh9b.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/create-BYt4rLDf.js",
+      "original": "960c1ed4b2c80865358d72aa857ea6eea2294859ea7163f4735cc308a8f7e0e2",
+      "localized": "b3f61b3030afb7e5bad022685cd12a2af0c08b1dfaef6a6941bb92db957ab906",
+      "type": "edits",
+      "patch": "patches/create-BYt4rLDf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/create-CWhNAIMG.js",
+      "original": "eb88770709dcfda5c7ab7653f120ce47060f28ac7edc9bd52b1861e42a6842d0",
+      "localized": "7d84c055af18c8adbe6edbc8b132adec4ec06c7a7bdc1eccd672967ff03c7766",
+      "type": "edits",
+      "patch": "patches/create-CWhNAIMG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/credits-BF8yM1KZ.js",
+      "original": "aadef326c088d5dcb656af91fbc4b88dab359afb2a5042a1de28481fd1b0e3ef",
+      "localized": "6645d3a5e87b30c2e6dacd52489afef5cefa712f47cbdaecbd87e8657a559a5b",
+      "type": "edits",
+      "patch": "patches/credits-BF8yM1KZ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/data-deletion-BpxUVMeX.js",
+      "original": "a688cd5c6c10b1c468eadf4e723f0722f5113d3afbb3fb4760d1395017f7e2c4",
+      "localized": "b76bfc0237a085461e8622dabb2e9fb0b95ae4839b0ea54936dc419a62b00579",
+      "type": "edits",
+      "patch": "patches/data-deletion-BpxUVMeX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/deepwiki-GT2X8Z3P.js",
+      "original": "1f905251cac05ef764784abc5ff19dd07f149c759117289c55121a541d19f4b5",
+      "localized": "31545ae773c4913fc32308fd51d59c2417ed6694501a832b44e13ea662525935",
+      "type": "edits",
+      "patch": "patches/deepwiki-GT2X8Z3P.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/deepwiki-takedown-DOFwxEi1.js",
+      "original": "222df94f7a98287817ca87f68988868d0b89206a1d6c2313605eda14368c8ee4",
+      "localized": "a37f4e4eac49626d71168c2252239724c305baab97a5e5e4727aad669640087f",
+      "type": "edits",
+      "patch": "patches/deepwiki-takedown-DOFwxEi1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/default-tenant-hypervisors-BySOXgki.js",
+      "original": "9523490408ef757b8f36ee14ae08d080a89cef64f88386ed11b0be47eda12371",
+      "localized": "ae8bbc2ddf30afc2f66710f3650e3efbdb51f4655cfd2f399d6eec2074b01814",
+      "type": "edits",
+      "patch": "patches/default-tenant-hypervisors-BySOXgki.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/design-md-DG0Eu923.js",
+      "original": "93be4c133539ee192faf30822917914dc21e614a2dab07a0f3d556c4134e83a0",
+      "localized": "ff450a0680058b9647032efc3f5a5b9f8357166fbb95f44fca6b2936d8e52317",
+      "type": "edits",
+      "patch": "patches/design-md-DG0Eu923.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/design-system-RXycc0zl.js",
+      "original": "19f39e3e2ea5f04d717937769fb4e0ff3064bf618e66dfc27120b0fe9683a124",
+      "localized": "fe738186cc5219218bf6c5aaf9a7e88c8f38124e04dc74276d12971867d71965",
+      "type": "edits",
+      "patch": "patches/design-system-RXycc0zl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/devin-CRizN8oK.js",
+      "original": "b68e47926d5d185cd2e7390ecec318c6e3441defaa4f3e30151126683732c4a5",
+      "localized": "e3ed91c42a2290f121d821eedfa5b275dd80e7a02a584482b6ab41c67120ff32",
+      "type": "edits",
+      "patch": "patches/devin-CRizN8oK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/devin-activity-status-Cc6rwQfl.js",
+      "original": "f4742cd32ca4902b08b02c1b895c79fa13e271283c54cec565bf8c6a07787d84",
+      "localized": "de5f0582d2018872bc989c000e3962ba15b21f8f0f1e7d9626692f2805486fcc",
+      "type": "edits",
+      "patch": "patches/devin-activity-status-Cc6rwQfl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/devin-api-DgBo-Ed1.js",
+      "original": "9dcb5ee49a1bfd13a3a25419e0af087d1ef53b75eeb2a85ff03f8b2f089108cb",
+      "localized": "7bfd564ee3c5bf354ac3b69015f33edec3a61617d693ed86cc977570881ccae1",
+      "type": "edits",
+      "patch": "patches/devin-api-DgBo-Ed1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/devin-costs-DT2b5hSb.js",
+      "original": "ad3223a29c8cbbe1e7c0535122d3620cf4fbfb25a2a00aaa944d5923438b2134",
+      "localized": "f38619c2ceb5b957eeeb126a180fd2c9d0d395dffd8019b05e32339395a5a9d2",
+      "type": "edits",
+      "patch": "patches/devin-costs-DT2b5hSb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/devinapps-takedown-C2H-_B34.js",
+      "original": "0253c53cc25666d5a351265e59e54e73d95948e17f44b21dc82cec399deb18be",
+      "localized": "1268b43a51119dc069ebefc98a71cd492385110526d1cb276222552430afc253",
+      "type": "edits",
+      "patch": "patches/devinapps-takedown-C2H-_B34.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/ds-migration-BQvU4ToV.js",
+      "original": "39e6d0c34e08ce185a2048cdade14b224416454e89c26cf15a3be56d43d2a4f6",
+      "localized": "933b4225bf0cdb81a413070e3783ed4479bf6e0473a0418798dda5749ac7b886",
+      "type": "edits",
+      "patch": "patches/ds-migration-BQvU4ToV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise-dashboard-GGxy0xc-.js",
+      "original": "b1e9212bcfe150467fd7511fe68e2e3e4dd7cb0567c6da9ad076468773f98d8e",
+      "localized": "31097aa50b1d7c21015349640d9adfddf5a1f638b481c88f6f7ac54dba1d1ce7",
+      "type": "edits",
+      "patch": "patches/enterprise-dashboard-GGxy0xc-.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise-devin-BHw4vwOX.js",
+      "original": "bcd32811a988848a0270224cf52c81f9fea060b01ea8cd55e23dde1ed7a8eda4",
+      "localized": "06b72c27e121ad7510b6787cb4dde242b4c7abecbc25510bdecc308cdf5cdf38",
+      "type": "edits",
+      "patch": "patches/enterprise-devin-BHw4vwOX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise-environment-BeWeAhld.js",
+      "original": "cfdbfd1c6f5cea7e6e61de37f125253f33c5a6ab078e63b1da42dd42d349d9c2",
+      "localized": "b890dec6f4fe58c5d63f54c59f18fe7b3d320b77e91ec9977007af024e16e4fe",
+      "type": "edits",
+      "patch": "patches/enterprise-environment-BeWeAhld.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise-insights-CKTkHLZ_.js",
+      "original": "5c77bc2ec4f44d58a8631ad7300164dbb279920e8aeddfff5109350ef93fee66",
+      "localized": "1395f73b14abd74609ef86c9353ad3d12dce6143e840761c367ce7eec6776863",
+      "type": "edits",
+      "patch": "patches/enterprise-insights-CKTkHLZ_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise-oncall-Bkf5E5iA.js",
+      "original": "85124cc23873b38de518b8a0ad43ef4c2939237cdccda822d272ffbb7798d675",
+      "localized": "ebee502e4ba25c56b13036b99799b6f20bad981a8055a9a2eb672a6305bb7919",
+      "type": "edits",
+      "patch": "patches/enterprise-oncall-Bkf5E5iA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise-sessions-bi8XTnUN.js",
+      "original": "6c90052e06949a47dec3986921349ba96801dcdc9f7c355e9485a0f446c4ceb8",
+      "localized": "0d5a456f1676d216175445b5d3bbe8970901cf1d2abe8a3cd6f26a77b786d466",
+      "type": "edits",
+      "patch": "patches/enterprise-sessions-bi8XTnUN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterpriseMcpPrefill-_nWC5mai.js",
+      "original": "44acafc68e1ef0e8fb3bf845978ced3f17ca2322d2ce6695cf7062cba0ae299f",
+      "localized": "381b07183c745e6d7247e68dc976d6cc013a778d72a6bdaa6a04dc70d5f22e37",
+      "type": "edits",
+      "patch": "patches/enterpriseMcpPrefill-_nWC5mai.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprise_vpc-D65G9NcF.js",
+      "original": "371bd97e145e2dc8e42e9c0b2b4426fd1ce62c2a3d415c1d36631afc27a9fbb7",
+      "localized": "4e94be628ac6f26c2c82ef82af8b8f15a003983a463552f52c6a7ff1c2d66b8d",
+      "type": "edits",
+      "patch": "patches/enterprise_vpc-D65G9NcF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/enterprises-hg1BVEjF.js",
+      "original": "516399a4af3a9333e4d1e9d60f46ae30034afe36cb6b50f77627f6bfa8e85f37",
+      "localized": "d1eaad6be535b7accaa26e12bb238bc3190ad0f823cbdc700e10a504f05d9867",
+      "type": "edits",
+      "patch": "patches/enterprises-hg1BVEjF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/entry-host-editor-mode-menu-By4_JXI5.js",
+      "original": "4f5d73330ee3f16a7bb8b0fd8e62cd719957dc81f11c66a71b587c3e310cf608",
+      "localized": "d57f083a3af8835b2111c4896c61d734b3cb053a9935bb6678898ddebccd4504",
+      "type": "edits",
+      "patch": "patches/entry-host-editor-mode-menu-By4_JXI5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/entry-host-index-Bi4sREgs.js",
+      "original": "407d6acfa1b79baf7b60ec7c4e9ecee42146b1991e42457a90c312347782fc45",
+      "localized": "1634425353a84bbe875191372af3b816f6da812fe95e6a7bf30f4707c002556f",
+      "type": "edits",
+      "patch": "patches/entry-host-index-Bi4sREgs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/error-lookup-CaO0NpJX.js",
+      "original": "4c50d54c36e1a83d599012b58713314f11015306070f1c38b766494807eca556",
+      "localized": "ef9901b54231da6ee495f707bc4468e03fd871b635d98b9b923e0cd6a2122cd1",
+      "type": "edits",
+      "patch": "patches/error-lookup-CaO0NpJX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/event-renderer-BfY8QMaN.js",
+      "original": "0599d291522719c4e477884016c278dd743ba5cc1da697af902f314861f01c54",
+      "localized": "5eec867b4609ac95d0cdd736917b29b88989a1ddecdbfbb91c2d5eeffa886452",
+      "type": "edits",
+      "patch": "patches/event-renderer-BfY8QMaN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/federal-downloads.index-KWOqndtX.js",
+      "original": "0a1e1cb62109860c045183361a5ceb2cbd5d5db226bb602e13a4e4d6860384aa",
+      "localized": "a447cc8c2ca34308788cc2cead8f0d36b9463ce41877aa83f942729a5966fdf0",
+      "type": "edits",
+      "patch": "patches/federal-downloads.index-KWOqndtX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/files-CYHGWFxb.js",
+      "original": "75195a86ab83c5d3ca281de920ffc78310e1a20d3b4ceb58ed7451cd2f09892a",
+      "localized": "a625335b4dcfa3eb6be7ddfe09e46233f1195c88b451ea192b68df15f49e11a5",
+      "type": "edits",
+      "patch": "patches/files-CYHGWFxb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/first-session-ByczIpS1.js",
+      "original": "3c95576a95ebc648df2454c44646baa6e724d37bb3e1f9d2b00e20ded6d9585e",
+      "localized": "d0bd1a16aa5488d50d4a6bcde5f91ced5e49bc5c1be8daf1056cf283f422c4eb",
+      "type": "edits",
+      "patch": "patches/first-session-ByczIpS1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/fixture-actions-CfQruLER.js",
+      "original": "3dea006ff3d5a714308bf56e392f1401441bc35ba20c9949dcea781eb1616221",
+      "localized": "323b680e9c767f99f4b0aab2a12072f6fc17ae9ede144feb686f3b0eb77a766b",
+      "type": "edits",
+      "patch": "patches/fixture-actions-CfQruLER.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/fixtures-BXGBaoZ-.js",
+      "original": "93eb11f1605f9986888542db4a7b2b0fb6512430d2db8ab6c6e770930d93d5f2",
+      "localized": "e96dda17efb2215c1fdf4108b6589fdef31121a070ffbe1adeaaf9373ad918c4",
+      "type": "edits",
+      "patch": "patches/fixtures-BXGBaoZ-.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/flags-BMdTwe2U.js",
+      "original": "6ff0b9228034ef7997cda50baabe83be72882b71d61a77595b0b69ae714135fe",
+      "localized": "046968cf1fe472dcc8f3e39d7d8665766198bb0f8a9e4d039ac299ab10b2dbe5",
+      "type": "edits",
+      "patch": "patches/flags-BMdTwe2U.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/gateway-BqBYG-C4.js",
+      "original": "1040dbcd0edfc48625c508c6dd87d55b744afa5614de1bef045625ec4962817f",
+      "localized": "f9b5a7e3d318a1314ed6010645c5989fe6b6b0ab1ccbb975adbb490bed967831",
+      "type": "edits",
+      "patch": "patches/gateway-BqBYG-C4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/generate-license-B44nuwWn.js",
+      "original": "eb3c376260850796a2f7e94ad85d4debf3a049bbf5e9e086918748999436bc0e",
+      "localized": "9352f56b326e665b3d961ec2cf55fbf8c2cdf8f2badd2ca85108a67ea859fad0",
+      "type": "edits",
+      "patch": "patches/generate-license-B44nuwWn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/github-SPXNMIGm.js",
+      "original": "f2bc561426cdbff4ee72d2009ed957292464933e5202d46803dd93f9db4cd5eb",
+      "localized": "5fca2458864e35daf60c0cd3b6344ac1f4bbf6ff5343ee69b3e42803cf29ac5a",
+      "type": "edits",
+      "patch": "patches/github-SPXNMIGm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/github-rate-limits-f4RZqoBc.js",
+      "original": "a25b37596664e443d95afb748b1a999940f6ce1a375a99c17d90c57403ec89d9",
+      "localized": "8a62a8750c11a54ccc90114fa1698795c2e10902d72b5d043313d7eb7cdcb4f9",
+      "type": "edits",
+      "patch": "patches/github-rate-limits-f4RZqoBc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/gitlab-CiA28Ugo.js",
+      "original": "d4fc1e54309e102a087cd6089afe8776d46ced74f44525dbb7882413e854f8e6",
+      "localized": "1d572645a1bf0e9d99012134cab5f63626dffcbd9ad4dad1e5861e3c8e514b04",
+      "type": "edits",
+      "patch": "patches/gitlab-CiA28Ugo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/governance-YUE9N0j3.js",
+      "original": "b77592998ce89ef8ce32cc445e66617b896d1142797ca9fc91b56db5f11afeff",
+      "localized": "953ef29cd934813976127f559c54604d3ddcce4d27bcd983423c9edc98aa24f3",
+      "type": "edits",
+      "patch": "patches/governance-YUE9N0j3.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/groups-fJsZcj1V.js",
+      "original": "0f1ad8d7127569df2c9502c48ab3d160a99845fceaaaa4a986230ee8c49a08f1",
+      "localized": "e32df68ba71d9af1916a4687c65efd1fe9a8e70b9fe7ea09f9808123fba7ffb0",
+      "type": "edits",
+      "patch": "patches/groups-fJsZcj1V.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/guardrails-DJET1J13.js",
+      "original": "e0e702e5d9397f5cbbb60fa156940bbe1d69d0635251c0ef6d672c02173a7664",
+      "localized": "4ff74e3ff82025ccde9857238509793312c9694f783ff7b3824a41d8a07e609e",
+      "type": "edits",
+      "patch": "patches/guardrails-DJET1J13.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/host-state-CkCOD7K_.js",
+      "original": "06c0e1fe239c7c545a4a3047337da254d10e79db340aa0c8335143d7fbd84944",
+      "localized": "baf965a9c39f037721e79d55a209aa202c9c8738df24e137705b0fb10a0f757a",
+      "type": "edits",
+      "patch": "patches/host-state-CkCOD7K_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/hybrid-management-C33Dgpmm.js",
+      "original": "8b85d7f1be7f7e8ef7345853db332448ffbad3c8fad31019ee9e225ee6326713",
+      "localized": "0fbebbd89b4e4fae0977100fbe3a894c7241c05377241e3bfcf9d915295acfdc",
+      "type": "edits",
+      "patch": "patches/hybrid-management-C33Dgpmm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/i18n-migration-CuTzHB7R.js",
+      "original": "78c077c405b6b631b06ff645742af476807ddcd84e7b0d0982f4cc4911c80616",
+      "localized": "2a18125136a8b889b4578a5d58673359496a0a4d586033240827a75a1720be9a",
+      "type": "edits",
+      "patch": "patches/i18n-migration-CuTzHB7R.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/impersonate-CCx45Hfy.js",
+      "original": "eee4096e156d486005edfa5e1326cb55a956375e9f619d10757530c351a0764f",
+      "localized": "2dee5bac98c643ca0889b93565b4410612b54729b90e05d11a2ed2045c2861d8",
+      "type": "edits",
+      "patch": "patches/impersonate-CCx45Hfy.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/impersonate-CGsl6fvf.js",
+      "original": "385a8a2d48fdcab43772051f055dd461f8a2d43910c5fce518eabc57e10cfaba",
+      "localized": "bbfea29fa53daa906c3157421452fc9586fe31b40726d0b313371708bc555910",
+      "type": "edits",
+      "patch": "patches/impersonate-CGsl6fvf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/index.es-B2zL2dpN.js",
+      "original": "5272ce7acb4a376108d98a78c2638c8d4a478f8ad4d04a6cb5245666efcc560f",
+      "localized": "19d626cd0f7b8c2982ea77ba32b9778312bb98114c6a63629d4e43316dcf8a45",
+      "type": "edits",
+      "patch": "patches/index.es-B2zL2dpN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/infrastructure-CdATt7eK.js",
+      "original": "fa6d098e80883b7caa846c0a63600cb0baa072e6b629e48799a8e66670f4775d",
+      "localized": "ef1ef6789727953d7f4c910b10245efa79b0189d3b82c4f92a0a088e42b4b514",
+      "type": "edits",
+      "patch": "patches/infrastructure-CdATt7eK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/invitations-BNqkxm-5.js",
+      "original": "a399ae8c9c26f25350e078a64934ab859b700f65e77626f7c45dee8f5c0b3f61",
+      "localized": "af7816172b587474f77097b1a88245c9adeb6f826d65c357e7b2b1ff110f5e6d",
+      "type": "edits",
+      "patch": "patches/invitations-BNqkxm-5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/invite-code-CQ29zDyk.js",
+      "original": "359b5211eb0aed473c5d5e2665c68100cb89b893e2018197270d246aa7f1178f",
+      "localized": "f4de047b942af579ca5597f4f6b51d5955eaea2563436ebe0aa0d0201108a196",
+      "type": "edits",
+      "patch": "patches/invite-code-CQ29zDyk.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/invoices-Ca-lSwg6.js",
+      "original": "4b50d31ce8aa9cdc1289729ce5bca4236db9e4717e510cbd07d207a4da3628a7",
+      "localized": "a1df627893d4abc5b84facf7b8667ddf53b54d4c9bac98ee5767283e21ced94d",
+      "type": "edits",
+      "patch": "patches/invoices-Ca-lSwg6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/jira-6XWA_8lx.js",
+      "original": "4266031aefeeccb009cd8d94661c23e2ddef501ea28a019fad0fa231b8fcbcf7",
+      "localized": "c5025d38d52de2cf50568a29e2060244dbc804bee858d5908b8a97175a7670fb",
+      "type": "edits",
+      "patch": "patches/jira-6XWA_8lx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/jit-access-C6XmA8lG.js",
+      "original": "279d858eda87aa73500f58b23815806389474eda56c9b1e7ae9ae2742eddea54",
+      "localized": "60c64a03d2c9d30647addfa30e73e9d0773582fec3a934d126a7ff969460a4ab",
+      "type": "edits",
+      "patch": "patches/jit-access-C6XmA8lG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/jobs-BPwmiHhg.js",
+      "original": "0d42a2865af18c94877f52d81b809b133aa64c586f7ac642c2370d090b9eb52b",
+      "localized": "aa57015a131b67389e83832e0d8b0f3130dd75523f5791371fc9d164412fe4fc",
+      "type": "edits",
+      "patch": "patches/jobs-BPwmiHhg.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/knowledge-Che3UeFj.js",
+      "original": "6d440a3273d25336219da947bcd11e2c260e27820138b691e80b7adea3307e98",
+      "localized": "ea7012937ab35ea260acc0046a1dd9f0e1516c32755d9cbc71550bae54421dcf",
+      "type": "edits",
+      "patch": "patches/knowledge-Che3UeFj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/knowledge-eEj2eo7V.js",
+      "original": "b46d98275a64177132cb00e463a18f2f1982319bcdc036b5693b7700fa64c84f",
+      "localized": "788e60c7b74410fe334f0c4f5388aa0c06bafe21d39d49a6a56c4e93d649db10",
+      "type": "edits",
+      "patch": "patches/knowledge-eEj2eo7V.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/lease-manager-DK1PVFg6.js",
+      "original": "b9418a253df08448a4edea884036a3b13c0e775f13d86947fb12799f3fa769c8",
+      "localized": "2c542469ad51932e117f5a3f121276785e1b510fc60ee26a72cb6e3c539cc0d0",
+      "type": "edits",
+      "patch": "patches/lease-manager-DK1PVFg6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/lib-initial-CO0fIjTB.js",
+      "original": "c62919a8cd6cccc81a538b5478f01dcd34b873c700582c618285d082129e7baa",
+      "localized": "393b281dcb68a763b8a4979fc79bc13447bdc308dcc9b13da679c630a0c25bc0",
+      "type": "edits",
+      "patch": "patches/lib-initial-CO0fIjTB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/lib-initial-DWfFm2hF.js",
+      "original": "de8afebfff424a4c3c559a0dbc0007f60e90b2e84a5c6a08a87aa7693172a163",
+      "localized": "d95a6a9b23839f6ed3fa59de4da5419fd10b51ca7347e95f63e7e24928f01e58",
+      "type": "edits",
+      "patch": "patches/lib-initial-DWfFm2hF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/lifeguard-evals-CfbQ9iQb.js",
+      "original": "7fb9d6fe12277e1cc3f06d90afc5b93b19c41a7227d75a381ab741951b340475",
+      "localized": "bd69c73727ea5af1fd6a554a09d0fe295ade07baebcecff33ee8f372f283b0c4",
+      "type": "edits",
+      "patch": "patches/lifeguard-evals-CfbQ9iQb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/linear-DHhY7_T5.js",
+      "original": "1e1fb8692d664008a77bf4255819dc4d6a14855a64c1450efbfdb865e623b3b8",
+      "localized": "81bf3c9a9413398f6baa6e1ec480ae0cbb1631c9d68f2793148b927f20cddfcf",
+      "type": "edits",
+      "patch": "patches/linear-DHhY7_T5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/linear-D_5q5SXo.js",
+      "original": "33ec71699828997476cfe64dbefb0e66ff82d481a17bc82a251763de94da9965",
+      "localized": "384652e4de2cf55b65f12dfdbbd3587ebd2badd50b692fbe1497afe01c08b131",
+      "type": "edits",
+      "patch": "patches/linear-D_5q5SXo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/login-COtM8XWd.js",
+      "original": "9c407770903b2a3907da433dd70a30d0af8e6d5a8c7820b3b3054f5dfac6d201",
+      "localized": "0d48e1e1fff848a14c6d3c91e3c274205c221cb68b329a0ae139be071dae65ed",
+      "type": "edits",
+      "patch": "patches/login-COtM8XWd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/logout-BJy4BM1Q.js",
+      "original": "179ea34fff1a834fc8ea48b0afef2b690e4dbdb603321f307629a4ed99da3fc2",
+      "localized": "c00878f710929f9d799d0e4300a6d1d8cba9add32d5ec27bc71351df11dc1f11",
+      "type": "edits",
+      "patch": "patches/logout-BJy4BM1Q.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/marketplace-sync-Dlb0BOHr.js",
+      "original": "b32d17387dca11b497087700a870468628a45c3b4338f456f2e0e347c1cfa0f4",
+      "localized": "1bf962f6db266702a52f5a0c67d9bb1a6c948afa894c7013d1275f31d5ff1558",
+      "type": "edits",
+      "patch": "patches/marketplace-sync-Dlb0BOHr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/members-D3mowa03.js",
+      "original": "439c93453284e52b7d3825450dd0525ec5e6301af3699e90bedf755e3f3f8e2d",
+      "localized": "e682acba38df855b572384a1860ac6cab12a7014890a96f297c0b9f90090716a",
+      "type": "edits",
+      "patch": "patches/members-D3mowa03.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/members-DyT15e2u.js",
+      "original": "3ef143df57fbc695bf6329104e95ab3700ec39271e44260facd795b4d980bc54",
+      "localized": "40fcea1642b387f540f61a5b5395de4273292885a7f49a63faf255a6ce2d3f75",
+      "type": "edits",
+      "patch": "patches/members-DyT15e2u.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/membership-3RGZmrEp.js",
+      "original": "e2644035de2e0bfab3ea13cff9de99b2378490396817aaee901cf01641ae6a76",
+      "localized": "0a19350abaa7829b2310709b93b8e27afd82972a8531f0a2453beef71356a2a6",
+      "type": "edits",
+      "patch": "patches/membership-3RGZmrEp.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/microsoft-teams-BlnwC4n8.js",
+      "original": "04797b3de1b3627e55a0721265542a1db436662e034ae71a7f921eb16b0923a8",
+      "localized": "353641c776c82e090f146e7d6d74c558c0ec2b48cb695e97027468e626882529",
+      "type": "edits",
+      "patch": "patches/microsoft-teams-BlnwC4n8.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/mutations-BeFoyCeK.js",
+      "original": "56e91e286272a273050934a10b94b0878540481ec5671760347e0e5f35ef9569",
+      "localized": "573c44cb0f706022b7b6f5217b8cd94ed60687842dae9f6a3b2a604e93aad9e0",
+      "type": "edits",
+      "patch": "patches/mutations-BeFoyCeK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/networking-DzFS7qmD.js",
+      "original": "98ec32948ced5f4daaec7089df19b0c1d69d9d72e27d50cc2a63176261fded93",
+      "localized": "7c904f36e6d54bf37a7dce1cba40fbb9315a858dd1ba060c565da81337a9747a",
+      "type": "edits",
+      "patch": "patches/networking-DzFS7qmD.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/nivo-line-CcusJhh1.js",
+      "original": "134ead01edd041d98d432c5bbd4d393a60461c7f323c44ff73c0998409874da5",
+      "localized": "32ced3bb684622d375a83779cd1c4abee1331baddae71730fe7bfa7b48e15367",
+      "type": "edits",
+      "patch": "patches/nivo-line-CcusJhh1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/notifications-CWGjc5hz.js",
+      "original": "fa2d65c2a32adafbd7e34f48c7c88fb8d3e0dca6cd3c07e65d525efdda48d96c",
+      "localized": "d0d2d473e91709cea32715f618e8227b3370b50eb95aa0857f154fcf5e781262",
+      "type": "edits",
+      "patch": "patches/notifications-CWGjc5hz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/organizations-D-DOXZsv.js",
+      "original": "5473092b9683364a7687c72a69762d1858defbf929a2683ae71a3bff57c98a82",
+      "localized": "5383cead73fb80aa2d5f5cc6246ba03bad437438b5a83b62541fc0a15042ee0d",
+      "type": "edits",
+      "patch": "patches/organizations-D-DOXZsv.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/organizations-D3185xUr.js",
+      "original": "1b80b3b4db522c8753b2969cad408c9a0c182d684adff1de4c8d199d94673571",
+      "localized": "b165fc5db9bec37f8ba01ed1855d81d4fc3473fb9335b77ff36869297969e667",
+      "type": "edits",
+      "patch": "patches/organizations-D3185xUr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/organizations-DQ7L_CVK.js",
+      "original": "9af675e00fc20151cdc92a850a02b2b89ae6c37de3ba8d89cfd27f21484df716",
+      "localized": "909ee68884740277af851b38570824d98dc84650a2bf5a4e9779cec8e879b324",
+      "type": "edits",
+      "patch": "patches/organizations-DQ7L_CVK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/outposts.connect-B8pKDz4i.js",
+      "original": "a2192a35133004e8f78d7ce54199991c03909bcfb2b5bea92ea40e6b41c103da",
+      "localized": "11d9509db207e3e6c8e507456f814cc3da31503691323f1a9312f71488d8dea7",
+      "type": "edits",
+      "patch": "patches/outposts.connect-B8pKDz4i.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/perf-S6MCX1Ax.js",
+      "original": "f5edd66086f729e2c80bafe72a5bb4ab656ac96458c65b0e676833b5f0f27300",
+      "localized": "7bbaa9c422c495287fc20e9a6b243c37b842ed3b3a8895d9d38b6e18a3e752b7",
+      "type": "edits",
+      "patch": "patches/perf-S6MCX1Ax.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/perforce-CLdRgYZV.js",
+      "original": "ae1d043ff1d3de1908294a92cb751e7f86f356cb5e7d637e14e829ed7b5df19f",
+      "localized": "2c979d1cee2288546c7e21702a21c7966c3aa9809dea35a25a328809d101de94",
+      "type": "edits",
+      "patch": "patches/perforce-CLdRgYZV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/pinned-rebuilds-CXOjDE4o.js",
+      "original": "9cd9ddaf37368568c5e5322e529b24ec25a2b57195e2486f0c32024a8e50c2df",
+      "localized": "477cba6e14faf64de3f4e6293a99a031d5c9e2571b6eb13561eca2fa8a076bd5",
+      "type": "edits",
+      "patch": "patches/pinned-rebuilds-CXOjDE4o.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/plans-7YFSvwij.js",
+      "original": "d4c8bb4bd91b2048b4da670b35235030d1cf7d683c828fde542fcbe30bb82735",
+      "localized": "b7aa80d107a4189ce3c64382633f82f18ab5ac9d910d65faca293ca2b184e5e8",
+      "type": "edits",
+      "patch": "patches/plans-7YFSvwij.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/playbookForm-xfWG8Tvq.js",
+      "original": "b37de0abcb280f6d05a1ef052466719b174efc7cbf1c403ca6061e5aa7820922",
+      "localized": "dac3faa16b63faed3d0c655ab6901dff320a2df253a0957751ee2e40cd77e654",
+      "type": "edits",
+      "patch": "patches/playbookForm-xfWG8Tvq.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/plugin-catalog-lChdN-0P.js",
+      "original": "e07b74dae92293f7185df7a9a30a1dc0837f7937fd1cf0ca3a20ef695b58edca",
+      "localized": "578c785036d18541d66488b62ed0f7f9dd701c95c9c3a0d891b726dd6422bcfe",
+      "type": "edits",
+      "patch": "patches/plugin-catalog-lChdN-0P.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/privacy-Dele2Mhf.js",
+      "original": "3ab9eb16e695dc5ed7f8b843492f5cdfd9dad228236080cdbf61b25767ab8c43",
+      "localized": "55ceee8a3084a1aeef650a35161000e64cdb473b454fb2996011ca5a49b9fdc0",
+      "type": "edits",
+      "patch": "patches/privacy-Dele2Mhf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/processing-DvfDxhYK.js",
+      "original": "d022605eb36e5bfd5b9106d681a06857a95ef0ca80bdccc0a1e3653854f2ffcd",
+      "localized": "92da723124b76af4d5fb42da65cb4d622815a0f991a79a99e367f1539b139a10",
+      "type": "edits",
+      "patch": "patches/processing-DvfDxhYK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/productivity--EtDAq6X.js",
+      "original": "80d92df9bdec3fe9a62817cec63e37f025d06eb7fc0d0a28c3e43db80492d84e",
+      "localized": "1693ebed746d73d73d7dd53f2fd68dd483787f11c80af236d6c54a4278cfaab2",
+      "type": "edits",
+      "patch": "patches/productivity--EtDAq6X.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/queryKeys-p9LM4Ntx.js",
+      "original": "4ad2909dd9fc45c91fd283d8f481979ca4803021cc87ab6b98869433c4aeb52d",
+      "localized": "3c05ce0480d92bb330806143493bf8405ede1a192112a0941304f47ab73c7350",
+      "type": "edits",
+      "patch": "patches/queryKeys-p9LM4Ntx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/referrals-Bx6QsMAX.js",
+      "original": "8a1c2239af110a968b7d46ad8149e0c8ae7044b8aabc7c1fbef633cd21162cb2",
+      "localized": "403c629bca809d9aeede07f35e345d6d44caa96cd33d52ee83a9bda030da0aa1",
+      "type": "edits",
+      "patch": "patches/referrals-Bx6QsMAX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/refresh-Ca-XYKa6.js",
+      "original": "c114b28b710a1c121cf1dab5d52dea5ab355e463dcae4b475d9f84aca5a2335a",
+      "localized": "34b6efe047f17196c709e688280df88e40b315a98686721e0306534c8a466b22",
+      "type": "edits",
+      "patch": "patches/refresh-Ca-XYKa6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/repositories-DsM49jjq.js",
+      "original": "8da42ca766750d3d1a2f57c59e304e94b03af0615dc4b8c7ffa03b101aa5d370",
+      "localized": "b4f733c168d51733fe7c9260d8402596d9234b06fbfe80bedfcd3ed35fa0175d",
+      "type": "edits",
+      "patch": "patches/repositories-DsM49jjq.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/repositories-U66ROZhR.js",
+      "original": "e3c098056b8ac581b0f6c608eadc5876b36f60b538a44c91bffbe8e234393f00",
+      "localized": "586874b82ce14b4473d1f127de78957a46fbdee17e6ca2511a95763b5cea4246",
+      "type": "edits",
+      "patch": "patches/repositories-U66ROZhR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/requests-BErauzmR.js",
+      "original": "e17692fdacf66f878c104348728bf8d4e5f0eeeae8549916aae8401d89afbb4b",
+      "localized": "d12e4d19e0fa21dabe7b4d5d0c451c245c253d2bf760cfe2f468a5c79b182ee8",
+      "type": "edits",
+      "patch": "patches/requests-BErauzmR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/reset-password-D2jrcfyU.js",
+      "original": "fce1d1f222c0255267f5c0bd2f41d7f6723269653ee4fcd64257103c95d4414a",
+      "localized": "7fed7f6c24963b967d400228bc267e8d3f423597e320e97b78d1708316e40753",
+      "type": "edits",
+      "patch": "patches/reset-password-D2jrcfyU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/resources-BJ0_Dd5_.js",
+      "original": "7ca2052e22a1fa644d6310ae693fa852caf3c7f830f0b94e5c025af5158420eb",
+      "localized": "6dd4cf45fde1c85191c77201a11e0426ee731523a182afa405c5629f94f15ba5",
+      "type": "edits",
+      "patch": "patches/resources-BJ0_Dd5_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/review-DaA9CShO.js",
+      "original": "b7eede97a88cedb20a8d7ececbc7c9de380450a16708f00ed83dd1e1526d1e85",
+      "localized": "47feb22bca275c4fb63b2f67c4a9bff182558947423e8d5db66e79bca61c174c",
+      "type": "edits",
+      "patch": "patches/review-DaA9CShO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/review-DyUvQktr.js",
+      "original": "397c36d5f87ac14accec1eb2c553ac5de434e35a951810e77f9ad070595c0f67",
+      "localized": "25a792b976512aa657f145d72d794ce8ca63c44e626d969838501d80d8c113c7",
+      "type": "edits",
+      "patch": "patches/review-DyUvQktr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/roles-BDuhJeoT.js",
+      "original": "3fdb18212d89fd2f7e299479df10164291c6134a4f80adeefc0bf4b90c344dd2",
+      "localized": "050914bac9df23cc14dab0f69ead05aaafbee6faa5aab54badee1c4c77d17f43",
+      "type": "edits",
+      "patch": "patches/roles-BDuhJeoT.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/route-B1dVWgC_.js",
+      "original": "8479a8b0fc0c8fbf5f8b76f235d2bd3b374febbb7d1fbf669c78833567547dd9",
+      "localized": "99664c14d06acab1b4fffe488c250a7ecff6ee13ff58069176b9c2cd139cd6ab",
+      "type": "edits",
+      "patch": "patches/route-B1dVWgC_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/route-CcDNHdny.js",
+      "original": "e422a20ff2c3061518648d0cba310ecdbe560e0eb6639d63f0dd2f3c62d73f6f",
+      "localized": "c942fe2fefc8a11439eccc01345b4ad3508e2f3cd2acd107928a158c36b60eb8",
+      "type": "edits",
+      "patch": "patches/route-CcDNHdny.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/route-DOBm6WHy.js",
+      "original": "f6751e52ea8d55df3dc3abe904dc1679669de1196023fbcc5234a164f96db9b2",
+      "localized": "d828523e87ffba5ef441190dd438c4164d8d81ed78e3e9252829d62fe2957a9d",
+      "type": "edits",
+      "patch": "patches/route-DOBm6WHy.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/route-n9umJXey.js",
+      "original": "d7f9b8c087bc66d444d048c48bfae9cf97bdcf25b6c29ee8cea5ebee0d762e0d",
+      "localized": "4cb6ffdba9917d82408156d803b090fe93d194e7c328d96d3c5b667621e7fd40",
+      "type": "edits",
+      "patch": "patches/route-n9umJXey.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/route-p0BxwNlo.js",
+      "original": "255cc3c9b042a5433c342aca7bcb50173e573f514f3e305418ede02c66f6a0b7",
+      "localized": "784617c14fbf1753fc95e564675991b4b04cbe2c9d6ea473cc3c8a7d0107d0d7",
+      "type": "edits",
+      "patch": "patches/route-p0BxwNlo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/schedules-BT_zhAhA.js",
+      "original": "eedad9562b8163e1e2070bb3ea84ef9e62fe329335e721dd26fc2745ae8c56d4",
+      "localized": "4dadefddf08ca567a954a2b327011bb6266853609cc51a822386387231347df4",
+      "type": "edits",
+      "patch": "patches/schedules-BT_zhAhA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/scm-Dhlx4FUA.js",
+      "original": "5baa81da65bb0086ee6d6fc7e42c64901357071181669ef38d29322efc8dc9e9",
+      "localized": "0a76ffc6c2bade3f067958619d77cb7c5b423f2e15690cd654467b98124c336a",
+      "type": "edits",
+      "patch": "patches/scm-Dhlx4FUA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/security-threats-BD-GIIHL.js",
+      "original": "2fff6a6d8486f13fdde8a64ce32016892cf790aa9e193be19d7d4d6104d100df",
+      "localized": "ec8cf813f551557c3987ae7888f57d164cc2c6e6b05f7d122d4d8ee931c5b02b",
+      "type": "edits",
+      "patch": "patches/security-threats-BD-GIIHL.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/segmented-bar-B6EExbCH.js",
+      "original": "18cd00202bdc0a31cd32faa6b39d5eba1cb254150ee2771993762bc260c424ea",
+      "localized": "ff4c8d4305350230348190559b70ce61d5648cecb5d8487cebeb137a0da37613",
+      "type": "edits",
+      "patch": "patches/segmented-bar-B6EExbCH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/select-org-CMRxyD6L.js",
+      "original": "8f0634c55fd6cec7047ee63426635dcb4d817506d52c65f506756ee7fd888370",
+      "localized": "971ba5f5fe57c467d596f5043225fe6ed6f44795474cdb54d975b4cd9b69cae6",
+      "type": "edits",
+      "patch": "patches/select-org-CMRxyD6L.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/sequence-sync-DmUiYD5d.js",
+      "original": "1243dd8b4a0d8b3f63c9bf8e6de0214e5207120f144eb3940b3679df61bdb2a0",
+      "localized": "c290263c6f66ac0ec6dd1432d851cd455bb59ef459219b440081e6f872152b05",
+      "type": "edits",
+      "patch": "patches/sequence-sync-DmUiYD5d.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/session-analysis-BOOsOVkV.js",
+      "original": "4017cec25bd32dc416e93a0390aa22d4fa21d4fa90acf7888ed45f834ba41e9e",
+      "localized": "5ab589587c6e283012f523afe489fffa30fe59db6480ef98c20e5fa37f575e19",
+      "type": "edits",
+      "patch": "patches/session-analysis-BOOsOVkV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/session-groups-4kgFqn_W.js",
+      "original": "b1b253be5a4b1e8d4c15b7404f00b13763a245c0c60b533567d4b0f9a452b25f",
+      "localized": "e59c264de8a57d427a23af335acbb41e620f3091798e8b1cd2dd4faa1b3a129d",
+      "type": "edits",
+      "patch": "patches/session-groups-4kgFqn_W.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/session._sessionId-BCVcz7fJ.js",
+      "original": "f14f4f51cf65f9728061df2e21ab37a7723620c14335c1490dda4ad529a678ca",
+      "localized": "0b2cc3a5b031f975c384a732d298177beabad65e3077bc88f32f59ea48f87b6b",
+      "type": "edits",
+      "patch": "patches/session._sessionId-BCVcz7fJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/sessions-ZxnHLtVn.js",
+      "original": "dcf4c0ef0cea36e7918c628aa3201fc8b1f187588ef5638e489032c1ee98ce7c",
+      "localized": "044e863675156bf1ed20484f1248334b901143f7f106ca897b02ad1b51df0b30",
+      "type": "edits",
+      "patch": "patches/sessions-ZxnHLtVn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/shared-CsOhf8Z5.js",
+      "original": "820e7736e2963ed6ee5017dc1fb1e6636e17a85d84ca323a522a721d8b317be0",
+      "localized": "e5e4dab33b2121dddebd5e6c4ac09436348ff81b1e88893b3b31e7e390ed5ecd",
+      "type": "edits",
+      "patch": "patches/shared-CsOhf8Z5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/shared-DL_lZvkA.js",
+      "original": "9c25a6ba32f5618d7f08727e6b8fcf5b4c37539a3d5792bccf2e0fd54893945e",
+      "localized": "ca6b2664c1d3c558a72fd3b7cee49b7bf26ea7246bddde3b2d51f14cfb56dcb8",
+      "type": "edits",
+      "patch": "patches/shared-DL_lZvkA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/shared-DfSGaGH4.js",
+      "original": "1a04f8cef7c297721c07ab9bcbe6cbeb5012ccf7ba7bf8c20260677f5dab09b0",
+      "localized": "e922e7e182d4b2674012ae6dc812d12b29e020f05aff30852e4d8a78d4decae3",
+      "type": "edits",
+      "patch": "patches/shared-DfSGaGH4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/show-auth-code-CMSEN3Im.js",
+      "original": "ffecb4576a3d9a25ac0a3277bf0d1da5fb48461f8305dd6a8a193bf7f5949d21",
+      "localized": "721ecf6d86b226aab793ec319d2ddc27d6a2466f1aa1fb921014b42a355d362e",
+      "type": "edits",
+      "patch": "patches/show-auth-code-CMSEN3Im.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/signup-D4avG-Oj.js",
+      "original": "d9c06fc969c340e67508280e85160a3e1149d73e526b9855dd2353f9f749470a",
+      "localized": "ee54c24724d3589b2e5e580fa23726a7b92b2417a5ef8185537b7ca62d22e5db",
+      "type": "edits",
+      "patch": "patches/signup-D4avG-Oj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/site-banner-D65YmfkA.js",
+      "original": "bf04362e814ab6567225a59dfb4dc9941bfade7e3ff7cbf26897350e5c19d43f",
+      "localized": "e42a4c9dfa6a901d986c2525a06a8cbc15c2c3016d1dd094fb52913ac5359bb8",
+      "type": "edits",
+      "patch": "patches/site-banner-D65YmfkA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/slack-_XTbDHXs.js",
+      "original": "ff5cd54d7f8fda48abf93b7052f11c18801992c5d6193ec6c61421a80548230c",
+      "localized": "3fab4149e680bff31a53268a483df7672e410b7b1652ed38dd99e78801b3e500",
+      "type": "edits",
+      "patch": "patches/slack-_XTbDHXs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/snapshot-build-jobs-DxU5vsHO.js",
+      "original": "5620dd5a14963462be774600edfaf6cda2257e7560ff9a15558a0b61775b6081",
+      "localized": "70bede8dbb14a0e525a919b5260233ccdf0c95d5588666ba784cb8f268117b6a",
+      "type": "edits",
+      "patch": "patches/snapshot-build-jobs-DxU5vsHO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/stats-row-DCJDak1K.js",
+      "original": "1b8af5ac8395122f45619226793786db920ff3ddf5054fea44bde6905365c331",
+      "localized": "b81e0c03766e2c112338e96717a05d584b9a0f8bca4db8543c7ac1b1656a6c26",
+      "type": "edits",
+      "patch": "patches/stats-row-DCJDak1K.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/storage-migrations-D0lcOCJZ.js",
+      "original": "41f192df54c58dad2fe6c4c384122d18f30bb93b65dc125f00fb0cd281f523c4",
+      "localized": "e146eb2af736fa40bc139c3cc1d9d5ce1cd0aebea864d545fa7d0a38bd59af56",
+      "type": "edits",
+      "patch": "patches/storage-migrations-D0lcOCJZ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/streaming-markdown-demo-fRLADBlE.js",
+      "original": "165ca75272b18abd8055a7aa248f0380a1dce46f99f639c462943cb5497eed1f",
+      "localized": "cb45cddeafe10e802c6760aeda9fec9b878b11850e4772513752a11980aeb30c",
+      "type": "edits",
+      "patch": "patches/streaming-markdown-demo-fRLADBlE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/success-B0KenkOE.js",
+      "original": "831c3e7f28e0c28c4f0c8e3549064b841ba9a90537812b59976d430d8a10c58a",
+      "localized": "fcb1256af4dfd0c719250aba4bdfb5050b75fa80edc8ea9efb9c8df168e915d2",
+      "type": "edits",
+      "patch": "patches/success-B0KenkOE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/support-tools-aikVe_jH.js",
+      "original": "2eed952a8980d3bf548e0bb0890ff54a0e7ac2fbfadf8c289d1948b37b813f60",
+      "localized": "202d2d136970186e289fb76526d79dba8e4d56f0b3d9a643a0398db0732f8dc5",
+      "type": "edits",
+      "patch": "patches/support-tools-aikVe_jH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/support-z1V9Y9Ir.js",
+      "original": "04033b90139fb6ae58f728e51c087ccbabe57bc54d53f105a670b48d157c09b5",
+      "localized": "03298864eedbf7d7d957da0ce3e3ba1232d2fff4e098a412e27d4ee4a938f280",
+      "type": "edits",
+      "patch": "patches/support-z1V9Y9Ir.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/teams-graph-subscriptions-A_dz_Ujz.js",
+      "original": "f3e8cf4cc76af29104a24b6ff08edd510014d56712217a599593b3205d314240",
+      "localized": "d3610fca8d16f8d0b65561721cb10da4885d213feda019a04a6b5e41177fbb94",
+      "type": "edits",
+      "patch": "patches/teams-graph-subscriptions-A_dz_Ujz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/timeseries-DwMWrVe_.js",
+      "original": "2abcddccabe4dfdba48d28a3e906ee5574cdd61cecb74fef3580c15955faee55",
+      "localized": "25e07fe1ad78f1b192080903def37f4b399a39c34dc76b253f8c97e3e2af0d43",
+      "type": "edits",
+      "patch": "patches/timeseries-DwMWrVe_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/transcript-gallery-DeDr2RJF.js",
+      "original": "10ebd2c92019a4616e302d96f61c928a76f4e5263a5f63572948e52180861a07",
+      "localized": "a8200f698805dad62c2c0d5845b4d70ce2d3d045d88970ebac60bb47d1216c6e",
+      "type": "edits",
+      "patch": "patches/transcript-gallery-DeDr2RJF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/unified_.wiki.index-CMX12tsc.js",
+      "original": "c97b17d26db21e24a35f15a992cae53ace65100f61d3a0eca65cd713555fc42e",
+      "localized": "ea96509585b0bca61870ecde0661a1f7aa6c5387405c209b89a87a2c2b810fa0",
+      "type": "edits",
+      "patch": "patches/unified_.wiki.index-CMX12tsc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/upgrade-DE539jYx.js",
+      "original": "a563e425f3ae8d9e028ea8ad002ef8feb3a03863978c4011365ee572f01ac40c",
+      "localized": "9a64a5273367b2ce90037272486e7a4b3e9081ab0f34185b27f0216c43e57166",
+      "type": "edits",
+      "patch": "patches/upgrade-DE539jYx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/usage-SFPAiQUn.js",
+      "original": "5f2857a669b89b0123b9926dcb1baba475ab5d7ad00d025d121721962800d3ac",
+      "localized": "451129e707806ca002f7a4c19b14ee0b9ccf235dee0fba48980e25fd0f30e621",
+      "type": "edits",
+      "patch": "patches/usage-SFPAiQUn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/usage-policies-CNbVmSfr.js",
+      "original": "bfe27627ef2210f0653afafada240cd408e2873c21bfcd711c1e53d010063d0e",
+      "localized": "56620d04d768ec1a2ecaeead43e5ca3bc01bfc6f4e8fbec0646c4922398a5ccd",
+      "type": "edits",
+      "patch": "patches/usage-policies-CNbVmSfr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useBitbucket-CnWN-Cwm.js",
+      "original": "25a743a618c85b64c6982907e781357a22f1dfb51371e35f248fff42bc574d4e",
+      "localized": "7189dca5c833a98f7e1a12e073ac6a4ce757c7b420a4c065ea2bfbec40d28397",
+      "type": "edits",
+      "patch": "patches/useBitbucket-CnWN-Cwm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useCostQueries-BSW4naDt.js",
+      "original": "c6b5ecb7629b770d8b6726a90ecebca23840e6e868b5793a51db6b8d95a2adfa",
+      "localized": "b2034d00dc45fb875166b6960aff95e8a838b2099007654bc62196fd45e12a47",
+      "type": "edits",
+      "patch": "patches/useCostQueries-BSW4naDt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useImpersonateAction-B46HFL_6.js",
+      "original": "bb6011b40adab0a3487308acf8c34c788a4646cb609775360034c58ccd35225d",
+      "localized": "3d05537701eaaf2ef448596bafda7ae3de5796e531e48bf67457ad8692131035",
+      "type": "edits",
+      "patch": "patches/useImpersonateAction-B46HFL_6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useLeaveBoard-DoiOPrrd.js",
+      "original": "1d183a92c4f6d55fe2e86ea221e84ad2bee8ba2dc373a0948a40a96f50b74c32",
+      "localized": "de91c32f564f5e3055c76355ffd0ab22cff0372b8686a24592e8dad46f33c939",
+      "type": "edits",
+      "patch": "patches/useLeaveBoard-DoiOPrrd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useMutation-blIog1u0.js",
+      "original": "d002fea70f4f498fee8f0508e0e8805effc557b2e8ba9cb58f18a3cf1dc20c62",
+      "localized": "4b0d0ed582d3c5c2f6a0c45008a00045c5377f65d4ad0fe51876b775942366e0",
+      "type": "edits",
+      "patch": "patches/useMutation-blIog1u0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useMutation-yKOOv4bs.js",
+      "original": "32f27be2fb278c229e190234ec9aa76923e23f8bc4f5f43f984821337b81b132",
+      "localized": "6daee0804742ecd4c862a22a222a20524e235608d09f9d7e8cf5f3978865c1b1",
+      "type": "edits",
+      "patch": "patches/useMutation-yKOOv4bs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useQuery-B8uekFHi.js",
+      "original": "62b5b3ce1365f834ef5993986e728c0420e31086f6931f0d7a4f6f98ba3f8cbf",
+      "localized": "639df440af720f2d951a191ec350eeaedd86b4a2ebfc66715382cba3ef40d59b",
+      "type": "edits",
+      "patch": "patches/useQuery-B8uekFHi.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useQuery-D68Ue0oA.js",
+      "original": "e95e0f58e567f944ec153f679332114906944c6bdb1169b9ddeb16e77a5b010e",
+      "localized": "bc8e5d8b3ebf925f1fb034674ef95dfdc1ab8f6f1427604f2a5714e6cd5fa1e1",
+      "type": "edits",
+      "patch": "patches/useQuery-D68Ue0oA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useQuery-DRMdDoKZ.js",
+      "original": "ecbfa76fd2d6ad76e52c2bf19db4019e1dabf6f05987284fb0df779bd5dd35dc",
+      "localized": "8db9042612dacd8b48e3f081acb478bb187b4586f0549d570067aabd01d6ae1e",
+      "type": "edits",
+      "patch": "patches/useQuery-DRMdDoKZ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useSessionStatusPill-CoTLheWf.js",
+      "original": "f3cafaec8af2df67003eb792c06c809a41f0c5b339d0c0329852d7ec443fe894",
+      "localized": "624c3162e3d20b07845c4388ea70b59f28a79203eacfae40a352395298c51435",
+      "type": "edits",
+      "patch": "patches/useSessionStatusPill-CoTLheWf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useSubmitMCPInstallation-BTSanVXf.js",
+      "original": "5574815726c8b8dd8c2cabc0d327b17d2281b83fda3e42ef5e5db0444d70c0ed",
+      "localized": "a3844b264ef2754e3833ca48489e5af0d586aeaaf47cee895b539ab933a8879a",
+      "type": "edits",
+      "patch": "patches/useSubmitMCPInstallation-BTSanVXf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/useWorkspaceTabPanelState-DZ5nJVRY.js",
+      "original": "355353e56e22a20496fc7c8bbe0fc72332ac8254c07a76f96f7cc2ed63a9aec0",
+      "localized": "5043af7644549b99cf044882b23e116ce39ca2ce4a1ad57eb4878b7e3e0739ff",
+      "type": "edits",
+      "patch": "patches/useWorkspaceTabPanelState-DZ5nJVRY.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/users-DjxDo1Ey.js",
+      "original": "c675db758920e950105738601839a9afe12096a1398923c65fb59b70612ba2d8",
+      "localized": "1d4874a7c7199b156714a7723420149184a1cf23b5a61354e5ac2bb35869b933",
+      "type": "edits",
+      "patch": "patches/users-DjxDo1Ey.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/users-DnAo-3TW.js",
+      "original": "b9669b26022a1e8fa31b800fa0ff98584d186a75025eab3c69968de6933db9a2",
+      "localized": "69415188be78ff2742c3af125893157201846697024f43acff69b78c4075953e",
+      "type": "edits",
+      "patch": "patches/users-DnAo-3TW.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/validation-DGhWvFmH.js",
+      "original": "54302a10227610113cac19b68195013ddac9064f9391ab3b31125aadc661cf7c",
+      "localized": "10bbd1aec034a479644a27042e38f4d47fb00fb2b2786e3a82159c5c9e4a2443",
+      "type": "edits",
+      "patch": "patches/validation-DGhWvFmH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/visibilityHelp-Cnic9huD.js",
+      "original": "8bad4741de4fab8d332009cda44f691933afa9542658d5d3550c8443f3bcb367",
+      "localized": "fbde66605df3f797fefbdd14ef68117dd9f998705e6029b05c72ae42364228e6",
+      "type": "edits",
+      "patch": "patches/visibilityHelp-Cnic9huD.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/vpc-BTdpRW4K.js",
+      "original": "f72bd60cf9babf1a3ea5b971e8543c9ff4a1e0ef3b13715196ea62e3ff8a0403",
+      "localized": "c1012f7dbe81eec2fac6ab1baafb2fa809698f2c616c92ab4c16d306589b0509",
+      "type": "edits",
+      "patch": "patches/vpc-BTdpRW4K.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/vpc-MCQvZ1hE.js",
+      "original": "09a76cd3e1c92d76c2bb2b44d58c360e85a2ef30dbdc91ed05b7c205e4d27cd3",
+      "localized": "ee071c3cab9717bc547cd364d6b46355672d3d8da4cfe933b2c86b140acc5e9d",
+      "type": "edits",
+      "patch": "patches/vpc-MCQvZ1hE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/vpc-enterprise-B8SU_H7V.js",
+      "original": "113e68b1fec50f8b9830a86577f090e63cd5ce3e5e626beaacc7f0988768b229",
+      "localized": "4c20dfbc0b75b95db53b8de08f9e65ef154028081ebf8e1861a702068c058e00",
+      "type": "edits",
+      "patch": "patches/vpc-enterprise-B8SU_H7V.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/waterfall-bii6kBHa.js",
+      "original": "e358c6bf6e60e8a5536525a39a35dc016b0f06e60a1b0292be1309c92a3b0ecd",
+      "localized": "43e42d07e96e622eb2a24858eb728d2d52a190e6233e265ab9d50d763ee64449",
+      "type": "edits",
+      "patch": "patches/waterfall-bii6kBHa.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/wiki-BYMWc0sQ.js",
+      "original": "2af739349ac008210b4bcf1c193e6e58c7d19722beb73ae008f394b96a0da9c8",
+      "localized": "0e772d62d91fc8ec2fe7a3325715b9b388fc1225fab34d37b175c58a21c2e7eb",
+      "type": "edits",
+      "patch": "patches/wiki-BYMWc0sQ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/workshop-readiness-A3Ruj4QC.js",
+      "original": "f55d6b12b78dbc2907b294fbcb3aadb1e597f39b9376e82f7015b0e34fa8d682",
+      "localized": "29382371eddcc8551db25be1d7afc34a9732bf802086720298b2da733758dac7",
+      "type": "edits",
+      "patch": "patches/workshop-readiness-A3Ruj4QC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/windsurf-chat-client/index.js",
+      "original": "014bb1a40ae726740f543fa3f52ddeccc7bebb2534851f587e69801fd404fe1f",
+      "localized": "84defcdc4640282e9d38db98fcfaa25037f98ead3b291526068f4acc4e1b409a",
+      "type": "edits",
+      "patch": "patches/embedded-chat-index.json"
+    },
+    {
+      "path": "out/vs/workbench/workbench.desktop.main.js",
+      "original": "0f7daae4d14148f247a918a45878e2d0170bd7c998dd9762aa46dacd6213be4d",
+      "localized": "6b577a15e983bf3c1b8988050a1b90de127b659da3cd5832f905ea92d828ef2b",
+      "type": "edits",
+      "patch": "patches/workbench.desktop.main.js.json"
+    },
+    {
+      "path": "product.json",
+      "original": "c5eaed21f43153d8a9d12282761340a505f6fcac794f6553c78859ee199cb5c4",
+      "localized": "e5bcdf97c6523b189001937a136a852edbe4bde708ffba7e0f422b7086bbe6c2",
+      "type": "product"
+    }
+  ]
+}

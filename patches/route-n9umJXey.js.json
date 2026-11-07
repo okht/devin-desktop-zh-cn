@@ -1,0 +1,16 @@
+[
+[3950,10,"(__devinDesktopZhLocale()?\"导航\":`Navigate`)"],
+[4080,7,"(__devinDesktopZhLocale()?\"关闭\":`Close`)"],
+[4208,8,"(__devinDesktopZhLocale()?\"选择\":`Select`)"],
+[6302,22,"(__devinDesktopZhLocale()?\"搜索设计系统\":`Search design system`)"],
+[6792,0,"(__devinDesktopZhLocale()?\"搜索设计系统...\":"],
+[6817,0,")"],
+[7160,19,"(__devinDesktopZhLocale()?\"未找到结果。\":`No results found.`)"],
+[8402,22,"(__devinDesktopZhLocale()?\"搜索设计系统\":`Search design system`)"],
+[8512,22,"(__devinDesktopZhLocale()?\"搜索设计系统\":`Search design system`)"],
+[8605,44,"(__devinDesktopZhLocale()?\"切换到灯光模式\":`Switch to light mode`):(__devinDesktopZhLocale()?\"切换到暗模式\":`Switch to dark mode`)"],
+[8739,44,"(__devinDesktopZhLocale()?\"切换到灯光模式\":`Switch to light mode`):(__devinDesktopZhLocale()?\"切换到暗模式\":`Switch to dark mode`)"],
+[8892,46,"(__devinDesktopZhLocale()?\"禁用高对比度\":`Disable high contrast`):(__devinDesktopZhLocale()?\"启用高对比度\":`Enable high contrast`)"],
+[9028,46,"(__devinDesktopZhLocale()?\"禁用高对比度\":`Disable high contrast`):(__devinDesktopZhLocale()?\"启用高对比度\":`Enable high contrast`)"],
+[11506,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

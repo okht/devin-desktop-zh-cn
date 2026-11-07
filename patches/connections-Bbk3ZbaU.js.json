@@ -1,0 +1,15 @@
+[
+[9641,0,"(__devinDesktopZhLocale()?`OAuth登录失败：${e.message}`:"],
+[9675,0,"):(__devinDesktopZhLocale()?\"无法启动 OAuth 关联。请重试或联系你的管理员。\""],
+[9745,0,")"],
+[23327,0,"(__devinDesktopZhLocale()?\"断开 Pylon 连接失败\":"],
+[23355,0,")"],
+[31798,27,"(__devinDesktopZhLocale()?\"Devin 桌面版\":`Devin Desktop`),description:(__devinDesktopZhLocale()?\"使用此账户连接 Devin 桌面版\""],
+[31864,0,")"],
+[34226,17,"(__devinDesktopZhLocale()?\"无集成\":`No integrations`)"],
+[34347,0,"(__devinDesktopZhLocale()?\"缺少某个集成？\":"],
+[34372,0,")"],
+[34531,0,"(__devinDesktopZhLocale()?\"缺少某个集成？\":"],
+[34556,0,")"],
+[35861,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

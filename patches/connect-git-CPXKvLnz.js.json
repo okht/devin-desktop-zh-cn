@@ -1,0 +1,12 @@
+[
+[1228,40,"(__devinDesktopZhLocale()?\"一切就绪\":`You're all set`)}),(0,I.jsx)(p,{children:(__devinDesktopZhLocale()?\"您的Git提供者与Devin已连接。请告知您的队友他们已解除封锁——或者您也可以亲自尝试使用Devin。\""],
+[1389,0,")"],
+[1610,15,"(__devinDesktopZhLocale()?\"立即尝试使用 Devin\":`Try Devin now`)"],
+[1762,0,"(__devinDesktopZhLocale()?\"管理 Git 连接\":"],
+[1786,0,")"],
+[1838,0,"(__devinDesktopZhLocale()?\"连接您的Git提供商\":"],
+[1865,0,")"],
+[1909,0,"(__devinDesktopZhLocale()?\"一位队友让你将你组织的仓库连接到 Devin 上，这样团队就可以开始工作了。\":"],
+[2015,0,")"],
+[2387,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

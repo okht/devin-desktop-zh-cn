@@ -1,0 +1,6 @@
+[
+[517,8,"(__devinDesktopZhLocale()?\"取消\":`Cancel`)"],
+[913,7,"(__devinDesktopZhLocale()?\"类型 \":`Type `)"],
+[974,13,"(__devinDesktopZhLocale()?\" 确认\":` to confirm`)"],
+[1824,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

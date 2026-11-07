@@ -1,0 +1,9 @@
+[
+[3745,17,"(__devinDesktopZhLocale()?\"检测到问题\":`Detected issues`)"],
+[4621,10,"(__devinDesktopZhLocale()?\"时间线\":`Timeline`)"],
+[5682,19,"(__devinDesktopZhLocale()?\"高影响问题\":`High impact issue`)"],
+[5868,19,"(__devinDesktopZhLocale()?\"重大事件\":`Significant event`)"],
+[6054,21,"(__devinDesktopZhLocale()?\"中等影响问题\":`Medium impact issue`)"],
+[6242,16,"(__devinDesktopZhLocale()?\"提供的值\":`Value provided`)"],
+[6405,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,7 @@
+[
+[2181,27,"(__devinDesktopZhLocale()?\"删除板？\":`Delete board?`),description:(__devinDesktopZhLocale()?\"此板上的所有票证将永久删除。这无法撤销。\""],
+[2288,0,")"],
+[2606,7,"(__devinDesktopZhLocale()?\"类型 \":`Type `)"],
+[2687,13,"(__devinDesktopZhLocale()?\" 确认\":` to confirm`)"],
+[3453,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

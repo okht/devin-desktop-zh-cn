@@ -1,0 +1,13 @@
+[
+[18972,9,"(__devinDesktopZhLocale()?\"连接\":`Connect`)"],
+[19701,9,"(__devinDesktopZhLocale()?\"连接\":`Connect`)"],
+[21003,0,"(__devinDesktopZhLocale()?`无法安装${Cr(e)}`:"],
+[21031,0,")"],
+[21310,27,"(__devinDesktopZhLocale()?\"安装\":`Install`),searchPlaceholder:(__devinDesktopZhLocale()?`搜索 ${h.length} 插件`"],
+[21366,0,")"],
+[21394,0,"(__devinDesktopZhLocale()?\"无法加载插件。暂时跳过，稍后从市场添加。\":"],
+[21472,0,")"],
+[25606,7,"(__devinDesktopZhLocale()?\"开始\":`Start`)"],
+[27964,10,"(__devinDesktopZhLocale()?\"正在思考\":`Thinking`)"],
+[31919,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

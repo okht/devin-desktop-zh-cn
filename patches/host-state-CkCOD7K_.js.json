@@ -1,0 +1,5 @@
+[
+[2238,0,"(__devinDesktopZhLocale()?\"此渲染器中未加载内容\":"],
+[2276,0,")"],
+[2484,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,4 @@
+[
+[822,19,"(__devinDesktopZhLocale()?\"正在启动会话…\":`Starting session…`)"],
+[2876,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

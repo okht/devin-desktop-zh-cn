@@ -1,0 +1,15 @@
+[
+[2833,0,"(__devinDesktopZhLocale()?\"该会话没有发现任何知识事件。\":"],
+[2878,0,")"],
+[3050,9,"(__devinDesktopZhLocale()?\"刷新\":`Refresh`)"],
+[3350,9,"(__devinDesktopZhLocale()?\"刷新\":`Refresh`)"],
+[3538,6,"(__devinDesktopZhLocale()?\"名称\":`Name`)"],
+[3621,6,"(__devinDesktopZhLocale()?\"规模\":`Size`)"],
+[3807,18,"(__devinDesktopZhLocale()?\"检索原因\":`Retrieval Reason`)"],
+[3950,51,"(__devinDesktopZhLocale()?\"注入方法\":`Injection Method`)}),(0,j.jsx)(O,{label:(__devinDesktopZhLocale()?\"时间戳\":`Timestamp`)"],
+[5358,23,"(__devinDesktopZhLocale()?\"返回到会话管理界面\":`Back to session admin`)"],
+[5493,18,"(__devinDesktopZhLocale()?\"知识事件\":`Knowledge Events`)"],
+[5828,0,"(__devinDesktopZhLocale()?\"无法加载此会话的事件。\":"],
+[5872,20,"):(__devinDesktopZhLocale()?\"加载事件...\":`Loading events...`)"],
+[6149,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

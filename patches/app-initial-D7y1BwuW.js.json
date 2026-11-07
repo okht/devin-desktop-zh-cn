@@ -1,0 +1,9 @@
+[
+[95521,49,"(__devinDesktopZhLocale()?`对仓库设置进行以下修改被拒绝：${r?.type??``}、"],
+[95616,9,"、"],
+[95656,0,":`Modifications to repository setup ${r?.type??``}${r?.project_path?` for ${r.project_path}`:``} rejected${e.reason?`: ${e.reason}`:``}`)"],
+[97339,0,"(__devinDesktopZhLocale()?\"请等待待处理的更改完成处理。\":"],
+[97388,0,")"],
+[97713,16,"(__devinDesktopZhLocale()?\"无法编辑\":`Failed to edit`)"],
+[110843,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

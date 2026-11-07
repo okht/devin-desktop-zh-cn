@@ -1,0 +1,6 @@
+[
+[469,16,"(__devinDesktopZhLocale()?\"VPC管理\":`VPC Management`)"],
+[549,0,"(__devinDesktopZhLocale()?\"为组织创建和管理虚拟私有云。他们需要在之后运行Terraform。您需要提供返回的认证令牌。\":"],
+[710,0,")"],
+[869,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

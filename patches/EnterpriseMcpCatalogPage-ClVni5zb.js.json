@@ -1,0 +1,13 @@
+[
+[904,0,"(__devinDesktopZhLocale()?\"新建企业 MCP 服务器\":"],
+[931,12,"),description:(__devinDesktopZhLocale()?\"配置一次服务器——目标组织中的会话会自动获得该服务。从目录中选择一台服务器，或者添加自定义MCP。\""],
+[1087,0,")"],
+[1182,16,"(__devinDesktopZhLocale()?\"添加自定义 MCP\":`Add custom MCP`)"],
+[1247,16,"(__devinDesktopZhLocale()?\"服务器目录\":`Server catalog`)"],
+[1329,19,"(__devinDesktopZhLocale()?\"搜索服务器...\":`Search servers...`)"],
+[1446,10,"(__devinDesktopZhLocale()?\"正在加载…\":`Loading…`)"],
+[1539,0,"(__devinDesktopZhLocale()?\"没有服务器与您的搜索匹配。您仍然可以添加自定义MCP。\":"],
+[1602,0,")"],
+[1858,14,"(__devinDesktopZhLocale()?\"新实例\":`New instance`)"],
+[2195,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

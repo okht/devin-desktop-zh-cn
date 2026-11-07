@@ -1,0 +1,19 @@
+[
+[1169,23,"(__devinDesktopZhLocale()?\"组织已恢复\":`Organization restored`)"],
+[1324,0,"(__devinDesktopZhLocale()?`恢复组织失败: ${e}`:"],
+[1362,0,")"],
+[1565,15,"(__devinDesktopZhLocale()?\"组织\":`Organizations`)"],
+[1761,0,"(__devinDesktopZhLocale()?`${u(T.total)}组织${T.total===1?``:`s`}`:"],
+[1810,0,")"],
+[2108,14,"(__devinDesktopZhLocale()?\"显示已删除\":`Show deleted`)"],
+[2177,0,"(__devinDesktopZhLocale()?\"搜索组织...\":"],
+[2202,0,")"],
+[2240,22,"(__devinDesktopZhLocale()?\"搜索组织\":`Search organizations`)"],
+[3617,0,"(__devinDesktopZhLocale()?\"未找到组织\":"],
+[3641,0,")"],
+[4868,10,"(__devinDesktopZhLocale()?\"无限制\":`No Limit`)"],
+[5020,9,"(__devinDesktopZhLocale()?\"恢复\":`Restore`)"],
+[5099,8,"(__devinDesktopZhLocale()?\"活跃\":`Active`)"],
+[5141,17,"(__devinDesktopZhLocale()?\"组织 ID\":`Organization ID`)"],
+[5717,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,5 @@
+[
+[3952,11,"(__devinDesktopZhLocale()?\"打开菜单\":`Open menu`)"],
+[10247,18,"(__devinDesktopZhLocale()?\"返回到会话\":`Back to sessions`)"],
+[12076,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

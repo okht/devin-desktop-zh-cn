@@ -1,0 +1,16 @@
+[
+[100564,21,"(__devinDesktopZhLocale()?`无法完成${a} ${n}`:`Could not ${a} ${n}`)"],
+[102350,42,"(__devinDesktopZhLocale()?`已停用 ${e.name}`:`Deactivated ${e.name}`):t.layer.scopeName?(__devinDesktopZhLocale()?`已移除 ${e.name} 从 ${t.layer.scopeName}`:"],
+[102437,20,"):(__devinDesktopZhLocale()?`删除 ${e.name}`:`Removed ${e.name}`)"],
+[102642,20,"(__devinDesktopZhLocale()?`激活 ${Lg(e)}`:`Activated ${Lg(e)}`)"],
+[117681,0,"(__devinDesktopZhLocale()?\"在保存之前修复错误\":"],
+[117711,0,")"],
+[117914,0,"(__devinDesktopZhLocale()?\"保存清单失败\":"],
+[117939,0,")"],
+[172527,0,"(__devinDesktopZhLocale()?\"无法保存工具权限\":"],
+[172563,0,")"],
+[172797,0,"(__devinDesktopZhLocale()?`无法列出工具：${e.message}`:"],
+[172833,0,")"],
+[190625,13,"(__devinDesktopZhLocale()?\"新建会话\":`New session`)"],
+[244656,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

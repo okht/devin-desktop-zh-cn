@@ -1,0 +1,4 @@
+[
+[404,10,"(__devinDesktopZhLocale()?\"酒吧列表\":`Bar list`)"],
+[1557,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

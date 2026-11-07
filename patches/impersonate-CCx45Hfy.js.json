@@ -1,0 +1,8 @@
+[
+[966,0,"(__devinDesktopZhLocale()?\"无法启动模拟： \":"],
+[999,0,")"],
+[1149,0,"(__devinDesktopZhLocale()?\"无法启动角色扮演：缺少 user_id。\":"],
+[1197,0,")"],
+[1322,9,"(__devinDesktopZhLocale()?\"返回\":`Go back`)"],
+[1558,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

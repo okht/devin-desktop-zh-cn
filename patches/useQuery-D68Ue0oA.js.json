@@ -1,0 +1,7 @@
+[
+[1813,0,"(__devinDesktopZhLocale()?\"无法更新组角色\":"],
+[1843,0,")"],
+[2083,0,"(__devinDesktopZhLocale()?\"删除组失败\":"],
+[2107,0,")"],
+[2223,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

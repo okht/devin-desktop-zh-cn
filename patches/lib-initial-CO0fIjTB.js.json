@@ -1,0 +1,4 @@
+[
+[31280,9,"(__devinDesktopZhLocale()?\"关闭提示\":`Dismiss`)"],
+[65101,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

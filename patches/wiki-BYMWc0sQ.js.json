@@ -1,0 +1,8 @@
+[
+[14018,0,"(__devinDesktopZhLocale()?\"访问公共仓库中的文档和知识库。\":"],
+[14085,0,")"],
+[14488,23,"(__devinDesktopZhLocale()?\"未找到仓库\":`No repositories found`)"],
+[14536,0,"(__devinDesktopZhLocale()?\"尝试调整你的搜索查询\":"],
+[14569,0,")"],
+[15077,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

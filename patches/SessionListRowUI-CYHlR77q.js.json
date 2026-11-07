@@ -1,0 +1,4 @@
+[
+[2046,54,"(__devinDesktopZhLocale()?\"展开子会话\":`Expand children`):_.collapseLabel??(__devinDesktopZhLocale()?\"折叠子会话\":`Collapse children`)"],
+[3255,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

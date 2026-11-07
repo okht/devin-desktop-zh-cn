@@ -1,0 +1,11 @@
+[
+[1499,0,"(__devinDesktopZhLocale()?\"对话不可用\":"],
+[1525,0,")"],
+[2307,21,"(__devinDesktopZhLocale()?\"共享对话\":`Shared conversation`)"],
+[2508,0,"(__devinDesktopZhLocale()?\"部分内容在上传前已被隐去或省略。\":"],
+[2592,0,")"],
+[2628,0,"(__devinDesktopZhLocale()?\"此对话无法显示\":"],
+[2666,0,")"],
+[2831,17,"(__devinDesktopZhLocale()?\"没什么好展示的\":`Nothing to show`)"],
+[3331,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

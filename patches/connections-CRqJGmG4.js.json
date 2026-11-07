@@ -1,0 +1,12 @@
+[
+[2171,14,"(__devinDesktopZhLocale()?\"集成\":`Integrations`)"],
+[2444,0,"(__devinDesktopZhLocale()?\"集成是进行管理的\":"],
+[2473,0,")"],
+[2579,21,"(__devinDesktopZhLocale()?\"企业设置\":`enterprise settings`)"],
+[2638,0,"(__devinDesktopZhLocale()?\"集成在企业设置中进行管理\":"],
+[2687,0,")"],
+[2719,0,"(__devinDesktopZhLocale()?\"集成是进行管理的\":"],
+[2748,0,")"],
+[2844,19,"(__devinDesktopZhLocale()?\"个人设置\":`personal settings`)"],
+[3784,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

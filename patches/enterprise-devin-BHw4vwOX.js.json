@@ -1,0 +1,12 @@
+[
+[4689,0,"(__devinDesktopZhLocale()?\"配置个人设置\":"],
+[4718,0,")"],
+[7824,0,"(__devinDesktopZhLocale()?\"选择一个组织以查看其允许使用的标签\":"],
+[7873,0,")"],
+[7978,17,"(__devinDesktopZhLocale()?\"正在加载标签...\":`Loading tags...`)"],
+[8287,0,"(__devinDesktopZhLocale()?\"未为该组织配置任何标签。在至少添加一个标签到允许列表中之前，会话创建将失败。\":"],
+[8407,0,")"],
+[8569,78,"(__devinDesktopZhLocale()?\"选择组织\":`Select organization`),searchPlaceholder:(__devinDesktopZhLocale()?\"搜索组织...\":`Search organizations...`),emptyMessage:(__devinDesktopZhLocale()?\"未找到组织。\""],
+[8673,0,")"],
+[8869,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,9 @@
+[
+[313,21,"(__devinDesktopZhLocale()?\"删除组织\":`Delete organization`)"],
+[380,0,"(__devinDesktopZhLocale()?\"这将提交一个删除请求。\":"],
+[421,0,")"],
+[499,19,"(__devinDesktopZhLocale()?\". 该操作是 \":`. This action is `)"],
+[548,17,"(__devinDesktopZhLocale()?\"不可逆\":`irreversible`)}),(__devinDesktopZhLocale()?\" — 与该组织相关的所有数据将永久丢失。\":"],
+[638,0,")"],
+[800,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

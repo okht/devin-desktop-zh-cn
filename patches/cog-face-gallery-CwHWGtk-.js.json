@@ -1,0 +1,6 @@
+[
+[700,17,"(__devinDesktopZhLocale()?\"Cog 面部动画\":`Cog face motion`)"],
+[794,16,"(__devinDesktopZhLocale()?\"成功重放\":`Replay success`)"],
+[887,18,"(__devinDesktopZhLocale()?\"Replay需要你\":`Replay needs-you`)"],
+[1846,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,5 @@
+[
+[320,11,"(__devinDesktopZhLocale()?\"资源\":`Resources`)"],
+[583,21,"(__devinDesktopZhLocale()?\"详情即将公布\":`Details coming soon`)"],
+[751,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

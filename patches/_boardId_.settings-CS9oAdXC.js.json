@@ -1,0 +1,12 @@
+[
+[965,0,"(__devinDesktopZhLocale()?\"板卡设置章节\":"],
+[990,0,")"],
+[1757,34,"(__devinDesktopZhLocale()?\"出了点问题\":`Something went wrong`),description:(__devinDesktopZhLocale()?\"加载此看板失败。\""],
+[1820,0,")"],
+[1886,11,"(__devinDesktopZhLocale()?\"重试\":`Try again`)"],
+[2108,15,"(__devinDesktopZhLocale()?\"返回看板\":`Back to board`)"],
+[2298,0,"(__devinDesktopZhLocale()?"],
+[2327,21,"设置`:`${s.name??`Untitled board`} settings`),description:(__devinDesktopZhLocale()?\"配置智能体以使其为您的团队和智能体工作。\""],
+[2416,0,")"],
+[2943,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

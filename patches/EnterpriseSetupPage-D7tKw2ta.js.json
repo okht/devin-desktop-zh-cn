@@ -1,0 +1,9 @@
+[
+[4036,12,"(__devinDesktopZhLocale()?\"(禁用)\":`(disabled)`)"],
+[4917,0,"(__devinDesktopZhLocale()?\"企业 MCP 服务器已删除\":"],
+[4948,0,")"],
+[13818,12,"(__devinDesktopZhLocale()?\"正在加载…\":`Loading...`)"],
+[14128,220,"(__devinDesktopZhLocale()?\"已连接\":`Connected`),e===`disconnected`&&(__devinDesktopZhLocale()?\"未连接\":`Not connected`),e===`user-not-linked`&&(__devinDesktopZhLocale()?\"用户未关联\":`User not linked`),e===`missing-webhook`&&(__devinDesktopZhLocale()?\"缺失的Webhook\":`Missing webhook`),e===`missing-config`&&(__devinDesktopZhLocale()?\"缺少配置\":`Missing configuration`),e===`needs-reauth`&&(__devinDesktopZhLocale()?\"需要重新授权\":`Needs re-authorization`)"],
+[15009,11,"(__devinDesktopZhLocale()?\"配置\":`Configure`)"],
+[19987,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

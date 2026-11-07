@@ -1,0 +1,14 @@
+[
+[4349,7,"(__devinDesktopZhLocale()?\"用量\":`Usage`)"],
+[4617,13,"(__devinDesktopZhLocale()?\"构图\":`Composition`)"],
+[4704,0,"(__devinDesktopZhLocale()?\"使用以下结构来构建\":"],
+[4746,0,")"],
+[5028,10,"(__devinDesktopZhLocale()?\"示例\":`Examples`)"],
+[5176,15,"(__devinDesktopZhLocale()?\"API参考\":`API reference`)"],
+[5624,6,"(__devinDesktopZhLocale()?\"道具\":`Prop`)"],
+[5666,6,"(__devinDesktopZhLocale()?\"类型\":`Type`)"],
+[5708,9,"(__devinDesktopZhLocale()?\"默认\":`Default`)"],
+[5786,13,"(__devinDesktopZhLocale()?\"说明\":`Description`)"],
+[7007,23,"(__devinDesktopZhLocale()?\"隐藏代码\":`Hide code`):(__devinDesktopZhLocale()?\"查看代码\":`View code`)"],
+[7589,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

@@ -1,0 +1,5 @@
+[
+[1356,13,"(__devinDesktopZhLocale()?\"新建会话\":`New session`)"],
+[1946,14,"(__devinDesktopZhLocale()?\"无会话。\":`No sessions.`)"],
+[2125,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

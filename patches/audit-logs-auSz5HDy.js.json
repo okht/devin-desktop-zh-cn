@@ -1,0 +1,17 @@
+[
+[1510,12,"(__devinDesktopZhLocale()?\"审计日志\":`Audit Logs`)"],
+[1653,0,"(__devinDesktopZhLocale()?\"审计日志导出已配置\":"],
+[1682,34,"),children:[(__devinDesktopZhLocale()?\"流媒体传输至Firehose\":`Streaming to Firehose`)"],
+[1821,21,"(__devinDesktopZhLocale()?\"通过交付角色\":`) via delivery role`)"],
+[2326,13,"(__devinDesktopZhLocale()?\"所有操作\":`All actions`)"],
+[2991,7,"(__devinDesktopZhLocale()?\"清除\":`Clear`)"],
+[3103,28,"(__devinDesktopZhLocale()?\" 的\":` of`),` `,h(S.total),(__devinDesktopZhLocale()?\" 日志\":` logs`)"],
+[3189,22,"(__devinDesktopZhLocale()?\"按用户电子邮件筛选\":`Filter by user email`)"],
+[3453,11,"(__devinDesktopZhLocale()?\"时间戳\":`Timestamp`)"],
+[3494,8,"(__devinDesktopZhLocale()?\"操作\":`Action`)"],
+[3532,6,"(__devinDesktopZhLocale()?\"用户\":`User`)"],
+[3568,17,"(__devinDesktopZhLocale()?\"组织 ID\":`Organization ID`)"],
+[3615,9,"(__devinDesktopZhLocale()?\"详情\":`Details`)"],
+[5503,21,"(__devinDesktopZhLocale()?\"未找到审计日志\":`No audit logs found`)"],
+[5916,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

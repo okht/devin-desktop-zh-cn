@@ -1,0 +1,21 @@
+[
+[59107,15,"(__devinDesktopZhLocale()?\"正在重新连接…\":`Reconnecting…`)"],
+[65479,0,"(__devinDesktopZhLocale()?\"创建会话失败，请重试。\":"],
+[65524,0,")"],
+[65591,0,"(__devinDesktopZhLocale()?\"创建会话失败，请重试。\":"],
+[65636,0,")"],
+[65699,0,"(__devinDesktopZhLocale()?\"创建会话失败，请重试。\":"],
+[65744,0,")"],
+[69985,0,"(__devinDesktopZhLocale()?\"您已无法访问此会话。\":"],
+[70029,0,"):(__devinDesktopZhLocale()?\"您已无法访问这些会话了。\""],
+[70076,0,")"],
+[73409,16,"(__devinDesktopZhLocale()?\"无法撤销\":`Failed to undo`)"],
+[73603,21,"(__devinDesktopZhLocale()?\"无法解压归档\":`Failed to unarchive`)"],
+[117964,15,"(__devinDesktopZhLocale()?\"正在重新连接…\":`Reconnecting…`)"],
+[126144,19,"(__devinDesktopZhLocale()?\"上传了Playbook\":`Playbook uploaded`)"],
+[126755,0,"(__devinDesktopZhLocale()?\"文件上传已禁用\":"],
+[126780,0,")"],
+[126833,0,"(__devinDesktopZhLocale()?`上传 ${t.name} 失败`:"],
+[126861,0,")"],
+[165383,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

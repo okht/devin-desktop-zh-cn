@@ -1,0 +1,7 @@
+[
+[2526,0,"(__devinDesktopZhLocale()?\"添加了 Bitbucket 集成功能\":"],
+[2555,0,")"],
+[2633,0,"(__devinDesktopZhLocale()?\"无法添加 Bitbucket 集成\":"],
+[2670,0,")"],
+[3576,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

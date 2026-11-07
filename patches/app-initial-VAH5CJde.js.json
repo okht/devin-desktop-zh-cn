@@ -1,0 +1,7 @@
+[
+[25295,0,"(__devinDesktopZhLocale()?\"重新认证以继续。你将回到这里——再次点击「冒充」。\":"],
+[25374,0,")"],
+[27449,0,"(__devinDesktopZhLocale()?\"停止冒充用户\":"],
+[27474,0,")"],
+[28899,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

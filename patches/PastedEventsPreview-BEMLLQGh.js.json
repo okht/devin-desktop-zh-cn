@@ -1,0 +1,5 @@
+[
+[2257,22,"(__devinDesktopZhLocale()?\"翻译失败： \":`Translation failed: `)"],
+[2433,14,"(__devinDesktopZhLocale()?\"翻译…\":`Translating…`)"],
+[2628,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]

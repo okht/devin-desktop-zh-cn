@@ -1,0 +1,15 @@
+[
+[2366,0,"(__devinDesktopZhLocale()?\"已经有账户了吗？\":"],
+[2392,0,")"],
+[2591,8,"(__devinDesktopZhLocale()?\"登录\":`Log in`)"],
+[3256,16,"(__devinDesktopZhLocale()?\"继续 \":`Continue with `)"],
+[3639,47,"(__devinDesktopZhLocale()?\"使用单点登录登录\":`Sign in with SSO`):oe||!e.account?(__devinDesktopZhLocale()?`使用"],
+[3723,1," 登录`:`Sign in with ${e.display_name??e.connection_name}`)"],
+[3781,13,"(__devinDesktopZhLocale()?`使用"],
+[3851,0," 登录"],
+[3884,1," (${e.display_name??e.connection_name})`):(__devinDesktopZhLocale()?`使用 ${e.account.name} 登录`:`Sign in with ${e.account.name}`)"],
+[4485,0,"(__devinDesktopZhLocale()?\"没有可用的注册方法。请联系您的管理员以获取登录帮助。\":"],
+[4567,0,")"],
+[4811,4,"(__devinDesktopZhLocale()?\"或\":`OR`)"],
+[5395,0,"\nfunction __devinDesktopZhLocale(){return /^zh(?:-(?:cn|sg|hans(?:-[a-z]+)?))?$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||globalThis.navigator?.language||\"\")}\n"]
+]
