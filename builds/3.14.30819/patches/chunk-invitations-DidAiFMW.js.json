@@ -1,0 +1,13 @@
+[
+[950,13,["(__devinDesktopZhLocale()?\"邀请\":",[950,13],")"]],
+[1035,34,["(__devinDesktopZhLocale()?\"为新用户创建邀请函\":",[1035,34],")"]],
+[1500,30,["(__devinDesktopZhLocale()?\"创建邀请失败\":",[1500,30],")"]],
+[1587,34,["(__devinDesktopZhLocale()?\"成功创建邀请函\":",[1587,34],")"]],
+[1770,8,["(__devinDesktopZhLocale()?\"电子邮件\":",[1770,8],")"]],
+[1923,16,["(__devinDesktopZhLocale()?\"需要的电子邮件\":",[1923,16],")"]],
+[1964,20,["(__devinDesktopZhLocale()?\"每行一个电子邮件\":",[1964,20],")"]],
+[2067,13,["(__devinDesktopZhLocale()?\"正在创建...\":",[2067,13],")"]],
+[2081,20,["(__devinDesktopZhLocale()?\"创建邀请\":",[2081,20],")"]],
+[2239,8,["(__devinDesktopZhLocale()?\"输出\":",[2239,8],")"]],
+[2575,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

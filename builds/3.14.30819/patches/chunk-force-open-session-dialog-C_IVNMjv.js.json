@@ -1,0 +1,9 @@
+[
+[628,177,["(__devinDesktopZhLocale()?\"在停止保持 Devin 本地会话锁定的过程中显示确认信息。此时注意力转向「取消」操作。该对话框本身不会停止任何操作：调用者需要在 onForceOpen 中进行相应的操作。\":",[628,177],")"]],
+[906,14,["(__devinDesktopZhLocale()?\"霍尔德停止\":",[906,14],")"]],
+[1061,12,["(__devinDesktopZhLocale()?\"强制打开\":",[1061,12],")"]],
+[1120,29,["(__devinDesktopZhLocale()?\"Holder 无法被阻止\":",[1120,29],")"]],
+[1342,20,["(__devinDesktopZhLocale()?\"强行打开（失败）\":",[1342,20],")"]],
+[1506,30,["(__devinDesktopZhLocale()?\"强制打开会话对话框 props\":",[1506,30],")"]],
+[2269,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

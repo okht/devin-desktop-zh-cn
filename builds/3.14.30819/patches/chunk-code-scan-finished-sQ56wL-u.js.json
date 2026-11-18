@@ -1,0 +1,9 @@
+[
+[317,86,["(__devinDesktopZhLocale()?\"通过网络和桌面共享的扫描结果收据，打开会话的「发现」选项卡。\":",[317,86],")"]],
+[433,16,["(__devinDesktopZhLocale()?\"完成扫描\":",[433,16],")"]],
+[917,22,["(__devinDesktopZhLocale()?\"多个仓库\":",[917,22],")"]],
+[1308,21,["(__devinDesktopZhLocale()?\"扫描记录加载\":",[1308,21],")"]],
+[1647,13,["(__devinDesktopZhLocale()?\"无发现\":",[1647,13],")"]],
+[2030,13,["(__devinDesktopZhLocale()?\"扫描失败\":",[2030,13],")"]],
+[2712,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

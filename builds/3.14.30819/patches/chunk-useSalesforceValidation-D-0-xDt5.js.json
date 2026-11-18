@@ -1,0 +1,23 @@
+[
+[843,23,["(__devinDesktopZhLocale()?\"销售force账户ID\":",[843,23],")"]],
+[1098,25,["(__devinDesktopZhLocale()?\"例如：0018Z00002XyZaBCDE\":",[1098,25],")"]],
+[1208,13,["(__devinDesktopZhLocale()?\"验证中…\":",[1208,13],")"]],
+[1273,22,["(__devinDesktopZhLocale()?\"Salesforce账户： \":",[1273,22],")"]],
+[1349,61,["(__devinDesktopZhLocale()?\"15或18个字符的Salesforce账户ID，以001开头\":",[1349,61],")"]],
+[1414,48,["(__devinDesktopZhLocale()?\"将使用 Salesforce 进行模糊处理后的验证\":",[1414,48],")"]],
+[1786,22,["(__devinDesktopZhLocale()?\"序列客户 ID\":",[1786,22],")"]],
+[2108,39,["(__devinDesktopZhLocale()?\"仅适用于初步测试和生产环境\":",[2108,39],")"]],
+[2148,28,["(__devinDesktopZhLocale()?\"输入序列客户ID\":",[2148,28],")"]],
+[2249,13,["(__devinDesktopZhLocale()?\"验证中…\":",[2249,13],")"]],
+[2370,21,["(__devinDesktopZhLocale()?\"客户序列： \":",[2370,21],")"]],
+[2465,32,["(__devinDesktopZhLocale()?` — ${C(n.workspace)} 工作区`:",[2465,32],")"]],
+[2575,35,["(__devinDesktopZhLocale()?\"需要同步计费阶段。 \":",[2575,35],")"]],
+[2611,44,["(__devinDesktopZhLocale()?\"将会与Sequence进行验证\":",[2611,44],")"]],
+[2856,35,["(__devinDesktopZhLocale()?\"同步计费阶段从Sequence开始\":",[2856,35],")"]],
+[2916,97,["(__devinDesktopZhLocale()?\"从Sequence导入计费阶段，并保持同步。取消勾选以手动定义阶段。\":",[2916,97],")"]],
+[3328,96,["(__devinDesktopZhLocale()?`${s} 但未能设置 Salesforce 账户 ID。您可以在企业详细信息页面进行设置。`:",[3328,96],")"]],
+[3611,120,["(__devinDesktopZhLocale()?`${s} 但未能设置序列客户ID（无计费元数据ID）。您可以在企业详细信息页面进行设置。`:",[3611,120],")"]],
+[3934,95,["(__devinDesktopZhLocale()?`${s} 但未能设置 Sequence 客户 ID。您可以在企业详细信息页面进行设置。`:",[3934,95],")"]],
+[4283,98,["(__devinDesktopZhLocale()?`${s} 未能启用序列同步${t}。您可以在企业详细信息页面中启用它。`:",[4283,98],")"]],
+[5981,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

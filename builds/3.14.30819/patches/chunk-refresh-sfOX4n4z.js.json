@@ -1,0 +1,8 @@
+[
+[2122,22,["(__devinDesktopZhLocale()?\"刷新仓库列表\":",[2122,22],")"]],
+[2216,125,["(__devinDesktopZhLocale()?\"为特定的Git连接手动刷新仓库。这将执行完整获取操作以填充缓存。\":",[2216,125],")"]],
+[2655,15,["(__devinDesktopZhLocale()?\"连接ID\":",[2655,15],")"]],
+[2900,15,["(__devinDesktopZhLocale()?\"刷新中...\":",[2900,15],")"]],
+[2916,9,["(__devinDesktopZhLocale()?\"刷新\":",[2916,9],")"]],
+[3310,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

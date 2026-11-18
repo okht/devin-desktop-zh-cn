@@ -1,0 +1,9 @@
+[
+[2412,22,["(__devinDesktopZhLocale()?\"30分钟，2小时，1天，1周\":",[2412,22],")"]],
+[4613,4,["(__devinDesktopZhLocale()?\"秒）\":",[4613,4],")"]],
+[4938,17,["(__devinDesktopZhLocale()?\"隐藏此事件\":",[4938,17],")"]],
+[4969,17,["(__devinDesktopZhLocale()?\"隐藏此事件\":",[4969,17],")"]],
+[6581,21,["(__devinDesktopZhLocale()?\"错误加载数据：\":",[6581,21],")"]],
+[6636,15,["(__devinDesktopZhLocale()?\"未知错误\":",[6636,15],")"]],
+[6971,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

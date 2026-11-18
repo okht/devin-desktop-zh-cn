@@ -1,0 +1,6 @@
+[
+[3671,86,["(__devinDesktopZhLocale()?\"我们自己的房屋图标，有轮廓版和填充版，绘制在24像素的图标网格上。\":",[3671,86],")"]],
+[3854,10,["(__devinDesktopZhLocale()?\"变体\":",[3854,10],")"]],
+[4096,7,["(__devinDesktopZhLocale()?\"大小\":",[4096,7],")"]],
+[4866,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

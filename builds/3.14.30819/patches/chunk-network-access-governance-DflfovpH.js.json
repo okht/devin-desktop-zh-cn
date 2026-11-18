@@ -1,0 +1,17 @@
+[
+[610,239,["(__devinDesktopZhLocale()?\"网络访问请求卡的受控操作区域：说明哪个共享层（安全配置和/或自动化网络策略）阻止了请求，并允许查看者执行写入操作，以及无需点击即可进行协调的行。\":",[610,239],")"]],
+[879,19,["(__devinDesktopZhLocale()?\"治理状态\":",[879,19],")"]],
+[2354,46,["(__devinDesktopZhLocale()?\"个人资料块——观众可以编辑个人资料\":",[2354,46],")"]],
+[2670,37,["(__devinDesktopZhLocale()?\"个人资料区块 — 单一目标\":",[2670,37],")"]],
+[2977,55,["(__devinDesktopZhLocale()?\"个人资料区块 — 观众可以关闭网络控制功能\":",[2977,55],")"]],
+[3238,40,["(__devinDesktopZhLocale()?\"在飞行中关闭网络控制\":",[3238,40],")"]],
+[3510,56,["(__devinDesktopZhLocale()?\"自动化任务 - 无编写权限（联系管理员）\":",[3510,56],")"]],
+[3677,36,["(__devinDesktopZhLocale()?\"两层都处于阻塞状态——合并写入\":",[3677,36],")"]],
+[3937,44,["(__devinDesktopZhLocale()?\"多管理配置文件 — 通用副本\":",[3937,44],")"]],
+[4110,17,["(__devinDesktopZhLocale()?\"飞行写作\":",[4110,17],")"]],
+[4377,18,["(__devinDesktopZhLocale()?\"只读查看器\":",[4377,18],")"]],
+[4542,18,["(__devinDesktopZhLocale()?\"协调状态\":",[4542,18],")"]],
+[4839,13,["(__devinDesktopZhLocale()?\"调和\":",[4839,13],")"]],
+[4934,26,["(__devinDesktopZhLocale()?\"协调失败 — 重试\":",[4934,26],")"]],
+[5157,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

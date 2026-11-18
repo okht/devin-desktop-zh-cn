@@ -1,0 +1,16 @@
+[
+[384,52,["(__devinDesktopZhLocale()?\"键盘快捷键显示为一排按键。\":",[384,52],")"]],
+[634,7,["(__devinDesktopZhLocale()?\"基本\":",[634,7],")"]],
+[962,7,["(__devinDesktopZhLocale()?\"输入\":",[962,7],")"]],
+[1018,7,["(__devinDesktopZhLocale()?\"空间\":",[1018,7],")"]],
+[1054,11,["(__devinDesktopZhLocale()?\"修饰符\":",[1054,11],")"]],
+[1550,14,["(__devinDesktopZhLocale()?\"组合\":",[1550,14],")"]],
+[2179,14,["(__devinDesktopZhLocale()?\"替代方案\":",[2179,14],")"]],
+[2662,12,["(__devinDesktopZhLocale()?\"箭头键\":",[2662,12],")"]],
+[3159,6,["(__devinDesktopZhLocale()?\"菜单\":",[3159,6],")"]],
+[3902,11,["(__devinDesktopZhLocale()?\"按钮\":",[3902,11],")"]],
+[4207,8,["(__devinDesktopZhLocale()?\"提交\":",[4207,8],")"]],
+[4378,6,["(__devinDesktopZhLocale()?\"保存\":",[4378,6],")"]],
+[4562,10,["(__devinDesktopZhLocale()?\"科斯博集团\":",[4562,10],")"]],
+[6124,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

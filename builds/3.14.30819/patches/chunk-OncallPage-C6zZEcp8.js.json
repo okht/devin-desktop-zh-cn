@@ -1,0 +1,15 @@
+[
+[71234,20,["(__devinDesktopZhLocale()?\"监控发布\":",[71234,20],")"]],
+[71287,22,["(__devinDesktopZhLocale()?\"存在问题的版本\":",[71287,22],")"]],
+[71342,16,["(__devinDesktopZhLocale()?\"清洁发布\":",[71342,16],")"]],
+[71715,11,["(__devinDesktopZhLocale()?\"无问题\":",[71715,11],")"]],
+[71879,12,["(__devinDesktopZhLocale()?\"存在问题\":",[71879,12],")"]],
+[72129,18,["(__devinDesktopZhLocale()?\"发布管理员\":",[72129,18],")"]],
+[72214,21,["(__devinDesktopZhLocale()?\"新发布经理\":",[72214,21],")"]],
+[73096,25,["(__devinDesktopZhLocale()?\"尚未发布管理工具\":",[73096,25],")"]],
+[73147,117,["(__devinDesktopZhLocale()?\"发布经理会审查每个由你的团队负责更改的版本，并将需要关注的问题发布到Slack或Teams上。\":",[73147,117],")"]],
+[73343,24,["(__devinDesktopZhLocale()?\"创建发布管理器\":",[73343,24],")"]],
+[73664,10,["(__devinDesktopZhLocale()?\"发布版本\":",[73664,10],")"]],
+[73738,10,["(__devinDesktopZhLocale()?\"内部\":",[73738,10],")"]],
+[86498,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

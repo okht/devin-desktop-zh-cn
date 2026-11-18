@@ -1,0 +1,12 @@
+[
+[392,230,["(__devinDesktopZhLocale()?\"带有可选加入选项的紧凑型报价附件，提供分阶段浏览器预览功能，以及HTML附件报价功能。已发送的报价具有结构化的设计编辑功能，会以预览卡的形式显示，并可以查看其前后值的变化。\":",[392,230],")"]],
+[715,41,["(__devinDesktopZhLocale()?\"查看带有详细信息悬停卡的浏览器预览\":",[715,41],")"]],
+[907,18,["(__devinDesktopZhLocale()?\"发送设计编辑\":",[907,18],")"]],
+[1034,41,["(__devinDesktopZhLocale()?\"带有详细信息悬浮卡的HTML附件\":",[1034,41],")"]],
+[1229,15,["(__devinDesktopZhLocale()?\"紧凑引用\":",[1229,15],")"]],
+[1350,40,["(__devinDesktopZhLocale()?\"普通报价（无需悬浮卡片）\":",[1350,40],")"]],
+[1494,45,["(__devinDesktopZhLocale()?\"普通报价与裁剪文本（悬停卡片）\":",[1494,45],")"]],
+[1642,50,["(__devinDesktopZhLocale()?\"普通报价带固定标题（悬停卡片）\":",[1642,50],")"]],
+[1847,27,["(__devinDesktopZhLocale()?\"药丸道具\":",[1847,27],")"]],
+[4720,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

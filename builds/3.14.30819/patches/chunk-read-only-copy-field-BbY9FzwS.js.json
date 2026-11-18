@@ -1,0 +1,18 @@
+[
+[477,107,["(__devinDesktopZhLocale()?\"一个只读值，带有复制内嵌按钮，用于命令、URL和标识符，用户可以将其复制到其他地方。\":",[477,107],")"]],
+[677,9,["(__devinDesktopZhLocale()?\"默认\":",[677,9],")"]],
+[848,13,["(__devinDesktopZhLocale()?\"SSH 命令\":",[848,13],")"]],
+[887,11,["(__devinDesktopZhLocale()?\"在表格中\":",[887,11],")"]],
+[1125,14,["(__devinDesktopZhLocale()?\"重定向 URI\":",[1125,14],")"]],
+[1242,22,["(__devinDesktopZhLocale()?\"带有额外操作\":",[1242,22],")"]],
+[1605,17,["(__devinDesktopZhLocale()?\"应用程序网址\":",[1605,17],")"]],
+[1652,6,["(__devinDesktopZhLocale()?\"打开\":",[1652,6],")"]],
+[1711,14,["(__devinDesktopZhLocale()?\"常规字体\":",[1711,14],")"]],
+[1948,7,["(__devinDesktopZhLocale()?\"令牌\":",[1948,7],")"]],
+[1981,32,["(__devinDesktopZhLocale()?\"悬停文本用于显示剪辑后的数值\":",[1981,32],")"]],
+[2196,13,["(__devinDesktopZhLocale()?\"Webhook 地址\":",[2196,13],")"]],
+[2535,14,["(__devinDesktopZhLocale()?\"测试命令\":",[2535,14],")"]],
+[2625,11,["(__devinDesktopZhLocale()?\"只读\":",[2625,11],")"]],
+[2694,25,["(__devinDesktopZhLocale()?\"只读字段复制属性\":",[2694,25],")"]],
+[4083,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

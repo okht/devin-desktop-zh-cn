@@ -1,0 +1,22 @@
+[
+[272,78,["(__devinDesktopZhLocale()?\"一个允许用户将选项从选中状态切换到未选中状态的控件。\":",[272,78],")"]],
+[537,8,["(__devinDesktopZhLocale()?\"状态\":",[537,8],")"]],
+[851,11,["(__devinDesktopZhLocale()?\"未选中\":",[851,11],")"]],
+[1032,9,["(__devinDesktopZhLocale()?\"已检查\":",[1032,9],")"]],
+[1210,15,["(__devinDesktopZhLocale()?\"不确定\":",[1210,15],")"]],
+[1255,7,["(__devinDesktopZhLocale()?\"大小\":",[1255,7],")"]],
+[1641,8,["(__devinDesktopZhLocale()?\"中\":",[1641,8],")"]],
+[1829,7,["(__devinDesktopZhLocale()?\"小\":",[1829,7],")"]],
+[2016,8,["(__devinDesktopZhLocale()?\"小号\":",[2016,8],")"]],
+[2054,8,["(__devinDesktopZhLocale()?\"状态\":",[2054,8],")"]],
+[2287,16,["(__devinDesktopZhLocale()?\"已完成任务\":",[2287,16],")"]],
+[2371,16,["(__devinDesktopZhLocale()?\"已完成任务\":",[2371,16],")"]],
+[2414,10,["(__devinDesktopZhLocale()?\"已停用\":",[2414,10],")"]],
+[2734,10,["(__devinDesktopZhLocale()?\"已停用\":",[2734,10],")"]],
+[2928,18,["(__devinDesktopZhLocale()?\"禁用选中\":",[2928,18],")"]],
+[2976,12,["(__devinDesktopZhLocale()?\"带标签\":",[2976,12],")"]],
+[3473,14,["(__devinDesktopZhLocale()?\"接受条款\":",[3473,14],")"]],
+[3675,25,["(__devinDesktopZhLocale()?\"订阅通讯\":",[3675,25],")"]],
+[3733,10,["(__devinDesktopZhLocale()?\"复选框\":",[3733,10],")"]],
+[5080,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

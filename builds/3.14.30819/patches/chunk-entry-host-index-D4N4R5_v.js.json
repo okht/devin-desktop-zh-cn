@@ -1,0 +1,3 @@
+[
+[81233,47,"let e=Yg(s);if(c)return;if((typeof globalThis._VSCODE_NLS_LANGUAGE===\"string\"||typeof globalThis.__devinNativeDisplayPreference===\"function\")&&globalThis.__devinGetDesktopChoice){Al(e&&wl(e)?e:globalThis.__devinGetDesktopChoice());return}if(!i){Al(`en`);return}"]
+]

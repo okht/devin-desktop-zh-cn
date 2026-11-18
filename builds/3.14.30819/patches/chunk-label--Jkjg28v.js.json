@@ -1,0 +1,17 @@
+[
+[357,72,["(__devinDesktopZhLocale()?\"表单控件的文本标题，以原生标签元素的形式呈现。\":",[357,72],")"]],
+[530,7,["(__devinDesktopZhLocale()?\"基本\":",[530,7],")"]],
+[737,11,["(__devinDesktopZhLocale()?\"全名\":",[737,11],")"]],
+[789,10,["(__devinDesktopZhLocale()?\"简·多伊\":",[789,10],")"]],
+[826,15,["(__devinDesktopZhLocale()?\"带有复选框\":",[826,15],")"]],
+[1018,14,["(__devinDesktopZhLocale()?\"接受条款\":",[1018,14],")"]],
+[1057,13,["(__devinDesktopZhLocale()?\"使用开关\":",[1057,13],")"]],
+[1341,15,["(__devinDesktopZhLocale()?\"通知\":",[1341,15],")"]],
+[1420,10,["(__devinDesktopZhLocale()?\"已停用\":",[1420,10],")"]],
+[1659,7,["(__devinDesktopZhLocale()?\"邮箱\":",[1659,7],")"]],
+[1720,10,["(__devinDesktopZhLocale()?\"已禁用\":",[1720,10],")"]],
+[1757,11,["(__devinDesktopZhLocale()?\"次要\":",[1757,11],")"]],
+[1902,17,["(__devinDesktopZhLocale()?\"辅助字段\":",[1902,17],")"]],
+[1946,7,["(__devinDesktopZhLocale()?\"标签\":",[1946,7],")"]],
+[2460,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

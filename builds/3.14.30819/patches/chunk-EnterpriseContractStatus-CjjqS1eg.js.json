@@ -1,0 +1,20 @@
+[
+[2555,39,["(__devinDesktopZhLocale()?\"该企业的用量被禁止了。\":",[2555,39],")"]],
+[2597,31,["(__devinDesktopZhLocale()?\" 其最后的计费阶段已经结束。\":",[2597,31],")"]],
+[2631,10,["(__devinDesktopZhLocale()?` 在${a}上`:",[2631,10],")"]],
+[2645,67,["(__devinDesktopZhLocale()?\"用户在新增计费阶段之前无法启动会话。\":",[2645,67],")"]],
+[2949,44,["(__devinDesktopZhLocale()?\"计费阶段结束 — 宽限期处于活动状态。\":",[2949,44],")"]],
+[2996,31,["(__devinDesktopZhLocale()?\" 最后计费阶段结束\":",[2996,31],")"]],
+[3030,10,["(__devinDesktopZhLocale()?` 在${a}上`:",[3030,10],")"]],
+[3044,25,["(__devinDesktopZhLocale()?\". 用量将会被限制。\":",[3044,25],")"]],
+[3072,10,["(__devinDesktopZhLocale()?` 在${s}上`:",[3072,10],")"]],
+[3083,29,["(__devinDesktopZhLocale()?\" 当宽限期结束时\":",[3083,29],")"]],
+[3117,38,["(__devinDesktopZhLocale()?\"除非增加新的计费阶段。\":",[3117,38],")"]],
+[3373,26,["(__devinDesktopZhLocale()?\"计费阶段即将结束。\":",[3373,26],")"]],
+[3402,30,["(__devinDesktopZhLocale()?\" 最后计费阶段结束\":",[3402,30],")"]],
+[3435,10,["(__devinDesktopZhLocale()?` 在${a}上`:",[3435,10],")"]],
+[3449,25,["(__devinDesktopZhLocale()?\"; 用量将会被限制\":",[3449,25],")"]],
+[3477,10,["(__devinDesktopZhLocale()?` 在${s}上`:",[3477,10],")"]],
+[3491,39,["(__devinDesktopZhLocale()?\" 除非添加新的计费阶段。\":",[3491,39],")"]],
+[3654,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

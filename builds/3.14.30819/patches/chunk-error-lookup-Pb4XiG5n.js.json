@@ -1,0 +1,11 @@
+[
+[1081,17,["(__devinDesktopZhLocale()?\"错误 ID 查询\":",[1081,17],")"]],
+[1170,122,["(__devinDesktopZhLocale()?\"在错误边界页面上输入用户显示的错误 ID，以获取对应 Datadog RUM 资源的链接。\":",[1170,122],")"]],
+[1660,28,["(__devinDesktopZhLocale()?\"v:abc123... 或者 s:def456...\":",[1660,28],")"]],
+[1783,8,["(__devinDesktopZhLocale()?\"查找\":",[1783,8],")"]],
+[2168,7,["(__devinDesktopZhLocale()?\"类型:\":",[2168,7],")"]],
+[2259,10,["(__devinDesktopZhLocale()?\"RUM 视图\":",[2259,10],")"]],
+[2270,13,["(__devinDesktopZhLocale()?\"会话记录\":",[2270,13],")"]],
+[2704,17,["(__devinDesktopZhLocale()?\"在 Datadog 中打开\":",[2704,17],")"]],
+[2800,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

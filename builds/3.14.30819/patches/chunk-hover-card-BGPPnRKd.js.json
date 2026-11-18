@@ -1,0 +1,8 @@
+[
+[676,29,["(__devinDesktopZhLocale()?\"增加上传器的重试次数\":",[676,29],")"]],
+[911,24,["(__devinDesktopZhLocale()?\"修复不稳定的上传测试\":",[911,24],")"]],
+[1635,145,["(__devinDesktopZhLocale()?\"会话、公关、收件箱、工单工件和提及芯片共享的280px悬停卡片：外壳、标题、行以及保持菜单下的规则。\":",[1635,145],")"]],
+[1894,17,["(__devinDesktopZhLocale()?\"标题和行\":",[1894,17],")"]],
+[2369,40,["(__devinDesktopZhLocale()?\"一张卡片对应多行，无限列表\":",[2369,40],")"]],
+[5070,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,21 @@
+[
+[1251,69,["(__devinDesktopZhLocale()?\"排版工具和渲染器可以将 Markdown 显示为样式化的富文本。\":",[1251,69],")"]],
+[1506,7,["(__devinDesktopZhLocale()?\"基本\":",[1506,7],")"]],
+[1637,33,["(__devinDesktopZhLocale()?\"Markdown 段落文本\":",[1637,33],")"]],
+[1694,10,["(__devinDesktopZhLocale()?\"标题栏\":",[1694,10],")"]],
+[2171,16,["(__devinDesktopZhLocale()?\"小标题\":",[2171,16],")"]],
+[2654,16,["(__devinDesktopZhLocale()?\"可排序表格\":",[2654,16],")"]],
+[3020,36,["(__devinDesktopZhLocale()?\"宽表格，包含一段式列\":",[3020,36],")"]],
+[3429,13,["(__devinDesktopZhLocale()?\"表格单元格\":",[3429,13],")"]],
+[4008,8,["(__devinDesktopZhLocale()?\"状态\":",[4008,8],")"]],
+[4041,7,["(__devinDesktopZhLocale()?\"分享\":",[4041,7],")"]],
+[4124,8,["(__devinDesktopZhLocale()?\"失败\":",[4124,8],")"]],
+[4198,13,["(__devinDesktopZhLocale()?\" (4 条痕迹)\":",[4198,13],")"]],
+[4246,7,["(__devinDesktopZhLocale()?\"链接\":",[4246,7],")"]],
+[4558,36,["(__devinDesktopZhLocale()?\"参考样式链接 (MarkdownV3)\":",[4558,36],")"]],
+[4996,28,["(__devinDesktopZhLocale()?\"哑光表情符号在暗淡的文字中\":",[4996,28],")"]],
+[5467,10,["(__devinDesktopZhLocale()?\"无需：\":",[5467,10],")"]],
+[5590,7,["(__devinDesktopZhLocale()?\"使用：\":",[5590,7],")"]],
+[5723,19,["(__devinDesktopZhLocale()?\"自定义代码块\":",[5723,19],")"]],
+[8064,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

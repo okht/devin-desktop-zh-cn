@@ -1,0 +1,19 @@
+[
+[1173,39,["(__devinDesktopZhLocale()?\"成功将组织列入黑名单\":",[1173,39],")"]],
+[1303,34,["(__devinDesktopZhLocale()?\"未能将组织列入黑名单\":",[1303,34],")"]],
+[1537,37,["(__devinDesktopZhLocale()?\"从黑名单中移除组织\":",[1537,37],")"]],
+[1662,46,["(__devinDesktopZhLocale()?\"未能将组织从黑名单中移除\":",[1662,46],")"]],
+[2458,38,["(__devinDesktopZhLocale()?\"加载黑名单组织...\":",[2458,38],")"]],
+[2722,30,["(__devinDesktopZhLocale()?\"添加黑名单组织\":",[2722,30],")"]],
+[2893,32,["(__devinDesktopZhLocale()?\"输入GitHub组织名称\":",[2893,32],")"]],
+[3192,9,["(__devinDesktopZhLocale()?\"添加中…\":",[3192,9],")"]],
+[3207,18,["(__devinDesktopZhLocale()?\"加入黑名单\":",[3207,18],")"]],
+[3442,36,["(__devinDesktopZhLocale()?\"被列入黑名单的GitHub组织\":",[3442,36],")"]],
+[3962,21,["(__devinDesktopZhLocale()?\"GitHub组织\":",[3962,21],")"]],
+[4093,9,["(__devinDesktopZhLocale()?\"操作\":",[4093,9],")"]],
+[4832,8,["(__devinDesktopZhLocale()?\"移除\":",[4832,8],")"]],
+[5035,44,["(__devinDesktopZhLocale()?\"当前没有组织被列入黑名单。\":",[5035,44],")"]],
+[5403,34,["(__devinDesktopZhLocale()?\"被列入黑名单的GitHub组织\":",[5403,34],")"]],
+[5501,96,["(__devinDesktopZhLocale()?\"管理被阻止在单个令牌集成中使用的GitHub组织。\":",[5501,96],")"]],
+[5707,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

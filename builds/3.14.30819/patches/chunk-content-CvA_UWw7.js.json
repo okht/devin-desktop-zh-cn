@@ -1,0 +1,14 @@
+[
+[14267830,29,["(__devinDesktopZhLocale()?\"无法复制到剪贴板\":",[14267830,29],")"]],
+[14268978,7,["(__devinDesktopZhLocale()?\"图标\":",[14268978,7],")"]],
+[14269062,37,["(__devinDesktopZhLocale()?\"浏览所有图标和图标库\":",[14269062,37],")"]],
+[14269438,14,["(__devinDesktopZhLocale()?\"搜索图标\":",[14269438,14],")"]],
+[14269516,29,["(__devinDesktopZhLocale()?`搜索 ${M?.count??0} 图标`:",[14269516,29],")"]],
+[14269604,14,["(__devinDesktopZhLocale()?\"清除搜索\":",[14269604,14],")"]],
+[14269761,14,["(__devinDesktopZhLocale()?\"清除搜索\":",[14269761,14],")"]],
+[14269903,14,["(__devinDesktopZhLocale()?\"图标库\":",[14269903,14],")"]],
+[14270075,11,["(__devinDesktopZhLocale()?\"图标大小\":",[14270075,11],")"]],
+[14270482,18,["(__devinDesktopZhLocale()?\"没有图标匹配「\":",[14270482,18],")"]],
+[14271294,12,["(__devinDesktopZhLocale()?\"已弃用\":",[14271294,12],")"]],
+[14272754,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

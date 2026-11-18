@@ -1,0 +1,8 @@
+[
+[319,165,["(__devinDesktopZhLocale()?\"渲染两个Markdown文档的统一丰富差异视图。使用LCS在块级别进行差异分析，对修改过的段落和标题进行内联单词级高亮显示。\":",[319,165],")"]],
+[514,17,["(__devinDesktopZhLocale()?\"词级差异\":",[514,17],")"]],
+[939,26,["(__devinDesktopZhLocale()?\"添加和删除块\":",[939,26],")"]],
+[1202,12,["(__devinDesktopZhLocale()?\"表格对比\":",[1202,12],")"]],
+[1447,49,["(__devinDesktopZhLocale()?\"富文本 Markdown（列表、引用和代码块）\":",[1447,49],")"]],
+[3449,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

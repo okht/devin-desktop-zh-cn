@@ -1,0 +1,7 @@
+[
+[788,140,["(__devinDesktopZhLocale()?\"在带有未关闭拉取请求的会话停止时显示的确认对话框。仅适用于固定资源PR和回调——没有任何内容会被归档或关闭。\":",[788,140],")"]],
+[1020,44,["(__devinDesktopZhLocale()?\"关闭会话拉取请求 — 多个拉取请求\":",[1020,44],")"]],
+[1423,55,["(__devinDesktopZhLocale()?\"关闭会话拉取请求 — 各仓库中的拉取请求\":",[1423,55],")"]],
+[1612,40,["(__devinDesktopZhLocale()?\"关闭会话拉取请求 — 单个拉取请求\":",[1612,40],")"]],
+[2507,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

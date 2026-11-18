@@ -1,0 +1,18 @@
+[
+[2601,15,["(__devinDesktopZhLocale()?\"会话标题\":",[2601,15],")"]],
+[2817,12,["(__devinDesktopZhLocale()?\"12.4 单位成本\":",[2817,12],")"]],
+[3038,11,["(__devinDesktopZhLocale()?\"ACU 用量\":",[3038,11],")"]],
+[3092,15,["(__devinDesktopZhLocale()?\"用户消息\":",[3092,15],")"]],
+[3588,11,["(__devinDesktopZhLocale()?\"ACU 用量\":",[3588,11],")"]],
+[3669,22,["(__devinDesktopZhLocale()?\"后代 ACU 用量\":",[3669,22],")"]],
+[3735,15,["(__devinDesktopZhLocale()?\"用户消息\":",[3735,15],")"]],
+[3791,14,["(__devinDesktopZhLocale()?\"会话大小\":",[3791,14],")"]],
+[3845,10,["(__devinDesktopZhLocale()?\"类别\":",[3845,10],")"]],
+[3865,8,["(__devinDesktopZhLocale()?\"编码中\":",[3865,8],")"]],
+[4928,22,["(__devinDesktopZhLocale()?\"开放会话操作\":",[4928,22],")"]],
+[5021,17,["(__devinDesktopZhLocale()?\"归档会话\":",[5021,17],")"]],
+[5112,173,["(__devinDesktopZhLocale()?\"用于会话芯片、票证徽章、PIN操作以及溢出菜单的头部组件。纯UI设计——网页应用通过属性和复合子元素来提供数据、回调以及图标。\":",[5112,173],")"]],
+[5377,85,["(__devinDesktopZhLocale()?\"带有芯片、徽章和溢出菜单的空间标题（点击触发洞察弹出窗口）\":",[5377,85],")"]],
+[7175,177,["(__devinDesktopZhLocale()?\"最小化变体，无间隙（悬停触发弹出窗口，标题旁边内嵌，使用ReactNode后缀；当所有子元素都可被聚焦时，viewportTabIndex=-1会取消滚动条的Tab键操作）\":",[7175,177],")"]],
+[8141,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

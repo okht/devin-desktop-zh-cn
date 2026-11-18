@@ -1,0 +1,13 @@
+[
+[326,252,["(__devinDesktopZhLocale()?\"在规范转录格式中，用户消息以单行方式呈现：包含提及/斜杠命令的正文内容内联显示，每个附件对应一个小的标记。仅显示内容——调用者可以将规范消息保留在旁边以便编辑和重新发送。\":",[326,252],")"]],
+[679,31,["(__devinDesktopZhLocale()?\"一下子全部\":",[679,31],")"]],
+[1319,19,["(__devinDesktopZhLocale()?\"使用引号的文本\":",[1319,19],")"]],
+[1537,29,["(__devinDesktopZhLocale()?\"然后打开一个针对主版本的拉取请求\":",[1537,29],")"]],
+[1608,55,["(__devinDesktopZhLocale()?\"包含内嵌 markdown 和 Slack 提及的普通字符串\":",[1608,55],")"]],
+[1918,83,["(__devinDesktopZhLocale()?\"请修复`login()`中的错误 <@U0123ABCD>，请查看**两个**文件\\n\\n- 一个列表\":",[1918,83],")"]],
+[2061,18,["(__devinDesktopZhLocale()?\"仅附加文件\":",[2061,18],")"]],
+[2280,46,["(__devinDesktopZhLocale()?\"带有斜杠命令和提及的丰富身体\":",[2280,46],")"]],
+[2831,17,["(__devinDesktopZhLocale()?\"独立芯片\":",[2831,17],")"]],
+[3198,26,["(__devinDesktopZhLocale()?\"CompactUserMessage 属性\":",[3198,26],")"]],
+[4654,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

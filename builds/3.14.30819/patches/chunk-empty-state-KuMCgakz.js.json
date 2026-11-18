@@ -1,0 +1,21 @@
+[
+[511,53,["(__devinDesktopZhLocale()?\"当列表或视图没有数据时，保留原有的占位符内容。\":",[511,53],")"]],
+[740,23,["(__devinDesktopZhLocale()?\"带有图标和操作的\":",[740,23],")"]],
+[1314,13,["(__devinDesktopZhLocale()?\"没有消息\":",[1314,13],")"]],
+[1352,34,["(__devinDesktopZhLocale()?\"你还没有任何消息。\":",[1352,34],")"]],
+[1482,14,["(__devinDesktopZhLocale()?\" 新消息\":",[1482,14],")"]],
+[1526,24,["(__devinDesktopZhLocale()?\"包含图标变体\":",[1526,24],")"]],
+[2062,18,["(__devinDesktopZhLocale()?\"未找到结果\":",[2062,18],")"]],
+[2105,38,["(__devinDesktopZhLocale()?\"请尝试调整您的搜索或筛选条件。\":",[2105,38],")"]],
+[2223,15,["(__devinDesktopZhLocale()?\"清除筛选\":",[2223,15],")"]],
+[2267,21,["(__devinDesktopZhLocale()?\"极简版（仅文本）\":",[2267,21],")"]],
+[2594,18,["(__devinDesktopZhLocale()?\"目前还没有任何内容\":",[2594,18],")"]],
+[2639,21,["(__devinDesktopZhLocale()?\"请稍后再试\":",[2639,21],")"]],
+[2731,22,["(__devinDesktopZhLocale()?\"创造新事物\":",[2731,22],")"]],
+[2789,10,["(__devinDesktopZhLocale()?\"边框\":",[2789,10],")"]],
+[3096,15,["(__devinDesktopZhLocale()?\"暂无文本可供翻译。\":",[3096,15],")"]],
+[3136,33,["(__devinDesktopZhLocale()?\"你创建的令牌会出现在这里。\":",[3136,33],")"]],
+[3201,17,["(__devinDesktopZhLocale()?\"EmptyRoot属性\":",[3201,17],")"]],
+[3248,17,["(__devinDesktopZhLocale()?\"EmptyIcon 属性\":",[3248,17],")"]],
+[3792,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

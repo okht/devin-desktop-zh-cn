@@ -1,0 +1,7 @@
+[
+[1310,19,["(__devinDesktopZhLocale()?\"缺失的配件： \":",[1310,19],")"]],
+[1849,124,["(__devinDesktopZhLocale()?\"审查了转录回归，修复了行高设置问题，并提交了修复请求。接下来：等待审查。\":",[1849,124],")"]],
+[2306,17,["(__devinDesktopZhLocale()?\"会话摘要\":",[2306,17],")"]],
+[2336,31,["(__devinDesktopZhLocale()?\"修复文本翻译的回归问题\":",[2336,31],")"]],
+[2505,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

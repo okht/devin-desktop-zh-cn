@@ -1,0 +1,10 @@
+[
+[315,119,["(__devinDesktopZhLocale()?\"在代码块和Markdown表格上方使用Hover-revealed复制按钮。复制后2秒内变为绿色勾号。\":",[315,119],")"]],
+[527,7,["(__devinDesktopZhLocale()?\"基本\":",[527,7],")"]],
+[714,32,["(__devinDesktopZhLocale()?\"悬停显示（在内容上方）\":",[714,32],")"]],
+[1196,48,["(__devinDesktopZhLocale()?\"将鼠标悬停在这个框上即可显示复制按钮。\":",[1196,48],")"]],
+[1438,23,["(__devinDesktopZhLocale()?\"惰性值（函数）\":",[1438,23],")"]],
+[1685,10,["(__devinDesktopZhLocale()?\"已停用\":",[1685,10],")"]],
+[1925,18,["(__devinDesktopZhLocale()?\"CopyButton 属性\":",[1925,18],")"]],
+[2684,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

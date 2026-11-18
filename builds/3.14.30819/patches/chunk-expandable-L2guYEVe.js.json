@@ -1,0 +1,23 @@
+[
+[582,86,["(__devinDesktopZhLocale()?\"扩展状态保存在调用者中，因此可以持久化或同步到其他地方。\":",[582,86],")"]],
+[695,104,["(__devinDesktopZhLocale()?\"其他功能都正常：淡出和触发功能仅在内容超过maxHeight时才会生效。\":",[695,104],")"]],
+[826,72,["(__devinDesktopZhLocale()?\"切换触发器时，调用的是ExpandedChange而不是内部状态。\":",[826,72],")"]],
+[925,53,["(__devinDesktopZhLocale()?\"此段落的用途是让内容溢出。\":",[925,53],")"]],
+[1082,67,["(__devinDesktopZhLocale()?\"具有淡出覆盖效果和展开/折叠触发功能的可折叠内容\":",[1082,67],")"]],
+[1309,13,["(__devinDesktopZhLocale()?\"基本用量\":",[1309,13],")"]],
+[1821,126,["(__devinDesktopZhLocale()?\"这是一块可扩展的内容区域。当内容超过最大高度时，它会自动检测并显示一个扩展按钮。\":",[1821,126],")"]],
+[1974,118,["(__devinDesktopZhLocale()?\"该组件使用了一个复合模式，包含ExpandableRoot、ExpandableContent、ExpandableFade和ExpandableTrigger。\":",[1974,118],")"]],
+[2119,126,["(__devinDesktopZhLocale()?\"您可以自定义渐变颜色、触发标签，甚至为触发按钮提供自定义的渲染函数。\":",[2119,126],")"]],
+[2272,109,["(__devinDesktopZhLocale()?\"这对于长内容非常有用，比如描述、评论或任何可能超出容器容量的文本。\":",[2272,109],")"]],
+[2496,12,["(__devinDesktopZhLocale()?\"受控\":",[2496,12],")"]],
+[2851,12,["(__devinDesktopZhLocale()?\"短淡出\":",[2851,12],")"]],
+[3270,76,["(__devinDesktopZhLocale()?\"一个简短的预览可以保持大部分线条的可读性：只有最后32像素会淡出。\":",[3270,76],")"]],
+[3373,66,["(__devinDesktopZhLocale()?\"默认的96像素渐变几乎可以覆盖110像素的预览区域。\":",[3373,66],")"]],
+[3466,53,["(__devinDesktopZhLocale()?\"此段落的用途是让内容溢出。\":",[3466,53],")"]],
+[3626,28,["(__devinDesktopZhLocale()?\"短内容（无展开按钮）\":",[3626,28],")"]],
+[4037,95,["(__devinDesktopZhLocale()?\"内容较短，无需展开，因此不会显示展开按钮。\":",[4037,95],")"]],
+[4198,22,["(__devinDesktopZhLocale()?\"可扩展根属性\":",[4198,22],")"]],
+[4250,22,["(__devinDesktopZhLocale()?\"可扩展渐变属性\":",[4250,22],")"]],
+[4302,25,["(__devinDesktopZhLocale()?\"可扩展触发器属性\":",[4302,25],")"]],
+[5770,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

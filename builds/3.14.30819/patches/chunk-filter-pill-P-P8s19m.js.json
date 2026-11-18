@@ -1,0 +1,8 @@
+[
+[411,118,["(__devinDesktopZhLocale()?\"过滤行中有一个应用过滤器：图标、名称、操作符、用于打开过滤器菜单的值，以及移除按钮。\":",[411,118],")"]],
+[690,9,["(__devinDesktopZhLocale()?\"默认\":",[690,9],")"]],
+[913,16,["(__devinDesktopZhLocale()?\"活动，暂停\":",[913,16],")"]],
+[980,8,["(__devinDesktopZhLocale()?\"活跃\":",[980,8],")"]],
+[1013,8,["(__devinDesktopZhLocale()?\"已暂停\":",[1013,8],")"]],
+[1548,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

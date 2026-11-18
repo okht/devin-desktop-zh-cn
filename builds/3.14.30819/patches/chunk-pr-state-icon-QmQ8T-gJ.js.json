@@ -1,0 +1,9 @@
+[
+[343,198,["(__devinDesktopZhLocale()?\"一个图标，其形状和颜色表示拉取请求的状态。它只接受已解决的显示状态，因此如果拉取请求处于草稿或合并队列状态，则会被显示为待处理状态，而不是开放状态。\":",[343,198],")"]],
+[642,8,["(__devinDesktopZhLocale()?\"状态\":",[642,8],")"]],
+[1137,24,["(__devinDesktopZhLocale()?\"从PR商店读取\":",[1137,24],")"]],
+[1551,39,["(__devinDesktopZhLocale()?\"继承周围文本颜色\":",[1551,39],")"]],
+[1899,18,["(__devinDesktopZhLocale()?\"合并队列图标\":",[1899,18],")"]],
+[2191,14,["(__devinDesktopZhLocale()?\"状态颜色\":",[2191,14],")"]],
+[3667,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

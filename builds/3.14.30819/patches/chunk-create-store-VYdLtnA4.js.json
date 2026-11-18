@@ -1,0 +1,17 @@
+[
+[850,7,["(__devinDesktopZhLocale()?\"重置\":",[850,7],")"]],
+[1085,7,["(__devinDesktopZhLocale()?\" 完成\":",[1085,7],")"]],
+[1694,8,["(__devinDesktopZhLocale()?\"移除\":",[1694,8],")"]],
+[1997,11,["(__devinDesktopZhLocale()?\"添加待办事项…\":",[1997,11],")"]],
+[2105,5,["(__devinDesktopZhLocale()?\"添加\":",[2105,5],")"]],
+[2373,7,["(__devinDesktopZhLocale()?\"待办事项\":",[2373,7],")"]],
+[2695,12,["(__devinDesktopZhLocale()?\"实例A\":",[2695,12],")"]],
+[2939,12,["(__devinDesktopZhLocale()?\"实例B\":",[2939,12],")"]],
+[3063,124,["(__devinDesktopZhLocale()?\"使用 React 上下文创建具有范围功能的 Zustand 存储的工厂。每个 Provider 都会创建一个带有类型化状态的隔离实例。\":",[3063,124],")"]],
+[3277,16,["(__devinDesktopZhLocale()?\"简单计数器\":",[3277,16],")"]],
+[3347,11,["(__devinDesktopZhLocale()?\"待办清单\":",[3347,11],")"]],
+[3436,41,["(__devinDesktopZhLocale()?\"多个提供程序（孤立实例）\":",[3436,41],")"]],
+[3534,17,["(__devinDesktopZhLocale()?\"创建存储函数\":",[3534,17],")"]],
+[3581,16,["(__devinDesktopZhLocale()?\"返回钩子\":",[3581,16],")"]],
+[6459,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

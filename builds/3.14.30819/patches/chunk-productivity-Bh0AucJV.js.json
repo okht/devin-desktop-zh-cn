@@ -1,0 +1,9 @@
+[
+[1467,14,["(__devinDesktopZhLocale()?\"工作效率\":",[1467,14],")"]],
+[1494,63,["(__devinDesktopZhLocale()?\"客户将看到的生产力仪表板预览\":",[1494,63],")"]],
+[1839,21,["(__devinDesktopZhLocale()?\"选择组织\":",[1839,21],")"]],
+[2181,21,["(__devinDesktopZhLocale()?\"客户可见性\":",[2181,21],")"]],
+[2279,60,["(__devinDesktopZhLocale()?\"仪表板目前对所有客户用户是隐藏的。\":",[2279,60],")"]],
+[2340,55,["(__devinDesktopZhLocale()?\"控制哪些客户用户可以查看这个仪表板。\":",[2340,55],")"]],
+[2880,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

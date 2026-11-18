@@ -1,0 +1,13 @@
+[
+[311,340,["(__devinDesktopZhLocale()?\"规范加载指示器：通过CSS关键帧实现的Devin界面效果。所有加载状态都应通过此组件进行路由处理，以便可以在某个位置替换加载器。该标记采用8%的text-primary-strong颜色渐变，适用于应用页面的背景——下面的示例在bg-bg-page背景下展示，以展示其实际效果。\":",[311,340],")"]],
+[744,7,["(__devinDesktopZhLocale()?\"面板\":",[744,7],")"]],
+[915,17,["(__devinDesktopZhLocale()?\"带文字的面板\":",[915,17],")"]],
+[1100,18,["(__devinDesktopZhLocale()?\"会话加载\":",[1100,18],")"]],
+[1144,19,["(__devinDesktopZhLocale()?\"面板，静音状态\":",[1144,19],")"]],
+[1353,8,["(__devinDesktopZhLocale()?\"行内\":",[1353,8],")"]],
+[1526,20,["(__devinDesktopZhLocale()?\"内联，静音语气\":",[1526,20],")"]],
+[1737,18,["(__devinDesktopZhLocale()?\"与文本同步\":",[1737,18],")"]],
+[1916,10,["(__devinDesktopZhLocale()?\"正在加载…\":",[1916,10],")"]],
+[1955,9,["(__devinDesktopZhLocale()?\"正在加载\":",[1955,9],")"]],
+[3270,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

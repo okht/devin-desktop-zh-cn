@@ -1,0 +1,14 @@
+[
+[329,108,["(__devinDesktopZhLocale()?\"收件箱中的项目，即回复的消息，以芯片的形式显示在发送回复上方的 composer 工具栏中。\":",[329,108],")"]],
+[538,11,["(__devinDesktopZhLocale()?\"可点击\":",[538,11],")"]],
+[662,27,["(__devinDesktopZhLocale()?\"批准发行说明\":",[662,27],")"]],
+[733,7,["(__devinDesktopZhLocale()?\"惰性\":",[733,7],")"]],
+[833,27,["(__devinDesktopZhLocale()?\"批准发行说明\":",[833,27],")"]],
+[884,11,["(__devinDesktopZhLocale()?\"可移除\":",[884,11],")"]],
+[1065,27,["(__devinDesktopZhLocale()?\"批准发行说明\":",[1065,27],")"]],
+[1121,18,["(__devinDesktopZhLocale()?\"清除收件箱项\":",[1121,18],")"]],
+[1185,12,["(__devinDesktopZhLocale()?\"长标题\":",[1185,12],")"]],
+[1388,50,["(__devinDesktopZhLocale()?\"批准十月发布的发布说明\":",[1388,50],")"]],
+[1467,26,["(__devinDesktopZhLocale()?\"InboxReferenceChip 支持\":",[1467,26],")"]],
+[2199,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

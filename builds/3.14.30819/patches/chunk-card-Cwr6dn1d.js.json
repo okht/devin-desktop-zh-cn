@@ -1,0 +1,20 @@
+[
+[350,90,["(__devinDesktopZhLocale()?\"一个用于分组相关内容的容器，可选择性地包含眉眉、脚注和元数据行。\":",[350,90],")"]],
+[581,7,["(__devinDesktopZhLocale()?\"基本\":",[581,7],")"]],
+[870,71,["(__devinDesktopZhLocale()?\"主要内容在此。您可以在卡片主体中放入任何内容。\":",[870,71],")"]],
+[990,14,["(__devinDesktopZhLocale()?\"带着眉毛\":",[990,14],")"]],
+[1230,10,["(__devinDesktopZhLocale()?\"类别\":",[1230,10],")"]],
+[1351,15,["(__devinDesktopZhLocale()?\"此处为内容。\":",[1351,15],")"]],
+[1416,11,["(__devinDesktopZhLocale()?\"通过元数据\":",[1416,11],")"]],
+[1701,10,["(__devinDesktopZhLocale()?\"类别\":",[1701,10],")"]],
+[1822,15,["(__devinDesktopZhLocale()?\"此处为内容。\":",[1822,15],")"]],
+[1866,26,["(__devinDesktopZhLocale()?\"2 小时前更新\":",[1866,26],")"]],
+[1938,15,["(__devinDesktopZhLocale()?\"附脚注\":",[1938,15],")"]],
+[2235,10,["(__devinDesktopZhLocale()?\"类别\":",[2235,10],")"]],
+[2356,15,["(__devinDesktopZhLocale()?\"此处为内容。\":",[2356,15],")"]],
+[2400,26,["(__devinDesktopZhLocale()?\"2 小时前更新\":",[2400,26],")"]],
+[2472,9,["(__devinDesktopZhLocale()?\"极简\":",[2472,9],")"]],
+[2755,17,["(__devinDesktopZhLocale()?\"简单内容。\":",[2755,17],")"]],
+[2805,6,["(__devinDesktopZhLocale()?\"卡片\":",[2805,6],")"]],
+[4632,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

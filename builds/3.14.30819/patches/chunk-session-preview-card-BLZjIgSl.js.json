@@ -1,0 +1,7 @@
+[
+[1407,9,["(__devinDesktopZhLocale()?\"会话\":",[1407,9],")"]],
+[1886,593,["(__devinDesktopZhLocale()?\"会话主体，采用弹出式设计：会话标题、状态行以及最多三行内容 Devin最新的消息被固定在顶部，下面是一个分隔栏，然后是一个滚动区域，里面显示会话的推广信息和链接。这个卡片是 280横向宽度最多为px 280px tall; 列表在固定标题下方滚动，在内容较多时会在底部逐渐淡出。PR行在静止状态下显示差异统计信息，悬停时显示内联提供者/更多操作按钮。主体部分（SessionPreviewPanel）具有展示功能；所有者为其提供会话状态、PR信息和链接。侧边栏中的会话行在悬停时不再打开该部分。\":",[1886,593],")"]],
+[2623,11,["(__devinDesktopZhLocale()?\"卡片主体\":",[2623,11],")"]],
+[3847,26,["(__devinDesktopZhLocale()?\"改进侧边栏预览\":",[3847,26],")"]],
+[7354,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

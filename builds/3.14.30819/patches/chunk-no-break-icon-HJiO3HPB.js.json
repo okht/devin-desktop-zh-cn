@@ -1,0 +1,7 @@
+[
+[379,71,["(__devinDesktopZhLocale()?\"在文本旁边的同一行上保留装饰性内联图标\":",[379,71],")"]],
+[682,18,["(__devinDesktopZhLocale()?\"窄容器\":",[682,18],")"]],
+[901,26,["(__devinDesktopZhLocale()?\"等待审查\":",[901,26],")"]],
+[1092,36,["(__devinDesktopZhLocale()?\"一个在空格处仍然会换行标题\":",[1092,36],")"]],
+[1574,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

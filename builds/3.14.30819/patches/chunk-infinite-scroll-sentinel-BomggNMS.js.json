@@ -1,0 +1,9 @@
+[
+[472,13,["(__devinDesktopZhLocale()?\"向下滚动\":",[472,13],")"]],
+[748,13,["(__devinDesktopZhLocale()?\"错误状态\":",[748,13],")"]],
+[940,23,["(__devinDesktopZhLocale()?\"加载失败。请重试。\":",[940,23],")"]],
+[1046,89,["(__devinDesktopZhLocale()?\"在列表末尾有一个不可见的标记，滚动查看时会加载更多项目。\":",[1046,89],")"]],
+[1236,9,["(__devinDesktopZhLocale()?\"正在加载\":",[1236,9],")"]],
+[1385,16,["(__devinDesktopZhLocale()?\"错误回退\":",[1385,16],")"]],
+[2911,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

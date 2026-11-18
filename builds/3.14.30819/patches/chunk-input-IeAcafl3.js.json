@@ -1,0 +1,14 @@
+[
+[266,27,["(__devinDesktopZhLocale()?\"单行文本字段。\":",[266,27],")"]],
+[488,7,["(__devinDesktopZhLocale()?\"基本\":",[488,7],")"]],
+[603,15,["(__devinDesktopZhLocale()?\"默认输入\":",[603,15],")"]],
+[670,10,["(__devinDesktopZhLocale()?\"已停用\":",[670,10],")"]],
+[798,16,["(__devinDesktopZhLocale()?\"禁用输入\":",[798,16],")"]],
+[878,12,["(__devinDesktopZhLocale()?\"带值\":",[878,12],")"]],
+[1063,14,["(__devinDesktopZhLocale()?\"表单变体\":",[1063,14],")"]],
+[1215,15,["(__devinDesktopZhLocale()?\"前哨标题\":",[1215,15],")"]],
+[1282,15,["(__devinDesktopZhLocale()?\"幽灵变体\":",[1282,15],")"]],
+[1435,13,["(__devinDesktopZhLocale()?\"幽灵输入\":",[1435,13],")"]],
+[1503,7,["(__devinDesktopZhLocale()?\"输入\":",[1503,7],")"]],
+[2313,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

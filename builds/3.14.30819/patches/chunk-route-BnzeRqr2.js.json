@@ -1,0 +1,19 @@
+[
+[4097,10,["(__devinDesktopZhLocale()?\"导航\":",[4097,10],")"]],
+[4227,7,["(__devinDesktopZhLocale()?\"关闭\":",[4227,7],")"]],
+[4355,8,["(__devinDesktopZhLocale()?\"选择\":",[4355,8],")"]],
+[6447,22,["(__devinDesktopZhLocale()?\"搜索设计系统\":",[6447,22],")"]],
+[6933,25,["(__devinDesktopZhLocale()?\"搜索设计系统...\":",[6933,25],")"]],
+[7301,19,["(__devinDesktopZhLocale()?\"未找到结果。\":",[7301,19],")"]],
+[8545,22,["(__devinDesktopZhLocale()?\"搜索设计系统\":",[8545,22],")"]],
+[8655,22,["(__devinDesktopZhLocale()?\"搜索设计系统\":",[8655,22],")"]],
+[8748,22,["(__devinDesktopZhLocale()?\"切换到灯光模式\":",[8748,22],")"]],
+[8771,21,["(__devinDesktopZhLocale()?\"切换到暗模式\":",[8771,21],")"]],
+[8882,22,["(__devinDesktopZhLocale()?\"切换到灯光模式\":",[8882,22],")"]],
+[8905,21,["(__devinDesktopZhLocale()?\"切换到暗模式\":",[8905,21],")"]],
+[9035,23,["(__devinDesktopZhLocale()?\"禁用高对比度\":",[9035,23],")"]],
+[9059,22,["(__devinDesktopZhLocale()?\"启用高对比度\":",[9059,22],")"]],
+[9171,23,["(__devinDesktopZhLocale()?\"禁用高对比度\":",[9171,23],")"]],
+[9195,22,["(__devinDesktopZhLocale()?\"启用高对比度\":",[9195,22],")"]],
+[11649,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

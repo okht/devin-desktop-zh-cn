@@ -1,0 +1,13 @@
+[
+[1343,22,["(__devinDesktopZhLocale()?\"Slack频道选择器\":",[1343,22],")"]],
+[1378,465,["(__devinDesktopZhLocale()?\"标题询问了机器人的任务，并首先列出了名称或主题与其关键词匹配的行（按名称的#ci-alerts，按主题的#incidents），这些行会排在前面——#ci-alerts是示例列表中的最后一个频道，因此如果没有它，这些行会隐藏在列表下方。当选择器打开时，排序是固定的：选中或取消选中一行都不会改变排序。搜索筛选了列表；确认操作会将卡片折叠为已保存的频道，同时提供一个「编辑」按钮，可以重新打开该频道。\":",[1378,465],")"]],
+[2146,7,["(__devinDesktopZhLocale()?\"已保存\":",[2146,7],")"]],
+[2166,94,["(__devinDesktopZhLocale()?\"已确认的选择仅显示所选的频道；编辑操作会重新打开完整的可搜索列表。\":",[2166,94],")"]],
+[2485,22,["(__devinDesktopZhLocale()?\"加载中\":",[2485,22],")"]],
+[2520,133,["(__devinDesktopZhLocale()?\"选项仍在加载渲染骨架行；主机可以通过`disabledReason`选项禁用确认功能（例如，权限不足）。\":",[2520,133],")"]],
+[2975,13,["(__devinDesktopZhLocale()?\"不可用\":",[2975,13],")"]],
+[3001,254,["(__devinDesktopZhLocale()?\"没有频道可供选择，列表区域显示了原因，而操作行链接指向所有者可以修复的地方，而不是死循环：确认失败——Slack未连接，观众账户未关联，Devin不在观众的任何频道中，或者列表无法加载。\":",[3001,254],")"]],
+[3901,38,["(__devinDesktopZhLocale()?\"由于频道配置问题，该服务当前不可用。\":",[3901,38],")"]],
+[3952,186,["(__devinDesktopZhLocale()?\"在 Slack 关闭之前，频道就已经被保存了：编辑器仍然会列出这些频道，以便可以通过「确认」操作来清除它们，同时还会在上面显示清除的原因，并且会在「确认」旁边保留与修复相关的链接。\":",[3952,186],")"]],
+[5604,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

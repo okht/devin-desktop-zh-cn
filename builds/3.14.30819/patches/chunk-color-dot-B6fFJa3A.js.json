@@ -1,0 +1,11 @@
+[
+[331,53,["(__devinDesktopZhLocale()?\"一个9像素的点，表示与某个名称对应的颜色。\":",[331,53],")"]],
+[671,7,["(__devinDesktopZhLocale()?\"颜色\":",[671,7],")"]],
+[957,11,["(__devinDesktopZhLocale()?\"CSS颜色\":",[957,11],")"]],
+[1074,13,["(__devinDesktopZhLocale()?\"类颜色\":",[1074,13],")"]],
+[1181,10,["(__devinDesktopZhLocale()?\"无颜色\":",[1181,10],")"]],
+[1219,11,["(__devinDesktopZhLocale()?\"在芯片中\":",[1219,11],")"]],
+[1498,13,["(__devinDesktopZhLocale()?\"增强\":",[1498,13],")"]],
+[1616,12,["(__devinDesktopZhLocale()?\"团队：基础设施\":",[1616,12],")"]],
+[2086,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,11 @@
+[
+[709,11,["(__devinDesktopZhLocale()?\"精选：\":",[709,11],")"]],
+[792,6,["(__devinDesktopZhLocale()?\"无\":",[792,6],")"]],
+[1752,90,["(__devinDesktopZhLocale()?\"一个日历，具有可编辑的起始/结束日期字段，可用于选择单个日期或日期范围。\":",[1752,90],")"]],
+[1943,7,["(__devinDesktopZhLocale()?\"基本\":",[1943,7],")"]],
+[2124,11,["(__devinDesktopZhLocale()?\"预先填写\":",[2124,11],")"]],
+[2250,11,["(__devinDesktopZhLocale()?\"随着时间的推移\":",[2250,11],")"]],
+[2548,16,["(__devinDesktopZhLocale()?\"固定时区\":",[2548,16],")"]],
+[2879,13,["(__devinDesktopZhLocale()?\"單日\":",[2879,13],")"]],
+[5485,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

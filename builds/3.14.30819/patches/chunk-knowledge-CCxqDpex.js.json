@@ -1,0 +1,13 @@
+[
+[2193,6,["(__devinDesktopZhLocale()?\"名称\":",[2193,6],")"]],
+[2536,6,["(__devinDesktopZhLocale()?\"规模\":",[2536,6],")"]],
+[3041,11,["(__devinDesktopZhLocale()?\"时间戳\":",[3041,11],")"]],
+[3417,45,["(__devinDesktopZhLocale()?\"该会话没有发现任何知识事件。\":",[3417,45],")"]],
+[3634,9,["(__devinDesktopZhLocale()?\"刷新\":",[3634,9],")"]],
+[3934,9,["(__devinDesktopZhLocale()?\"刷新\":",[3934,9],")"]],
+[4444,23,["(__devinDesktopZhLocale()?\"返回到会话管理界面\":",[4444,23],")"]],
+[4579,18,["(__devinDesktopZhLocale()?\"知识事件\":",[4579,18],")"]],
+[4914,44,["(__devinDesktopZhLocale()?\"无法加载此会话的事件。\":",[4914,44],")"]],
+[4959,19,["(__devinDesktopZhLocale()?\"加载事件...\":",[4959,19],")"]],
+[5243,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

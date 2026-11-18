@@ -1,0 +1,9 @@
+[
+[344,369,["(__devinDesktopZhLocale()?\"该聊天视频播放器位于ChatMediaPreview和气泡附件之后，由网页应用和桌面端通过#/ds-deps共享。在元数据到达之前，会预留一个4:3的显示比例，然后按照视频的实际比例进行缩放（由于缓存来自源，因此虚拟重加载不会导致比例变化）。在播放过程中会刷新预先签名附件的URL，一旦重试次数用尽，则会回退到下载链接。\":",[344,369],")"]],
+[824,9,["(__devinDesktopZhLocale()?\"默认\":",[824,9],")"]],
+[947,11,["(__devinDesktopZhLocale()?\"录制\":",[947,11],")"]],
+[1000,24,["(__devinDesktopZhLocale()?\"不可用（备选方案）\":",[1000,24],")"]],
+[1185,15,["(__devinDesktopZhLocale()?\"缺失的视频\":",[1185,15],")"]],
+[1227,23,["(__devinDesktopZhLocale()?\"VideoAttachment 属性\":",[1227,23],")"]],
+[2136,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

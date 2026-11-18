@@ -1,0 +1,23 @@
+[
+[3340,47,["(__devinDesktopZhLocale()?\"用户没有清除任何已关闭的通知。\":",[3340,47],")"]],
+[3388,53,["(__devinDesktopZhLocale()?`清除 ${r} 已驳回公告${r===1?``:`s`}。`:",[3388,53],")"]],
+[3650,32,["(__devinDesktopZhLocale()?\"重置公告失败。\":",[3650,32],")"]],
+[3889,40,["(__devinDesktopZhLocale()?\"没有可撤销的活跃会话。\":",[3889,40],")"]],
+[3930,45,["(__devinDesktopZhLocale()?`撤销了${t}个活跃会话${t===1?``:`s`}。`:",[3930,45],")"]],
+[4078,33,["(__devinDesktopZhLocale()?\"未能撤销用户会话。\":",[4078,33],")"]],
+[5004,13,["(__devinDesktopZhLocale()?\"用户被冻结了\":",[5004,13],")"]],
+[5216,24,["(__devinDesktopZhLocale()?\"未能冻结用户。\":",[5216,24],")"]],
+[5382,15,["(__devinDesktopZhLocale()?\"用户解冻\":",[5382,15],")"]],
+[5598,26,["(__devinDesktopZhLocale()?\"无法解冻用户。\":",[5598,26],")"]],
+[5767,26,["(__devinDesktopZhLocale()?\"认证提供者ID已清除\":",[5767,26],")"]],
+[5998,35,["(__devinDesktopZhLocale()?\"清除认证提供者ID失败。\":",[5998,35],")"]],
+[6184,18,["(__devinDesktopZhLocale()?\"身份已删除\":",[6184,18],")"]],
+[6345,28,["(__devinDesktopZhLocale()?\"删除身份失败。\":",[6345,28],")"]],
+[6506,19,["(__devinDesktopZhLocale()?\"用户名称已更新\":",[6506,19],")"]],
+[6724,29,["(__devinDesktopZhLocale()?\"更新用户名失败。\":",[6724,29],")"]],
+[6923,55,["(__devinDesktopZhLocale()?`更新了 ${e.updated} 用户名${e.updated===1?``:`s`}`:",[6923,55],")"]],
+[7274,35,["(__devinDesktopZhLocale()?\"批量更新用户名失败。\":",[7274,35],")"]],
+[7459,41,["(__devinDesktopZhLocale()?\"组织删除请求已提交\":",[7459,41],")"]],
+[7635,34,["(__devinDesktopZhLocale()?`无法请求删除: ${e}`:",[7635,34],")"]],
+[8153,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

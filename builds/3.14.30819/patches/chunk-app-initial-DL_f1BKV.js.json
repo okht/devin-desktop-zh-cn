@@ -1,0 +1,4 @@
+[
+[151740,11,["(__devinDesktopZhLocale()?\"Devin 询问\":",[151740,11],")"]],
+[214014,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

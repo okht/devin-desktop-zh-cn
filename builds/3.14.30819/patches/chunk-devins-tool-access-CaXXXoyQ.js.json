@@ -1,0 +1,11 @@
+[
+[10959,14,["(__devinDesktopZhLocale()?\"预览链接\":",[10959,14],")"]],
+[11051,56,["(__devinDesktopZhLocale()?\"Devin 工具访问设置视图的界面。\":",[11051,56],")"]],
+[11513,10,["(__devinDesktopZhLocale()?\"视口\":",[11513,10],")"]],
+[11625,16,["(__devinDesktopZhLocale()?\"移动端 · 390px\":",[11625,16],")"]],
+[11745,9,["(__devinDesktopZhLocale()?\"桌面\":",[11745,9],")"]],
+[11834,7,["(__devinDesktopZhLocale()?\"状态\":",[11834,7],")"]],
+[12316,13,["(__devinDesktopZhLocale()?\"可以添加MCP\":",[12316,13],")"]],
+[12541,11,["(__devinDesktopZhLocale()?\"只读\":",[12541,11],")"]],
+[13239,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,6 @@
+[
+[869,93,["(__devinDesktopZhLocale()?\"一个用于就地编辑标题的文本字段，通过按回车键保存，或通过按退格键取消操作。\":",[869,93],")"]],
+[1063,9,["(__devinDesktopZhLocale()?\"默认\":",[1063,9],")"]],
+[1340,11,["(__devinDesktopZhLocale()?\"多行\":",[1340,11],")"]],
+[3122,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

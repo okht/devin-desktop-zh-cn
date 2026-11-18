@@ -1,0 +1,7 @@
+[
+[2464,22,["(__devinDesktopZhLocale()?\"虚拟化调试\":",[2464,22],")"]],
+[3019,22,["(__devinDesktopZhLocale()?\"虚拟化调试\":",[3019,22],")"]],
+[3065,7,["(__devinDesktopZhLocale()?\"关闭\":",[3065,7],")"]],
+[3140,28,["(__devinDesktopZhLocale()?\"关闭虚拟化调试\":",[3140,28],")"]],
+[3475,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,11 @@
+[
+[927,31,["(__devinDesktopZhLocale()?\"将 ACU 限制转换为美元\":",[927,31],")"]],
+[1030,102,["(__devinDesktopZhLocale()?\"为当前或即将进行的计费阶段设置美元限额。在转换之前先预览更改内容。\":",[1030,102],")"]],
+[1300,16,["(__devinDesktopZhLocale()?\"企业ID\":",[1300,16],")"]],
+[1405,17,["(__devinDesktopZhLocale()?\"每行一个ID\":",[1405,17],")"]],
+[1610,34,["(__devinDesktopZhLocale()?\"覆盖现有美元限制\":",[1610,34],")"]],
+[1785,9,["(__devinDesktopZhLocale()?\"预览\":",[1785,9],")"]],
+[1885,9,["(__devinDesktopZhLocale()?\"转换\":",[1885,9],")"]],
+[2423,123,["(__devinDesktopZhLocale()?`${e.acus} 交流单元 → ${typeof e.old_value==`number`?`$${(e.old_value/100).toFixed(2)} → `:``}$${(e.new_value/100).toFixed(2)}`:",[2423,123],")"]],
+[2850,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

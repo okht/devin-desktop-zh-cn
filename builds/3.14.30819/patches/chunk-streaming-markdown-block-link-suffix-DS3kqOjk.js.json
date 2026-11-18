@@ -1,0 +1,6 @@
+[
+[559,19,["(__devinDesktopZhLocale()?\"预览卡 \":",[559,19],")"]],
+[686,104,["(__devinDesktopZhLocale()?\"在包含链接的每个块之后，会渲染一个流式markdown槽，接收这些链接的href值。\":",[686,104],")"]],
+[828,7,["(__devinDesktopZhLocale()?\"基本\":",[828,7],")"]],
+[1842,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

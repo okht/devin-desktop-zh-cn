@@ -1,0 +1,4 @@
+[
+[2229,13,["(__devinDesktopZhLocale()?`切换 ${e}`:",[2229,13],")"]],
+[8275,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

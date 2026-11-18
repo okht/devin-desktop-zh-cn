@@ -74,14 +74,21 @@ def lock(directory):
 
 class Installation:
     def __init__(self, args):
-        self.release = read_json(ROOT / "manifest.json")
         local = Path(os.environ["LOCALAPPDATA"])
         self.app = (args.app or local / "Programs/Devin/resources/app").resolve()
         self.data = (args.user_data or Path(os.environ["APPDATA"]) / "Devin").resolve()
         self.extensions = (args.extensions or Path.home() / ".devin/extensions").resolve()
         self.product = read_json(self.app / "product.json")
+        self.resources = ROOT
+        self.release = read_json(ROOT / "manifest.json")
         if self.product.get("commit") != self.release["commit"]:
-            raise ValueError("此包适配 Devin Desktop " + self.release["appVersion"] + "，当前构建与发布清单不符。")
+            for manifest in sorted((ROOT / "builds").glob("*/manifest.json")):
+                candidate = read_json(manifest)
+                if candidate["commit"] == self.product.get("commit"):
+                    self.release, self.resources = candidate, manifest.parent
+                    break
+            else:
+                raise ValueError("当前 Devin 构建尚未适配：" + str(self.product.get("windsurfVersion", self.product.get("commit"))))
         self.entries = self.release["files"]
         self.rows = {row["path"]: row for row in self.entries}
         key = os.path.normcase(str(self.app) + "|" + str(self.extensions))
@@ -159,9 +166,14 @@ class Installation:
             src = self.path(row)
             if current != signature:
                 legacy = self.legacy_rows.get(row["path"], {})
-                if legacy.get("original") != signature:
-                    raise ValueError("缺少可验证的原版备份：" + row["path"])
-                src = under(self.legacy / "original", legacy["name"])
+                if legacy.get("original") == signature:
+                    src = under(self.legacy / "original", legacy["name"])
+                else:
+                    # The Microsoft extension is shared across Devin upgrades.
+                    src = next((p for p in self.backups.parent.glob("*/original/" + signature)
+                                if row["type"] == "editor" and digest(p) == signature), None)
+                    if src is None:
+                        raise ValueError("缺少可验证的原版备份：" + row["path"])
             if digest(src) != signature:
                 raise ValueError("原版文件校验失败：" + row["path"])
             atomic(backup, src)
@@ -171,15 +183,19 @@ class Installation:
 
     def generated_files(self, sources):
         host = sources[self.release["host"]].read_bytes().decode("utf-8")
-        catalog = embedded_catalog(ROOT, host)
-        fields = read_json(ROOT / "locales/extensions.zh-CN.json")
+        if self.release.get("sparseCatalog"):
+            from src.resources import js_json
+            catalog = js_json(js_json(read_json(self.resources / "locales/agent.zh-CN.json")))
+        else:
+            catalog = embedded_catalog(self.resources, host)
+        fields = read_json(self.resources / "locales/extensions.zh-CN.json")
         builtins = {}
         for extension, data in fields.items():
             rel = "extensions/" + extension + "/"
             stock = sources[rel + "package.json"].read_bytes()
             builtins.update({rel + name: contents for name, contents in build_extension(stock, data).items()})
         hashes = {}
-        editor = build_editor(sources[self.pack["path"]].read_bytes(), read_json(ROOT / "locales/editor.zh-CN.json"))
+        editor = build_editor(sources[self.pack["path"]].read_bytes(), read_json(self.resources / "locales/editor.zh-CN.json"))
         for row in self.entries:
             rel = row["path"]
             if row["type"] == "product":
@@ -189,18 +205,18 @@ class Installation:
             elif row["type"] == "editor":
                 result = editor
             elif rel == live.MESSAGES:
-                result = live.build_messages(self.app, editor)
+                result = live.build_messages(self.app, editor, self.release.get("nls"))
             elif rel == live.RUNTIME:
                 result = (ROOT / "src/live-language.js").read_bytes()
             elif rel == live.MAIN:
                 result = live.main_process(sources[rel].read_bytes())
             else:
-                edits = read_json(under(ROOT, row["patch"]))
+                edits = read_json(under(self.resources, row["patch"]))
                 result = apply_splices(sources[rel].read_bytes().decode("utf-8"), edits, catalog)
                 if rel in (live.WORKBENCH, live.SESSIONS):
-                    result = live.renderer(ROOT, rel, result)
-                elif rel in (self.release["host"], live.CHAT):
-                    result = live.react_renderer(ROOT, result, rel == live.CHAT)
+                    result = live.renderer(self.resources, rel, result, self.release.get("bindings"))
+                if rel in (self.release["host"], live.CHAT) or rel == live.SESSIONS and self.release.get("bindings"):
+                    result = live.react_renderer(ROOT, result, rel == live.CHAT, self.release.get("bindings"), rel == live.SESSIONS)
             hashes[rel] = hashlib.sha256(result).hexdigest()
             yield row, result
         product = self.rows["product.json"]
@@ -224,7 +240,7 @@ class Installation:
                 raise ValueError("发现与原版及本发布包都不匹配的文件：" + row["path"])
         registry, existing = self.ensure_pack(action)
         states[self.pack["path"]] = digest(self.pack_path)
-        if states[self.pack["path"]] not in (self.pack["original"], self.pack["localized"], None):
+        if states[self.pack["path"]] not in (self.pack["original"], self.pack["localized"], *self.pack.get("previous", []), None):
             raise ValueError("已安装扩展的词典与发布校验不符。")
         applying = action == "apply"
         update_registry = self.make_registration(registry, existing) if applying else None

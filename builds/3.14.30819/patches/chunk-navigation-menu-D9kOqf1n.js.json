@@ -1,0 +1,11 @@
+[
+[385,77,["(__devinDesktopZhLocale()?\"一组导航触发器，其悬停内容会在一个共享的弹窗中打开。\":",[385,77],")"]],
+[575,7,["(__devinDesktopZhLocale()?\"基本\":",[575,7],")"]],
+[1934,10,["(__devinDesktopZhLocale()?\"产品\":",[1934,10],")"]],
+[2044,10,["(__devinDesktopZhLocale()?\"产品\":",[2044,10],")"]],
+[2121,21,["(__devinDesktopZhLocale()?\"浏览我们的目录。\":",[2121,21],")"]],
+[2252,11,["(__devinDesktopZhLocale()?\"资源\":",[2252,11],")"]],
+[2363,11,["(__devinDesktopZhLocale()?\"资源\":",[2363,11],")"]],
+[2441,24,["(__devinDesktopZhLocale()?\"文档、指南等。\":",[2441,24],")"]],
+[5152,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,9 @@
+[
+[396,100,["(__devinDesktopZhLocale()?\"用于对话框表单的主要提交按钮，其工具提示显示其标签以及Cmd+Enter快捷键。\":",[396,100],")"]],
+[704,9,["(__devinDesktopZhLocale()?\"待处理\":",[704,9],")"]],
+[1330,9,["(__devinDesktopZhLocale()?\"详情\":",[1330,9],")"]],
+[1379,28,["(__devinDesktopZhLocale()?\"输入文字，然后按Cmd+Enter\":",[1379,28],")"]],
+[1500,25,["get pendingLabel(){return (__devinDesktopZhLocale()?\"发送中...\":",[1513,12],")}"]],
+[1535,6,["(__devinDesktopZhLocale()?\"发送\":",[1535,6],")"]],
+[2484,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

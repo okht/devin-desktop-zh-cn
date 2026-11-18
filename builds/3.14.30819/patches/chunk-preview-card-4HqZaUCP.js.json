@@ -1,0 +1,20 @@
+[
+[1097,81,["(__devinDesktopZhLocale()?\"一种浮动卡片，当用户将鼠标悬停在触发点上时，会预览丰富的内容。\":",[1097,81],")"]],
+[1293,7,["(__devinDesktopZhLocale()?\"基本\":",[1293,7],")"]],
+[1653,19,["(__devinDesktopZhLocale()?\"悬停预览\":",[1653,19],")"]],
+[1779,14,["(__devinDesktopZhLocale()?\"预览卡\":",[1779,14],")"]],
+[1860,27,["(__devinDesktopZhLocale()?\"悬停时的内容预览。\":",[1860,27],")"]],
+[1917,11,["(__devinDesktopZhLocale()?\"位置\":",[1917,11],")"]],
+[2420,5,["(__devinDesktopZhLocale()?\"顶部\":",[2420,5],")"]],
+[2526,16,["(__devinDesktopZhLocale()?\"预览功能\":",[2526,16],")"]],
+[2618,8,["(__devinDesktopZhLocale()?\"底部\":",[2618,8],")"]],
+[2730,19,["(__devinDesktopZhLocale()?\"底部预览\":",[2730,19],")"]],
+[2781,14,["(__devinDesktopZhLocale()?\"用户资料\":",[2781,14],")"]],
+[3588,10,["(__devinDesktopZhLocale()?\"简·多伊\":",[3588,10],")"]],
+[3665,17,["(__devinDesktopZhLocale()?\"高级工程师\":",[3665,17],")"]],
+[3717,19,["(__devinDesktopZhLocale()?\"滚动页面内部\":",[3717,19],")"]],
+[4574,23,["(__devinDesktopZhLocale()?\"聚焦我，然后滚动\":",[4574,23],")"]],
+[4720,51,["(__devinDesktopZhLocale()?\"在触发器滚动到看不见时隐藏。\":",[4720,51],")"]],
+[4839,13,["(__devinDesktopZhLocale()?\"共享卡\":",[4839,13],")"]],
+[8551,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

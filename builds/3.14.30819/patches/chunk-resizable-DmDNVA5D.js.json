@@ -1,0 +1,15 @@
+[
+[334,80,["(__devinDesktopZhLocale()?\"一组可以通过拖动它们之间的分隔符来调整大小的面板。\":",[334,80],")"]],
+[529,16,["(__devinDesktopZhLocale()?\"左右\":",[529,16],")"]],
+[1266,6,["(__devinDesktopZhLocale()?\"左侧\":",[1266,6],")"]],
+[1439,7,["(__devinDesktopZhLocale()?\"右侧\":",[1439,7],")"]],
+[1477,16,["(__devinDesktopZhLocale()?\"上下\":",[1477,16],")"]],
+[2235,5,["(__devinDesktopZhLocale()?\"顶部\":",[2235,5],")"]],
+[2431,8,["(__devinDesktopZhLocale()?\"底部\":",[2431,8],")"]],
+[2470,14,["(__devinDesktopZhLocale()?\"三块面板\":",[2470,14],")"]],
+[3423,9,["(__devinDesktopZhLocale()?\"侧边栏\":",[3423,9],")"]],
+[3613,9,["(__devinDesktopZhLocale()?\"内容\":",[3613,9],")"]],
+[3803,9,["(__devinDesktopZhLocale()?\"详情\":",[3803,9],")"]],
+[3843,61,["(__devinDesktopZhLocale()?\"边缘在手工卷制的手柄上的突出部分（将顶部边缘悬停）\":",[3843,61],")"]],
+[6944,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

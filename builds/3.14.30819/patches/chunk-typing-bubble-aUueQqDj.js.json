@@ -1,0 +1,17 @@
+[
+[3203,19,["(__devinDesktopZhLocale()?\"工作指标\":",[3203,19],")"]],
+[3351,15,["(__devinDesktopZhLocale()?\"输入气泡\":",[3351,15],")"]],
+[3406,23,["(__devinDesktopZhLocale()?\"状态页脚（今日）\":",[3406,23],")"]],
+[3454,43,["(__devinDesktopZhLocale()?\"大型流式回复，运行仍正常\":",[3454,43],")"]],
+[3552,25,["(__devinDesktopZhLocale()?\"回复之前不提供名称\":",[3552,25],")"]],
+[3676,8,["(__devinDesktopZhLocale()?\"回放\":",[3676,8],")"]],
+[3940,10,["(__devinDesktopZhLocale()?\"处理中…\":",[3940,10],")"]],
+[4493,8,["(__devinDesktopZhLocale()?\"输入\":",[4493,8],")"]],
+[4825,11,["(__devinDesktopZhLocale()?\"点状态\":",[4825,11],")"]],
+[5404,123,["(__devinDesktopZhLocale()?\"机器人的工作指示器，表现为对话末尾的一个打字气泡。这些点会随着回复内容的增加而逐渐扩大。\":",[5404,123],")"]],
+[5557,6,["(__devinDesktopZhLocale()?\"实时\":",[5557,6],")"]],
+[5789,12,["(__devinDesktopZhLocale()?\"点状态\":",[5789,12],")"]],
+[5957,8,["(__devinDesktopZhLocale()?\"状态\":",[5957,8],")"]],
+[6113,25,["(__devinDesktopZhLocale()?\"回复之前不提供名称\":",[6113,25],")"]],
+[9417,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

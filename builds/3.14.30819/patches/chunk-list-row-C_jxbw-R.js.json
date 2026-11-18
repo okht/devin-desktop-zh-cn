@@ -1,0 +1,22 @@
+[
+[707,27,["(__devinDesktopZhLocale()?\"包含存档会话\":",[707,27],")"]],
+[799,77,["(__devinDesktopZhLocale()?\"菜单外的列表行，具有与MenuItem相同的半径、色调和文本。\":",[799,77],")"]],
+[1160,7,["(__devinDesktopZhLocale()?\"大小\":",[1160,7],")"]],
+[1528,7,["(__devinDesktopZhLocale()?\"小\":",[1528,7],")"]],
+[1664,8,["(__devinDesktopZhLocale()?\"中\":",[1664,8],")"]],
+[1700,41,["(__devinDesktopZhLocale()?\"标题、说明和末尾内容\":",[1700,41],")"]],
+[2310,58,["(__devinDesktopZhLocale()?\"一个名称较长的仓库，可以截断为一行显示\":",[2310,58],")"]],
+[2393,72,["(__devinDesktopZhLocale()?\"当行太窄无法容纳时，描述会截断。\":",[2393,72],")"]],
+[2515,8,["(__devinDesktopZhLocale()?\"活跃\":",[2515,8],")"]],
+[2554,8,["(__devinDesktopZhLocale()?\"状态\":",[2554,8],")"]],
+[2932,10,["(__devinDesktopZhLocale()?\"已选择\":",[2932,10],")"]],
+[3073,10,["(__devinDesktopZhLocale()?\"已停用\":",[3073,10],")"]],
+[3166,11,["(__devinDesktopZhLocale()?\"只读\":",[3166,11],")"]],
+[3205,14,["(__devinDesktopZhLocale()?\"复选框行\":",[3205,14],")"]],
+[3489,15,["(__devinDesktopZhLocale()?\"内联操作\":",[3489,15],")"]],
+[4004,8,["(__devinDesktopZhLocale()?\"移除\":",[4004,8],")"]],
+[4068,35,["(__devinDesktopZhLocale()?\"全行链接带悬停操作\":",[4068,35],")"]],
+[4617,28,["(__devinDesktopZhLocale()?\"悬停以显示操作\":",[4617,28],")"]],
+[4726,8,["(__devinDesktopZhLocale()?\"移除\":",[4726,8],")"]],
+[6094,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

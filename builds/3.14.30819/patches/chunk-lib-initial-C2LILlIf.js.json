@@ -1,0 +1,4 @@
+[
+[26785,9,["(__devinDesktopZhLocale()?\"关闭提示\":",[26785,9],")"]],
+[54053,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

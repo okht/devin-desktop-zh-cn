@@ -1,0 +1,7 @@
+[
+[955,25,["(__devinDesktopZhLocale()?\"管理面板权限\":",[955,25],")"]],
+[1106,7,["(__devinDesktopZhLocale()?\"用户\":",[1106,7],")"]],
+[1206,8,["(__devinDesktopZhLocale()?\"分组\":",[1206,8],")"]],
+[1305,7,["(__devinDesktopZhLocale()?\"角色\":",[1305,7],")"]],
+[1684,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

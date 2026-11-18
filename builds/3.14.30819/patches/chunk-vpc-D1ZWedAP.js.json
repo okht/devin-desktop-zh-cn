@@ -1,0 +1,8 @@
+[
+[614,13,["(__devinDesktopZhLocale()?\"虚拟机监控程序\":",[614,13],")"]],
+[640,41,["(__devinDesktopZhLocale()?\"监控此企业的虚拟机管理程序\":",[640,41],")"]],
+[906,15,["(__devinDesktopZhLocale()?\"代理路由\":",[906,15],")"]],
+[1042,53,["(__devinDesktopZhLocale()?\"代理路由（proxyrouter配置）已移至\":",[1042,53],")"]],
+[1219,16,["(__devinDesktopZhLocale()?\"网络选项卡\":",[1219,16],")"]],
+[1486,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

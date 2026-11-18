@@ -1,0 +1,12 @@
+[
+[2419,15,["(__devinDesktopZhLocale()?\"空间选项\":",[2419,15],")"]],
+[2541,14,["(__devinDesktopZhLocale()?\"重命名空间\":",[2541,14],")"]],
+[2601,14,["(__devinDesktopZhLocale()?\"切换空间\":",[2601,14],")"]],
+[2706,37,["(__devinDesktopZhLocale()?\"这里显示会话和资源信息。\":",[2706,37],")"]],
+[2823,23,["(__devinDesktopZhLocale()?\"预览编辑状态\":",[2823,23],")"]],
+[2923,64,["(__devinDesktopZhLocale()?\"带有披露信息、菜单以及内联重命名槽位的空间标题行\":",[2923,64],")"]],
+[3080,9,["(__devinDesktopZhLocale()?\"默认\":",[3080,9],")"]],
+[3330,9,["(__devinDesktopZhLocale()?\"编辑中\":",[3330,9],")"]],
+[3613,26,["(__devinDesktopZhLocale()?\"侧边栏空间标题属性\":",[3613,26],")"]],
+[4584,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

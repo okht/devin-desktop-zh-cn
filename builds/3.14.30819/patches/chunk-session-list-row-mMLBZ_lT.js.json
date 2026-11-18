@@ -1,0 +1,14 @@
+[
+[645,15,["(__devinDesktopZhLocale()?\"修复登录缺陷\":",[645,15],")"]],
+[743,15,["(__devinDesktopZhLocale()?\"修复登录缺陷\":",[743,15],")"]],
+[934,32,["(__devinDesktopZhLocale()?\"处理认证流程\":",[934,32],")"]],
+[1108,22,["(__devinDesktopZhLocale()?\"部署到生产环境\":",[1108,22],")"]],
+[1349,27,["(__devinDesktopZhLocale()?\"运行集成测试\":",[1349,27],")"]],
+[1421,23,["(__devinDesktopZhLocale()?\"运行集成测试\":",[1421,23],")"]],
+[1624,23,["(__devinDesktopZhLocale()?\"重构utils模块\":",[1624,23],")"]],
+[1689,13,["(__devinDesktopZhLocale()?\"Devin 云端版\":",[1689,13],")"]],
+[1891,23,["(__devinDesktopZhLocale()?\"完成重构\":",[1891,23],")"]],
+[2044,259,["(__devinDesktopZhLocale()?\"Pure UI组件，用于在列表视图中渲染会话行。不包含钩子、查询或路由器逻辑。提供标准的44px行布局，内置复选框、描述和时间戳功能，同时还提供了状态、消息和尾随内容的插槽。\":",[2044,259],")"]],
+[2332,26,["(__devinDesktopZhLocale()?\"不同状态的列表\":",[2332,26],")"]],
+[6169,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,19 @@
+[
+[624,152,["(__devinDesktopZhLocale()?\"请求网络访问的展示卡片。主机应用程序提供原因、请求的或已授予的域名、成功消息以及后续操作槽位。\":",[624,152],")"]],
+[805,40,["(__devinDesktopZhLocale()?\"请求、批准以及无添加状态\":",[805,40],")"]],
+[2021,42,["(__devinDesktopZhLocale()?\"请求中，有未处理的芯片和动作\":",[2021,42],")"]],
+[2092,21,["(__devinDesktopZhLocale()?\"将 2 个域加入允许列表\":",[2092,21],")"]],
+[2246,11,["(__devinDesktopZhLocale()?\"允许列表\":",[2246,11],")"]],
+[2312,6,["(__devinDesktopZhLocale()?\"拒绝\":",[2312,6],")"]],
+[2347,27,["(__devinDesktopZhLocale()?\"经确认\":",[2347,27],")"]],
+[2403,21,["(__devinDesktopZhLocale()?\"将 2 个域加入允许列表\":",[2403,21],")"]],
+[2514,23,["(__devinDesktopZhLocale()?\"无需添加新域名\":",[2514,23],")"]],
+[2566,21,["(__devinDesktopZhLocale()?\"允许列表 0 个域名\":",[2566,21],")"]],
+[2703,35,["(__devinDesktopZhLocale()?\"长允许列表，可扩展/切换\":",[2703,35],")"]],
+[2767,22,["(__devinDesktopZhLocale()?\"允许列表中的15个域名\":",[2767,22],")"]],
+[2977,11,["(__devinDesktopZhLocale()?\"允许列表\":",[2977,11],")"]],
+[3043,6,["(__devinDesktopZhLocale()?\"拒绝\":",[3043,6],")"]],
+[3078,8,["(__devinDesktopZhLocale()?\"已拒绝\":",[3078,8],")"]],
+[3115,21,["(__devinDesktopZhLocale()?\"将 2 个域加入允许列表\":",[3115,21],")"]],
+[3975,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,10 @@
+[
+[400,73,["(__devinDesktopZhLocale()?\"用于聊天时间线中报告阻塞事件的展示卡片\":",[400,73],")"]],
+[574,17,["(__devinDesktopZhLocale()?\"突出错误\":",[574,17],")"]],
+[1038,13,["(__devinDesktopZhLocale()?\"尝试重启\":",[1038,13],")"]],
+[1079,19,["(__devinDesktopZhLocale()?\"显著警告\":",[1079,19],")"]],
+[1472,14,["(__devinDesktopZhLocale()?\"内联事件\":",[1472,14],")"]],
+[1928,32,["(__devinDesktopZhLocale()?\"无时间戳的Inline事件\":",[1928,32],")"]],
+[2354,25,["(__devinDesktopZhLocale()?\"ReportBlockerCard 支持\":",[2354,25],")"]],
+[3060,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

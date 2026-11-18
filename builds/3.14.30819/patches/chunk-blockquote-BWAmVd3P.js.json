@@ -1,0 +1,9 @@
+[
+[377,37,["(__devinDesktopZhLocale()?\"左侧边框的自定义引用块\":",[377,37],")"]],
+[584,18,["(__devinDesktopZhLocale()?\"基础块引用\":",[584,18],")"]],
+[861,53,["(__devinDesktopZhLocale()?\"预测未来的最佳方式就是创造它。\":",[861,53],")"]],
+[1372,69,["(__devinDesktopZhLocale()?\"引用内容的第一段，并添加一些额外的上下文。\":",[1372,69],")"]],
+[1506,57,["(__devinDesktopZhLocale()?\"第二段继续引用，提供更多细节。\":",[1506,57],")"]],
+[1597,18,["(__devinDesktopZhLocale()?\"Blockquote 支持\":",[1597,18],")"]],
+[1808,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

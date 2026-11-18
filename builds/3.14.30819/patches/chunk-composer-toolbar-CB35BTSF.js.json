@@ -1,0 +1,21 @@
+[
+[1208,19,["(__devinDesktopZhLocale()?\"更多发送选项\":",[1208,19],")"]],
+[1306,15,["(__devinDesktopZhLocale()?\"队列消息\":",[1306,15],")"]],
+[1767,19,["(__devinDesktopZhLocale()?\"添加附件或提及\":",[1767,19],")"]],
+[2023,9,["(__devinDesktopZhLocale()?\"语音输入\":",[2023,9],")"]],
+[2041,9,["(__devinDesktopZhLocale()?\"语音输入\":",[2041,9],")"]],
+[2108,6,["(__devinDesktopZhLocale()?\"停止\":",[2108,6],")"]],
+[2123,6,["(__devinDesktopZhLocale()?\"停止\":",[2123,6],")"]],
+[2226,6,["(__devinDesktopZhLocale()?\"发送\":",[2226,6],")"]],
+[2241,6,["(__devinDesktopZhLocale()?\"发送\":",[2241,6],")"]],
+[2567,502,["(__devinDesktopZhLocale()?\"The InputShell工具栏行由网页应用和桌面编辑器共享：这是一个主要的群组，用于pill-shaped picker触发器的操作，这些触发器可以在掩码下方滚动，或者缩小并截断（溢出属性），还有一个内联状态槽，一个用于操作的尾部群组，一个用于提交的呈现按钮，以及麦克风按钮/录制覆盖对。调用者控制发送/停止/队列和录制状态机，并传递相应的图标、标签和处理程序。点击下方的麦克风可以查看录制覆盖。\":",[2567,502],")"]],
+[3099,43,["(__devinDesktopZhLocale()?\"领先的挑选者，状态，后续的行动\":",[3099,43],")"]],
+[3911,62,["(__devinDesktopZhLocale()?\"运行：滚动（隐藏条带）与收缩（拾取器截断）\":",[3911,62],")"]],
+[4370,33,["(__devinDesktopZhLocale()?\"状态槽和禁用提交\":",[4370,33],")"]],
+[4767,59,["(__devinDesktopZhLocale()?\"带发送选项菜单的分隔按钮（输入以显示）\":",[4767,59],")"]],
+[5359,19,["(__devinDesktopZhLocale()?\"录制叠加层\":",[5359,19],")"]],
+[5862,28,["(__devinDesktopZhLocale()?\"作曲家提交按钮属性\":",[5862,28],")"]],
+[5920,25,["(__devinDesktopZhLocale()?\"ComposerMicButton 属性\":",[5920,25],")"]],
+[5975,32,["(__devinDesktopZhLocale()?\"ComposerRecordingOverlay 属性\":",[5975,32],")"]],
+[8446,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,3 @@
+[
+[73400,82,"async function ip(e,t){if(t===\"zh-CN\"&&(typeof globalThis._VSCODE_NLS_LANGUAGE===\"string\"||typeof globalThis.__devinNativeDisplayPreference===\"function\"))return{ui_language:t};return ye(e).PUT(`/users/ui-language`,{body:{language:t}})}"]
+]

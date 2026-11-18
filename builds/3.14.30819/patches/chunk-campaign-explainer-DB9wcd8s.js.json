@@ -1,0 +1,7 @@
+[
+[329,90,["(__devinDesktopZhLocale()?\"动画卡片解释活动：指定一个目标，将其分解为指标，并进行优化。\":",[329,90],")"]],
+[532,9,["(__devinDesktopZhLocale()?\"播放\":",[532,9],")"]],
+[682,8,["(__devinDesktopZhLocale()?\"框架\":",[682,8],")"]],
+[1039,29,["(__devinDesktopZhLocale()?\"CampaignExplainerCard属性\":",[1039,29],")"]],
+[1408,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

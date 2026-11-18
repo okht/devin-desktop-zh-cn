@@ -1,0 +1,5 @@
+[
+[495,16,["(__devinDesktopZhLocale()?\"VPC管理\":",[495,16],")"]],
+[575,161,["(__devinDesktopZhLocale()?\"为组织创建和管理虚拟私有云。他们需要在之后运行Terraform。您需要提供返回的认证令牌。\":",[575,161],")"]],
+[895,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

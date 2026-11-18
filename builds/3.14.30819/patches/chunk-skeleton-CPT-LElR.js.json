@@ -1,0 +1,12 @@
+[
+[269,72,["(__devinDesktopZhLocale()?\"一个闪烁的占位块，用于在内容加载时替代实际内容。\":",[269,72],")"]],
+[516,7,["(__devinDesktopZhLocale()?\"基本\":",[516,7],")"]],
+[834,6,["(__devinDesktopZhLocale()?\"卡片\":",[834,6],")"]],
+[1294,6,["(__devinDesktopZhLocale()?\"列表\":",[1294,6],")"]],
+[1884,12,["(__devinDesktopZhLocale()?\"文本块\":",[1884,12],")"]],
+[2231,12,["(__devinDesktopZhLocale()?\"带标签\":",[2231,12],")"]],
+[2431,10,["(__devinDesktopZhLocale()?\"正在加载…\":",[2431,10],")"]],
+[2508,137,["(__devinDesktopZhLocale()?\"在没有标签的情况下，Skeleton默认被设置为aria-hidden，因为它只是装饰性的。需要指定role或aria-*属性来提供不同的语义。\":",[2508,137],")"]],
+[2675,10,["(__devinDesktopZhLocale()?\"骨架屏\":",[2675,10],")"]],
+[3290,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

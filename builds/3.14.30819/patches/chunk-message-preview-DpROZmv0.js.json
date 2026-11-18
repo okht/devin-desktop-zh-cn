@@ -1,0 +1,8 @@
+[
+[319,289,["(__devinDesktopZhLocale()?\"一条消息以单行形式呈现：相同的解析其转录行，被展平为内联内容。提及和引用被标记为静态文本，其他链接被标记为链接颜色文本，图片则使用其替代文本；其中没有任何部分是控制元素，因为预览周围的行通常就是链接。\":",[319,289],")"]],
+[709,25,["(__devinDesktopZhLocale()?\"单行行（截断）\":",[709,25],")"]],
+[1129,46,["(__devinDesktopZhLocale()?\"固定工具提示（行限制-3，最多300个字符）\":",[1129,46],")"]],
+[1468,31,["(__devinDesktopZhLocale()?\"预算削减与无用的备选方案\":",[1468,31],")"]],
+[1941,22,["(__devinDesktopZhLocale()?\"消息预览属性\":",[1941,22],")"]],
+[2941,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

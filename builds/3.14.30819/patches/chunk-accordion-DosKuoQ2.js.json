@@ -1,0 +1,20 @@
+[
+[408,89,["(__devinDesktopZhLocale()?\"垂直堆叠的一组交互式标题，每个标题都展示一部分内容。\":",[408,89],")"]],
+[719,7,["(__devinDesktopZhLocale()?\"基本\":",[719,7],")"]],
+[1404,18,["(__devinDesktopZhLocale()?\"什么是Base UI？\":",[1404,18],")"]],
+[1498,56,["(__devinDesktopZhLocale()?\"具有内置可访问性的无样式 React 组件。\":",[1498,56],")"]],
+[1630,17,["(__devinDesktopZhLocale()?\"如何安装？\":",[1630,17],")"]],
+[1723,32,["(__devinDesktopZhLocale()?\"运行并安装 @base-ui/react\":",[1723,32],")"]],
+[1787,10,["(__devinDesktopZhLocale()?\"多个\":",[1787,10],")"]],
+[2423,15,["(__devinDesktopZhLocale()?\"第一部分\":",[2423,15],")"]],
+[2514,26,["(__devinDesktopZhLocale()?\"可以与他人开放使用。\":",[2514,26],")"]],
+[2616,16,["(__devinDesktopZhLocale()?\"第二部分\":",[2616,16],")"]],
+[2708,26,["(__devinDesktopZhLocale()?\"同时显示多个面板。\":",[2708,26],")"]],
+[2766,16,["(__devinDesktopZhLocale()?\"标头操作\":",[2766,16],")"]],
+[3300,18,["(__devinDesktopZhLocale()?\"项目设置\":",[3300,18],")"]],
+[3461,21,["(__devinDesktopZhLocale()?\"配置设置。\":",[3461,21],")"]],
+[3513,16,["(__devinDesktopZhLocale()?\"悬停时显示光标\":",[3513,16],")"]],
+[3963,20,["(__devinDesktopZhLocale()?\"悬停以查看光标\":",[3963,20],")"]],
+[4059,30,["(__devinDesktopZhLocale()?\"折叠后的更简洁外观。\":",[4059,30],")"]],
+[5722,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,22 @@
+[
+[1223,9,["(__devinDesktopZhLocale()?\"复制 ID\":",[1223,9],")"]],
+[1468,16,["(__devinDesktopZhLocale()?\"复制失败\":",[1468,16],")"]],
+[2309,32,["(__devinDesktopZhLocale()?`${e.display_name||e.name} 标识`:",[2309,32],")"]],
+[3404,11,["(__devinDesktopZhLocale()?`${n} 标识`:",[3404,11],")"]],
+[4335,14,["(__devinDesktopZhLocale()?\"组织\":",[4335,14],")"]],
+[4587,12,["(__devinDesktopZhLocale()?\"企业\":",[4587,12],")"]],
+[4785,17,["(__devinDesktopZhLocale()?\"组织 ID\":",[4785,17],")"]],
+[5026,9,["(__devinDesktopZhLocale()?\"成员\":",[5026,9],")"]],
+[5452,9,["(__devinDesktopZhLocale()?\"已删除\":",[5452,9],")"]],
+[5525,8,["(__devinDesktopZhLocale()?\"活跃\":",[5525,8],")"]],
+[5684,12,["(__devinDesktopZhLocale()?\"账户 ID\":",[5684,12],")"]],
+[7024,29,["(__devinDesktopZhLocale()?\"加载组织出错\":",[7024,29],")"]],
+[7413,15,["(__devinDesktopZhLocale()?\"组织\":",[7413,15],")"]],
+[7546,25,["(__devinDesktopZhLocale()?\"搜索组织...\":",[7546,25],")"]],
+[7609,22,["(__devinDesktopZhLocale()?\"搜索组织\":",[7609,22],")"]],
+[7768,8,["(__devinDesktopZhLocale()?\"创建\":",[7768,8],")"]],
+[8367,15,["(__devinDesktopZhLocale()?\"清除筛选\":",[8367,15],")"]],
+[8962,46,["(__devinDesktopZhLocale()?\"未找到与您的搜索相匹配的组织。\":",[8962,46],")"]],
+[9009,25,["(__devinDesktopZhLocale()?\"未找到组织。\":",[9009,25],")"]],
+[10521,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

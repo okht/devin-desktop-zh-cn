@@ -1,0 +1,22 @@
+[
+[508,31,["(__devinDesktopZhLocale()?\"分享已链接的会话卡片\":",[508,31],")"]],
+[799,14,["(__devinDesktopZhLocale()?\"查看会话\":",[799,14],")"]],
+[837,24,["(__devinDesktopZhLocale()?\"嵌入式子会话\":",[837,24],")"]],
+[1170,37,["(__devinDesktopZhLocale()?\"在公共API中添加速率限制\":",[1170,37],")"]],
+[1331,14,["(__devinDesktopZhLocale()?\"查看会话\":",[1331,14],")"]],
+[1383,37,["(__devinDesktopZhLocale()?\"修复不稳定的快照测试\":",[1383,37],")"]],
+[1546,14,["(__devinDesktopZhLocale()?\"查看会话\":",[1546,14],")"]],
+[1724,37,["(__devinDesktopZhLocale()?\"在公共API中添加速率限制\":",[1724,37],")"]],
+[1904,14,["(__devinDesktopZhLocale()?\"查看会话\":",[1904,14],")"]],
+[1960,37,["(__devinDesktopZhLocale()?\"修复不稳定的快照测试\":",[1960,37],")"]],
+[2146,14,["(__devinDesktopZhLocale()?\"查看会话\":",[2146,14],")"]],
+[2271,114,["(__devinDesktopZhLocale()?\"共享链接会话卡片演示，包含状态、待办事项、拉取请求、操作、骨架以及嵌入式变体。\":",[2271,114],")"]],
+[2415,50,["(__devinDesktopZhLocale()?\"带有待办事项和拉取请求的链接会话卡片\":",[2415,50],")"]],
+[3585,59,["(__devinDesktopZhLocale()?\"会话列表（创建会话卡片）\":",[3585,59],")"]],
+[3951,66,["(__devinDesktopZhLocale()?\"会话行（一种卡片，列出了多个会话）\":",[3951,66],")"]],
+[4353,28,["(__devinDesktopZhLocale()?\"带有提示的提案行\":",[4353,28],")"]],
+[4714,68,["(__devinDesktopZhLocale()?\"审查认证并建议改进登录流程\":",[4714,68],")"]],
+[4816,7,["(__devinDesktopZhLocale()?\"超强\":",[4816,7],")"]],
+[4862,49,["(__devinDesktopZhLocale()?\"审查认证处理程序和会话生命周期。\":",[4862,49],")"]],
+[7560,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

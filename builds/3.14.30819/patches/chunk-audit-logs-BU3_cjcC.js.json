@@ -1,0 +1,21 @@
+[
+[1697,12,["(__devinDesktopZhLocale()?\"审计日志\":",[1697,12],")"]],
+[1840,29,["(__devinDesktopZhLocale()?\"审计日志导出已配置\":",[1840,29],")"]],
+[1880,23,["(__devinDesktopZhLocale()?\"流媒体传输至Firehose\":",[1880,23],")"]],
+[2008,21,["(__devinDesktopZhLocale()?\"通过交付角色\":",[2008,21],")"]],
+[2312,18,["(__devinDesktopZhLocale()?\"按操作过滤\":",[2312,18],")"]],
+[2439,19,["(__devinDesktopZhLocale()?\"搜索操作...\":",[2439,19],")"]],
+[2472,21,["(__devinDesktopZhLocale()?\"无匹配操作\":",[2472,21],")"]],
+[3088,7,["(__devinDesktopZhLocale()?\"清除\":",[3088,7],")"]],
+[3200,5,["(__devinDesktopZhLocale()?\" 的\":",[3200,5],")"]],
+[3221,7,["(__devinDesktopZhLocale()?\" 日志\":",[3221,7],")"]],
+[3286,22,["(__devinDesktopZhLocale()?\"按用户电子邮件筛选\":",[3286,22],")"]],
+[3550,11,["(__devinDesktopZhLocale()?\"时间戳\":",[3550,11],")"]],
+[3591,8,["(__devinDesktopZhLocale()?\"操作\":",[3591,8],")"]],
+[3629,6,["(__devinDesktopZhLocale()?\"用户\":",[3629,6],")"]],
+[3665,17,["(__devinDesktopZhLocale()?\"组织 ID\":",[3665,17],")"]],
+[3712,9,["(__devinDesktopZhLocale()?\"详情\":",[3712,9],")"]],
+[4433,27,["(__devinDesktopZhLocale()?\"无法加载审计日志\":",[4433,27],")"]],
+[5797,21,["(__devinDesktopZhLocale()?\"未找到审计日志\":",[5797,21],")"]],
+[6214,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

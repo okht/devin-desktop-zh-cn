@@ -1,0 +1,7 @@
+[
+[651,72,["(__devinDesktopZhLocale()?\"使用KaTeX排版后的TeX数学表达式，以React元素的形式呈现。\":",[651,72],")"]],
+[824,7,["(__devinDesktopZhLocale()?\"基本\":",[824,7],")"]],
+[953,9,["(__devinDesktopZhLocale()?\"显示\":",[953,9],")"]],
+[1227,13,["(__devinDesktopZhLocale()?\"无效 TeX\":",[1227,13],")"]],
+[1977,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

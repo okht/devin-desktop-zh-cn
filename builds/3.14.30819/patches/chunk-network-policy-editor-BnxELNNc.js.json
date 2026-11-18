@@ -1,0 +1,15 @@
+[
+[518,347,["(__devinDesktopZhLocale()?\"可编辑的允许网络目的地列表：可切换的默认条目、可编辑的自定义行（支持添加/删除），以及只读的额外条目（例如MCP域名）。通过换行符、逗号或空格分隔的方式粘贴列表时，每个目的地会增加一行，而标题中的剪贴板按钮会将所有启用的目的地作为换行符分隔的列表进行复制。\":",[518,347],")"]],
+[958,17,["(__devinDesktopZhLocale()?\"默认条目\":",[958,17],")"]],
+[1187,26,["(__devinDesktopZhLocale()?\"带有搜索功能的卡片变体\":",[1187,26],")"]],
+[1886,16,["(__devinDesktopZhLocale()?\"搜索域名\":",[1886,16],")"]],
+[1915,16,["(__devinDesktopZhLocale()?\"搜索域名\":",[1915,16],")"]],
+[2022,150,["(__devinDesktopZhLocale()?\"自定义条目包含添加/删除功能——将逗号/空格/换行符分隔的列表粘贴到批量添加中；头部剪贴板按钮会复制所有已启用的目标。\":",[2022,150],")"]],
+[2632,31,["(__devinDesktopZhLocale()?\"只读额外条目 (MCP)\":",[2632,31],")"]],
+[3011,77,["(__devinDesktopZhLocale()?\"被阻止的值（超出安全策略范围）会显示警告标志\":",[3011,77],")"]],
+[3440,38,["(__devinDesktopZhLocale()?\"只读模式（全部复制仍可用）\":",[3440,38],")"]],
+[3713,27,["(__devinDesktopZhLocale()?\"通过标签进行本地化复制\":",[3713,27],")"]],
+[4195,44,["(__devinDesktopZhLocale()?\"填充高度（列表是唯一的可滚动区域）\":",[4195,44],")"]],
+[4540,27,["(__devinDesktopZhLocale()?\"NetworkPolicyEditor属性\":",[4540,27],")"]],
+[7405,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

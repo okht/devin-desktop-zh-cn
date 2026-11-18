@@ -1,0 +1,23 @@
+[
+[388,56,["(__devinDesktopZhLocale()?\"一个显示状态、计数或类别的小标签。\":",[388,56],")"]],
+[612,10,["(__devinDesktopZhLocale()?\"变体\":",[612,10],")"]],
+[996,9,["(__devinDesktopZhLocale()?\"默认\":",[996,9],")"]],
+[1048,6,["(__devinDesktopZhLocale()?\"打开\":",[1048,6],")"]],
+[1096,8,["(__devinDesktopZhLocale()?\"已合并\":",[1096,8],")"]],
+[1151,8,["(__devinDesktopZhLocale()?\"已关闭\":",[1151,8],")"]],
+[1202,9,["(__devinDesktopZhLocale()?\"警告\":",[1202,9],")"]],
+[1251,6,["(__devinDesktopZhLocale()?\"蓝色\":",[1251,6],")"]],
+[1336,7,["(__devinDesktopZhLocale()?\"大小\":",[1336,7],")"]],
+[1529,7,["(__devinDesktopZhLocale()?\"小\":",[1529,7],")"]],
+[1571,8,["(__devinDesktopZhLocale()?\"中\":",[1571,8],")"]],
+[1606,12,["(__devinDesktopZhLocale()?\"带图标\":",[1606,12],")"]],
+[2004,9,["(__devinDesktopZhLocale()?\"成功\":",[2004,9],")"]],
+[2096,6,["(__devinDesktopZhLocale()?\"打开\":",[2096,6],")"]],
+[2184,8,["(__devinDesktopZhLocale()?\"已合并\":",[2184,8],")"]],
+[2220,9,["(__devinDesktopZhLocale()?\"圆角\":",[2220,9],")"]],
+[2482,9,["(__devinDesktopZhLocale()?\"默认\":",[2482,9],")"]],
+[2545,6,["(__devinDesktopZhLocale()?\"打开\":",[2545,6],")"]],
+[2609,8,["(__devinDesktopZhLocale()?\"已关闭\":",[2609,8],")"]],
+[2647,7,["(__devinDesktopZhLocale()?\"徽标\":",[2647,7],")"]],
+[3401,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

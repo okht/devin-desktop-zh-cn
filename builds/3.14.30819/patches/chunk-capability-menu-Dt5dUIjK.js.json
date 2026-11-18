@@ -1,0 +1,13 @@
+[
+[1033,8,["(__devinDesktopZhLocale()?\"融合\":",[1033,8],")"]],
+[1070,12,["(__devinDesktopZhLocale()?\"能力\":",[1070,12],")"]],
+[1455,39,["(__devinDesktopZhLocale()?\"由您的ChatGPT订阅服务提供支持。\":",[1455,39],")"]],
+[1604,8,["(__devinDesktopZhLocale()?\"管理\":",[1604,8],")"]],
+[1949,223,["(__devinDesktopZhLocale()?\"融合切换功能，包含可选的嵌套速度控制选项的能力列表，以及由网页应用智能体选择器和聊天客户端功能选择器共享的可选模式子菜单。调用者需自行提供其自己的菜单/菜单内容包装器。\":",[1949,223],")"]],
+[2202,11,["(__devinDesktopZhLocale()?\"完整菜单\":",[2202,11],")"]],
+[3153,23,["(__devinDesktopZhLocale()?\"禁用模式子菜单\":",[3153,23],")"]],
+[3451,25,["(__devinDesktopZhLocale()?\"禁用功能行\":",[3451,25],")"]],
+[3828,27,["(__devinDesktopZhLocale()?\"功能菜单项 props\":",[3828,27],")"]],
+[3885,19,["(__devinDesktopZhLocale()?\"模式子菜单道具\":",[3885,19],")"]],
+[9145,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

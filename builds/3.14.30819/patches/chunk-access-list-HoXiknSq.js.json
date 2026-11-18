@@ -1,0 +1,6 @@
+[
+[413,13,["(__devinDesktopZhLocale()?\"访问列表\":",[413,13],")"]],
+[439,48,["(__devinDesktopZhLocale()?\"所有者及管理员可登录此账户\":",[439,48],")"]],
+[595,52,["(__devinDesktopZhLocale()?\"该账户无法使用访问列表功能。\":",[595,52],")"]],
+[882,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

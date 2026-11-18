@@ -1,0 +1,16 @@
+[
+[313,99,["(__devinDesktopZhLocale()?\"一个表示加载状态的动画图标，附带用于辅助技术的文本说明。\":",[313,99],")"]],
+[596,10,["(__devinDesktopZhLocale()?\"变体\":",[596,10],")"]],
+[1029,8,["(__devinDesktopZhLocale()?\"圆圈\":",[1029,8],")"]],
+[1227,6,["(__devinDesktopZhLocale()?\"填充\":",[1227,6],")"]],
+[1425,8,["(__devinDesktopZhLocale()?\"加载器\":",[1425,8],")"]],
+[1623,6,["(__devinDesktopZhLocale()?\"点\":",[1623,6],")"]],
+[1659,15,["(__devinDesktopZhLocale()?\"辅助功能\":",[1659,15],")"]],
+[2010,16,["(__devinDesktopZhLocale()?\"保存更改\":",[2010,16],")"]],
+[2115,10,["(__devinDesktopZhLocale()?\"正在加载…\":",[2115,10],")"]],
+[2193,26,["(__devinDesktopZhLocale()?\"宣布加载状态\":",[2193,26],")"]],
+[2308,13,["(__devinDesktopZhLocale()?\"进行中\":",[2308,13],")"]],
+[2401,24,["(__devinDesktopZhLocale()?\"静态可访问名称\":",[2401,24],")"]],
+[2458,9,["(__devinDesktopZhLocale()?\"加载指示器\":",[2458,9],")"]],
+[3356,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

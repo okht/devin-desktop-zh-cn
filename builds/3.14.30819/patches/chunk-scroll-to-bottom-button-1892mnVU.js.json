@@ -1,0 +1,13 @@
+[
+[392,86,["(__devinDesktopZhLocale()?\"一个浮动按钮，可以滚动容器到底部，并在显示时动画化出现。\":",[392,86],")"]],
+[516,7,["(__devinDesktopZhLocale()?\"基本\":",[516,7],")"]],
+[679,8,["(__devinDesktopZhLocale()?\"强调色\":",[679,8],")"]],
+[879,16,["(__devinDesktopZhLocale()?\"自定义内容\":",[879,16],")"]],
+[1345,17,["(__devinDesktopZhLocale()?\"需要采取的行动\":",[1345,17],")"]],
+[1424,14,["(__devinDesktopZhLocale()?\"自定义标签\":",[1424,14],")"]],
+[1611,25,["(__devinDesktopZhLocale()?\"跳转到最新消息\":",[1611,25],")"]],
+[1661,19,["(__devinDesktopZhLocale()?\"切换可见性\":",[1661,19],")"]],
+[1993,6,["(__devinDesktopZhLocale()?\"隐藏\":",[1993,6],")"]],
+[2000,6,["(__devinDesktopZhLocale()?\"显示\":",[2000,6],")"]],
+[3089,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

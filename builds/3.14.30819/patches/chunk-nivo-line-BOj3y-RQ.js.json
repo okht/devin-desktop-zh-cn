@@ -1,0 +1,4 @@
+[
+[35590,5,["(__devinDesktopZhLocale()?\"x: 自然、准确的简体中文翻译 \":",[35590,5],")"]],
+[50613,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

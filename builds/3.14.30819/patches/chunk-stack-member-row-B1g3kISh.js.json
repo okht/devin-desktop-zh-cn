@@ -1,0 +1,9 @@
+[
+[315,321,["(__devinDesktopZhLocale()?\"堆叠式PR列表中的一行：带有准备状态的图标、数字，标题被截断为一行，显示差异计数。悬停于截断的标题上时，会显示完整的标题，标题下方有statusText。默认情况下，该行是一个填充的flex行，其元素来自render；对于surfaces，其shell被children所替代，后者有自己的行标记。\":",[315,321],")"]],
+[666,15,["(__devinDesktopZhLocale()?\"默认 shell\":",[666,15],")"]],
+[1465,19,["(__devinDesktopZhLocale()?\"打开拉取请求\":",[1465,19],")"]],
+[1663,13,["(__devinDesktopZhLocale()?\"简体中文标题\":",[1663,13],")"]],
+[1729,34,["(__devinDesktopZhLocale()?\"自定义外壳和字形\":",[1729,34],")"]],
+[2327,7,["(__devinDesktopZhLocale()?\"草稿\":",[2327,7],")"]],
+[2770,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,10 @@
+[
+[643,14,["(__devinDesktopZhLocale()?\"封装颜色\":",[643,14],")"]],
+[1773,16,["(__devinDesktopZhLocale()?\"审查预览\":",[1773,16],")"]],
+[1859,16,["(__devinDesktopZhLocale()?\"将创建「\":",[1859,16],")"]],
+[2240,11,["(__devinDesktopZhLocale()?\"机器人框架\":",[2240,11],")"]],
+[2264,183,["(__devinDesktopZhLocale()?\"图标头像有两种样式，一种是用代码绘制的，可以呈现任何颜色，既有未选择的扁平样式，也有带有阴影的样式，后者就是图标头像的真实形态。\":",[2264,183],")"]],
+[2559,15,["(__devinDesktopZhLocale()?\"创建对话框\":",[2559,15],")"]],
+[2587,51,["(__devinDesktopZhLocale()?\"选择一种动作来比较化身的变化\":",[2587,51],")"]],
+[3595,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

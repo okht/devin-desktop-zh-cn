@@ -1,0 +1,8 @@
+[
+[510,16,["(__devinDesktopZhLocale()?\"删除会话\":",[510,16],")"]],
+[572,49,["(__devinDesktopZhLocale()?\"这将提交一个会话的删除请求。\":",[572,49],")"]],
+[709,19,["(__devinDesktopZhLocale()?\". 该操作是 \":",[709,19],")"]],
+[758,14,["(__devinDesktopZhLocale()?\"不可逆\":",[758,14],")"]],
+[775,68,["(__devinDesktopZhLocale()?\" — 与本次会话相关的所有数据将永久丢失。\":",[775,68],")"]],
+[2367,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

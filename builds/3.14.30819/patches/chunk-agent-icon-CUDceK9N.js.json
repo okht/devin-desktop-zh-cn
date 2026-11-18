@@ -1,0 +1,8 @@
+[
+[316,73,["(__devinDesktopZhLocale()?\"显示智能体徽标、注册表图标或机器人替代的图标。\":",[316,73],")"]],
+[487,11,["(__devinDesktopZhLocale()?\"提供商\":",[487,11],")"]],
+[866,13,["(__devinDesktopZhLocale()?\"Devin 云端版\":",[866,13],")"]],
+[932,15,["(__devinDesktopZhLocale()?\"未知智能体\":",[932,15],")"]],
+[982,15,["(__devinDesktopZhLocale()?\"注册表图标\":",[982,15],")"]],
+[2152,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

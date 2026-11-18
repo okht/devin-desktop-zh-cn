@@ -1,0 +1,9 @@
+[
+[1021,60,["(__devinDesktopZhLocale()?\"此链接需要一个账户或一次会话才能使用。\":",[1021,60],")"]],
+[1330,26,["(__devinDesktopZhLocale()?\"再次登录以继续\":",[1330,26],")"]],
+[1430,46,["(__devinDesktopZhLocale()?\"您即将使用 Okta 登录以访问 \":",[1430,46],")"]],
+[1693,18,["(__devinDesktopZhLocale()?\"继续使用 Okta\":",[1693,18],")"]],
+[1809,57,["(__devinDesktopZhLocale()?\"无法启动升级步骤。可能因为它没有开启。 \":",[1809,57],")"]],
+[1873,6,["(__devinDesktopZhLocale()?\"不过。\":",[1873,6],")"]],
+[2128,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

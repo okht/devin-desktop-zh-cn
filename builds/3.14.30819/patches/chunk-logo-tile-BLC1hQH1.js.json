@@ -1,0 +1,8 @@
+[
+[458,42,["(__devinDesktopZhLocale()?\"尺寸，带有标志，以及备用方案\":",[458,42],")"]],
+[915,64,["(__devinDesktopZhLocale()?\"不透明的背景填充了瓦片；透明的标记保持在内。\":",[915,64],")"]],
+[1362,19,["(__devinDesktopZhLocale()?\"不透明背景\":",[1362,19],")"]],
+[1556,24,["(__devinDesktopZhLocale()?\"深色不透明背景\":",[1556,24],")"]],
+[1755,18,["(__devinDesktopZhLocale()?\"透明标记\":",[1755,18],")"]],
+[3171,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

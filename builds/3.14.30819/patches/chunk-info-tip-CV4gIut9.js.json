@@ -1,0 +1,9 @@
+[
+[314,152,["(__devinDesktopZhLocale()?\"一个信息图标按钮，在悬停或点击时立即打开标准工具提示。工具提示在悬停状态下保持打开状态，因此其中的链接是可点击的。\":",[314,152],")"]],
+[644,7,["(__devinDesktopZhLocale()?\"基本\":",[644,7],")"]],
+[804,23,["(__devinDesktopZhLocale()?\"关于并发运行\":",[804,23],")"]],
+[836,62,["(__devinDesktopZhLocale()?\"限制一次可以执行的自动化任务数量\":",[836,62],")"]],
+[922,16,["(__devinDesktopZhLocale()?\"使用文档链接\":",[922,16],")"]],
+[1123,49,["(__devinDesktopZhLocale()?\"会话前检查在会话开始之前运行。\":",[1123,49],")"]],
+[1974,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

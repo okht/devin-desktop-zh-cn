@@ -1,0 +1,11 @@
+[
+[5235,9,["(__devinDesktopZhLocale()?\"放大\":",[5235,9],")"]],
+[5258,9,["(__devinDesktopZhLocale()?\"放大\":",[5258,9],")"]],
+[5396,10,["(__devinDesktopZhLocale()?\"缩小视图\":",[5396,10],")"]],
+[5420,10,["(__devinDesktopZhLocale()?\"缩小视图\":",[5420,10],")"]],
+[5564,10,["(__devinDesktopZhLocale()?\"拟合视图\":",[5564,10],")"]],
+[5588,10,["(__devinDesktopZhLocale()?\"拟合视图\":",[5588,10],")"]],
+[5795,22,["(__devinDesktopZhLocale()?\"切换互动性\":",[5795,22],")"]],
+[5831,22,["(__devinDesktopZhLocale()?\"切换互动性\":",[5831,22],")"]],
+[54643,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

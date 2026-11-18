@@ -1,0 +1,11 @@
+[
+[594,23,["(__devinDesktopZhLocale()?\"卸载第二个循环\":",[594,23],")"]],
+[618,21,["(__devinDesktopZhLocale()?\"安装第二个圆圈\":",[618,21],")"]],
+[717,95,["(__devinDesktopZhLocale()?\"加载循环使用共享的动画阶段，因此独立挂载的循环仍然保持同步\":",[717,95],")"]],
+[905,15,["(__devinDesktopZhLocale()?\"图标变体\":",[905,15],")"]],
+[1198,21,["(__devinDesktopZhLocale()?\"图标插槽内\":",[1198,21],")"]],
+[1432,17,["(__devinDesktopZhLocale()?\"正在生成计划\":",[1432,17],")"]],
+[1474,26,["(__devinDesktopZhLocale()?\"不同时刻的Mount\":",[1474,26],")"]],
+[1674,27,["(__devinDesktopZhLocale()?\"同步加载圆形属性\":",[1674,27],")"]],
+[2170,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

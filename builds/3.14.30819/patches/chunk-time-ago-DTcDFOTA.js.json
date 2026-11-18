@@ -1,0 +1,8 @@
+[
+[585,283,["(__devinDesktopZhLocale()?\"`useTimeAgo` 钩子返回一个自动刷新的相对时间字符串。消费者自行渲染和样式化返回的文本。可以使用 `compact` 和 `includeAgo` 来生成相对时间格式，或者使用 `duration` 来生成经过的时间字符串。时间区间覆盖从分钟到小时、从小时到天数、从天数到月份、从月份到年份。\":",[585,283],")"]],
+[898,17,["(__devinDesktopZhLocale()?\"四种形状\":",[898,17],")"]],
+[1625,18,["(__devinDesktopZhLocale()?\"经过的时间\":",[1625,18],")"]],
+[2051,35,["(__devinDesktopZhLocale()?\"桶覆盖时间（分钟→年）\":",[2051,35],")"]],
+[2518,20,["(__devinDesktopZhLocale()?\"使用时间差选项\":",[2518,20],")"]],
+[3516,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

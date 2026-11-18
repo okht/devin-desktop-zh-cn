@@ -1,0 +1,13 @@
+[
+[396,54,["(__devinDesktopZhLocale()?\"用于建议的浮动药丸，带有可选操作\":",[396,54],")"]],
+[616,22,["(__devinDesktopZhLocale()?\"带操作信息的消息\":",[616,22],")"]],
+[1097,9,["(__devinDesktopZhLocale()?\"关闭提示\":",[1097,9],")"]],
+[1167,11,["(__devinDesktopZhLocale()?\"应用标签\":",[1167,11],")"]],
+[1194,23,["(__devinDesktopZhLocale()?\"建议的计费标签\":",[1194,23],")"]],
+[1277,22,["(__devinDesktopZhLocale()?\"平台工程\":",[1277,22],")"]],
+[1326,25,["(__devinDesktopZhLocale()?\"单操作消息\":",[1326,25],")"]],
+[1580,9,["(__devinDesktopZhLocale()?\"关闭提示\":",[1580,9],")"]],
+[1601,23,["(__devinDesktopZhLocale()?\"建议的计费标签\":",[1601,23],")"]],
+[1651,23,["(__devinDesktopZhLocale()?\"建议药丸支架\":",[1651,23],")"]],
+[2041,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

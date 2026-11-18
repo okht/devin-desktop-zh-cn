@@ -1,0 +1,11 @@
+[
+[316,155,["(__devinDesktopZhLocale()?\"网页和桌面共享的Scan启动卡：实时状态、一个带有工具提示的 spinner，用于大致估计时间，以及一个按钮，用于访问会话的 Findings 选项卡。\":",[316,155],")"]],
+[501,14,["(__devinDesktopZhLocale()?\"运行扫描\":",[501,14],")"]],
+[902,8,["(__devinDesktopZhLocale()?\"排队中\":",[902,8],")"]],
+[1135,20,["(__devinDesktopZhLocale()?\"导入结果\":",[1135,20],")"]],
+[1462,21,["(__devinDesktopZhLocale()?\"等待用户\":",[1462,21],")"]],
+[1758,11,["(__devinDesktopZhLocale()?\"已完成\":",[1758,11],")"]],
+[1998,21,["(__devinDesktopZhLocale()?\"扫描记录加载\":",[1998,21],")"]],
+[2265,49,["(__devinDesktopZhLocale()?\"无扫描记录（无扫描后端的桌面设备）\":",[2265,49],")"]],
+[2783,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

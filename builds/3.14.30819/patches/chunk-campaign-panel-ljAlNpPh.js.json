@@ -1,0 +1,6 @@
+[
+[7050,207,["(__devinDesktopZhLocale()?\"活动右侧面板：目标、指标、杠杆和预算与聊天设置步骤相对应，审批已完成，然后进入运行控制面板。种子数据来自#/client/modules/campaigns/fixtures。\":",[7050,207],")"]],
+[7405,14,["(__devinDesktopZhLocale()?\"自动播放：开启\":",[7405,14],")"]],
+[7420,15,["(__devinDesktopZhLocale()?\"自动播放：关闭\":",[7420,15],")"]],
+[7634,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

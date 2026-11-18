@@ -1,0 +1,8 @@
+[
+[335,114,["(__devinDesktopZhLocale()?\"智能体消息的bug操作：悬停或点击它以查看通信管理器是如何审查该消息的。\":",[335,114],")"]],
+[1014,24,["(__devinDesktopZhLocale()?\"一次成功的尝试\":",[1014,24],")"]],
+[1277,34,["(__devinDesktopZhLocale()?\"一次失败的尝试，然后进行了重写\":",[1277,34],")"]],
+[1557,42,["(__devinDesktopZhLocale()?\"两份早期的草稿被搁置了，然后终于发送了。\":",[1557,42],")"]],
+[1860,51,["(__devinDesktopZhLocale()?\"弹出窗口独立存在，适用于主机上的弹出窗口\":",[1860,51],")"]],
+[3866,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

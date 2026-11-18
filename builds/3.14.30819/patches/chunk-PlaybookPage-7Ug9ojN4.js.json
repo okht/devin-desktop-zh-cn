@@ -1,0 +1,4 @@
+[
+[13328,15,["(__devinDesktopZhLocale()?\"!执行任务\":",[13328,15],")"]],
+[26938,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

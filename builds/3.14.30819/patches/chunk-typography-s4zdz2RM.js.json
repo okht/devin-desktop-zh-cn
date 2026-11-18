@@ -1,0 +1,23 @@
+[
+[316,91,["(__devinDesktopZhLocale()?\"一个用于以设计系统中的字体大小和样式渲染内容的文本元素。\":",[316,91],")"]],
+[882,15,["(__devinDesktopZhLocale()?\"17 / 半粗体\":",[882,15],")"]],
+[946,13,["(__devinDesktopZhLocale()?\"17 / 中等\":",[946,13],")"]],
+[1009,14,["(__devinDesktopZhLocale()?\"17 / 常规\":",[1009,14],")"]],
+[1340,15,["(__devinDesktopZhLocale()?\"14 / 半粗体\":",[1340,15],")"]],
+[1404,13,["(__devinDesktopZhLocale()?\"14 / 中等\":",[1404,13],")"]],
+[1467,14,["(__devinDesktopZhLocale()?\"14 / 常规\":",[1467,14],")"]],
+[1798,15,["(__devinDesktopZhLocale()?\"13 / 半粗体\":",[1798,15],")"]],
+[1862,13,["(__devinDesktopZhLocale()?\"13 / 中等\":",[1862,13],")"]],
+[1925,14,["(__devinDesktopZhLocale()?\"13 / 常规\":",[1925,14],")"]],
+[2256,15,["(__devinDesktopZhLocale()?\"12 / 半粗体\":",[2256,15],")"]],
+[2320,13,["(__devinDesktopZhLocale()?\"12 / 中等\":",[2320,13],")"]],
+[2383,14,["(__devinDesktopZhLocale()?\"12 / 常规\":",[2383,14],")"]],
+[2714,15,["(__devinDesktopZhLocale()?\"11 / 半粗体\":",[2714,15],")"]],
+[2778,13,["(__devinDesktopZhLocale()?\"11 / 中等\":",[2778,13],")"]],
+[2841,14,["(__devinDesktopZhLocale()?\"11 / 常规\":",[2841,14],")"]],
+[3172,15,["(__devinDesktopZhLocale()?\"10 / 半粗体\":",[3172,15],")"]],
+[3236,13,["(__devinDesktopZhLocale()?\"10 / 中等\":",[3236,13],")"]],
+[3299,14,["(__devinDesktopZhLocale()?\"10 / 常规\":",[3299,14],")"]],
+[3343,6,["(__devinDesktopZhLocale()?\"文本\":",[3343,6],")"]],
+[3949,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

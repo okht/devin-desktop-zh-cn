@@ -1,0 +1,14 @@
+[
+[636,16,["(__devinDesktopZhLocale()?\"流行行 \":",[636,16],")"]],
+[841,11,["(__devinDesktopZhLocale()?\"流媒体\":",[841,11],")"]],
+[1198,14,["(__devinDesktopZhLocale()?\"从顶部开始\":",[1198,14],")"]],
+[1679,7,["(__devinDesktopZhLocale()?\"条目 \":",[1679,7],")"]],
+[3421,116,["(__devinDesktopZhLocale()?\"一个可滚动的容器，带有样式化的滚动条和逐渐淡出的边缘，在内容增长时可以选择固定在底部。\":",[3421,116],")"]],
+[3719,10,["(__devinDesktopZhLocale()?\"垂直\":",[3719,10],")"]],
+[4317,18,["(__devinDesktopZhLocale()?\"可滚动项 \":",[4317,18],")"]],
+[4371,12,["(__devinDesktopZhLocale()?\"水平\":",[4371,12],")"]],
+[5145,7,["(__devinDesktopZhLocale()?\"条目 \":",[5145,7],")"]],
+[5188,8,["(__devinDesktopZhLocale()?\"原生\":",[5188,8],")"]],
+[5741,18,["(__devinDesktopZhLocale()?\"可滚动项 \":",[5741,18],")"]],
+[8833,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

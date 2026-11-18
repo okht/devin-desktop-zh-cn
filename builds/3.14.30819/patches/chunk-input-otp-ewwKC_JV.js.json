@@ -1,0 +1,7 @@
+[
+[1166,96,["(__devinDesktopZhLocale()?\"一个验证代码输入，显示每个字符一个槽位，通过一个隐藏的本地输入进行。\":",[1166,96],")"]],
+[1377,7,["(__devinDesktopZhLocale()?\"基本\":",[1377,7],")"]],
+[1781,16,["(__devinDesktopZhLocale()?\"带分隔符\":",[1781,16],")"]],
+[2176,10,["(__devinDesktopZhLocale()?\"已停用\":",[2176,10],")"]],
+[3886,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

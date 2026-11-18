@@ -1,0 +1,9 @@
+[
+[463,27,["(__devinDesktopZhLocale()?\"移动到文件夹（当前： \":",[463,27],")"]],
+[494,6,["(__devinDesktopZhLocale()?\"无\":",[494,6],")"]],
+[707,12,["(__devinDesktopZhLocale()?\"新建文件夹\":",[707,12],")"]],
+[856,21,["(__devinDesktopZhLocale()?\"勾选指示器\":",[856,21],")"]],
+[1169,182,["(__devinDesktopZhLocale()?\"用于「移动至文件夹」菜单的展示文件夹目的地。可以在任何「菜单内容」或「子菜单」中配置；主机应用程序提供文件夹目录、标签以及选择行为。\":",[1169,182],")"]],
+[1381,21,["(__devinDesktopZhLocale()?\"移动到文件夹菜单\":",[1381,21],")"]],
+[3737,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,11 @@
+[
+[321,80,["(__devinDesktopZhLocale()?\"当文本溢出时，中间会插入省略号的单行文本。\":",[321,80],")"]],
+[633,7,["(__devinDesktopZhLocale()?\"基本\":",[633,7],")"]],
+[939,13,["(__devinDesktopZhLocale()?\"长前缀\":",[939,13],")"]],
+[1255,12,["(__devinDesktopZhLocale()?\"驼峰式拼写\":",[1255,12],")"]],
+[1552,12,["(__devinDesktopZhLocale()?\"蛇形书写方式\":",[1552,12],")"]],
+[1869,19,["(__devinDesktopZhLocale()?\"自定义边界\":",[1869,19],")"]],
+[2239,14,["(__devinDesktopZhLocale()?\"保留结束\":",[2239,14],")"]],
+[2590,9,["(__devinDesktopZhLocale()?\"作为链接\":",[2590,9],")"]],
+[4488,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

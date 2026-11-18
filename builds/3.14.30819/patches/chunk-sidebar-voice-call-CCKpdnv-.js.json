@@ -1,0 +1,23 @@
+[
+[1254,19,["(__devinDesktopZhLocale()?\"语音输入级别\":",[1254,19],")"]],
+[1731,11,["(__devinDesktopZhLocale()?\"显示药片\":",[1731,11],")"]],
+[1827,11,["(__devinDesktopZhLocale()?\"隐藏药片\":",[1827,11],")"]],
+[1913,8,["(__devinDesktopZhLocale()?\"切换\":",[1913,8],")"]],
+[2466,15,["(__devinDesktopZhLocale()?\"本地开发组织\":",[2466,15],")"]],
+[2923,10,["(__devinDesktopZhLocale()?\"会话\":",[2923,10],")"]],
+[3066,10,["(__devinDesktopZhLocale()?\"会话 \":",[3066,10],")"]],
+[3496,10,["(__devinDesktopZhLocale()?\"设置\":",[3496,10],")"]],
+[4107,14,["(__devinDesktopZhLocale()?\"页面内容\":",[4107,14],")"]],
+[4621,68,["(__devinDesktopZhLocale()?\"在另一个会话中正在进行语音通话时显示侧边栏药丸\":",[4621,68],")"]],
+[4782,12,["(__devinDesktopZhLocale()?\"侧边栏\":",[4782,12],")"]],
+[5119,8,["(__devinDesktopZhLocale()?\"活跃\":",[5119,8],")"]],
+[5455,20,["(__devinDesktopZhLocale()?\"闲置标签（静音）\":",[5455,20],")"]],
+[5690,19,["(__devinDesktopZhLocale()?\"语音输入级别\":",[5690,19],")"]],
+[5735,20,["(__devinDesktopZhLocale()?\"紧凑型闲置标签\":",[5735,20],")"]],
+[6144,7,["(__devinDesktopZhLocale()?\"空间\":",[6144,7],")"]],
+[6169,19,["(__devinDesktopZhLocale()?\"语音输入级别\":",[6169,19],")"]],
+[6216,9,["(__devinDesktopZhLocale()?\"响铃\":",[6216,9],")"]],
+[6600,14,["(__devinDesktopZhLocale()?\"重新连接\":",[6600,14],")"]],
+[6919,28,["(__devinDesktopZhLocale()?\"侧边栏语音通话药丸道具\":",[6919,28],")"]],
+[8298,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

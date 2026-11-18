@@ -1,0 +1,7 @@
+[
+[96643,23,["(__devinDesktopZhLocale()?\"出错了！\":",[96643,23],")"]],
+[96858,12,["(__devinDesktopZhLocale()?\"隐藏错误详情\":",[96858,12],")"]],
+[96871,12,["(__devinDesktopZhLocale()?\"显示错误详情\":",[96871,12],")"]],
+[111248,11,["(__devinDesktopZhLocale()?\"未找到\":",[111248,11],")"]],
+[170072,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

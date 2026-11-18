@@ -1,0 +1,10 @@
+[
+[505,81,["(__devinDesktopZhLocale()?\"一个图标按钮，用于将文本复制到剪贴板，并短暂显示勾号。\":",[505,81],")"]],
+[695,7,["(__devinDesktopZhLocale()?\"基本\":",[695,7],")"]],
+[814,12,["(__devinDesktopZhLocale()?\"工具栏\":",[814,12],")"]],
+[1171,11,["(__devinDesktopZhLocale()?\"复制代码\":",[1171,11],")"]],
+[1210,13,["(__devinDesktopZhLocale()?\"自定义副本\":",[1210,13],")"]],
+[1441,11,["(__devinDesktopZhLocale()?\"复制链接\":",[1441,11],")"]],
+[1476,28,["(__devinDesktopZhLocale()?\"替代勾选标记，使用Toast图标\":",[1476,28],")"]],
+[3584,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,16 @@
+[
+[1491,19,["(__devinDesktopZhLocale()?\"提交请求\":",[1491,19],")"]],
+[1537,40,["(__devinDesktopZhLocale()?\"你的模拟访问请求 \":",[1537,40],")"]],
+[1580,74,["(__devinDesktopZhLocale()?\" 已提交审批。一旦通过审批，即可进行模拟操作。\":",[1580,74],")"]],
+[1749,7,["(__devinDesktopZhLocale()?\"关闭\":",[1749,7],")"]],
+[1850,30,["(__devinDesktopZhLocale()?\"请求模拟访问\":",[1850,30],")"]],
+[1907,44,["(__devinDesktopZhLocale()?\"您需要审批才能模拟用户身份 \":",[1907,44],")"]],
+[2154,10,["(__devinDesktopZhLocale()?\"时长\":",[2154,10],")"]],
+[2312,17,["(__devinDesktopZhLocale()?\"选择时长\":",[2312,17],")"]],
+[2546,8,["(__devinDesktopZhLocale()?\"原因\":",[2546,8],")"]],
+[2645,39,["(__devinDesktopZhLocale()?\"为什么你需要冒充访问权限？\":",[2645,39],")"]],
+[2888,8,["(__devinDesktopZhLocale()?\"取消\":",[2888,8],")"]],
+[2996,15,["(__devinDesktopZhLocale()?\"正在提交…\":",[2996,15],")"]],
+[3012,16,["(__devinDesktopZhLocale()?\"请求访问权限\":",[3012,16],")"]],
+[4199,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,19 @@
+[
+[577,120,["(__devinDesktopZhLocale()?\"用于 Devin 角色活动的共享状态界面，闪烁文本，同步反馈，以及睡眠会话唤醒交互功能。\":",[577,120],")"]],
+[790,9,["(__devinDesktopZhLocale()?\"工作中\":",[790,9],")"]],
+[932,10,["(__devinDesktopZhLocale()?\"处理中…\":",[932,10],")"]],
+[975,23,["(__devinDesktopZhLocale()?\"睡眠与唤醒\":",[975,23],")"]],
+[1147,9,["(__devinDesktopZhLocale()?\"同步中\":",[1147,9],")"]],
+[1300,13,["(__devinDesktopZhLocale()?\"设置中…\":",[1300,13],")"]],
+[1357,18,["(__devinDesktopZhLocale()?\"图标为点状\":",[1357,18],")"]],
+[1539,29,["(__devinDesktopZhLocale()?\"需要执行的操作：选择一项任务\":",[1539,29],")"]],
+[1592,14,["(__devinDesktopZhLocale()?\"无图标\":",[1592,14],")"]],
+[1742,10,["(__devinDesktopZhLocale()?\"处理中…\":",[1742,10],")"]],
+[1788,23,["(__devinDesktopZhLocale()?\"带有尾随内容的\":",[1788,23],")"]],
+[1980,10,["(__devinDesktopZhLocale()?\"处理中…\":",[1980,10],")"]],
+[2125,13,["(__devinDesktopZhLocale()?\"~还剩5分钟\":",[2125,13],")"]],
+[2164,21,["(__devinDesktopZhLocale()?\"包含页脚内容的\":",[2164,21],")"]],
+[2356,32,["(__devinDesktopZhLocale()?\"Devin 正在等待指令\":",[2356,32],")"]],
+[2472,12,["(__devinDesktopZhLocale()?\"Recap 文本\":",[2472,12],")"]],
+[4175,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

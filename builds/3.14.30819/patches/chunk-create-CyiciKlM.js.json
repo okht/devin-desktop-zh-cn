@@ -1,0 +1,16 @@
+[
+[1244,35,["(__devinDesktopZhLocale()?\"成功创建组织\":",[1244,35],")"]],
+[1384,31,["(__devinDesktopZhLocale()?\"创建组织失败\":",[1384,31],")"]],
+[1849,15,["(__devinDesktopZhLocale()?\"组织\":",[1849,15],")"]],
+[1955,21,["(__devinDesktopZhLocale()?\"创建组织\":",[1955,21],")"]],
+[2251,21,["(__devinDesktopZhLocale()?\"创建组织\":",[2251,21],")"]],
+[2344,27,["(__devinDesktopZhLocale()?\"创建新组织\":",[2344,27],")"]],
+[2661,19,["(__devinDesktopZhLocale()?\"组织名称\":",[2661,19],")"]],
+[2838,6,["(__devinDesktopZhLocale()?\"计划\":",[2838,6],")"]],
+[3039,19,["(__devinDesktopZhLocale()?\"设置用户为管理员\":",[3039,19],")"]],
+[3119,12,["(__devinDesktopZhLocale()?\"用户邮箱\":",[3119,12],")"]],
+[3337,29,["(__devinDesktopZhLocale()?\"初始按需用量\":",[3337,29],")"]],
+[3653,11,["(__devinDesktopZhLocale()?\"创建中…\":",[3653,11],")"]],
+[3670,21,["(__devinDesktopZhLocale()?\"创建组织\":",[3670,21],")"]],
+[3968,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

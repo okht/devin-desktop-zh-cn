@@ -1,0 +1,17 @@
+[
+[1661,39,["(__devinDesktopZhLocale()?\"更改发布说明的头像\":",[1661,39],")"]],
+[2545,15,["(__devinDesktopZhLocale()?\"发行说明\":",[2545,15],")"]],
+[2625,59,["(__devinDesktopZhLocale()?\"点击图片进行更换。每次选择都能立即保存。\":",[2625,59],")"]],
+[3579,15,["(__devinDesktopZhLocale()?\"发行说明\":",[3579,15],")"]],
+[3629,5,["(__devinDesktopZhLocale()?\"应用\":",[3629,5],")"]],
+[3699,9,["(__devinDesktopZhLocale()?\"上午9:41\":",[3699,9],")"]],
+[3774,51,["(__devinDesktopZhLocale()?\"本周处理了14个申请。相关说明在#releases中。\":",[3774,51],")"]],
+[4016,15,["(__devinDesktopZhLocale()?\"保存图片\":",[4016,15],")"]],
+[4649,18,["(__devinDesktopZhLocale()?\"（已上传的图片）\":",[4649,18],")"]],
+[4920,9,["(__devinDesktopZhLocale()?\"后端\":",[4920,9],")"]],
+[4987,56,["(__devinDesktopZhLocale()?\"不变：相同的上传端点和 avatar_key 模式\":",[4987,56],")"]],
+[5159,14,["(__devinDesktopZhLocale()?\"下载PNG\":",[5159,14],")"]],
+[5253,205,["(__devinDesktopZhLocale()?\"机器人的头像选择器：LED齿轮、过滤后的图标或颜色渐变六边形，支持随机排列。选择后的图片会被转换为PNG格式并在浏览器中上传，同时需要提供一个avatar_key，因此后端无需进行任何修改。\":",[5253,205],")"]],
+[5554,12,["(__devinDesktopZhLocale()?\"演练场\":",[5554,12],")"]],
+[7074,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

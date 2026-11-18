@@ -1,0 +1,17 @@
+[
+[742,217,["(__devinDesktopZhLocale()?\"应用程序中的统一PR卡片。状态图标、标题标签和仓库编号均来自pr.pr_url——调用者只需传递pr（以及可选的应用程序特定操作）。三种布局变体覆盖当前所有界面。\":",[742,217],")"]],
+[989,16,["(__devinDesktopZhLocale()?\"统一PrCard\":",[989,16],")"]],
+[1501,71,["(__devinDesktopZhLocale()?\"variant=\\\"block\\\" — 单个圆形卡片（在线聊天默认，风帆冲浪）\":",[1501,71],")"]],
+[1786,135,["(__devinDesktopZhLocale()?\"运行 + 着色 + 身体类名 — 卡片内嵌卡片：单行标题，深色时更明亮，填充更紧凑（需要你）\":",[1786,135],")"]],
+[2200,62,["(__devinDesktopZhLocale()?\"variant=\\\"split\\\" — 标题分离 + 分隔栏（内嵌聊天紧凑版）\":",[2200,62],")"]],
+[2478,63,["(__devinDesktopZhLocale()?\"variant=\\\"bare\\\" — 仅主体部分（用于网页应用中的MenuItem内部）\":",[2478,63],")"]],
+[2637,43,["(__devinDesktopZhLocale()?\"采用块式标题的变体\":",[2637,43],")"]],
+[2932,107,["(__devinDesktopZhLocale()?\"使用 block 组件与 actionBar 一起使用——底部操作行（传递 null 以通过 resolve 过渡功能将其折叠）\":",[2932,107],")"]],
+[3297,9,["(__devinDesktopZhLocale()?\"分析\":",[3297,9],")"]],
+[3332,43,["(__devinDesktopZhLocale()?\"variant=\\\"split\\\" — 排队中（合并队列）\":",[3332,43],")"]],
+[3591,89,["(__devinDesktopZhLocale()?\"variant=\\\"block\\\" — GitLab MR（感知提供商的「!123」前缀 + 自动「在GitLab中打开」链接）\":",[3591,89],")"]],
+[3899,59,["(__devinDesktopZhLocale()?\"PrCardActionsOverlay — 在您自己的链接旁边显示悬停操作\":",[3899,59],")"]],
+[4223,121,["(__devinDesktopZhLocale()?\"该行包含自己的锚点 + 悬停时显示的覆盖层（悬停该行）；主持人需要group/prcard相关的类。\":",[4223,121],")"]],
+[5726,17,["(__devinDesktopZhLocale()?\"检出分支\":",[5726,17],")"]],
+[5800,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

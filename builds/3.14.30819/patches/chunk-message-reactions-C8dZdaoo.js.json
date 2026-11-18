@@ -1,0 +1,14 @@
+[
+[1190,43,["(__devinDesktopZhLocale()?\"在代码检查通过之后，能否将其发送给测试版？\":",[1190,43],")"]],
+[1340,7,["(__devinDesktopZhLocale()?\"清除\":",[1340,7],")"]],
+[1348,15,["(__devinDesktopZhLocale()?\"后续反应\":",[1348,15],")"]],
+[2845,11,["(__devinDesktopZhLocale()?\"反应\":",[2845,11],")"]],
+[4007,25,["(__devinDesktopZhLocale()?\"每张卡片上的反应\":",[4007,25],")"]],
+[4236,5,["(__devinDesktopZhLocale()?\"机器人\":",[4236,5],")"]],
+[4242,14,["(__devinDesktopZhLocale()?\" 与...反应\":",[4242,14],")"]],
+[4287,17,["(__devinDesktopZhLocale()?\"机器人做出反应\":",[4287,17],")"]],
+[4748,145,["(__devinDesktopZhLocale()?\"在气泡的右上角显示一个表情符号反应，就像回复一样。用于会话中的用户消息以及机器人聊天中的每个气泡。\":",[4748,145],")"]],
+[4923,13,["(__devinDesktopZhLocale()?\"交互式\":",[4923,13],")"]],
+[5076,12,["(__devinDesktopZhLocale()?\"边缘情况\":",[5076,12],")"]],
+[8873,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

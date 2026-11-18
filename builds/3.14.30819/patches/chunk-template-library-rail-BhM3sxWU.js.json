@@ -1,0 +1,11 @@
+[
+[4976,28,["(__devinDesktopZhLocale()?\"模板库铁路项目\":",[4976,28],")"]],
+[5050,92,["(__devinDesktopZhLocale()?\"在模板库的水平栏中，将「One bot template」作为卡片展示。完整页面如下：\":",[5050,92],")"]],
+[5232,20,["(__devinDesktopZhLocale()?\", 从 打开 \":",[5232,20],")"]],
+[5255,8,["(__devinDesktopZhLocale()?\" 铁路。\":",[5255,8],")"]],
+[5414,11,["(__devinDesktopZhLocale()?\"铁路项目\":",[5414,11],")"]],
+[5649,8,["(__devinDesktopZhLocale()?\"横幅\":",[5649,8],")"]],
+[5800,11,["(__devinDesktopZhLocale()?\"全屏\":",[5800,11],")"]],
+[6015,14,["(__devinDesktopZhLocale()?\"图书馆轨道\":",[6015,14],")"]],
+[6370,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

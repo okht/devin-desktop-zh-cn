@@ -1,0 +1,10 @@
+[
+[374,24,["(__devinDesktopZhLocale()?\"测试录制卡片界面\":",[374,24],")"]],
+[411,212,["(__devinDesktopZhLocale()?\"展示式折叠测试记录卡片。显示缩略图、标题以及通过/未通过的数量。所有数据获取、路由和分析功能都在主机应用程序封装层中处理，以提供这些信息。\":",[411,212],")"]],
+[722,12,["(__devinDesktopZhLocale()?\"登录流程\":",[722,12],")"]],
+[916,23,["(__devinDesktopZhLocale()?\"测试录制查看器\":",[916,23],")"]],
+[952,263,["(__devinDesktopZhLocale()?\"全屏测试录制查看器：视频+注释时间线+结果侧边栏。通过设计标记进行主题化，无需路由器或分析依赖2014 调用者传入一个videoUrl、annotation数据、可选的analytics回调，以及可选的sessionLinkSlot\":",[952,263],")"]],
+[1292,92,["(__devinDesktopZhLocale()?\"省略了实时示例2014 观众需要真正的MP4 附带相应的注释。查看\":",[1292,92],")"]],
+[1525,97,["(__devinDesktopZhLocale()?\"用于主机应用程序包装器，该包装器负责围绕这个系统进行数据获取、路由和分析。\":",[1525,97],")"]],
+[7376,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,9 @@
+[
+[4515,24,["(__devinDesktopZhLocale()?\"React Flow归因\":",[4515,24],")"]],
+[12735,40,["(__devinDesktopZhLocale()?\"按回车或空格键选择一个节点。\":",[12735,40],")"]],
+[12780,58,["(__devinDesktopZhLocale()?\"然后可以使用箭头键来移动节点。\":",[12780,58],")"]],
+[12839,50,["(__devinDesktopZhLocale()?\" 按删除键以移除，按退出键以取消。\":",[12839,50],")"]],
+[12944,101,["(__devinDesktopZhLocale()?\"按回车或空格选择一条边。然后可以按删除键删除它，或按退出键取消选择。\":",[12944,101],")"]],
+[65201,24,["(__devinDesktopZhLocale()?`Edge from ${b} 至 ${x}`:",[65201,24],")"]],
+[85800,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

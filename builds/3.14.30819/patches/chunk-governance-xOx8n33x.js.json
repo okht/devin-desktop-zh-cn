@@ -1,0 +1,18 @@
+[
+[2199,18,["(__devinDesktopZhLocale()?\"访问扩展\":",[2199,18],")"]],
+[2311,25,["(__devinDesktopZhLocale()?\"客户可见\":",[2311,25],")"]],
+[2337,29,["(__devinDesktopZhLocale()?\"客户无法看到\":",[2337,29],")"]],
+[2436,278,["(__devinDesktopZhLocale()?\"在 Devin 中，通过某个组织访问仓库的成员，其访问权限超出了其 Git 提供商在每次连接最后一次同步时提供的权限。这是账户管理员在 scm-sync-violations 标志被激活后所看到内容的只读预览。\":",[2436,278],")"]],
+[2809,25,["(__devinDesktopZhLocale()?\"无法加载扩展信息\":",[2809,25],")"]],
+[2924,11,["(__devinDesktopZhLocale()?\"重试\":",[2924,11],")"]],
+[3050,24,["(__devinDesktopZhLocale()?\"目前还没有可比较的内容\":",[3050,24],")"]],
+[3100,94,["(__devinDesktopZhLocale()?\"该账户的任意组织在该连接上都没有完成同步的仓库访问权限。\":",[3100,94],")"]],
+[3308,88,["(__devinDesktopZhLocale()?`在${o.length}区域没有进行扩展操作，已同步${o.length===1?`organization`:`organizations`}。`:",[3308,88],")"]],
+[3397,158,["(__devinDesktopZhLocale()?`${s} ${s===1?`widening`:`widenings`} 在 ${o.filter(e=>e.violation_count>0).length} 的 ${o.length} 中已同步 ${o.length===1?`organization`:`organizations`}。`:",[3397,158],")"]],
+[3663,14,["(__devinDesktopZhLocale()?\"组织\":",[3663,14],")"]],
+[3713,18,["(__devinDesktopZhLocale()?\"成员们进行了比较\":",[3713,18],")"]],
+[3767,29,["(__devinDesktopZhLocale()?\"权限扩大的成员\":",[3767,29],")"]],
+[4311,9,["(__devinDesktopZhLocale()?\"正在加载\":",[4311,9],")"]],
+[61126,12,["(__devinDesktopZhLocale()?\"治理\":",[61126,12],")"]],
+[61611,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

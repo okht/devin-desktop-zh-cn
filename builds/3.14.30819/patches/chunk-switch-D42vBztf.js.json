@@ -1,0 +1,18 @@
+[
+[267,61,["(__devinDesktopZhLocale()?\"一个用于在开启和关闭之间切换单一设置的控件。\":",[267,61],")"]],
+[521,7,["(__devinDesktopZhLocale()?\"基本\":",[521,7],")"]],
+[803,5,["(__devinDesktopZhLocale()?\"关\":",[803,5],")"]],
+[978,4,["(__devinDesktopZhLocale()?\"开\":",[978,4],")"]],
+[1012,7,["(__devinDesktopZhLocale()?\"大小\":",[1012,7],")"]],
+[1392,8,["(__devinDesktopZhLocale()?\"中\":",[1392,8],")"]],
+[1580,7,["(__devinDesktopZhLocale()?\"小\":",[1580,7],")"]],
+[1767,13,["(__devinDesktopZhLocale()?\"小号\":",[1767,13],")"]],
+[1810,10,["(__devinDesktopZhLocale()?\"已停用\":",[1810,10],")"]],
+[2126,14,["(__devinDesktopZhLocale()?\"禁用 关闭\":",[2126,14],")"]],
+[2324,13,["(__devinDesktopZhLocale()?\"禁用中\":",[2324,13],")"]],
+[2367,12,["(__devinDesktopZhLocale()?\"带标签\":",[2367,12],")"]],
+[2965,22,["(__devinDesktopZhLocale()?\"启用通知\":",[2965,22],")"]],
+[3173,11,["(__devinDesktopZhLocale()?\"深色模式\":",[3173,11],")"]],
+[3430,8,["(__devinDesktopZhLocale()?\"开关\":",[3430,8],")"]],
+[4247,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

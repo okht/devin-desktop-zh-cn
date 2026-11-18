@@ -1,0 +1,23 @@
+[
+[1357,9,["(__devinDesktopZhLocale()?\"1 状态\":",[1357,9],")"]],
+[1367,13,["(__devinDesktopZhLocale()?`${n} 状态`:",[1367,13],")"]],
+[2973,96,["(__devinDesktopZhLocale()?\" 每个标题都是一张独立的卡片；其下的标签项就是该卡片的状态。\":",[2973,96],")"]],
+[3217,25,["(__devinDesktopZhLocale()?\"搜索卡片和状态\":",[3217,25],")"]],
+[3256,25,["(__devinDesktopZhLocale()?\"搜索卡片和状态\":",[3256,25],")"]],
+[3369,7,["(__devinDesktopZhLocale()?\"分组\":",[3369,7],")"]],
+[3477,5,["(__devinDesktopZhLocale()?\"全部\":",[3477,5],")"]],
+[3586,27,["(__devinDesktopZhLocale()?\"按州数量分类的卡片\":",[3586,27],")"]],
+[3746,12,["(__devinDesktopZhLocale()?\"任何州\":",[3746,12],")"]],
+[3800,16,["(__devinDesktopZhLocale()?\"多个州\":",[3800,16],")"]],
+[3856,11,["(__devinDesktopZhLocale()?\"一个州\":",[3856,11],")"]],
+[3975,8,["(__devinDesktopZhLocale()?\"1 张卡片\":",[3975,8],")"]],
+[3984,19,["(__devinDesktopZhLocale()?`${_.length} 卡片`:",[3984,19],")"]],
+[4016,9,["(__devinDesktopZhLocale()?\"1 状态\":",[4016,9],")"]],
+[4026,13,["(__devinDesktopZhLocale()?`${v} 状态`:",[4026,13],")"]],
+[4128,17,["(__devinDesktopZhLocale()?\"没有匹配的卡片。\":",[4128,17],")"]],
+[4955,10,["(__devinDesktopZhLocale()?\"缺失 \":",[4955,10],")"]],
+[5665,17,["(__devinDesktopZhLocale()?\"会话摘要\":",[5665,17],")"]],
+[5695,31,["(__devinDesktopZhLocale()?\"修复文本翻译的回归问题\":",[5695,31],")"]],
+[5814,124,["(__devinDesktopZhLocale()?\"审查了转录回归，修复了行高设置问题，并提交了修复请求。接下来：等待审查。\":",[5814,124],")"]],
+[8011,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

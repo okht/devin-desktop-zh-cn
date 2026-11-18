@@ -1,0 +1,7 @@
+[
+[342,163,["(__devinDesktopZhLocale()?\"当最后一个处理中的收件箱项目时，需要你列出的需求按时间排序。以列表形式显示在打开项目的下方，并位于其标题的悬停卡片下方。\":",[342,163],")"]],
+[606,27,["(__devinDesktopZhLocale()?\"打开项目并悬停卡片\":",[606,27],")"]],
+[738,10,["(__devinDesktopZhLocale()?\"列表行\":",[738,10],")"]],
+[875,21,["(__devinDesktopZhLocale()?\"InboxItemTime 属性\":",[875,21],")"]],
+[1490,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,15 @@
+[
+[2019,31,["(__devinDesktopZhLocale()?\"成功退还了发票\":",[2019,31],")"]],
+[2235,40,["(__devinDesktopZhLocale()?`未能退还发票：${t.message}`:",[2235,40],")"]],
+[2537,29,["(__devinDesktopZhLocale()?\"发票成功作废\":",[2537,29],")"]],
+[2749,38,["(__devinDesktopZhLocale()?`未能取消发票：${t.message}`:",[2749,38],")"]],
+[3036,36,["(__devinDesktopZhLocale()?\"订阅成功取消\":",[3036,36],")"]],
+[3262,45,["(__devinDesktopZhLocale()?`取消订阅失败: ${t.message}`:",[3262,45],")"]],
+[3567,35,["(__devinDesktopZhLocale()?\"降级后的Legacy企业套餐\":",[3567,35],")"]],
+[3684,58,["(__devinDesktopZhLocale()?`降级失败：旧版企业套餐无法降级：${e.message}`:",[3684,58],")"]],
+[4234,33,["(__devinDesktopZhLocale()?\"订阅已同步至Stripe\":",[4234,33],")"]],
+[4389,43,["(__devinDesktopZhLocale()?`同步订阅失败: ${e.message}`:",[4389,43],")"]],
+[4841,28,["(__devinDesktopZhLocale()?\"成功创建Grant\":",[4841,28],")"]],
+[4945,38,["(__devinDesktopZhLocale()?`创建授权失败: ${e.message}`:",[4945,38],")"]],
+[5777,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

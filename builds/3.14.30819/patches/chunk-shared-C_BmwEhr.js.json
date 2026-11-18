@@ -1,0 +1,14 @@
+[
+[4366,7,["(__devinDesktopZhLocale()?\"用量\":",[4366,7],")"]],
+[4634,13,["(__devinDesktopZhLocale()?\"构图\":",[4634,13],")"]],
+[4721,42,["(__devinDesktopZhLocale()?\"使用以下结构来构建\":",[4721,42],")"]],
+[5045,10,["(__devinDesktopZhLocale()?\"示例\":",[5045,10],")"]],
+[5193,15,["(__devinDesktopZhLocale()?\"API参考\":",[5193,15],")"]],
+[5641,6,["(__devinDesktopZhLocale()?\"道具\":",[5641,6],")"]],
+[5683,6,["(__devinDesktopZhLocale()?\"类型\":",[5683,6],")"]],
+[5725,9,["(__devinDesktopZhLocale()?\"默认\":",[5725,9],")"]],
+[5803,13,["(__devinDesktopZhLocale()?\"说明\":",[5803,13],")"]],
+[7024,11,["(__devinDesktopZhLocale()?\"隐藏代码\":",[7024,11],")"]],
+[7036,11,["(__devinDesktopZhLocale()?\"查看代码\":",[7036,11],")"]],
+[7606,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

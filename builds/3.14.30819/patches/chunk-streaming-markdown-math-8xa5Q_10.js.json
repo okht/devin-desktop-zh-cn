@@ -1,0 +1,7 @@
+[
+[329,105,["(__devinDesktopZhLocale()?\"默认的流式 Markdown 渲染器，用于内联和显示 TeX 数学公式，由延迟加载的 KaTeX 提供支持。\":",[329,105],")"]],
+[535,7,["(__devinDesktopZhLocale()?\"基本\":",[535,7],")"]],
+[667,9,["(__devinDesktopZhLocale()?\"显示\":",[667,9],")"]],
+[872,13,["(__devinDesktopZhLocale()?\"无效 TeX\":",[872,13],")"]],
+[1506,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

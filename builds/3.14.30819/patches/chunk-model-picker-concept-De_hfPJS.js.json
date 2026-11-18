@@ -1,0 +1,4 @@
+[
+[12835,132,["(__devinDesktopZhLocale()?\"一个高保真度的非生产概念，用于将易于操作的能力和速度控制与专家模型配置分离。\":",[12835,132],")"]],
+[14849,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

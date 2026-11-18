@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from devin_zh import Installation, ROOT, atomic, digest
+from devin_zh import Installation, atomic, digest
 from src.resources import pretty
 
 
@@ -33,7 +33,7 @@ def main():
     if changes and not args.update_hashes:
         raise ValueError("输出与发布清单不同：" + ", ".join(changes))
     if changes:
-        atomic(ROOT / "manifest.json", pretty(install.release))
+        atomic(install.resources / "manifest.json", pretty(install.release))
     print(f"已从原版重建并校验 {len(sources)} 个文件。更新了 {len(changes)} 个哈希。")
 
 

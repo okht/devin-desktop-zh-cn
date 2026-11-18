@@ -1,0 +1,11 @@
+[
+[314,104,["(__devinDesktopZhLocale()?\"带语法高亮的代码视图，支持折叠片段、高亮行和可选的文件标题。\":",[314,104],")"]],
+[511,7,["(__devinDesktopZhLocale()?\"基本\":",[511,7],")"]],
+[855,35,["(__devinDesktopZhLocale()?\"带有片段的区域\":",[855,35],")"]],
+[1636,22,["(__devinDesktopZhLocale()?\"无需行号\":",[1636,22],")"]],
+[1906,45,["(__devinDesktopZhLocale()?\"使用复制和包裹切换功能（悬停显示）\":",[1906,45],")"]],
+[2405,28,["(__devinDesktopZhLocale()?\"始终可见的复制按钮\":",[2405,28],")"]],
+[2793,31,["(__devinDesktopZhLocale()?\"纯文本（自动换行）\":",[2793,31],")"]],
+[3268,17,["(__devinDesktopZhLocale()?\"CodeBlock 道具\":",[3268,17],")"]],
+[4391,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

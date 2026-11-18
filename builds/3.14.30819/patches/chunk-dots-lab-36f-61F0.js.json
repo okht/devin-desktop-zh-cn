@@ -1,0 +1,9 @@
+[
+[1617,11,["(__devinDesktopZhLocale()?\"点状态\":",[1617,11],")"]],
+[2003,15,["(__devinDesktopZhLocale()?\"运行会话\":",[2003,15],")"]],
+[2083,9,["(__devinDesktopZhLocale()?\"洗牌\":",[2083,9],")"]],
+[2224,25,["(__devinDesktopZhLocale()?\"实际尺寸\":",[2224,25],")"]],
+[2533,149,["(__devinDesktopZhLocale()?\"这是一个由三个工作点组成的游乐场：每个状态都会循环进入，并且可以在任意两个状态之间切换。使用按钮或数字键选择一个状态。\":",[2533,149],")"]],
+[2711,12,["(__devinDesktopZhLocale()?\"演练场\":",[2711,12],")"]],
+[3720,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

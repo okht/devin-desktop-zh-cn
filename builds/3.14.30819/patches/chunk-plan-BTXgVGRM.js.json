@@ -1,0 +1,16 @@
+[
+[426,14,["(__devinDesktopZhLocale()?\"套餐界面\":",[426,14],")"]],
+[453,133,["(__devinDesktopZhLocale()?\"展示信息-历史套餐卡片。主机应用通过道具和插槽提供套餐状态、回调以及应用特定的内容。\":",[453,133],")"]],
+[616,14,["(__devinDesktopZhLocale()?\"发布计划\":",[616,14],")"]],
+[932,52,["(__devinDesktopZhLocale()?\"更新发布流程并验证推广过程。\":",[932,52],")"]],
+[1032,31,["(__devinDesktopZhLocale()?\"链接实现会话\":",[1032,31],")"]],
+[1075,30,["(__devinDesktopZhLocale()?\"简短的遗产套餐信息。\":",[1075,30],")"]],
+[1193,16,["(__devinDesktopZhLocale()?\"套餐详情界面\":",[1193,16],")"]],
+[1222,165,["(__devinDesktopZhLocale()?\"侧边栏或工作区面板的展示套餐详细视图。主机应用通过属性和插槽提供版本状态、编辑回调以及渲染后的内容。\":",[1222,165],")"]],
+[2127,14,["(__devinDesktopZhLocale()?\"发布计划\":",[2127,14],")"]],
+[2222,9,["(__devinDesktopZhLocale()?\"正在加载\":",[2222,9],")"]],
+[2351,87,["(__devinDesktopZhLocale()?\"准备发布，验证部署，并监控首次生产版本的上线。\":",[2351,87],")"]],
+[2558,27,["(__devinDesktopZhLocale()?\"如需完整的数据连接信息，请参阅\":",[2558,27],")"]],
+[2803,7,["(__devinDesktopZhLocale()?\"以及\":",[2803,7],")"]],
+[8650,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

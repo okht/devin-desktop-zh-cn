@@ -1,0 +1,20 @@
+[
+[935,9,["(__devinDesktopZhLocale()?\"关闭提示\":",[935,9],")"]],
+[1246,22,["(__devinDesktopZhLocale()?\"更多驳回选项\":",[1246,22],")"]],
+[1569,21,["(__devinDesktopZhLocale()?\"沉睡一小时\":",[1569,21],")"]],
+[1655,23,["(__devinDesktopZhLocale()?\"推迟到明天再处理\":",[1655,23],")"]],
+[2197,22,["(__devinDesktopZhLocale()?\"圆角分割按钮\":",[2197,22],")"]],
+[3129,21,["(__devinDesktopZhLocale()?\"分隔符颜色标记\":",[3129,21],")"]],
+[3344,14,["(__devinDesktopZhLocale()?\"重置值\":",[3344,14],")"]],
+[3555,13,["(__devinDesktopZhLocale()?\"复制值\":",[3555,13],")"]],
+[3785,23,["(__devinDesktopZhLocale()?\"仅图标分割按钮\":",[3785,23],")"]],
+[4059,10,["(__devinDesktopZhLocale()?\"已禁用\":",[4059,10],")"]],
+[4070,9,["(__devinDesktopZhLocale()?\"已启用\":",[4070,9],")"]],
+[4151,6,["(__devinDesktopZhLocale()?\"发送\":",[4151,6],")"]],
+[4314,19,["(__devinDesktopZhLocale()?\"更多发送选项\":",[4314,19],")"]],
+[4421,15,["(__devinDesktopZhLocale()?\"在 Slack 上发送\":",[4421,15],")"]],
+[4529,31,["(__devinDesktopZhLocale()?\"文本分割按钮属性矩阵\":",[4529,31],")"]],
+[4931,10,["(__devinDesktopZhLocale()?\"已禁用\":",[4931,10],")"]],
+[4942,9,["(__devinDesktopZhLocale()?\"已启用\":",[4942,9],")"]],
+[5697,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

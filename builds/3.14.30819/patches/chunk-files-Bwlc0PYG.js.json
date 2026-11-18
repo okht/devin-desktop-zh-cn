@@ -1,0 +1,8 @@
+[
+[48671,12,["(__devinDesktopZhLocale()?\"隐藏指南\":",[48671,12],")"]],
+[48684,11,["(__devinDesktopZhLocale()?\"查看指南\":",[48684,11],")"]],
+[48723,22,["(__devinDesktopZhLocale()?\"打开追踪指南\":",[48723,22],")"]],
+[49268,20,["(__devinDesktopZhLocale()?\"AI生成指南\":",[49268,20],")"]],
+[53606,21,["(__devinDesktopZhLocale()?`前往地点 ${e}`:",[53606,21],")"]],
+[65306,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

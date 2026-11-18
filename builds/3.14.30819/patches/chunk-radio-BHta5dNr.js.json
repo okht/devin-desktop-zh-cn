@@ -1,0 +1,22 @@
+[
+[460,70,["(__devinDesktopZhLocale()?\"一组可选择的按钮，每次只能选择一个。\":",[460,70],")"]],
+[721,12,["(__devinDesktopZhLocale()?\"受控\":",[721,12],")"]],
+[1069,10,["(__devinDesktopZhLocale()?\"已停用\":",[1069,10],")"]],
+[1527,9,["(__devinDesktopZhLocale()?\"已启用\":",[1527,9],")"]],
+[1747,10,["(__devinDesktopZhLocale()?\"已停用\":",[1747,10],")"]],
+[1787,12,["(__devinDesktopZhLocale()?\"收音卡\":",[1787,12],")"]],
+[2325,10,["(__devinDesktopZhLocale()?\"平台\":",[2325,10],")"]],
+[2667,25,["(__devinDesktopZhLocale()?\"没有图标的无线电卡\":",[2667,25],")"]],
+[3632,13,["(__devinDesktopZhLocale()?\"目标类型\":",[3632,13],")"]],
+[3853,14,["(__devinDesktopZhLocale()?\"HTTP连接\":",[3853,14],")"]],
+[3937,30,["(__devinDesktopZhLocale()?\"通过HTTP代理的隧道\":",[3937,30],")"]],
+[4180,31,["(__devinDesktopZhLocale()?\"通过SOCKS5代理的隧道\":",[4180,31],")"]],
+[4346,8,["(__devinDesktopZhLocale()?\"直接\":",[4346,8],")"]],
+[4424,25,["(__devinDesktopZhLocale()?\"无需代理即可连接\":",[4424,25],")"]],
+[4486,8,["(__devinDesktopZhLocale()?\"状态\":",[4486,8],")"]],
+[4714,16,["(__devinDesktopZhLocale()?\"启用选项\":",[4714,16],")"]],
+[5174,10,["(__devinDesktopZhLocale()?\"选项 1\":",[5174,10],")"]],
+[5367,10,["(__devinDesktopZhLocale()?\"选项 2\":",[5367,10],")"]],
+[5560,10,["(__devinDesktopZhLocale()?\"选项 3\":",[5560,10],")"]],
+[6794,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

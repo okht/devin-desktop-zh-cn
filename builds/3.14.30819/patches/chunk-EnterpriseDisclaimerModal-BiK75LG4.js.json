@@ -1,0 +1,6 @@
+[
+[2367,40,["(__devinDesktopZhLocale()?\"Citi信息分类政策\":",[2367,40],")"]],
+[3260,6,["(__devinDesktopZhLocale()?\"这里\":",[3260,6],")"]],
+[4238,8,["(__devinDesktopZhLocale()?\"策略\":",[4238,8],")"]],
+[6826,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,11 @@
+[
+[639,307,["(__devinDesktopZhLocale()?\"在插件被编写到清单之前，会显示信任门：在头部包含内容和版本（链接到源代码），还有安全通知，以及一个确认复选框，该复选框会保持主要操作禁用，直到被勾选。调用者会解决细节问题，并在onConfirm时安装插件；此时对话框不会发生变化。\":",[639,307],")"]],
+[1047,33,["(__devinDesktopZhLocale()?\"官方插件，已知内容\":",[1047,33],")"]],
+[1450,25,["(__devinDesktopZhLocale()?\"安装官方插件\":",[1450,25],")"]],
+[1499,27,["(__devinDesktopZhLocale()?\"将插件连接到机器人\":",[1499,27],")"]],
+[1901,16,["(__devinDesktopZhLocale()?\"连接插件\":",[1901,16],")"]],
+[1941,41,["(__devinDesktopZhLocale()?\"自定义来源，内容尚未被索引。\":",[1941,41],")"]],
+[2291,28,["(__devinDesktopZhLocale()?\"从仓库添加插件\":",[2291,28],")"]],
+[2346,34,["(__devinDesktopZhLocale()?\"插件安装警告对话框属性\":",[2346,34],")"]],
+[3461,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

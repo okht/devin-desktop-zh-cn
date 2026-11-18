@@ -1,0 +1,20 @@
+[
+[518,89,["(__devinDesktopZhLocale()?\"显示当前页面在导航层次结构中的位置的链接列表。\":",[518,89],")"]],
+[779,7,["(__devinDesktopZhLocale()?\"基本\":",[779,7],")"]],
+[1352,6,["(__devinDesktopZhLocale()?\"首页\":",[1352,6],")"]],
+[1461,10,["(__devinDesktopZhLocale()?\"产品\":",[1461,10],")"]],
+[1536,14,["(__devinDesktopZhLocale()?\"当前页面\":",[1536,14],")"]],
+[1581,12,["(__devinDesktopZhLocale()?\"带图标\":",[1581,12],")"]],
+[2275,7,["(__devinDesktopZhLocale()?\" 首页\":",[2275,7],")"]],
+[2458,7,["(__devinDesktopZhLocale()?\" 文档\":",[2458,7],")"]],
+[2646,15,["(__devinDesktopZhLocale()?\"带省略号\":",[2646,15],")"]],
+[3179,6,["(__devinDesktopZhLocale()?\"首页\":",[3179,6],")"]],
+[3306,6,["(__devinDesktopZhLocale()?\"条目\":",[3306,6],")"]],
+[3343,15,["(__devinDesktopZhLocale()?\"外部链接\":",[3343,15],")"]],
+[3856,6,["(__devinDesktopZhLocale()?\"首页\":",[3856,6],")"]],
+[3965,16,["(__devinDesktopZhLocale()?\"在 GitHub 上查看\":",[3965,16],")"]],
+[4012,18,["(__devinDesktopZhLocale()?\"自定义分隔符\":",[4012,18],")"]],
+[4550,6,["(__devinDesktopZhLocale()?\"首页\":",[4550,6],")"]],
+[4674,9,["(__devinDesktopZhLocale()?\"个人资料\":",[4674,9],")"]],
+[6412,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

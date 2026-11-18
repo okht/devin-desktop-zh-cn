@@ -1,0 +1,9 @@
+[
+[2411,13,["(__devinDesktopZhLocale()?\"添加上下文\":",[2411,13],")"]],
+[2913,295,["(__devinDesktopZhLocale()?\"作曲者菜单的内容——上传行、提及类别、可选的斜杠命令行，以及动作子菜单——由网页应用 composer 和 Devin 桌面版共享。每一行都是数据驱动的，调用者需要提供自己的菜单/菜单内容包装器，以及标签、图标和遥测数据。\":",[2913,295],")"]],
+[3238,11,["(__devinDesktopZhLocale()?\"完整菜单\":",[3238,11],")"]],
+[3953,21,["(__devinDesktopZhLocale()?\"使用斜杠命令\":",[3953,21],")"]],
+[4263,28,["(__devinDesktopZhLocale()?\"禁用行及其原因\":",[4263,28],")"]],
+[4637,27,["(__devinDesktopZhLocale()?\"添加上下文菜单项 props\":",[4637,27],")"]],
+[6118,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

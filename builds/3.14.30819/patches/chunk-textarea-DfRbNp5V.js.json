@@ -1,0 +1,16 @@
+[
+[269,61,["(__devinDesktopZhLocale()?\"多行文本输入，用于输入较长的自由形式文本。\":",[269,61],")"]],
+[485,7,["(__devinDesktopZhLocale()?\"基本\":",[485,7],")"]],
+[589,20,["(__devinDesktopZhLocale()?\"编写一些...\":",[589,20],")"]],
+[668,10,["(__devinDesktopZhLocale()?\"已停用\":",[668,10],")"]],
+[774,10,["(__devinDesktopZhLocale()?\"已停用\":",[774,10],")"]],
+[855,12,["(__devinDesktopZhLocale()?\"带值\":",[855,12],")"]],
+[1047,6,["(__devinDesktopZhLocale()?\"行\":",[1047,6],")"]],
+[1146,16,["(__devinDesktopZhLocale()?\"增加行数\":",[1146,16],")"]],
+[1221,15,["(__devinDesktopZhLocale()?\"幽灵变体\":",[1221,15],")"]],
+[1361,16,["(__devinDesktopZhLocale()?\"幽灵文本输入框\":",[1361,16],")"]],
+[1436,14,["(__devinDesktopZhLocale()?\"表单变体\":",[1436,14],")"]],
+[1598,22,["(__devinDesktopZhLocale()?\"描述前哨站\":",[1598,22],")"]],
+[1675,10,["(__devinDesktopZhLocale()?\"文本域\":",[1675,10],")"]],
+[2531,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

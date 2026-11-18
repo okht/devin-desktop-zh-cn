@@ -1,0 +1,8 @@
+[
+[477,8,["(__devinDesktopZhLocale()?\"预算\":",[477,8],")"]],
+[600,56,["(__devinDesktopZhLocale()?\"用于选择某个范围内的数字的单项值滑块。\":",[600,56],")"]],
+[757,12,["(__devinDesktopZhLocale()?\"受控\":",[757,12],")"]],
+[984,10,["(__devinDesktopZhLocale()?\"已停用\":",[984,10],")"]],
+[1148,8,["(__devinDesktopZhLocale()?\"预算\":",[1148,8],")"]],
+[2522,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

@@ -1,0 +1,22 @@
+[
+[684,9,["(__devinDesktopZhLocale()?\"已启用\":",[684,9],")"]],
+[736,10,["(__devinDesktopZhLocale()?\"已禁用\":",[736,10],")"]],
+[869,11,["(__devinDesktopZhLocale()?\"解码…\":",[869,11],")"]],
+[1756,16,["(__devinDesktopZhLocale()?\"复制失败\":",[1756,16],")"]],
+[1817,14,["(__devinDesktopZhLocale()?\"复制许可证\":",[1817,14],")"]],
+[2273,18,["(__devinDesktopZhLocale()?\"生成许可证\":",[2273,18],")"]],
+[2485,26,["(__devinDesktopZhLocale()?\"从现在起到期日天数\":",[2485,26],")"]],
+[2673,12,["(__devinDesktopZhLocale()?\"座位限制\":",[2673,12],")"]],
+[2870,18,["(__devinDesktopZhLocale()?\"有效期：\":",[2870,18],")"]],
+[3012,21,["(__devinDesktopZhLocale()?\"启用归属声明\":",[3012,21],")"]],
+[3076,19,["(__devinDesktopZhLocale()?\"启用审计日志\":",[3076,19],")"]],
+[3138,27,["(__devinDesktopZhLocale()?\"个人用户分析\":",[3138,27],")"]],
+[3249,18,["(__devinDesktopZhLocale()?\"生成许可证\":",[3249,18],")"]],
+[3456,9,["(__devinDesktopZhLocale()?\"许可证\":",[3456,9],")"]],
+[3606,16,["(__devinDesktopZhLocale()?\"解码配置\":",[3606,16],")"]],
+[3738,16,["(__devinDesktopZhLocale()?\"解码许可证\":",[3738,16],")"]],
+[3951,9,["(__devinDesktopZhLocale()?\"许可证\":",[3951,9],")"]],
+[4120,8,["(__devinDesktopZhLocale()?\"解码\":",[4120,8],")"]],
+[4433,18,["(__devinDesktopZhLocale()?\"生成许可证\":",[4433,18],")"]],
+[4688,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

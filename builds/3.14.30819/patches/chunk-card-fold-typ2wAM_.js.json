@@ -1,0 +1,12 @@
+[
+[733,41,["(__devinDesktopZhLocale()?\"何时应 Devin 审查拉取请求吗？\":",[733,41],")"]],
+[857,8,["(__devinDesktopZhLocale()?\"更改\":",[857,8],")"]],
+[1242,6,["(__devinDesktopZhLocale()?\"跳过\":",[1242,6],")"]],
+[1322,10,["(__devinDesktopZhLocale()?\"继续\":",[1322,10],")"]],
+[1439,23,["(__devinDesktopZhLocale()?\"下一个回答失败了\":",[1439,23],")"]],
+[1463,22,["(__devinDesktopZhLocale()?\"失败下一个答案\":",[1463,22],")"]],
+[1529,11,["(__devinDesktopZhLocale()?\"折叠卡\":",[1529,11],")"]],
+[1553,67,["(__devinDesktopZhLocale()?\"如何使入职卡在位置上做出回应，并通过更改重新打开。\":",[1553,67],")"]],
+[1845,192,["(__devinDesktopZhLocale()?\"身体保持不动，动作逐渐消失，状态随着标题一起归位，而「变化」则在其旁边淡出。一切都在一次跳跃中移动；变化则将其逆转。\":",[1845,192],")"]],
+[2436,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

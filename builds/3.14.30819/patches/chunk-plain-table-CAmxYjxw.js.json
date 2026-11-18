@@ -1,0 +1,20 @@
+[
+[345,48,["(__devinDesktopZhLocale()?\"一款无边框、紧凑的桌子，具有圆润的线条。\":",[345,48],")"]],
+[606,7,["(__devinDesktopZhLocale()?\"基本\":",[606,7],")"]],
+[1146,6,["(__devinDesktopZhLocale()?\"名称\":",[1146,6],")"]],
+[1177,6,["(__devinDesktopZhLocale()?\"角色\":",[1177,6],")"]],
+[1208,8,["(__devinDesktopZhLocale()?\"状态\":",[1208,8],")"]],
+[1307,7,["(__devinDesktopZhLocale()?\"爱丽丝\":",[1307,7],")"]],
+[1339,7,["(__devinDesktopZhLocale()?\"管理员\":",[1339,7],")"]],
+[1371,8,["(__devinDesktopZhLocale()?\"活跃\":",[1371,8],")"]],
+[1474,6,["(__devinDesktopZhLocale()?\"用户\":",[1474,6],")"]],
+[1505,10,["(__devinDesktopZhLocale()?\"未启用\":",[1505,10],")"]],
+[1580,7,["(__devinDesktopZhLocale()?\"卡罗尔\":",[1580,7],")"]],
+[1612,8,["(__devinDesktopZhLocale()?\"编辑器\":",[1612,8],")"]],
+[1645,8,["(__devinDesktopZhLocale()?\"活跃\":",[1645,8],")"]],
+[1688,9,["(__devinDesktopZhLocale()?\"紧凑\":",[1688,9],")"]],
+[2293,5,["(__devinDesktopZhLocale()?\"键\":",[2293,5],")"]],
+[2334,7,["(__devinDesktopZhLocale()?\"值\":",[2334,7],")"]],
+[2635,12,["(__devinDesktopZhLocale()?\"生产\":",[2635,12],")"]],
+[3992,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

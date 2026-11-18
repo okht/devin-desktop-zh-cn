@@ -1,0 +1,19 @@
+[
+[20023,20,["(__devinDesktopZhLocale()?`${e.count} 待处理`:",[20023,20],")"]],
+[20809,18,["(__devinDesktopZhLocale()?\"通知行\":",[20809,18],")"]],
+[20840,392,["(__devinDesktopZhLocale()?\"通知收件箱中的单行内容：主导航标识/产品/字形、分段标题和正文、相对时间戳、状态、未读标记，以及前两个排序后的操作。该功能实现在共享客户端中（#/client/modules/notification-inbox），因此两个客户端都能从相同的可序列化合约中渲染相同的收件箱。以下示例反映了产品通知类型套餐的第3部分。\":",[20840,392],")"]],
+[21384,24,["(__devinDesktopZhLocale()?\"未读指示器大小\":",[21384,24],")"]],
+[21680,19,["(__devinDesktopZhLocale()?\"读取切换图标\":",[21680,19],")"]],
+[22269,14,["(__devinDesktopZhLocale()?\"P1 第一天\":",[22269,14],")"]],
+[22355,50,["(__devinDesktopZhLocale()?\"第一天计划中的普通通知类型。\":",[22355,50],")"]],
+[22871,11,["(__devinDesktopZhLocale()?\"P2（下一个）\":",[22871,11],")"]],
+[22954,57,["(__devinDesktopZhLocale()?\"下一阶段计划中的普通通知类型。\":",[22954,57],")"]],
+[23477,12,["(__devinDesktopZhLocale()?\"P3（后期）\":",[23477,12],")"]],
+[23561,56,["(__devinDesktopZhLocale()?\"后续阶段计划中的普通通知类型。\":",[23561,56],")"]],
+[24083,15,["(__devinDesktopZhLocale()?\"公告\":",[24083,15],")"]],
+[24170,144,["(__devinDesktopZhLocale()?\"单独的收件箱元素：一种固定卡片，用户可以隐藏它来接收来自管理员或Cognition的一次性消息。不显示为NotificationRow。\":",[24170,144],")"]],
+[24733,8,["(__devinDesktopZhLocale()?\"队列\":",[24733,8],")"]],
+[24813,129,["(__devinDesktopZhLocale()?\"带有自身计数的Live域名状态标签页，以独立的收件箱元素形式呈现，而非普通的NotificationRow项目。\":",[24813,129],")"]],
+[25418,41,["(__devinDesktopZhLocale()?\"完整列表，因为面板会将其堆叠起来\":",[25418,41],")"]],
+[26794,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

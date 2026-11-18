@@ -1,0 +1,8 @@
+[
+[331,21,["(__devinDesktopZhLocale()?\"删除组织\":",[331,21],")"]],
+[398,41,["(__devinDesktopZhLocale()?\"这将提交一个删除请求。\":",[398,41],")"]],
+[517,19,["(__devinDesktopZhLocale()?\". 该操作是 \":",[517,19],")"]],
+[566,14,["(__devinDesktopZhLocale()?\"不可逆\":",[566,14],")"]],
+[583,73,["(__devinDesktopZhLocale()?\" — 与该组织相关的所有数据将永久丢失。\":",[583,73],")"]],
+[818,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

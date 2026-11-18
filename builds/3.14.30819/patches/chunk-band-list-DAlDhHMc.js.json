@@ -1,0 +1,12 @@
+[
+[791,10,["(__devinDesktopZhLocale()?\"编辑器\":",[791,10],")"]],
+[802,35,["(__devinDesktopZhLocale()?\"乐队解散了——重新加载以重新打开\":",[802,35],")"]],
+[1126,31,["(__devinDesktopZhLocale()?\"您更喜欢哪种方法？\":",[1126,31],")"]],
+[1233,10,["(__devinDesktopZhLocale()?\"上一步\":",[1233,10],")"]],
+[1320,6,["(__devinDesktopZhLocale()?\"下一步\":",[1320,6],")"]],
+[1380,9,["(__devinDesktopZhLocale()?\"关闭提示\":",[1380,9],")"]],
+[2106,267,["(__devinDesktopZhLocale()?\"输入壳内列表样式的共享样式（排队消息、问题选项）：标题内嵌、控制集群、方形关闭按钮以及行几何结构——内嵌、最小高度、半径和悬停色调——因此每个样式在两种输入壳变体中都能对齐。\":",[2106,267],")"]],
+[2403,25,["(__devinDesktopZhLocale()?\"标题 + 行（默认）\":",[2403,25],")"]],
+[3149,15,["(__devinDesktopZhLocale()?\"紧凑外壳\":",[3149,15],")"]],
+[3780,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

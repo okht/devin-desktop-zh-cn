@@ -1,0 +1,6 @@
+[
+[39923,13,["(__devinDesktopZhLocale()?\"红队协作\":",[39923,13],")"]],
+[40047,13,["(__devinDesktopZhLocale()?\"红队协作\":",[40047,13],")"]],
+[40134,249,["(__devinDesktopZhLocale()?\"该组织的渗透测试目标。查看这些目标、更改目标或其凭据，以及启动扫描需要您使用账户的访问列表。扫描页面会在应用程序中打开，您可以通过扮演组织成员的方式查看这些页面。\":",[40134,249],")"]],
+[40802,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

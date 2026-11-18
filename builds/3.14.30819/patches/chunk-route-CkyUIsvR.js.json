@@ -1,0 +1,7 @@
+[
+[872,23,["(__devinDesktopZhLocale()?\"Devin 启动指标\":",[872,23],")"]],
+[967,55,["(__devinDesktopZhLocale()?\"在 Devin 会话中可视化启动事件的时间\":",[967,55],")"]],
+[1266,11,["(__devinDesktopZhLocale()?\"瀑布\":",[1266,11],")"]],
+[1395,13,["(__devinDesktopZhLocale()?\"时间序列\":",[1395,13],")"]],
+[1783,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

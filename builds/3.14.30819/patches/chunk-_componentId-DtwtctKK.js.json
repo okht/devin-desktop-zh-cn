@@ -1,0 +1,4 @@
+[
+[890,12,["(__devinDesktopZhLocale()?\"正在加载…\":",[890,12],")"]],
+[1324,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

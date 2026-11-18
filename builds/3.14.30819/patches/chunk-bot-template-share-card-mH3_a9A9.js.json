@@ -1,0 +1,17 @@
+[
+[960,173,["(__devinDesktopZhLocale()?\"分享后的机器人显示的模板卡片：模板的头像、名称、作者和描述，其链接，以及复制链接和查看模板的操作。\":",[960,173],")"]],
+[1257,17,["(__devinDesktopZhLocale()?\"在转录中\":",[1257,17],")"]],
+[1740,8,["(__devinDesktopZhLocale()?\"已加载\":",[1740,8],")"]],
+[1971,59,["(__devinDesktopZhLocale()?\"团队组织：在组织中共享，具有共享范围下拉菜单\":",[1971,59],")"]],
+[2260,28,["(__devinDesktopZhLocale()?\"团队组织：公开共享\":",[2260,28],")"]],
+[2556,31,["(__devinDesktopZhLocale()?\"无法创建公共链接\":",[2556,31],")"]],
+[2903,35,["(__devinDesktopZhLocale()?\"提示词过长，无法生成公开链接\":",[2903,35],")"]],
+[3253,34,["(__devinDesktopZhLocale()?\"无组织共享：仅公开链接\":",[3253,34],")"]],
+[3525,59,["(__devinDesktopZhLocale()?\"公共链接，由连接GitHub的第三方共享\":",[3525,59],")"]],
+[3904,60,["(__devinDesktopZhLocale()?\"公开链接，匿名共享（未连接GitHub）\":",[3904,60],")"]],
+[4240,54,["(__devinDesktopZhLocale()?\"仅公开链接，由于已关闭公开链接功能\":",[4240,54],")"]],
+[4558,54,["(__devinDesktopZhLocale()?\"没有头像，作者邮箱，长姓名，没有查看模板\":",[4558,54],")"]],
+[5062,9,["(__devinDesktopZhLocale()?\"正在加载\":",[5062,9],")"]],
+[5293,8,["(__devinDesktopZhLocale()?\"狭窄\":",[5293,8],")"]],
+[7411,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

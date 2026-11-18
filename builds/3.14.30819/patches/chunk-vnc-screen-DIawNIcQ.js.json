@@ -1,0 +1,6 @@
+[
+[428,212,["(__devinDesktopZhLocale()?\"`ReconnectingVncScreen` 封装了被授权的 `react-vnc` 包，并采用了 Devin 标准的 VNC 调优方法以及带有重试机制的重新连接机制。原始的 `VncScreen` 也被重新导出，以备需要进行自定义调优的情况使用。\":",[428,212],")"]],
+[1215,45,["(__devinDesktopZhLocale()?\"实时VNC预览需要真实的服务器URL\":",[1215,45],")"]],
+[1287,29,["(__devinDesktopZhLocale()?\"连接VncScreen道具\":",[1287,29],")"]],
+[3048,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

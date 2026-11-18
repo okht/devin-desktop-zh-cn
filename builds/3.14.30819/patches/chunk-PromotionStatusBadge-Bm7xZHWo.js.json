@@ -1,0 +1,5 @@
+[
+[6402,15,["(__devinDesktopZhLocale()?\"未知所有者\":",[6402,15],")"]],
+[7660,13,["(__devinDesktopZhLocale()?\"选择日期\":",[7660,13],")"]],
+[8323,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

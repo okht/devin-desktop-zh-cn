@@ -1,0 +1,10 @@
+[
+[1114,85,["(__devinDesktopZhLocale()?\"用于通过会话事件进行操作的时序编辑器，按用户消息分组。\":",[1114,85],")"]],
+[1300,7,["(__devinDesktopZhLocale()?\"基本\":",[1300,7],")"]],
+[1561,7,["(__devinDesktopZhLocale()?\"密集\":",[1561,7],")"]],
+[1735,6,["(__devinDesktopZhLocale()?\"实时\":",[1735,6],")"]],
+[1878,10,["(__devinDesktopZhLocale()?\"已停用\":",[1878,10],")"]],
+[2029,12,["(__devinDesktopZhLocale()?\"少数事件\":",[2029,12],")"]],
+[2196,8,["(__devinDesktopZhLocale()?\"滑块\":",[2196,8],")"]],
+[3839,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

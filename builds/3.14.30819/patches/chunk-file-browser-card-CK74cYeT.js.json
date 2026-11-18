@@ -1,0 +1,21 @@
+[
+[1469,9,["(__devinDesktopZhLocale()?\"变体\":",[1469,9],")"]],
+[1637,9,["(__devinDesktopZhLocale()?\"侧边栏\":",[1637,9],")"]],
+[1747,8,["(__devinDesktopZhLocale()?\"堆栈\":",[1747,8],")"]],
+[1798,8,["(__devinDesktopZhLocale()?\"标题栏\":",[1798,8],")"]],
+[2011,8,["(__devinDesktopZhLocale()?\"状态\":",[2011,8],")"]],
+[2166,10,["(__devinDesktopZhLocale()?\"65个文件\":",[2166,10],")"]],
+[2428,30,["(__devinDesktopZhLocale()?\"双面板之间的一个标题\":",[2428,30],")"]],
+[2519,14,["(__devinDesktopZhLocale()?\"隐藏边栏\":",[2519,14],")"]],
+[2534,14,["(__devinDesktopZhLocale()?\"显示边栏\":",[2534,14],")"]],
+[2612,14,["(__devinDesktopZhLocale()?\"隐藏边栏\":",[2612,14],")"]],
+[2627,14,["(__devinDesktopZhLocale()?\"显示边栏\":",[2627,14],")"]],
+[2792,14,["(__devinDesktopZhLocale()?\"没有文件打开\":",[2792,14],")"]],
+[2845,13,["(__devinDesktopZhLocale()?\"添加至文件\":",[2845,13],")"]],
+[2920,13,["(__devinDesktopZhLocale()?\"添加至文件\":",[2920,13],")"]],
+[3022,7,["(__devinDesktopZhLocale()?\"文件\":",[3022,7],")"]],
+[3788,60,["(__devinDesktopZhLocale()?\"拖动角落来调整大小。右键点击行以显示菜单。\":",[3788,60],")"]],
+[3849,19,["(__devinDesktopZhLocale()?`上一个操作: ${Y}`:",[3849,19],")"]],
+[3918,200,["(__devinDesktopZhLocale()?\"打开文件旁边的文件树，在一个卡片中：包含内存页面、插件文件编辑器以及会话编辑器的布局。侧边栏的宽度可以在其边缘进行拖动，并会为每一个文件树保存下来。\":",[3918,200],")"]],
+[4735,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

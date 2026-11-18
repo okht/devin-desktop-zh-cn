@@ -1,0 +1,21 @@
+[
+[507,79,["(__devinDesktopZhLocale()?\"一个可搜索的命令列表，包含输入、分组和键盘导航功能。\":",[507,79],")"]],
+[819,9,["(__devinDesktopZhLocale()?\"命令\":",[819,9],")"]],
+[1060,7,["(__devinDesktopZhLocale()?\"基本\":",[1060,7],")"]],
+[1766,11,["(__devinDesktopZhLocale()?\"搜索...\":",[1766,11],")"]],
+[1826,13,["(__devinDesktopZhLocale()?\"无结果。\":",[1826,13],")"]],
+[1864,13,["(__devinDesktopZhLocale()?\"建议\":",[1864,13],")"]],
+[1937,10,["(__devinDesktopZhLocale()?\"日历\":",[1937,10],")"]],
+[2001,8,["(__devinDesktopZhLocale()?\"搜索\":",[2001,8],")"]],
+[2055,9,["(__devinDesktopZhLocale()?\"操作\":",[2055,9],")"]],
+[2126,10,["(__devinDesktopZhLocale()?\"新建文件\":",[2126,10],")"]],
+[2298,6,["(__devinDesktopZhLocale()?\"保存\":",[2298,6],")"]],
+[2445,8,["(__devinDesktopZhLocale()?\"对话框\":",[2445,8],")"]],
+[3051,22,["(__devinDesktopZhLocale()?\"打开命令面板\":",[3051,22],")"]],
+[3147,19,["(__devinDesktopZhLocale()?\"输入命令...\":",[3147,19],")"]],
+[3215,13,["(__devinDesktopZhLocale()?\"无结果。\":",[3215,13],")"]],
+[3253,9,["(__devinDesktopZhLocale()?\"操作\":",[3253,9],")"]],
+[3341,10,["(__devinDesktopZhLocale()?\"日历\":",[3341,10],")"]],
+[3424,10,["(__devinDesktopZhLocale()?\"设置\":",[3424,10],")"]],
+[5389,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

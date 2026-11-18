@@ -6,6 +6,7 @@ const path = require("node:path");
 const vm = require("node:vm");
 const { pathToFileURL } = require("node:url");
 const app = path.resolve(process.argv[2]);
+const current = JSON.parse(fs.readFileSync(path.join(app, "product.json"))).windsurfVersion === "3.14.30819";
 const workbench = path.join(app, "out/vs/workbench");
 const target = new EventTarget();
 let phase = 0;
@@ -26,8 +27,10 @@ async function main() {
     assert.equal(messages.en.length, messages["zh-cn"].length);
     globalThis._VSCODE_NLS_MESSAGES = messages.en;
     const source = fs.readFileSync(path.join(workbench, "workbench.desktop.main.js"), "utf8");
-    const before = "R7t=class", after = ";R7t=I(";
-    const definition = source.slice(source.indexOf(before) + 4, source.indexOf(after));
+    const serviceName = current ? "B7t" : "R7t";
+    const before = serviceName + "=class", after = ";" + serviceName + "=I(";
+    assert(source.includes(before) && source.includes(after));
+    const definition = source.slice(source.indexOf(before) + serviceName.length + 1, source.indexOf(after));
     const mainCode = fs.readFileSync(path.join(app, "out/mainImpl.js"), "utf8");
     const method = mainCode.slice(mainCode.indexOf("async setLiveDisplayLocale(id)"), mainCode.indexOf("async updateMenubar(e,t)"));
     const menuContext = { dictionary: messages, schedule: 0 };
@@ -35,7 +38,7 @@ async function main() {
     menu.menubar = {scheduleUpdateMenu() { menuContext.schedule++; }};
     const localeErrors = [];
     const serviceClass = vm.runInNewContext("(" + definition + ")", {
-        __devinSelectLanguage: runtime.selectLanguage, yM: JSON.parse
+        __devinSelectLanguage: runtime.selectLanguage, yM: JSON.parse, IM: JSON.parse
     });
     const editing = { async write(uri, entries) {
         assert.equal(uri, "fixture"); assert.equal(entries[0].path.join("."), "locale");
@@ -46,11 +49,13 @@ async function main() {
         {confirm() { throw Error("Unexpected restart prompt"); }},
         {restart() { throw Error("Unexpected process restart"); }}, {}, menu);
     const label = {nodeType: 1, textContent: "", childElementCount: 0};
-    runtime.bindLabel(label, "textContent", 25830);
+    runtime.bindLabel(label, "textContent", current ? 25834 : 25830);
     const changed = runtime.onLanguageChange(() => { phase++; });
-    const host = await import(pathToFileURL(path.join(workbench, "devin-webapp-host/assets/entry-host-editor-mode-menu-By4_JXI5.js")));
-    host.wu();
-    const engine = host.Cu();
+    const file = current ? "chunk-entry-host-editor-mode-menu-BWLlgqZu.js" : "entry-host-editor-mode-menu-By4_JXI5.js";
+    const host = await import(pathToFileURL(path.join(workbench, "devin-webapp-host/assets", file)));
+    (current ? host.nd : host.wu)();
+    const engine = (current ? host.td : host.Cu)();
+    if (current) assert.deepEqual(host.pd.map(item => item.code), ["en", "zh-CN", "ja", "pt", "es", "de"]);
     const englishBundle = JSON.stringify(engine.getResourceBundle("en", "translation"));
     async function check(id, caption, labelText) {
         await service.setLocale({id, label: id});

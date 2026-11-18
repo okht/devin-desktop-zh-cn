@@ -1,0 +1,7 @@
+[
+[1133,148,["(__devinDesktopZhLocale()?\"用于渲染类似终端的内容的可组合容器。提供高级面板和视口外观，无需依赖任何终端模拟器。\":",[1133,148],")"]],
+[1311,24,["(__devinDesktopZhLocale()?\"基础面板 + 视口\":",[1311,24],")"]],
+[1854,24,["(__devinDesktopZhLocale()?\"带页眉和页脚\":",[1854,24],")"]],
+[2631,19,["(__devinDesktopZhLocale()?\"时间线控制\":",[2631,19],")"]],
+[3736,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

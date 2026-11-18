@@ -1,0 +1,16 @@
+[
+[318,69,["(__devinDesktopZhLocale()?\"一个水平条，用来显示任务完成了多少。\":",[318,69],")"]],
+[488,7,["(__devinDesktopZhLocale()?\"基本\":",[488,7],")"]],
+[646,15,["(__devinDesktopZhLocale()?\"任务进度\":",[646,15],")"]],
+[687,7,["(__devinDesktopZhLocale()?\"宽度\":",[687,7],")"]],
+[822,15,["(__devinDesktopZhLocale()?\"任务进度\":",[822,15],")"]],
+[883,7,["(__devinDesktopZhLocale()?\"空\":",[883,7],")"]],
+[1039,15,["(__devinDesktopZhLocale()?\"任务进度\":",[1039,15],")"]],
+[1080,6,["(__devinDesktopZhLocale()?\"完整\":",[1080,6],")"]],
+[1239,15,["(__devinDesktopZhLocale()?\"任务进度\":",[1239,15],")"]],
+[1280,10,["(__devinDesktopZhLocale()?\"多个\":",[1280,10],")"]],
+[1571,15,["(__devinDesktopZhLocale()?\"任务进度\":",[1571,15],")"]],
+[1624,15,["(__devinDesktopZhLocale()?\"任务进度\":",[1624,15],")"]],
+[1677,15,["(__devinDesktopZhLocale()?\"任务进度\":",[1677,15],")"]],
+[2399,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

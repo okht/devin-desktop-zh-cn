@@ -1,0 +1,13 @@
+[
+[48759,16,["(__devinDesktopZhLocale()?\"编码与工具\":",[48759,16],")"]],
+[48815,15,["(__devinDesktopZhLocale()?\"Git 提供商\":",[48815,15],")"]],
+[48870,15,["(__devinDesktopZhLocale()?\"可观测性\":",[48870,15],")"]],
+[48925,17,["(__devinDesktopZhLocale()?\"任务管理\":",[48925,17],")"]],
+[48982,15,["(__devinDesktopZhLocale()?\"沟通\":",[48982,15],")"]],
+[49037,19,["(__devinDesktopZhLocale()?\"操作系统\":",[49037,19],")"]],
+[49096,6,["(__devinDesktopZhLocale()?\"技术\":",[49096,6],")"]],
+[49191,98,["(__devinDesktopZhLocale()?\"第三方品牌标志，每种都有单色单图标和全色品牌图标两种形式。\":",[49191,98],")"]],
+[49389,6,["(__devinDesktopZhLocale()?\"等宽\":",[49389,6],")"]],
+[49576,9,["(__devinDesktopZhLocale()?\"彩色\":",[49576,9],")"]],
+[51311,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

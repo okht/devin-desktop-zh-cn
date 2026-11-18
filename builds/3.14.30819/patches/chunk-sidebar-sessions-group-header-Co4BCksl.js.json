@@ -1,0 +1,10 @@
+[
+[2603,10,["(__devinDesktopZhLocale()?\"会话\":",[2603,10],")"]],
+[2632,18,["(__devinDesktopZhLocale()?\"搜索会话…\":",[2632,18],")"]],
+[2823,163,["(__devinDesktopZhLocale()?\"sidebar会话组的头部行，包含可折叠的搜索输入框、新会话按钮、可选的引导操作槽位，以及可选的尾随菜单内容\":",[2823,163],")"]],
+[3079,9,["(__devinDesktopZhLocale()?\"默认\":",[3079,9],")"]],
+[3358,26,["(__devinDesktopZhLocale()?\"使用 leadingActions 槽位\":",[3358,26],")"]],
+[3841,18,["(__devinDesktopZhLocale()?\"智能体连接器\":",[3841,18],")"]],
+[3920,34,["(__devinDesktopZhLocale()?\"侧边栏会话组标题属性\":",[3920,34],")"]],
+[5515,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

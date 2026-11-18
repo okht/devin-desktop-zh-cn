@@ -1,0 +1,21 @@
+[
+[490,8,["(__devinDesktopZhLocale()?\"颜色\":",[490,8],")"]],
+[511,70,["(__devinDesktopZhLocale()?\"设计系统颜色标记。CSS变量可以适应明暗主题\":",[511,70],")"]],
+[1244,15,["(__devinDesktopZhLocale()?\"辅助功能\":",[1244,15],")"]],
+[1272,122,["(__devinDesktopZhLocale()?\"每个组件都必须满足所有这些要求，而不仅仅是颜色对比度。如果某个规则不满足，请在组件的文档中注明。\":",[1272,122],")"]],
+[1877,52,["(__devinDesktopZhLocale()?\"为网页应用设计系统组件和标记\":",[1877,52],")"]],
+[2125,17,["(__devinDesktopZhLocale()?\"真实来源\":",[2125,17],")"]],
+[2214,201,["(__devinDesktopZhLocale()?\"Figma 文件是所有设计变量（颜色、字体和阴影）的权威来源。专用 Figma 插件会将变量导出到 design-system.css 和 tailwind.config.ts。\":",[2214,201],")"]],
+[2538,14,["(__devinDesktopZhLocale()?\"令牌命名\":",[2538,14],")"]],
+[2624,158,["(__devinDesktopZhLocale()?\"样式变量使用语义前缀，例如 text-text-primary、bg-bg-elevated 和 border-border-primary，方便发现误用并避免与旧样式冲突。\":",[2624,158],")"]],
+[2905,14,["(__devinDesktopZhLocale()?\"架构\":",[2905,14],")"]],
+[2991,160,["(__devinDesktopZhLocale()?\"组件基于基础UI构建，用于创建可访问的基元。样式设计使用Tailwind CSS，通过类变量化（cva）实现样式变体，并使用cn()函数进行类合并。\":",[2991,160],")"]],
+[3274,7,["(__devinDesktopZhLocale()?\"规则\":",[3274,7],")"]],
+[3353,141,["(__devinDesktopZhLocale()?\"始终使用设计令牌（切勿硬编码）。在 /ds 中不要导入外部应用程序。优先使用可组合组件。在用法示例中包含 JSDoc。\":",[3353,141],")"]],
+[3617,20,["(__devinDesktopZhLocale()?\"组合模式\":",[3617,20],")"]],
+[3709,144,["(__devinDesktopZhLocale()?\"组件采用复合模式以实现灵活性。与其使用功能单一的API，不如将组件拆分成更小的部分，比如Tab + TabsList + Tab + TabPanel。\":",[3709,144],")"]],
+[3976,16,["(__devinDesktopZhLocale()?\"文件结构\":",[3976,16],")"]],
+[4064,130,["(__devinDesktopZhLocale()?\"基础元素位于 /ds 目录下。复合组件（由多个基础元素组合而成）位于 /ds/blocks 目录下。所有导出文件都使用 #/ds/* 导入方式。\":",[4064,130],")"]],
+[12048,12,["(__devinDesktopZhLocale()?\"原则\":",[12048,12],")"]],
+[12266,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

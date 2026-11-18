@@ -1,0 +1,11 @@
+[
+[333,71,["(__devinDesktopZhLocale()?\"单色Devin和Cognition品牌标志以及Devin文字标识。\":",[333,71],")"]],
+[502,18,["(__devinDesktopZhLocale()?\"品牌和尺寸\":",[502,18],")"]],
+[1160,11,["(__devinDesktopZhLocale()?\"动画制作\":",[1160,11],")"]],
+[1379,11,["(__devinDesktopZhLocale()?\"单词标记\":",[1379,11],")"]],
+[1772,12,["(__devinDesktopZhLocale()?\"带标签\":",[1772,12],")"]],
+[2032,12,["(__devinDesktopZhLocale()?\"迁移\":",[2032,12],")"]],
+[2105,12,["(__devinDesktopZhLocale()?\"迁移\":",[2105,12],")"]],
+[2176,6,["(__devinDesktopZhLocale()?\"标志\":",[2176,6],")"]],
+[3911,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

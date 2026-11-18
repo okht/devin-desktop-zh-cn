@@ -1,0 +1,17 @@
+[
+[1605,17,["(__devinDesktopZhLocale()?\"引用事件\":",[1605,17],")"]],
+[1932,12,["(__devinDesktopZhLocale()?\"开始时间\":",[1932,12],")"]],
+[2109,10,["(__devinDesktopZhLocale()?\"时长\":",[2109,10],")"]],
+[2184,15,["(__devinDesktopZhLocale()?\"胡须范围\":",[2184,15],")"]],
+[2698,36,["(__devinDesktopZhLocale()?\"按事件划分的启动时间分布\":",[2698,36],")"]],
+[2827,8,["(__devinDesktopZhLocale()?\" 事件\":",[2827,8],")"]],
+[2866,21,["(__devinDesktopZhLocale()?` (${k.size} 隐藏)`:",[2866,21],")"]],
+[2973,47,["(__devinDesktopZhLocale()?\"所选参数没有可用数据\":",[2973,47],")"]],
+[3418,42,["(__devinDesktopZhLocale()?\"选择参考事件以查看指标\":",[3418,42],")"]],
+[3706,17,["(__devinDesktopZhLocale()?\"隐藏事件\":",[3706,17],")"]],
+[3804,10,["(__devinDesktopZhLocale()?\"显示全部\":",[3804,10],")"]],
+[4111,15,["(__devinDesktopZhLocale()?\"点击显示\":",[4111,15],")"]],
+[4548,122,["(__devinDesktopZhLocale()?\"箱线图显示P25-P75（四分位距），白线表示中位数（P50），黄色菱形表示平均值，须线延伸至\":",[4548,122],")"]],
+[4683,80,["(__devinDesktopZhLocale()?\". 垂直灰线标记 t=0（参考事件）。将鼠标悬停在某一行上可以隐藏该行。\":",[4683,80],")"]],
+[4925,0,"\nfunction __devinDesktopZhLocale(){return /^(?:zh|zh-cn|zh-sg|zh-hans(?:-[a-z]+)?)$/i.test(globalThis.__devinDesktopActiveLanguage||globalThis._VSCODE_NLS_LANGUAGE||globalThis.document?.documentElement?.lang||\"\")}\n"]
+]

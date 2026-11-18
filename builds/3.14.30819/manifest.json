@@ -1,0 +1,2647 @@
+{
+  "packId": "ms-ceintl.vscode-language-pack-zh-hans",
+  "packVersion": "1.131.0",
+  "packHash": "e7d4d303e9ed4ab773e32c40ea55151e",
+  "packUUID": "e4ee7751-6514-4731-9cdb-7580ffa9e70b",
+  "appVersion": "3.14.30819",
+  "editorVersion": "1.141.2",
+  "commit": "c3f852dad740063cc1773032aefce24eb5acf833",
+  "host": "out/vs/workbench/devin-webapp-host/assets/chunk-entry-host-editor-mode-menu-BWLlgqZu.js",
+  "sparseCatalog": true,
+  "nls": {
+    "keys": "22a2bd0b03b99e95e0c99f7afdbf68dac923baf59c888414d422f441847b665b",
+    "messages": "4b4c4bddb821c23e85f25c197ac60c6cfee4e66ec5b4a9eef64d8bc261414be3"
+  },
+  "bindings": {
+    "workbench": {
+      "nls": [
+        "d",
+        "B"
+      ],
+      "platform": [
+        "ks",
+        "uYt"
+      ],
+      "formatter": "VQt",
+      "menus": [
+        "jxe",
+        "W"
+      ],
+      "selection": [
+        "qoa",
+        "Koa",
+        "$oa",
+        "joa"
+      ],
+      "selectionIds": [
+        8688,
+        8687,
+        8666,
+        8665
+      ],
+      "languageNames": "n6",
+      "login": "this.loginNudge.textContent=\"Log in to Devin\"",
+      "menuStart": "yjt(uB,\"File\"",
+      "menuEnd": "var Ans=\"devinPreview\"",
+      "menuWhen": "Xs",
+      "localeService": "W6",
+      "localeState": "xI",
+      "injection": [
+        "B7t",
+        "o,e,t,i,n,s,a,c,l,u,p,h",
+        "m(11,ht)",
+        "m(12,uXi)"
+      ]
+    },
+    "sessions": {
+      "nls": [
+        "h",
+        "ke"
+      ],
+      "platform": [
+        "_h",
+        "f8n"
+      ],
+      "formatter": "Y_n",
+      "menus": [
+        "Kyt",
+        "Be"
+      ],
+      "selection": [
+        "kVc",
+        "TVc",
+        "NVc",
+        "PVc"
+      ],
+      "selectionIds": [
+        8688,
+        8687,
+        8666,
+        8665
+      ],
+      "languageNames": "jhe",
+      "login": "this.loginNudge.textContent=\"Log in to Devin\"",
+      "localeState": "B5",
+      "injection": [
+        "Jgn",
+        "i,e,t,n,o,s,a,c,d,m,g,f",
+        "I(11,ar)",
+        "I(12,y_o)"
+      ]
+    },
+    "hostReact": [
+      "Rp.prototype.render=Lp.prototype.render=function(e){",
+      "e",
+      "n",
+      "P",
+      "js"
+    ],
+    "embeddedReact": [
+      "uz.prototype.render=ux.prototype.render=function(t){",
+      "t",
+      "r",
+      "L",
+      "ry"
+    ],
+    "sessionsReact": [
+      "up.prototype.render=xp.prototype.render=function(ae){",
+      "ae",
+      "o",
+      "je",
+      "hk"
+    ]
+  },
+  "files": [
+    {
+      "path": "extensions/windsurf-dev-containers/package.json",
+      "original": "cf9ae4f33ec473372ea46b27606963642f03f43e322dc0d89ee832d22a0b4965",
+      "localized": "6d075f37d207b42c0dc3a21581db56aa9ea65f90b047e1d9c26ec93295f7b296",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-dev-containers/package.nls.json",
+      "original": null,
+      "localized": "a5c04f7b952af725d48e73a366fca292e5d6b78a68ac5735174eeb62169940e9",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-dev-containers/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "72363879e6f62147c8ae7f22101b3300d9305de5c97ff78488c88c09b8d83269",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-devin/package.json",
+      "original": "8e07803ea1da22b165ea853b1b1b074a12d20581b6ed5ccf46375df465e3d83c",
+      "localized": "b2a6a39c109eb1a2a4e109960179461dad484b02e86295c14f1449a31f1628d0",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-devin/package.nls.json",
+      "original": null,
+      "localized": "85d8b578a007b7651eb66a865f752736e4865d809f9c22af4e8a342a743223dc",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-devin/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "4b6f74e3c59a0d258bcfd30cb1422074a65193e3642c1929ef15637aabe4f9c6",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-openssh/package.json",
+      "original": "fbcc2b4c1df2cee2389f816fb4e5565ec6d821c5cb4436177d65848c0d65e35b",
+      "localized": "88fbde4854d5916ac61f78fa9792566a3de55b5f884bafe85b93483aa9610c03",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-openssh/package.nls.json",
+      "original": null,
+      "localized": "0d98b7908001759181bf98579ff9e04e2235d0718161a41a660ccde3a190bd7d",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-openssh/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "1b642b32b5b21ec2f8b8d22c6f989648b8083261718ad78d31ea5e762b108d3f",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-wsl/package.json",
+      "original": "ab7de088866aa92faf03b4e314cc463c103e1bae410ff2e6984b5f46cdceabfe",
+      "localized": "8ba422416e1b15e1ca9895b7ad095d1b0890c7911a3f5f71250c4058aba4c4b9",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-wsl/package.nls.json",
+      "original": null,
+      "localized": "a0f6bda5c4a45618dc563f23b6104a6cdf89f07c438f91bd9982f8874f63f9f8",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf-remote-wsl/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "3bbdf680544fd08c22d3753749459a4160559809d0bf469d2f87f9aed4b44f77",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf/package.json",
+      "original": "d2954184f4eeb7bb42f455a3958a9e79fd85ecd92152c57e145af28f864b203e",
+      "localized": "b167a0a9fc09474ec0fd8257289d21c39cd52c7030d34ce1a62f336d82ef7573",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf/package.nls.json",
+      "original": null,
+      "localized": "1827a2758949fb05f47cb2f693d9c82631822c47bc9bcae1054eaba4dffe3e4b",
+      "type": "extension"
+    },
+    {
+      "path": "extensions/windsurf/package.nls.zh-cn.json",
+      "original": null,
+      "localized": "58a96cac9070b09e3528d7fa777f58832e522ef03d4596aa660b4eaff41d6b1c",
+      "type": "extension"
+    },
+    {
+      "path": "ms-ceintl.vscode-language-pack-zh-hans-1.131.0-universal/translations/main.i18n.json",
+      "original": "dd07fd811a728567b1360c4d48f55f5717bf4145df1e7245412bd846c6e14517",
+      "localized": "ebaa9577d04ac5d884a3e3f30a515c761663e6623d7c9aac8e493175f120f06d",
+      "type": "editor",
+      "previous": [
+        "2baec2b912e757884f67563b10310b8e2509170a7f2ce9653985d042b35f3d7f"
+      ]
+    },
+    {
+      "path": "out/mainImpl.js",
+      "original": "b890426a85b85564ba5e450b61371800a9940fc57245d857dab85e88887fa426",
+      "localized": "984b0d23ffac3ffb8450e70b3a8811c43b93b08d29fe6c51e9c4487cf78b46d9",
+      "type": "live-main"
+    },
+    {
+      "path": "out/vs/sessions/sessions.desktop.main.js",
+      "original": "7c2afec3290305b34e8a0d5a4443cb1240928b31dec1598f557ea22a1cdaae5a",
+      "localized": "883eb981382c997ac1ce6239f2cdf91e9b91fd6e51eabb709763ee54954788a8",
+      "type": "edits",
+      "patch": "patches/sessions.desktop.main.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-live-language.js",
+      "original": null,
+      "localized": "c4916c8be128972b2716642cb8d8a413e4f432d5b9b065e1f5889eea4661ce58",
+      "type": "live-runtime"
+    },
+    {
+      "path": "out/vs/workbench/devin-live-messages.js",
+      "original": null,
+      "localized": "52cb080b4bc067b8f3d88889e3a9c99a3fbcc980a43c4810dab0757cd1aeace1",
+      "type": "live-messages"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-AccountAccessListSection-Drc-9Hb5.js",
+      "original": "839d2c3c84a9099af5dcede0293cc47a4dfdc0244aa8d7df034dfed79469e7b3",
+      "localized": "ca45d46b918ac7ac2de35ae3f728eb22acdf9d9d795cc0c677fb51a71ba0baba",
+      "type": "edits",
+      "patch": "patches/chunk-AccountAccessListSection-Drc-9Hb5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-AddSecret-78PfPDZO.js",
+      "original": "783f6091a4b416fbf8e27467fc9adf487aad8bfefbee3bbad0a4fe725487abe9",
+      "localized": "0387f3ca83fb91a0cd709190fa4d31b363d4213329480b673771d3a169174ed2",
+      "type": "edits",
+      "patch": "patches/chunk-AddSecret-78PfPDZO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-AdminEnterpriseSSO-BwWEx9d6.js",
+      "original": "c54357aa4ee983f6f9a73f9266bc259c678b805d4a9677b6c54c1ed02f9e245a",
+      "localized": "dacc0f3a42e1c14c53b44cd69ca4eeb2953c7f11f20484fa5e7ff44a4c40891e",
+      "type": "edits",
+      "patch": "patches/chunk-AdminEnterpriseSSO-BwWEx9d6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-AdminFilterMenus-1VGqPVGK.js",
+      "original": "cef19a19000ad7a57c0a02936dc064d274898941d1662464fd5c6a784f3fa855",
+      "localized": "eb7f16bc859c3b9e8a97d8c5f87f7dc24dc84ba1b9183d9478619ed4abf0407a",
+      "type": "edits",
+      "patch": "patches/chunk-AdminFilterMenus-1VGqPVGK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-AdminSearchInput-DB6lQPcd.js",
+      "original": "16d43c7f41de4c65d6672c71c2e23ef0d0986b6cd566f9bc901813942b9a61b0",
+      "localized": "a10272eded5d8c16129f031d11e198ddd3704e30dedcf7135bb86d8658f7e6cb",
+      "type": "edits",
+      "patch": "patches/chunk-AdminSearchInput-DB6lQPcd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-AdminSessionsPanel-cDGDRbyf.js",
+      "original": "070b976b6708c72db5861ec7906f3ecc327f59500ae2c395e3968fe4bd9e950c",
+      "localized": "31d800f4f393ae394790052ed1a37b66f2278ae900989c275d2fa28696fa9d0f",
+      "type": "edits",
+      "patch": "patches/chunk-AdminSessionsPanel-cDGDRbyf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-BillingPhasesDiff-CVkASjgs.js",
+      "original": "df027e657a8f36883ec10f195b15f8a7a3f27339c196c7a6195e198ff8f1187e",
+      "localized": "840c011b163250015852cb539212a2ee12396647d5f093cb0004c7d66ae7ac60",
+      "type": "edits",
+      "patch": "patches/chunk-BillingPhasesDiff-CVkASjgs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-BillingTagsSettingsSection-BKpzIKq5.js",
+      "original": "df1c6e9eef5e76c7c15670ab3dfeb7e324cc2c4aa9c1b1fcabb746d81f0bff31",
+      "localized": "8397702350426ec651d3d70b1ef253c68c3a9375bdd4e32433dbd7d14eca1581",
+      "type": "edits",
+      "patch": "patches/chunk-BillingTagsSettingsSection-BKpzIKq5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-BlueprintEditorContainer-2FHmdh8E.js",
+      "original": "e1e3298443d3d3c5244cb1d11db53c001f54b0ee6b1eece53e0f457cdbdcf9c3",
+      "localized": "b1f52bdda006069b8747d3e130f3dd1438719014e74266c7becfc134713dcbfd",
+      "type": "edits",
+      "patch": "patches/chunk-BlueprintEditorContainer-2FHmdh8E.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-BulkUpdateUserNamesDialog-BHHlMmYO.js",
+      "original": "fc69402bdada248edabd28bd22b555e137b85513da0cebac4dba803cf773f9ff",
+      "localized": "a603d4e7e97d9d1a130dc7df86ac7f8a51f8bbdd0de0794dd33bde7b58e5dd3b",
+      "type": "edits",
+      "patch": "patches/chunk-BulkUpdateUserNamesDialog-BHHlMmYO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ConfirmDialog-C-ssoDox.js",
+      "original": "9bd02e49f7a2e10288f6edbb3cba9128da0f75858d24669ec240801c5e917c9d",
+      "localized": "16f401022b00838c30f14c7ef04b5e3f1e15564a0396199b930c5e0b68e57297",
+      "type": "edits",
+      "patch": "patches/chunk-ConfirmDialog-C-ssoDox.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-CopyIdButton-BvANhH9n.js",
+      "original": "c7647585a43a31a5ee8c29517f80bc625110a7475c843c7f3ed7dba548a716d6",
+      "localized": "7289b2de75b6915f9f40e2248537ebb67a390729f9e710076793785e79df192f",
+      "type": "edits",
+      "patch": "patches/chunk-CopyIdButton-BvANhH9n.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-CreatePlaybookSheet-BA0w05sq.js",
+      "original": "bfc774544a5aef97545a79ab3864eef7a81b83419bf5d3d90acb49bb324a75d2",
+      "localized": "ab5254c470cefc75be344c7575738e43d83d91df652352cd48201ace09d6ce25",
+      "type": "edits",
+      "patch": "patches/chunk-CreatePlaybookSheet-BA0w05sq.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-CustomizationPage-Cm5-9kqM.js",
+      "original": "daca4b0aac125b1917043f67c9d9f7f49f3508280b0202840e6e4d093851de9c",
+      "localized": "1b55fa71ba0af3167e780920b399d31bb05a7530033cb1f0bfcc8294d749e9ff",
+      "type": "edits",
+      "patch": "patches/chunk-CustomizationPage-Cm5-9kqM.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-DeepWikiPanel-CajYaQTO.js",
+      "original": "701a11c29e4501807535a3b99e6560208239a73ae6a824cd7921af4934d71dda",
+      "localized": "aadec277567cb5b89b07c4be7f8480214229614a1f781f9af802a81807a1a807",
+      "type": "edits",
+      "patch": "patches/chunk-DeepWikiPanel-CajYaQTO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-DeleteOrganizationDialog-D_enHQMt.js",
+      "original": "cffc1d26a488d9533dbb46af79a9172dab0f2d21f75f6a7c49fe28734ea01319",
+      "localized": "6cc72338a06ed8ab6c5a7d134708364d4b3654306516416a31724d1bb1b44019",
+      "type": "edits",
+      "patch": "patches/chunk-DeleteOrganizationDialog-D_enHQMt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-EmailDeliveryPanel-Cy1YnsC4.js",
+      "original": "a15d73385a3a297fe8db7efe51c999a660f1b928ddfd523fe74890675777e30d",
+      "localized": "cc9bd2faefd2482616e0fdebc09298edb968a8215495091ce7cd0ef835f4617d",
+      "type": "edits",
+      "patch": "patches/chunk-EmailDeliveryPanel-Cy1YnsC4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-EnterpriseContractStatus-CjjqS1eg.js",
+      "original": "f621113cb6ab5687c7a2bc4bca4f2160c189fb7707a998cba25a55183ded30bb",
+      "localized": "3e6e80b47fea3e5066d9ee51e026d286aa0d72d937b6fe37943df291152a06c2",
+      "type": "edits",
+      "patch": "patches/chunk-EnterpriseContractStatus-CjjqS1eg.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-EnterpriseDetailLayout-Cn2UWBvz.js",
+      "original": "3bfef8b10b1cc4e4b52a978c4f871a0647e62a30bcfd3f620a21add88924f1cc",
+      "localized": "502b37300838fbab3438152475606b007c74e6eacea7846378bd04873b34f4e2",
+      "type": "edits",
+      "patch": "patches/chunk-EnterpriseDetailLayout-Cn2UWBvz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-EnterpriseDisclaimerModal-BiK75LG4.js",
+      "original": "12a887aec6d81629219fef0fc4d4bc9a1a5a74839b43c32c1418113cb417d9a1",
+      "localized": "3a200ba4685a54c4c77b61f6e6f99390714517ad3ac08208af9e4a8d298cce41",
+      "type": "edits",
+      "patch": "patches/chunk-EnterpriseDisclaimerModal-BiK75LG4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-EnterpriseLogoUpload-Cl-vDujP.js",
+      "original": "2944937f5c22684fdd26a0fed1c9257d76413b97f4099d415cf9c1ebef34b35b",
+      "localized": "f69961af41ee8cc3b73423ef225b0a87d234a32d775fb9f364fcf284d421cc6c",
+      "type": "edits",
+      "patch": "patches/chunk-EnterpriseLogoUpload-Cl-vDujP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ErrorMessage-BJpKUAFu.js",
+      "original": "c2eb0fd30ab3e44803d0d06e2916748c42997a3d4cdc812859c6044aeb43151e",
+      "localized": "a855f397610b0ff954d86db3fe281a6edb881fdc7ad1ce35a368b82aa3ad46b1",
+      "type": "edits",
+      "patch": "patches/chunk-ErrorMessage-BJpKUAFu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-FreezeAccountAction-BRFHZ8ZG.js",
+      "original": "d9acdc34c2385ea91da48a79b9adfc48eab89b04879ac8f5660301b60c2e9bf8",
+      "localized": "945e5c48dc9e651dbef4754a0f462b0c2481ed99e0f15497095515807127a0f6",
+      "type": "edits",
+      "patch": "patches/chunk-FreezeAccountAction-BRFHZ8ZG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ItemsPerPageSelect-Wsn5MUB4.js",
+      "original": "0ea7c7e99629e0520553c367749216d7706fbddf337fe201b0d568c63e86800a",
+      "localized": "2c1d8b81cefc2b3147d3b304d97648b69610b8fac9e3e379e5998613a367d09e",
+      "type": "edits",
+      "patch": "patches/chunk-ItemsPerPageSelect-Wsn5MUB4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-JobDetailDialog-CbypicEE.js",
+      "original": "39cd4ef1975a3a00d0cc3b23ea7c8f824b93e00d390e6c06417e3dfcc550bd40",
+      "localized": "ede4e496e03468114717d49d1e0cc8d0ac0fae6fc9c3c512a6759fc703177a5a",
+      "type": "edits",
+      "patch": "patches/chunk-JobDetailDialog-CbypicEE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-LiveVirtualizationDebugWindow-Wh4d4tnc.js",
+      "original": "d4e45ceaf967cb4de12aac9ce7f7ec2b628b602fb4d2fd66749c5be00a2489cd",
+      "localized": "6a7018a6714e78af6dd8bee1008d6bd201d7ed3c03adb7bce10020aefff5f674",
+      "type": "edits",
+      "patch": "patches/chunk-LiveVirtualizationDebugWindow-Wh4d4tnc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-OncallPage-C6zZEcp8.js",
+      "original": "325d8663163a793a0338ae69e108367997807123cf6f911f8b5a74d07a34a0bd",
+      "localized": "abb73c8e4b27d10e3fa9178ec78cadb3d5940e9b29b86cab361afb1cec081bec",
+      "type": "edits",
+      "patch": "patches/chunk-OncallPage-C6zZEcp8.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-Page-ByTYV5h5.js",
+      "original": "882ee03ce959d09594c9fe7792b00d242789d0e483f1308e35d7a8b1d82bda14",
+      "localized": "cda714745b7206f0b6bff07e27138d17eab5c30ade131bb5b1a220b91d52a2cf",
+      "type": "edits",
+      "patch": "patches/chunk-Page-ByTYV5h5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-PlaybookPage-7Ug9ojN4.js",
+      "original": "35d675d98b5919521bb6deff83cd241de1d79648bf6514a87271a0030532d27a",
+      "localized": "38a72df1fce8b907b75236d77062e5d10e7c8e4d696e68e7f7bb779fe926fc31",
+      "type": "edits",
+      "patch": "patches/chunk-PlaybookPage-7Ug9ojN4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ProductivityVisibilityControl-2UKLcRxn.js",
+      "original": "c195e31aa3c91dabb5e9681ed67dce49073f749a1dd2497f9dfd1622efdb6629",
+      "localized": "b2c663e5b9dde305078156844b725e782593fd0b9ea09f4aee70835e47b25082",
+      "type": "edits",
+      "patch": "patches/chunk-ProductivityVisibilityControl-2UKLcRxn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-PromoInvitesPage-DfF0W6rO.js",
+      "original": "b80e3d82003e22f06ef89ef4f9884ee2fb189e94528868c9916328b33d88b144",
+      "localized": "5d6714e3e483aaec1d7c0a80f58f44a713d03dfe24ea6512e2fe505f5e9abe42",
+      "type": "edits",
+      "patch": "patches/chunk-PromoInvitesPage-DfF0W6rO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-PromotionStatusBadge-Bm7xZHWo.js",
+      "original": "04a0b412fc04583147fc2cceb3211bf1e29d4482df6980f1f1c3cad73f702a73",
+      "localized": "51f2afc812cd4c254e0989d0e7c889696aa8385d8d05dc05a2e9fb92c013c65c",
+      "type": "edits",
+      "patch": "patches/chunk-PromotionStatusBadge-Bm7xZHWo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-RRuleEditor-7p1TSLLe.js",
+      "original": "e0ccb5f7e71513131eaad2434a40731ab0c8623a60c7d39c7555623e8cfe76d9",
+      "localized": "2028ed6c8dd3141c2df3b44b6e75fc40c4e168611759cd8ca483e79ffe17c1f8",
+      "type": "edits",
+      "patch": "patches/chunk-RRuleEditor-7p1TSLLe.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ReauthProvider-vgAijRm5.js",
+      "original": "53d3ab1e5b8be8b872c6a1317d76936c0b980e7e2f4b59d26a989241fc5c9565",
+      "localized": "7960b7de21e35e61d6ad25467e893c94028833f815a74acfbe34c6fbfb15e121",
+      "type": "edits",
+      "patch": "patches/chunk-ReauthProvider-vgAijRm5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ReleaseManagerPanel-DCMi7-RV.js",
+      "original": "056baf460d0f442c96a7e16c454dcf94a863c8a77e6a16b161364035e63512da",
+      "localized": "b4e479585ab11036e6789e453415c50de1d93032a32aefb8c3ee435fbfa800a2",
+      "type": "edits",
+      "patch": "patches/chunk-ReleaseManagerPanel-DCMi7-RV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ReviewStoppedBanner-BFcMpjoN.js",
+      "original": "551c8d435ba7d42eae72ce734b24c26a55ef286fb5382a091b5344ddcb3450ca",
+      "localized": "6529c245af3fdf122a934a27b5440d0e70d0fe48a2888a120c9863f3d527442b",
+      "type": "edits",
+      "patch": "patches/chunk-ReviewStoppedBanner-BFcMpjoN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-SessionPanes-D_QJgZ_Q.js",
+      "original": "5f653bcb1539ef6b529d0ae67fd1896d673fa6c069ff7f58d76d689259610181",
+      "localized": "b581a4399fa86b33be43cf81b4d651a3a3037008cc7cc20ba07f44c610619dd3",
+      "type": "edits",
+      "patch": "patches/chunk-SessionPanes-D_QJgZ_Q.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-SessionsTable-EwMY8VcW.js",
+      "original": "fcf2c402be47b39a3ae86671af9637e0dbfdcb2246a3e494eaa06f6f6765e722",
+      "localized": "5f93a9897e7c791e628caf767348fd9fa98f9d036ec818cfa8db9aa6e2f600cc",
+      "type": "edits",
+      "patch": "patches/chunk-SessionsTable-EwMY8VcW.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-TranscriptPlaygroundDebug-H0xSFbcr.js",
+      "original": "29d57522451feaa2914a756a7aec85e800cf6368ce1cca2fa41ee3802d0f4700",
+      "localized": "dfc9bc91a07d82de0912e56ecdc7c4b1a0c4e0556f06168213419db188ddf053",
+      "type": "edits",
+      "patch": "patches/chunk-TranscriptPlaygroundDebug-H0xSFbcr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-WorkspaceTabPanel-DZnZLFEL.js",
+      "original": "45cc4aa2a5058dcf1a2083366139c6e7270a2174170291db477c6dfcb25688e6",
+      "localized": "a459e6262b96d8f510bc85351ace49e755c294ccf357b78983ad7bec082f45c0",
+      "type": "edits",
+      "patch": "patches/chunk-WorkspaceTabPanel-DZnZLFEL.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_componentId-DtwtctKK.js",
+      "original": "47429bd4e42ee196b09554137501ce825a685be7b929f69f07f5e59b89028cf8",
+      "localized": "0f60f456e96f17fe0e710e146dce771c0d180d2989dd8dfbd69a179624bbf739",
+      "type": "edits",
+      "patch": "patches/chunk-_componentId-DtwtctKK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_enterpriseId-C3A2cWpz.js",
+      "original": "7bb1e3a28fc47eea7334ee1218541ae3a46cdbd6f4c0414293a9564d41b82fe6",
+      "localized": "74e7fde3572e19c8d7b19658ab629852bbc4a339b676b3ab23f86e295f3ccb5c",
+      "type": "edits",
+      "patch": "patches/chunk-_enterpriseId-C3A2cWpz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_mapId-DizmiZjW.js",
+      "original": "c802c8efd3c849ed600f43ddc86a6b9d119c30525299288656319ebc0a4ea7f8",
+      "localized": "74526a0830a809dfdac33535d0b41b653114cdc192deb64e2f16b1b4b8a7a035",
+      "type": "edits",
+      "patch": "patches/chunk-_mapId-DizmiZjW.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_orgId-zeMOSdrc.js",
+      "original": "52c00a9181a2f72c8abd2bbafad1f0e88213513dbc7e83e12eff65bacb6f0afe",
+      "localized": "ec58f2f94067c30ad9033ebb582b1ae4cf2b3c501e1f503fd1908b2f62b8366d",
+      "type": "edits",
+      "patch": "patches/chunk-_orgId-zeMOSdrc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_promotionId-iJGrs-P7.js",
+      "original": "4f824981b88253aad407bea996cf7d12c9601f4699e0d5bc4953d0318963ba0c",
+      "localized": "85a8c54c41f17fce1913ec714d0000811fed281401734e0dcd3c30c900cb3f40",
+      "type": "edits",
+      "patch": "patches/chunk-_promotionId-iJGrs-P7.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_requestId-B31ZUtqL.js",
+      "original": "80f0b1a2ad49c4a9090c1fc21c28413644229dbb96a1c18c60f2c98942038a7a",
+      "localized": "43940443e5d561f08f6254ee2a399f26b472eb6443576db0e2c982ccf0a32349",
+      "type": "edits",
+      "patch": "patches/chunk-_requestId-B31ZUtqL.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_runId-58Dos2oe.js",
+      "original": "f2c310eff2bb01462fa5314f8fb127614c8ec8b10fa0c5a68375b81aaa0f1b03",
+      "localized": "c3c47b98c47dd63d46b555d222125d2730e3dde195dafbb7290cd8f8d3ae889b",
+      "type": "edits",
+      "patch": "patches/chunk-_runId-58Dos2oe.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_sessionId-BCX5Q4n1.js",
+      "original": "d65fec462a672b61436b53ad615b510673d271f23a2b9669034f45c6285a08c8",
+      "localized": "0291319f8864e3072722177b40be3164bea610040c916d7a812278e0d39276af",
+      "type": "edits",
+      "patch": "patches/chunk-_sessionId-BCX5Q4n1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_taskName-DZ8YykCp.js",
+      "original": "4ebd83d3af6bce4ec128f1df77ab6274eb2052431a80df10608baa37b49e12e0",
+      "localized": "e9677e3d4eb63b6f6bb36bc113f84110f1edeb5368bbf0a5f0e13ba39a36d0c3",
+      "type": "edits",
+      "patch": "patches/chunk-_taskName-DZ8YykCp.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-_userId-wgzLUuiU.js",
+      "original": "c9d9254855bce2904e599eaea66611d89b435a173f56a471785eef9eaed704e1",
+      "localized": "e0a3bc87d26991a5b47cf4602fe0127f1b28d4fbcc41bc7b453a9775caa14aaa",
+      "type": "edits",
+      "patch": "patches/chunk-_userId-wgzLUuiU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-access-list-HoXiknSq.js",
+      "original": "f4c2a275a2b97c89acee01a5162554f83c0d0e043a7c4bad86877c23666060d0",
+      "localized": "d10669ea987bdf3d90263018ecbcfafaae0c41bbf11f374ccb4b14f7c37e8e31",
+      "type": "edits",
+      "patch": "patches/chunk-access-list-HoXiknSq.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-accordion-DosKuoQ2.js",
+      "original": "6ce740c923b7ac0a1f0afe6ff8234988989a9c6dca082e911ade8c1a0a160a1c",
+      "localized": "4ad824a9f05eaa6f088325f2bad34640b096569ff89b3c7c26ed80cd78c73ef3",
+      "type": "edits",
+      "patch": "patches/chunk-accordion-DosKuoQ2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-action-BZipCksl.js",
+      "original": "badce1c6ef40dd4abc402efb71a4a9446471137b3dca932ee3714431af25d3c9",
+      "localized": "7e35249e510337d587dcf028db3509f271bcc03aa09ac380ba8e06c15f0f0b69",
+      "type": "edits",
+      "patch": "patches/chunk-action-BZipCksl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-action-bar-PQkLjDwa.js",
+      "original": "2e6afe432404e4fe3de5c97840902a5db5d26f8d2102cf958945a90fc830353d",
+      "localized": "7c6982473c85ec0be68df715600ecebe59b5d288c62d9700273e01f450fb4c2a",
+      "type": "edits",
+      "patch": "patches/chunk-action-bar-PQkLjDwa.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-actions-toolbar-DTWSiAGC.js",
+      "original": "dbdde0ece211784601c1f6028eefa98092d09897bbab0e31cd7bc33d6d0c0116",
+      "localized": "aefb9414817752d9d229924bff910787b5da891bfa311bd0d9e75766fbafdd25",
+      "type": "edits",
+      "patch": "patches/chunk-actions-toolbar-DTWSiAGC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-add-context-menu-CKf2ff9X.js",
+      "original": "6f7b0d053137f36c1ced369dc1f0bc1e99ba20fd59b071ca9739fb828ff64d53",
+      "localized": "d638acd22e47f4a49a120f33a690a4e892a66866a77c83a989511bdfa35f9bf5",
+      "type": "edits",
+      "patch": "patches/chunk-add-context-menu-CKf2ff9X.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-add-tab-menu-BhQu_FSF.js",
+      "original": "d0d94adbe7b0bbf05a61a167266b508f60eede86f9fae802b9f3b5f62963b29f",
+      "localized": "3ba20e4e6539fb2c1e66dc45780bcc6e319f9ae78b4a270e4dff1134a0342b0b",
+      "type": "edits",
+      "patch": "patches/chunk-add-tab-menu-BhQu_FSF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-agent-icon-CUDceK9N.js",
+      "original": "5fc9883b8d8f7e93d1ba55f7d268417186ed7d739fa8c6012c01e500b2a8afb6",
+      "localized": "d3ed58324ab4417805a9970505e2fc7ba97316fef7bf6c05bac9757be8c3b673",
+      "type": "edits",
+      "patch": "patches/chunk-agent-icon-CUDceK9N.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ai-gateway-J6Tdw4fb.js",
+      "original": "ebefd0229291a68ff807508ae28a5088f839819aa31803a7ee45929c0cdbb7ca",
+      "localized": "94d132ca5b5cfae7f6ca0b17c4d48360630af63577304dabfa36eb2f50e26588",
+      "type": "edits",
+      "patch": "patches/chunk-ai-gateway-J6Tdw4fb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-announcement-toast-XulXt98X.js",
+      "original": "911c69ddf49a6c774e4d5d17a776f77adbe39adde8d2877889580cfa482652dc",
+      "localized": "86b54daade75de971934934bbfbbf26ce100f5cf1cb9ce1ce8250918ca099ae9",
+      "type": "edits",
+      "patch": "patches/chunk-announcement-toast-XulXt98X.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-announcements-SL4i5UvE.js",
+      "original": "81fc7b0d6fc221d948a7cb6e6e2cb299a6a0329090015e96f29426a01f0f9064",
+      "localized": "db128e9521ccba8d5320e684c40daebd6b2df295e9a1c3e653e3a7ccaf29af29",
+      "type": "edits",
+      "patch": "patches/chunk-announcements-SL4i5UvE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ansi-text-DjgenJJz.js",
+      "original": "6681e8e0c4dfe756e37ca7e198dccefe75281f8def40973bfccce3647722005d",
+      "localized": "67703f0e864379ceeaf7d98f447bfa6de66750a1a9f2ba11971f8cc323dbfc6a",
+      "type": "edits",
+      "patch": "patches/chunk-ansi-text-DjgenJJz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-BTpCeDGc.js",
+      "original": "57dee07bb6cfe5af5d4105bca1078ce0377bce6ad67439ce3e135be06a5e5dd2",
+      "localized": "11b02ea8b3537313735fcbd1d5506f2165ebe2d502a7a7947860000054d2e2aa",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-BTpCeDGc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-BllW3r-3.js",
+      "original": "4a9b33f31b406eb1071b1736e99d4ea5f58f984f0d2c73ec7304e97dbfe23873",
+      "localized": "4b55aa1cce8cbf507276ff542da19f4253a07cf4e905278c9ca8eac543fc1920",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-BllW3r-3.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-Bmaz7xKs.js",
+      "original": "d7c0a2cbebf9b86a6ee37b35650b73ab1d2fd0894b94bea3a5c0c8a38264a361",
+      "localized": "8ff9edbca66741017e43a595454437d6d4d30baa16017da5f1fffbdda1dc413b",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-Bmaz7xKs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-BzoVSKOh.js",
+      "original": "63a518460125df51710e93315c52c2a44032cee59ef2b9eed804ebadb0c9f4f6",
+      "localized": "5baf1758ae9be15d8032dc1dc806d3fca02a002b99d8ca8f447f3b34569a7e0a",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-BzoVSKOh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-D1MPdtv6.js",
+      "original": "4290ec37f3cb0bd267a8882b203c396581b4673a724d4ce28f013f04ac1b38ca",
+      "localized": "2cdc8f0dba7707d53ee83cedd95a0c5eca9bba38fd6db88a37643aee735cf79b",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-D1MPdtv6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-DL5ok_Bi.js",
+      "original": "9d7d4403381132af14fde39c2fe17b5b784eede9581ea161d27ff9a4ffedfd46",
+      "localized": "1b8926df4b5fd3b494efcbb48a17f590603cc1de64cc71de0547f4f02773149d",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-DL5ok_Bi.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-DL_f1BKV.js",
+      "original": "1deee054f3c2c8e27bab9b9faedcb6906336c6016d1bbc68174fb6cbc9d31293",
+      "localized": "06cde235741c83a50ece5123da31b77a357ff29eaa938c204f67fb269a8f3e90",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-DL_f1BKV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-ZtpkrhMr.js",
+      "original": "5acd2e7b9c3c8b92e7a42e2d0c815a636e5695849e6d3de79ddf64ab3ba29ea0",
+      "localized": "2398bab3b625ba462d9d42dafce1af289c47dfab59a3f5beb1817711c98220e5",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-ZtpkrhMr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-nNfwNPHx.js",
+      "original": "e037244084b7e83042dcf4dfec6e11c248f84caca0c91d6f17b3d190e6c87841",
+      "localized": "ec9888f428c2893b72f8cefdf433c6ec73443b92740b3a2d8eaf811ef69e6c64",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-nNfwNPHx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-app-initial-xeye46PL.js",
+      "original": "cad0e232482961f26e053f34d4ed9ca3000a07b20b2b27bd512306565720f867",
+      "localized": "8791f047490d3dfe2573d38916f63e7ab0374640c2056e379886aa1d7fb17f00",
+      "type": "edits",
+      "patch": "patches/chunk-app-initial-xeye46PL.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-attachment-qW20qvdJ.js",
+      "original": "a8b5235c3a110148bbbac578d2e5aa0ddd81ade7252a3bf8de80831955b03d7f",
+      "localized": "835cd505b2f39fbc079beec7423d3c98079d2b38a36fb13629f4ecbfa06367fd",
+      "type": "edits",
+      "patch": "patches/chunk-attachment-qW20qvdJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-audit-logs-BU3_cjcC.js",
+      "original": "2c991d8510453c97a7b9bc07e7b2be1a5067adc6b727acb7cd6d92d3ee8f138a",
+      "localized": "7b246cfcc5bdc60b9033a4e2061578008ec85a3214471235007ad50b5d3fbc95",
+      "type": "edits",
+      "patch": "patches/chunk-audit-logs-BU3_cjcC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-avatar-DJYt7-7y.js",
+      "original": "1a30af4dda7b59d6a1619b32a7546863c7a3123b0666affefe735266419373f4",
+      "localized": "e8b549d74197ab3cc16fff51d1c404da8e45f96ed40b0475c61448031518931b",
+      "type": "edits",
+      "patch": "patches/chunk-avatar-DJYt7-7y.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-badge-CZaTAbpf.js",
+      "original": "a3b574435a3ed3752a9d11768e4a36d735397d97545f9a496c41347a05fa1bab",
+      "localized": "bee0ce7c4a0c5089d97d425b8f5bae195d6f2e2244c4d59ff7edefb99e58aab0",
+      "type": "edits",
+      "patch": "patches/chunk-badge-CZaTAbpf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-band-list-DAlDhHMc.js",
+      "original": "0adc50d48fc4615d1052834d5e621a7af61036755edfe0767fae3d46f1737864",
+      "localized": "deea6fbdcd6d4a9382fc342eab6552e2a23b836d69db4bcf2fa83477d13e3f8b",
+      "type": "edits",
+      "patch": "patches/chunk-band-list-DAlDhHMc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-banner-D296pO0P.js",
+      "original": "2fcde1f4b520adeda67278b1b05091c4de48bfdee10ffe6754af3929806503e9",
+      "localized": "7b8cfc1d09ea75750b474992fc9b3501459424e30fe6f462cff1d3349ef5838c",
+      "type": "edits",
+      "patch": "patches/chunk-banner-D296pO0P.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-billing-promotions-CM6b2U8M.js",
+      "original": "fbcb5c22ca9c9b516d5cbe4731bde0349b34896b49756039735de6a4252489c7",
+      "localized": "9945ac25fee7f68b5fda9125b0431875f9fc1d1260906eb6a7f9a5f2fe1db40e",
+      "type": "edits",
+      "patch": "patches/chunk-billing-promotions-CM6b2U8M.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-blacklisted-orgs-D5YxrK8U.js",
+      "original": "1abe92a48d7f64ba6b22534ad9ea6a37e64dbb821127e893bf100277bca0b6ab",
+      "localized": "db2e24eff08ea178b0f70c6f7f8bff779d5e0ed661eef7b8d08bee058e07cf4a",
+      "type": "edits",
+      "patch": "patches/chunk-blacklisted-orgs-D5YxrK8U.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-blockquote-BWAmVd3P.js",
+      "original": "a9d0ddb7f2d403f5f7f99ad6e23dfaa47ebbbbfc9c41e4da6dc8cdb6c4c2aaee",
+      "localized": "0797f1225a9a396d8cf646c2034f1516a0e0fcb7afb3102e470e3cefd0d30ab2",
+      "type": "edits",
+      "patch": "patches/chunk-blockquote-BWAmVd3P.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-bot-avatar-picker-DT2a_jQm.js",
+      "original": "6c2aab8ee4b571611404c4ae425fe8675cba5576e04fec0ac015e9277f3bc90c",
+      "localized": "a5d77e853dface870f7516cb0ae9dde0fefb987c7cf61ead82a7169d79a6192e",
+      "type": "edits",
+      "patch": "patches/chunk-bot-avatar-picker-DT2a_jQm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-bot-frame-cD2z9jdV.js",
+      "original": "8ea76d723cb890a3cad124483952c030d45b288ffbe9b1a2c1e26977ce657cb4",
+      "localized": "801ccc60809b7b1b7dd237fc43bb60f89ed38d1e1cee86835bd019f004511173",
+      "type": "edits",
+      "patch": "patches/chunk-bot-frame-cD2z9jdV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-bot-setup-card-ChzFrnjN.js",
+      "original": "9dca51cc34ae937f58e14cd575599ea0739f35994c3c48ab115ba75003ea2a4c",
+      "localized": "88d3b170405a2974da5a8f8acd0026faa80db78b553abcdb2637a42c013039b7",
+      "type": "edits",
+      "patch": "patches/chunk-bot-setup-card-ChzFrnjN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-bot-template-share-card-mH3_a9A9.js",
+      "original": "038b08aed4afb31c6136c689fbc6a98698bdfc32385675057e4252bc5e2314f5",
+      "localized": "2e6de701bb9d69b036e1011e6109593a4612eabf8970a1b33dccbe8a9368982f",
+      "type": "edits",
+      "patch": "patches/chunk-bot-template-share-card-mH3_a9A9.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-breadcrumb-CZ_lmc2j.js",
+      "original": "57b5bb7a4f0ff57a620a21bf26457aecc149e75532fea5735fad7cbe1fd13222",
+      "localized": "7b87f31a68f6f64ea4edb6c4cb2165616bfbca6671d2268eecdb4fc668feeb12",
+      "type": "edits",
+      "patch": "patches/chunk-breadcrumb-CZ_lmc2j.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-button-B__LWOzj.js",
+      "original": "b6a395107fd05f98603d64b04461bed5c6fd81dd0c00947e51719d1a44bb9656",
+      "localized": "06cbd4a1e0612de73c56680a099dd39883294aced1d21d9558905d0cdc4d2717",
+      "type": "edits",
+      "patch": "patches/chunk-button-B__LWOzj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-button-group-GlqBgH1Y.js",
+      "original": "494d256cda4e5c03c699ea34668c78b2af39c949ce05481fb6e311a259601fc5",
+      "localized": "25937301f3544c38f340ba4d42687f43aed01d35e1af48e26c1fa7df865a3738",
+      "type": "edits",
+      "patch": "patches/chunk-button-group-GlqBgH1Y.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-campaign-explainer-DB9wcd8s.js",
+      "original": "9651ee69b3c2d3795f778a64ca3e2bcbfc3621dea752959110be8ec9f1becc77",
+      "localized": "e1003bd73ae0035eec3f4e70bb357490dc046e4d14bff090984ae5fdc5e8aa9c",
+      "type": "edits",
+      "patch": "patches/chunk-campaign-explainer-DB9wcd8s.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-campaign-panel-ljAlNpPh.js",
+      "original": "acf4ca2d54ce91caedfb0cb20fc7a719a7a47d9aca7bc2b5be6c6142848a00c6",
+      "localized": "d371ab5ffb9778c6f0bce0191f13f0f879525e312dfe8b7c2dc065410409b245",
+      "type": "edits",
+      "patch": "patches/chunk-campaign-panel-ljAlNpPh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-capability-menu-Dt5dUIjK.js",
+      "original": "df6488a4479d8e0a766c9e02f55ef1c730be0aa8daf437bbbc23a6e98e429d6d",
+      "localized": "280a1a40e7e32b1a442885c85059f4648f5d506d43ef5ff249923e3fe0cc233a",
+      "type": "edits",
+      "patch": "patches/chunk-capability-menu-Dt5dUIjK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-card-Cwr6dn1d.js",
+      "original": "2794cb8e5bb253ee572b48a3a846267a5a6c98d74aa58d7268ad0773dd3a4e8d",
+      "localized": "3c29cc5299a5e2f9ac31fd3781a08d026d812fb58f60236e72d7619dd1b6e232",
+      "type": "edits",
+      "patch": "patches/chunk-card-Cwr6dn1d.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-card-audit-Cww3jt2B.js",
+      "original": "2f09a7498e209c0e1b5a8370b4cdd562de6e404606b3110ff5b507dfb0c8b926",
+      "localized": "91e18e552201ad5d0c8d47eeab96f40aabaedf1f4f41e61b873a263cca870de2",
+      "type": "edits",
+      "patch": "patches/chunk-card-audit-Cww3jt2B.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-card-fold-typ2wAM_.js",
+      "original": "0ba3f07ec331f4e0c2d789cfb1a96c57b0b92417e3bebab8ced4435a2b5c03f3",
+      "localized": "238d164c363e4bc6f9ca259389766ac75829236af2c890a2303d847814fd4d4b",
+      "type": "edits",
+      "patch": "patches/chunk-card-fold-typ2wAM_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-cell-flags-CpeMBKwl.js",
+      "original": "78bc0d659349b615fd24f7807e5e59f5afcf74aa9084c3922aa565f380ef4b9a",
+      "localized": "4999627af8bffbdbd041946e74ddd15839831f2a358d9fca0f18bf320883d7f8",
+      "type": "edits",
+      "patch": "patches/chunk-cell-flags-CpeMBKwl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-charts-DsDYgh-W.js",
+      "original": "ac7360072f08675b2def2927f48c28ba2daf520b8d5fc35e06844ff4c8f0ed77",
+      "localized": "9f22fa55550a59768c1efed59f4aca8136c8cf07bd05c226f24258404aae02cb",
+      "type": "edits",
+      "patch": "patches/chunk-charts-DsDYgh-W.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-chat-primitives-DURiIOXx.js",
+      "original": "b7e58db542818dcdeafbe6697ff3c8a14b8793670ec328bb401a01ae3f53e999",
+      "localized": "96e6bcf2a08e79554ee62ddf943c2827360ba8511cb55b74de2b4f12d1df830b",
+      "type": "edits",
+      "patch": "patches/chunk-chat-primitives-DURiIOXx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-checkbox-lF_XF_dt.js",
+      "original": "8d94020517f364038c9649f81a1b2bbf3cbf2f64ed33e9e347d0cbd1f91371ae",
+      "localized": "2908afa9262b22925f54c32acebb45314ffa4d4087eb25b0e4f8cfeceada1d8c",
+      "type": "edits",
+      "patch": "patches/chunk-checkbox-lF_XF_dt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-chip-DTJmzhK2.js",
+      "original": "c7462f985f7675c7eb5652f00ebb13fb2ff9d695c2b1174d93cbe73f890ae38a",
+      "localized": "7ed64bf47c78a8644cc42a38426a832fb182bc0699fad81f93361c1102e0730b",
+      "type": "edits",
+      "patch": "patches/chunk-chip-DTJmzhK2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-code-block-DgH4amro.js",
+      "original": "f84218eae1082d7cfe1c5ee870ad3b890ebede5be3f8055b1df8e02dede14ed5",
+      "localized": "4c0c82db666c1b5d4084aedcad0cab738dcef18c099f5cc3bbf82a0c8f29f569",
+      "type": "edits",
+      "patch": "patches/chunk-code-block-DgH4amro.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-code-scan-finished-sQ56wL-u.js",
+      "original": "c8fb04988b08349793c37852a67c8c394b5fe320b5e129f6065b067311d6fea4",
+      "localized": "b11bbcc3e5ff52d071a97bff98e311e559e2c26519727702dcd1c3eb95e09bd3",
+      "type": "edits",
+      "patch": "patches/chunk-code-scan-finished-sQ56wL-u.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-code-scan-started-Bh2iVQWq.js",
+      "original": "21b23fc4924204bdd44d68ddc0279638061a0d5ee1121f99b7791620775a560b",
+      "localized": "3c638eebc2d5fb05653b5d846f5fe7187569a09a19887946658afbffde50e606",
+      "type": "edits",
+      "patch": "patches/chunk-code-scan-started-Bh2iVQWq.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-cog-face-gallery-CQoJPZKs.js",
+      "original": "e5e752fd5b3a0cf34b4dfac028b663ef0c7e295e986ec6893dcd97aa1535125f",
+      "localized": "78af2115de094c8f07e0498c265655289d7dfd451b3843d12d09e25dfd7d2921",
+      "type": "edits",
+      "patch": "patches/chunk-cog-face-gallery-CQoJPZKs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-collapsible-Cm5VN_5g.js",
+      "original": "52861b5208c5ad18f0344c9c38c96aa50e913c6a115348e7f094762098525dcd",
+      "localized": "66034cefd34d2a816d6cc6fea658b5084f60a1b5c656729452213b11af91b137",
+      "type": "edits",
+      "patch": "patches/chunk-collapsible-Cm5VN_5g.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-color-dot-B6fFJa3A.js",
+      "original": "a763222d09c01f6e8855e2461b3084c07735c9d86af65600ed53e29bdafede43",
+      "localized": "a91dfe2d0168aba7cf65f508a8c60802f383aa881c722bc0873c7d571f912b12",
+      "type": "edits",
+      "patch": "patches/chunk-color-dot-B6fFJa3A.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-colorSwatchUtils-BbHPV7cG.js",
+      "original": "be82e1fcd1fdc67c7772674fa221fbe3f9a7bf3e8edd00ff0260711a3ccd66f6",
+      "localized": "631c2166cca6af97a322dbb69257a5c3a1e48276adc404bde599f27d120469b1",
+      "type": "edits",
+      "patch": "patches/chunk-colorSwatchUtils-BbHPV7cG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-combobox-DSA2Obn7.js",
+      "original": "9c2997148f16ae640afec1848716165873a6b2e2aa2e900e81a43ff0cf236db0",
+      "localized": "f252e468d1f6980cbbc7bdf5a243daa11c7cd44526a28645f8d3daaa351934ba",
+      "type": "edits",
+      "patch": "patches/chunk-combobox-DSA2Obn7.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-command-DlkDl7mf.js",
+      "original": "f30a8c9e14a210d6ec6cba8d43afa489b941bc5895373a6cd1455862c8919a60",
+      "localized": "0404723157281eeca1ef6368643ded94d07b707dfb47c09011c5f74dfdaae756",
+      "type": "edits",
+      "patch": "patches/chunk-command-DlkDl7mf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-communication-manager-debug-BHmx5k6G.js",
+      "original": "03e878f9415832f8f5e5464b14ea9717837286afdaec592392d1c9240ca00c81",
+      "localized": "acd98c09a46bcf43f0f6f23246d78c920dd3c3dc0cddd68b66301e134df651c0",
+      "type": "edits",
+      "patch": "patches/chunk-communication-manager-debug-BHmx5k6G.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-compact-user-message-BFlRcT0M.js",
+      "original": "7134dd93e5cf8f9b572df64f0e285af2c03e006f4c67b74ac06976b16fcf2d4a",
+      "localized": "26ced0858099af2803d9970aa036dbf7c06d4ea63c485f77cfa8bf5efe88b845",
+      "type": "edits",
+      "patch": "patches/chunk-compact-user-message-BFlRcT0M.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-composer-toolbar-CB35BTSF.js",
+      "original": "7a0e419be8a7bcaaa8df633212fbdf31fddafab75d60f3bc878da0ddd01eafbd",
+      "localized": "cd6304de1e84ed9d35549524a201bfa8681675564f604b0bf5458baf65800029",
+      "type": "edits",
+      "patch": "patches/chunk-composer-toolbar-CB35BTSF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-content-CvA_UWw7.js",
+      "original": "5351a228b537658dc03c74804930e32fa0d3f9ecf8da2b66e6b4421e824998a2",
+      "localized": "093e5d38bb00abc555dd120868b0c9b4962d69300783310f03577f8ebb1c25cd",
+      "type": "edits",
+      "patch": "patches/chunk-content-CvA_UWw7.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-context-menu-BwfsOECc.js",
+      "original": "14c544a472340547e436793c1643539f5830ba4dc02251e18fbfa22a1bc3049a",
+      "localized": "8694980cd4d47e44f03c55ffecc09e6d819ebc4c63be4d7559853fa95e24bd1a",
+      "type": "edits",
+      "patch": "patches/chunk-context-menu-BwfsOECc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-contextual-callout-CeLHrAds.js",
+      "original": "a4fbcd309ff5e56f2b7de2c4f6c0dd413cf0475ed313caf5fa7b2a1981e8cb67",
+      "localized": "08668b894ca9edf6cb82a5d6dd180b531f42ccd60e1ebb86f6ca610633ff5972",
+      "type": "edits",
+      "patch": "patches/chunk-contextual-callout-CeLHrAds.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-convert-limits-to-dollars-4TtxiW5X.js",
+      "original": "582e3c268d118383d18d1a0e0e820b8ff6c65ca43864dd278422fcab826f230f",
+      "localized": "77e55648f5904625ae33fe0cb123ba765e7af6f3ed937a67c568b6d11d62f242",
+      "type": "edits",
+      "patch": "patches/chunk-convert-limits-to-dollars-4TtxiW5X.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-copy-button-CNIPdlQE.js",
+      "original": "eb7c6532bbc9305dc1ced02d3abb30ff4dbbfb695953bc00d05f316b127fa558",
+      "localized": "811a4cce3aeafa72493accbe4b8289c7871098e8294e3e1f8b4e42a3e86760fe",
+      "type": "edits",
+      "patch": "patches/chunk-copy-button-CNIPdlQE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-copy-icon-button-CFjyhyMf.js",
+      "original": "0c4a4f2f0a8031da2469538c2e0e8b37bad8aa9750e3df81ff812bfbfe218a1b",
+      "localized": "30f4fda48d71983a75c4df80629a1dc925cf71bf7c12b95e9ed6fa49b33b15c7",
+      "type": "edits",
+      "patch": "patches/chunk-copy-icon-button-CFjyhyMf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-create-CyiciKlM.js",
+      "original": "cc780685b234ddd7195f39cc7b1707040a5e13ec98aeffd58227e9e4e2144bd7",
+      "localized": "708cd30ed6bd1466250027c230263bf73f64dd29d85907603417f053e441a1a9",
+      "type": "edits",
+      "patch": "patches/chunk-create-CyiciKlM.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-create-store-VYdLtnA4.js",
+      "original": "44225e55e80988a819deab78fed3e66c38fbdec5b136d968e2be8d72c57fe9ff",
+      "localized": "c3c115f7e6a48873c70ecc6ac5791bf4c08139194edbc7cd2b2afc275f174c3d",
+      "type": "edits",
+      "patch": "patches/chunk-create-store-VYdLtnA4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-data-deletion-NpWY1v4O.js",
+      "original": "e8934ff22a8b8bde8bd3dd91b6cd2cdfad313e7d280221a370460c09d8276424",
+      "localized": "b9090ec5c83fc86b970507df09c9827b5bbb633663fb9c7aa3f7a9b2bbe58f4d",
+      "type": "edits",
+      "patch": "patches/chunk-data-deletion-NpWY1v4O.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-data-table-DA9FVJ4X.js",
+      "original": "1440792be522d600cc3c590f2689c6f792cf0e69fb0efc4603d8d9963ce52314",
+      "localized": "062873f3f6f913f66f885b08e4f0a5f685cdd975730b0ff21f94bb67861192e3",
+      "type": "edits",
+      "patch": "patches/chunk-data-table-DA9FVJ4X.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-date-picker-m1AyAH6d.js",
+      "original": "58336308abf4825b04cf39b58a8d51e6c3310016aaccb36271bc9a9be4b81b2f",
+      "localized": "c3941b315e90c15f19e99266d052ae354c1fa45fca223679b83240c3bb4784c6",
+      "type": "edits",
+      "patch": "patches/chunk-date-picker-m1AyAH6d.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-deepwiki-C7dWBzY4.js",
+      "original": "aa968321f27f6bc1700fd9732295eb117978f5dc20168c6efa10c1bee2c850a4",
+      "localized": "aca4bb47719f5da2f834a67653fc9467742d277cb31517add3b5b231a4d68297",
+      "type": "edits",
+      "patch": "patches/chunk-deepwiki-C7dWBzY4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-deepwiki-takedown-Bx5jXHhn.js",
+      "original": "0d573d2ad8e3071755cb68430d9595741b525c092d4eb49f7aed96cedb9b8931",
+      "localized": "dbfeae4dfe4cc19e098a5869b4ae6989cde367fbd772b1b0394b55da6566952c",
+      "type": "edits",
+      "patch": "patches/chunk-deepwiki-takedown-Bx5jXHhn.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-default-tenant-hypervisors-Bj6XFESB.js",
+      "original": "2de82efb87708e35c5492eec9039f8ddd2239b67fdc677007fe9b8dae327a7a2",
+      "localized": "f247dcc45759ea439987a0a2ced69d486edcc27cb2ea2508100b2c43b09926f2",
+      "type": "edits",
+      "patch": "patches/chunk-default-tenant-hypervisors-Bj6XFESB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-design-md-DMu7oR22.js",
+      "original": "1f0cc0705ef43c6f5fa29af9ea281bf7d8eedab0512516b06c0db91a064faa62",
+      "localized": "bbb602f6178bbb657b9ece7dda4542ab012c12bcf87398fb8c0becb8a7cb21b6",
+      "type": "edits",
+      "patch": "patches/chunk-design-md-DMu7oR22.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-design-system-D_i4_KY7.js",
+      "original": "2deaf34deeb4636730d68ce545cbd887e601beda2ea133b806f91a82da17d5c8",
+      "localized": "2e0be5c896bcc0e5ab12d1f1b68a3ca57a4a7f5ba07b0639d3627db4cc34cb15",
+      "type": "edits",
+      "patch": "patches/chunk-design-system-D_i4_KY7.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-devin-activity-status-DGSck_gp.js",
+      "original": "9d3583062e69c8506cce9e70021a0d35bb4361c4e740ad0448ab80037772b905",
+      "localized": "823a80227de5556e6f6ee48a4f296cb7dfa08f05f109b22e78b24203e4e52486",
+      "type": "edits",
+      "patch": "patches/chunk-devin-activity-status-DGSck_gp.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-devin-costs-CgGy-svV.js",
+      "original": "33c061ad240069e976d6c8f7d48dfb27df70572c9403cee13fc7e0e21852dc3e",
+      "localized": "8e4138529cf4eff7f630097adfdcee64d51323f305b76c14a7bd5c5f3e8d11af",
+      "type": "edits",
+      "patch": "patches/chunk-devin-costs-CgGy-svV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-devin-persona-D9IV5VZe.js",
+      "original": "a98cf6dd0392678b0f4ee07acf4348e2ab0a3324b8c7dbad41cde64cd28db348",
+      "localized": "3efa1197320d96530818457418fd9f5866703fc3061b1fa68cbb43c8d23f1e66",
+      "type": "edits",
+      "patch": "patches/chunk-devin-persona-D9IV5VZe.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-devinapps-takedown-B2HLYaN1.js",
+      "original": "49b2e4c19e66d1566350a2b7bcc5dcb49b252a6852b940d9a35511e21582ebe3",
+      "localized": "38ef6a470533e3d084f316dad9632c6b807ee35277f751ac8c915228be9ec7de",
+      "type": "edits",
+      "patch": "patches/chunk-devinapps-takedown-B2HLYaN1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-devins-tool-access-CaXXXoyQ.js",
+      "original": "1ecd3fee142c80675e294f5013a306f00e0077dd17bc3ef331620a7af2edeffc",
+      "localized": "b46e23c620ab0d0055f7df52027bdb8ec7659d5c268ca5350cdf57c3f45bdd89",
+      "type": "edits",
+      "patch": "patches/chunk-devins-tool-access-CaXXXoyQ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-dialog-B_cUme7N.js",
+      "original": "3010666985a8c672fbd594e3ea9e4325d2214bb29672379635f3035641cdc51e",
+      "localized": "a32a295c7fbb1dd26003ebc87d4a37cf091136516303a854a6027cc4863b5624",
+      "type": "edits",
+      "patch": "patches/chunk-dialog-B_cUme7N.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-dialog-migration-mocks-BWe-ViBr.js",
+      "original": "f262e2ce08f634afb059dab57ecbf4432460290486e5a1b111cdcd11fe1a21a3",
+      "localized": "98253cd92f010e7be1bf6bb826eb99158b1fcd6cb3f1553526b7df7b61f691cf",
+      "type": "edits",
+      "patch": "patches/chunk-dialog-migration-mocks-BWe-ViBr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-dialog-submit-button-CymJ6wA9.js",
+      "original": "782e61a05bf31d30622d83021f20e0972e3c8690bca2ecc3f7db1e4b386f202c",
+      "localized": "394650c5f145d2d6c25145e010f1644165151c5be28468c622efe0ef6e8bc508",
+      "type": "edits",
+      "patch": "patches/chunk-dialog-submit-button-CymJ6wA9.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-done-D1Ifxvwu.js",
+      "original": "0d46138d3da386a9b4988a46d6d27e0ce72211c261fbdb23796e8309fa5aaa42",
+      "localized": "82a2b0f701d0164563cb00638f970cb04f860b9bbbd2ca6e18fa3ff810b9e5e6",
+      "type": "edits",
+      "patch": "patches/chunk-done-D1Ifxvwu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-dots-lab-36f-61F0.js",
+      "original": "fe0ef06d01269b3c6b9f511291cd4015a7cdf52c6609cc743cfa2248e3fa5c66",
+      "localized": "ab0cab31e45b5cd9ec8ccd3b41031cec524d7a9a186d0543d2fc75a023bd36d3",
+      "type": "edits",
+      "patch": "patches/chunk-dots-lab-36f-61F0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-ds-migration-D_G9rqX6.js",
+      "original": "a1c9e1ad8619ab6aa6e5ce54819c6a624cc028fc24d74d1ea9fccc381071e6c7",
+      "localized": "89b1a46f2fbed1e3e3dff14f07c09305b9238964dff0fd8a69326d481f7a7f8f",
+      "type": "edits",
+      "patch": "patches/chunk-ds-migration-D_G9rqX6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-empty-state-KuMCgakz.js",
+      "original": "8e3f63197d2484c3ffc377bbd80d9e7c63ab90109fd9f4d4ac78a34ca340f5f1",
+      "localized": "a1b25bc9b8c6980a94281def08a0b05411c9ce815837e2d79c055ab558328d9a",
+      "type": "edits",
+      "patch": "patches/chunk-empty-state-KuMCgakz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-empty-tabs-view-Dhs7dmrL.js",
+      "original": "c2656f86ca7eb66d248c8d4ec525f81c5c18b30feff65067dfc9dd8ac82f7f9b",
+      "localized": "c92001f676ddbce37fcaf2623cc888f676db64f78d31d99d6981786aaed09bee",
+      "type": "edits",
+      "patch": "patches/chunk-empty-tabs-view-Dhs7dmrL.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-enterprise-dashboard-DtvRRKFh.js",
+      "original": "1267da5b1bb3e01109459ad3751442147312c1342ffa209774ea8a30a8be7721",
+      "localized": "d7c247576782e6d9e5f618a7138cdeab2b8020966fbf67f126d0af83db37d5aa",
+      "type": "edits",
+      "patch": "patches/chunk-enterprise-dashboard-DtvRRKFh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-enterprise-insights-DYiWscPG.js",
+      "original": "ea503e688a1133a261257822a336f00533b0ae01aa4d7d4eccae92918533ba69",
+      "localized": "eab162b0d3407479e544048ec22d21366f94c80560ca29daf42f2c4e87ef296c",
+      "type": "edits",
+      "patch": "patches/chunk-enterprise-insights-DYiWscPG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-enterprise_vpc-CU4I-Xhx.js",
+      "original": "269f02690238a8798160451890d70f558cc70267a2a12b5bc9fb0d1014662221",
+      "localized": "28d5af08812b3a9ac94422cee4e0be88350006bfd44aa45082327694c08fec83",
+      "type": "edits",
+      "patch": "patches/chunk-enterprise_vpc-CU4I-Xhx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-enterprises-ASsy446e.js",
+      "original": "1bdd1688aaef23d6edf4824422087045275667084df66b2b6e217e8e6a97bef3",
+      "localized": "a92363e3c2290a11a8f8eb9dd0b050c11dacd75aa345c67c42b31ca1171cc670",
+      "type": "edits",
+      "patch": "patches/chunk-enterprises-ASsy446e.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-entry-host-editor-mode-menu-BWLlgqZu.js",
+      "original": "08d9da94512f938c730340e350be28f50593385d5b011de5691e25ea39f9760f",
+      "localized": "d90678d97bba3f2edf0f58622f1b52c36c17540a803f5b25a5799b5076cdc1b0",
+      "type": "edits",
+      "patch": "patches/chunk-entry-host-editor-mode-menu-BWLlgqZu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-entry-host-index-D4N4R5_v.js",
+      "original": "100f3e8d69268ef32b91c9c3a591550868ac8f6ef46b33c953df106fd0c3ab32",
+      "localized": "523d2a362cf926b145f5a53d5b59d600f5e7cfd3d299e7a036a713cfa87b04ff",
+      "type": "edits",
+      "patch": "patches/chunk-entry-host-index-D4N4R5_v.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-error-lookup-Pb4XiG5n.js",
+      "original": "4e0ef2a8e6d5e4fb7c422b7c8099665e7affdb55da4dab5fc022963a5e471f42",
+      "localized": "c3be0a6375dafa4f535068490dd4acdcdef77f01e4388a7109a15e739936fd24",
+      "type": "edits",
+      "patch": "patches/chunk-error-lookup-Pb4XiG5n.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-event-renderer-NUJxfutY.js",
+      "original": "3ce9146a0979f16c46d73047d489191052a7300942f0cd558d09c6ea29cda380",
+      "localized": "2afe90cf0a67d781d031221b2d822c6f3c5be0ba1f0c7310493d05651cb1bff3",
+      "type": "edits",
+      "patch": "patches/chunk-event-renderer-NUJxfutY.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-existing-secrets-list-cUrK2ips.js",
+      "original": "ef825cf8efba077820119890cf8a646997cb959032240feccb9dde8530228696",
+      "localized": "cbbbd5d9cf9a24e1c05d21585eb48159dee318c1bd803015214cfb3c54ed221e",
+      "type": "edits",
+      "patch": "patches/chunk-existing-secrets-list-cUrK2ips.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-expandable-L2guYEVe.js",
+      "original": "84358eb38a40375e75726686c3af84a5872900a579c3fa7d19f9e5ef20882f4f",
+      "localized": "b94cc99f93c35b008453d870bed31c06f7e02606b47b79140e2b4266c74231c0",
+      "type": "edits",
+      "patch": "patches/chunk-expandable-L2guYEVe.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-external-link-h6ptMaJT.js",
+      "original": "b339a38e26de758e5b042f3802f20d0dea08da57ef27d6ee405f066d368a2f42",
+      "localized": "749d45625e1f4c6fff1c116eb96a4c758ee4f8bc554e92ce7f70cb5891d974d5",
+      "type": "edits",
+      "patch": "patches/chunk-external-link-h6ptMaJT.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-external-logos-CZd_8pue.js",
+      "original": "8a826e5b60626851da895302fdd27a5302c5cddba6e2788ff89ee31592b5c205",
+      "localized": "8f263e8b300a134ea3142ff9fb50b421d16f86b8ada56b1d6ccb96ac1df8b16f",
+      "type": "edits",
+      "patch": "patches/chunk-external-logos-CZd_8pue.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-field-C6Kriz6A.js",
+      "original": "2e1a8dce88f944cf259a3960b9cab58e77ff0cde1ddc46d7ef5b686bc6f41c7e",
+      "localized": "b353ee5d2307a04229124d3a5e114249ee185e3bb1d95627a64ae6a44292cfc0",
+      "type": "edits",
+      "patch": "patches/chunk-field-C6Kriz6A.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-file-browser-card-CK74cYeT.js",
+      "original": "c6b334048f155d7e334ba4cc3ee2e73dbc7b520ffaa2ef8c3274848cb02bc474",
+      "localized": "f7369e73346704edb066cf159211ed581d862109d979f5e228ddef80fa3525e0",
+      "type": "edits",
+      "patch": "patches/chunk-file-browser-card-CK74cYeT.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-files-Bwlc0PYG.js",
+      "original": "5231a84f560e32fcbdafb9057bf04ab7188aa1d87e6c17f4aaa576ad5b15d40e",
+      "localized": "ceaa9c4aa2fc4d628abf2feafaa79476ed422c60c9f3cbd94f8fe3155eec05cb",
+      "type": "edits",
+      "patch": "patches/chunk-files-Bwlc0PYG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-filter-pill-P-P8s19m.js",
+      "original": "6f428c5c41f4f9e1ded0bb0f4a26921d44565fee4720f4c73beda4f1d2c130c3",
+      "localized": "5c4594c82a391e7f4b607779680104b23ed1a4638f0b64e70f4007ce834e5128",
+      "type": "edits",
+      "patch": "patches/chunk-filter-pill-P-P8s19m.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-fixture-actions-BUL_7Fgu.js",
+      "original": "5b852df86be53e07b04fd05ec86df80bdccc8af49203849f3804deec64be2bee",
+      "localized": "e83634c57b9bf5aea48f05f686b344b2edd81a6321879e4dfcf56d885062c09c",
+      "type": "edits",
+      "patch": "patches/chunk-fixture-actions-BUL_7Fgu.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-fixtures-C7ko-te5.js",
+      "original": "f925c566864d57ef82e072c7cbb0b67d60b9a47a08a9b491f5b0fb8d250273b3",
+      "localized": "1f271b652a2d458d05cca5852f6fdb8b2b5333544a5d84ba1b07acf8c0c9e566",
+      "type": "edits",
+      "patch": "patches/chunk-fixtures-C7ko-te5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-flags-BVJkkL-s.js",
+      "original": "0159862d7e16c111591e64027f39eb4e83fdecca9e8d28bbb548c39fac5376eb",
+      "localized": "349db4a569aae86b5a1954006ba0e7b93193f353ea6e61446fbb91aed5a69a5e",
+      "type": "edits",
+      "patch": "patches/chunk-flags-BVJkkL-s.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-folder-picker-menu-items-B5fshEZD.js",
+      "original": "bf86cc0885290a902f026543804509fb2cadba13ee9b43532cabd03ac87708ce",
+      "localized": "725b0c62c2d8a26819303f8d6e01b339e756859bf951f4405c90c8a63e4c379e",
+      "type": "edits",
+      "patch": "patches/chunk-folder-picker-menu-items-B5fshEZD.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-force-open-session-dialog-C_IVNMjv.js",
+      "original": "42eae03c3907d6c9376460515fd04fbed1f71de1b64c0731b46770774834e61a",
+      "localized": "b8792322f209520121759e90a33688e78c004340ba71c5eae414f0f265cbaca4",
+      "type": "edits",
+      "patch": "patches/chunk-force-open-session-dialog-C_IVNMjv.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-gateway-C4ERtMpo.js",
+      "original": "a0aebc8c4ff6a85115769eb06d6b0ca31f8331062e429790cd5982d70d18d303",
+      "localized": "74a2ee82f92c02e62d5594372065453d7df88a70d556b7ccb327defef8483eff",
+      "type": "edits",
+      "patch": "patches/chunk-gateway-C4ERtMpo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-generate-license-B05YgBg9.js",
+      "original": "5006c0edb12e38ba1c89eae0d80313554e0e1a42d9e74d706d991c7c3e1b5a96",
+      "localized": "f33fca2bb99bb973669440ef6f2f0d575fa15e410db22a17a14c24420d1196bd",
+      "type": "edits",
+      "patch": "patches/chunk-generate-license-B05YgBg9.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-github-rate-limits-CJxPUUnh.js",
+      "original": "88f2f9de8ee186f89fe7af843f058d6da2457177a68be53429cb6a3707032c4a",
+      "localized": "180b75665fd921768bc7bb30deec07d5554ff7dc8fd9ac1a4e74af38320f4902",
+      "type": "edits",
+      "patch": "patches/chunk-github-rate-limits-CJxPUUnh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-governance-xOx8n33x.js",
+      "original": "292387d7321d18f919bba9a45ca944caf931ab04430b00df6d5956c963c31b15",
+      "localized": "3773cfc20514df4b022e4827a93eb326581c695d3a24a3545e4f8ca176fee7fe",
+      "type": "edits",
+      "patch": "patches/chunk-governance-xOx8n33x.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-groups-szNCxPax.js",
+      "original": "88aff8c0eee6d556002a9e962a129532e50e33b3984e9ab37366db708b925ab0",
+      "localized": "098ddc1c3b789fc1522be6d5c4dfa51965f61fc6d6e3836d2e02f70fdc6e5ce3",
+      "type": "edits",
+      "patch": "patches/chunk-groups-szNCxPax.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-hover-card-BGPPnRKd.js",
+      "original": "ae719ddda24c0b39d7d732df4a211b174ef4633eabc52d4bfd8ac622a9ce9f4a",
+      "localized": "2ec01798124ff2733f07a6e5380546680cd35786edf52dd3c8bf97fd0d7d64a6",
+      "type": "edits",
+      "patch": "patches/chunk-hover-card-BGPPnRKd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-hybrid-management-C7mNvbFc.js",
+      "original": "7cc8becd7857aa4c4870ce5c720d9c6149cbfbe7ce0176e04ae03a6d6fb60c6d",
+      "localized": "8059425af279e2d93676f71ab7b3d987567a2b5f7363f6e15ff4738d0348fcfa",
+      "type": "edits",
+      "patch": "patches/chunk-hybrid-management-C7mNvbFc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-icon-home-C9JE9Bxv.js",
+      "original": "67019a3117da14b5c131d003b1af7013039528778a533772b2806cd1795f104f",
+      "localized": "9f9239b0f8dfa6be497d2d325d774b8fcd6f83a5726fe83978a9175481c3ef8b",
+      "type": "edits",
+      "patch": "patches/chunk-icon-home-C9JE9Bxv.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-impersonate-CEZ0oc3F.js",
+      "original": "d7b0aa8230ce4a6a0a5627286129b4b099e6e6daccc771651b52ce4d087271e8",
+      "localized": "14895a446669aec87df2ab73de50c39e8cff303cbb47d66ae4972b5f805cef68",
+      "type": "edits",
+      "patch": "patches/chunk-impersonate-CEZ0oc3F.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-impersonate-Dh6PDCac.js",
+      "original": "1fcb60e3052a35118c34be9526fb76e8f68f04b207c6d6ca4ddfd2b830ec48d4",
+      "localized": "5185e22010809c95b48b03a794add9ecbab4a67b2ad9988b40bc792d2fee5bc0",
+      "type": "edits",
+      "patch": "patches/chunk-impersonate-Dh6PDCac.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-import-secrets-form-Bz_JskpK.js",
+      "original": "56733c30fb02dbc02f0f659017baca0279872746d4a45540df1b953a68ccae09",
+      "localized": "3f7bf5eb518a4b31cd94e8f77aae7b5327500adaa4da5ec6041567037d096c9d",
+      "type": "edits",
+      "patch": "patches/chunk-import-secrets-form-Bz_JskpK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-inbox-item-time-mkr-PEQC.js",
+      "original": "2e5dd3cdc5167bfa235021ad682a8b08e7ce340809a90f17c438440237f030c3",
+      "localized": "5f76fa0aab9ff78575518993477ba49928c581e85e53d4183bb87653e2d9c6d2",
+      "type": "edits",
+      "patch": "patches/chunk-inbox-item-time-mkr-PEQC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-inbox-reference-chip-BlkneD_n.js",
+      "original": "b655f02861fba8b7dea8ac7f766e6b986ccad5d132e77dfdb0fd865493807bf1",
+      "localized": "b8ea4deff0635a2331ac6aefedb0f9a197ab8bca3e2fbf8ac299b78285aef964",
+      "type": "edits",
+      "patch": "patches/chunk-inbox-reference-chip-BlkneD_n.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-index.es-DykK4GQO.js",
+      "original": "b1dc47ee5a2e844c762fd9d17ec0cdc95c7ceda434bdf025014faddb10303954",
+      "localized": "9a6fcc769409ad87dd3034548a27c2278f9fbd47ded0861eb7c309d20dfde7ac",
+      "type": "edits",
+      "patch": "patches/chunk-index.es-DykK4GQO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-infinite-scroll-sentinel-BomggNMS.js",
+      "original": "65e216342fd09a7481f8df7253205adf6fa22ba951c82b63522a6a32f539d74f",
+      "localized": "5408bfe8d14fef51c42ac966b0ec9d925a67f6a3482fa729948d83202339cfc3",
+      "type": "edits",
+      "patch": "patches/chunk-infinite-scroll-sentinel-BomggNMS.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-info-tip-CV4gIut9.js",
+      "original": "5a1fd73fabbd34d8c4f69805953e5c91efca7aad5c03866cc2a5d0a30664ab95",
+      "localized": "d1f45b63dbe24c3a9d2475f75647aa58ac9ba90f87e70d157702c4fbe09197c0",
+      "type": "edits",
+      "patch": "patches/chunk-info-tip-CV4gIut9.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-inline-chip-Ddx1Vncg.js",
+      "original": "915f06e1f74e6a1c9ae49d01b7df3ad28495bf3889b6eb8191b30b3458b3bb61",
+      "localized": "5a11db04d7ef113dced0c0e63f1e6885089320e5528d4441ed8ff353d1e5652c",
+      "type": "edits",
+      "patch": "patches/chunk-inline-chip-Ddx1Vncg.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-inline-rename-BhWjPCyc.js",
+      "original": "d21f3c0ec264a561cba9087f450d29fa5a45a64b689ba91cff5d47633a4d3ad0",
+      "localized": "73d16d36053d04845821bed3bcc0f5912b6366450d4562a8f901155a2d6231eb",
+      "type": "edits",
+      "patch": "patches/chunk-inline-rename-BhWjPCyc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-input-IeAcafl3.js",
+      "original": "506bf5aee49c158657e9b3797af770a70ce4de2b0be9ae13e4d94085bb32077d",
+      "localized": "a700a9f7dc1aab45f5ba3d45b553572b5c33e6d217a3f66ecfc4a26f36a75919",
+      "type": "edits",
+      "patch": "patches/chunk-input-IeAcafl3.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-input-group-OggzHxTH.js",
+      "original": "bc91662628c5523cf02e3ab950e275d19b0d9868349b5aed376e3d2ca2f60bb5",
+      "localized": "845b026219f49ad45a523030f13b5b08efe8b2e79b04c3eef3c2c1609de920d7",
+      "type": "edits",
+      "patch": "patches/chunk-input-group-OggzHxTH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-input-otp-ewwKC_JV.js",
+      "original": "07af2020e55dc149612baea6e68b693e1da87da27ff33906a7311fa938c52be7",
+      "localized": "34dfe6f2c33d1e87a24f1b4a828c9d31da5588833ff7f2917005c8fca4a7f2ef",
+      "type": "edits",
+      "patch": "patches/chunk-input-otp-ewwKC_JV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-input-shell-CM-4ptso.js",
+      "original": "b303807c49dff09a521a63952e60c9623d9aab7858e2bd59006e7474baced78d",
+      "localized": "5193046c03d1e6b03b1d96531436cc5ed804fef4b03a538256df243d6b902e47",
+      "type": "edits",
+      "patch": "patches/chunk-input-shell-CM-4ptso.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-invitations-DidAiFMW.js",
+      "original": "38b67264776a3128f812a6086de9499a32c606b4753012cff6514ebeecce491d",
+      "localized": "2203e303b75f736d8c1e9a6d10bf0330ffe6c49c7c035a577d5c4d1254d6e764",
+      "type": "edits",
+      "patch": "patches/chunk-invitations-DidAiFMW.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-jit-access-BZtWfJbb.js",
+      "original": "c853343602630f85505fcbdaed33082e9eb1331b10a360f85853b837d582dd38",
+      "localized": "934c96013190d02ea1ca1f0c84bbde18c3069c59d15af80915dd81cbdee6197f",
+      "type": "edits",
+      "patch": "patches/chunk-jit-access-BZtWfJbb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-jobs-FE27fs0i.js",
+      "original": "ce3f7db2d8cb6fcbf00fba9f5f70656d3c04a42c966efeef1cfdc8bb0cc95076",
+      "localized": "49b9d5963018cfd4e293c2ab5b099b7e670292014399dd7d653148169154a25a",
+      "type": "edits",
+      "patch": "patches/chunk-jobs-FE27fs0i.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-katex-react-CEsMdVyA.js",
+      "original": "2c8d384ad48767651c0c062a6afae141232400499e4fec5c465eef8497507428",
+      "localized": "1dab0e3604af71bbb947bae7f60d5ce7c964bb415ec3804a3cdcd7cced387574",
+      "type": "edits",
+      "patch": "patches/chunk-katex-react-CEsMdVyA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-kbs-DP8obF-S.js",
+      "original": "f41d632c4c076b510324235681c41921172bd592ee7e8c15676d2412d44c1819",
+      "localized": "a7405777dcfa249f0979472103cac533d59eb983d8550092af7aeadfad7fd26e",
+      "type": "edits",
+      "patch": "patches/chunk-kbs-DP8obF-S.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-knowledge-CCxqDpex.js",
+      "original": "6e9c227c635f506bae7c90bec77cb4ee7b79151e4820036abf81ac2362f3d1cf",
+      "localized": "8e67d1c3c43731da92e1ff4eec3bf0a89bda521768bce15770b40221f07ec6e8",
+      "type": "edits",
+      "patch": "patches/chunk-knowledge-CCxqDpex.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-label--Jkjg28v.js",
+      "original": "3758e94796b2c4e6eb59470d955823d91b01cddb145812d3107dd5ae9e8f528c",
+      "localized": "66dc1feb434dbb4ee6bd156a055adb3ffa6f6cc7c961e3d00080438d57fd0e0e",
+      "type": "edits",
+      "patch": "patches/chunk-label--Jkjg28v.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-lease-manager-CLPOh5DO.js",
+      "original": "2c68c0afb4fe89084e600733399f230e218c8b1ab3cc22684364d7e79bb6a277",
+      "localized": "c7dc781418f8778c984b9f094ea5e5345cbffc95d3b244149e6486f5acfb1d79",
+      "type": "edits",
+      "patch": "patches/chunk-lease-manager-CLPOh5DO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-lib-initial-C2LILlIf.js",
+      "original": "7b71a3ce53f7bc84247f180d72a92a6179f503c0679e3e7d6469e1b93a4bfddd",
+      "localized": "3f22a61173f7882f057cbee0ce43e4cbbf3d0731c895c24d54de4fa71a7381fd",
+      "type": "edits",
+      "patch": "patches/chunk-lib-initial-C2LILlIf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-lib-initial-CvvEZjVz.js",
+      "original": "783b82e41bda3738ea18109acce1975a833b3e0c9de1e030f4eadb70b5ed0dc6",
+      "localized": "8f9b55b6d8af5589000dd70028f3154efaffc145c4f48c28de840ac6d1e7a3d1",
+      "type": "edits",
+      "patch": "patches/chunk-lib-initial-CvvEZjVz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-lifeguard-evals-DOMrlknC.js",
+      "original": "8d9015ba3ab36c23262742c0d252ff63197f9622cdd53a41c0602ab724d7611c",
+      "localized": "fbd1a5aaa4b32feeb2ed235554131ac1b75c335e924fca065836d6d970ea536a",
+      "type": "edits",
+      "patch": "patches/chunk-lifeguard-evals-DOMrlknC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-lightbox-CYl6EOFm.js",
+      "original": "12af69f239d031a40e1b2b04eb75fc53edab96d058b33f8d9c8fa2681713106e",
+      "localized": "e9b933e8705e63500f11d66141330dc7649da2f75e1f4d709046e9bb65806687",
+      "type": "edits",
+      "patch": "patches/chunk-lightbox-CYl6EOFm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-linear-CNEo7M_w.js",
+      "original": "35652334cf63980e7868e873fa57579883bd17a78e92680192b8e5678a92277d",
+      "localized": "ebefec0dc329ff2f9d444ae07d44ab297ef92368e3469a916afeae3cad245263",
+      "type": "edits",
+      "patch": "patches/chunk-linear-CNEo7M_w.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-linked-session-card-SJokJh6a.js",
+      "original": "95fad36ad11c4f2d103413a4cb5f433f225f676628ee59c543e4f7b913c2eb6b",
+      "localized": "3965e11a44c34a437daf096098f91100c9e58bc557d4699ef6787aa6cbf6b34f",
+      "type": "edits",
+      "patch": "patches/chunk-linked-session-card-SJokJh6a.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-linq-lines-BJ1sNfkE.js",
+      "original": "5af2ddaeebbe576c8c410c2a52edc9f34f9a91c7c54e74054d0299b461feefe7",
+      "localized": "f38b0b057d2b5d0931c4294dd2ea482ed2dc517ee0a383850f0669fcb38043ae",
+      "type": "edits",
+      "patch": "patches/chunk-linq-lines-BJ1sNfkE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-list-row-C_jxbw-R.js",
+      "original": "e564bff8e49a81bbf55b818428d811a829e143554a9cf9de69eb6e6edb98a0ba",
+      "localized": "6933ba8bcfc062002a3d51230237331221146e58008a44b81c3d26fb89744640",
+      "type": "edits",
+      "patch": "patches/chunk-list-row-C_jxbw-R.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-loading--oAzD1WH.js",
+      "original": "81b7bd3714d1f238768d7af3150f11cb885bbc7427a8ce76444e82dd7245ab33",
+      "localized": "0f05e44ec8e3196de3761a1e3bc7e45e26ac63c581762358e0d3f221ebfada6d",
+      "type": "edits",
+      "patch": "patches/chunk-loading--oAzD1WH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-logo-0hkwGtpk.js",
+      "original": "8a99b56b8e09e4540f9cb2c082958bcb4fcba6e22a427b5bd777553dc530c314",
+      "localized": "9a7afd9c1a170d268b6f77db9468325673ca8588566649977bc691215d4c6204",
+      "type": "edits",
+      "patch": "patches/chunk-logo-0hkwGtpk.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-logo-tile-BLC1hQH1.js",
+      "original": "3998538a0686af1e77c877c2c3cadda2d3d20a3858cfe506558eed60cbf22f9e",
+      "localized": "bc844c433488da9e2ad434f1db8a3b61207099d6a6b801aa320a14bfa6df8cd6",
+      "type": "edits",
+      "patch": "patches/chunk-logo-tile-BLC1hQH1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-markdown-C-3nSdb8.js",
+      "original": "3b5fa3b372605ccee112f89fe6e28466ad0c8f314463416a3a82d21c3913bb4d",
+      "localized": "8c6270342df6414a533743ca062fd1aaf920f7fbea645048869d2ba3cc063fc5",
+      "type": "edits",
+      "patch": "patches/chunk-markdown-C-3nSdb8.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-markdown-audit-DBOdIrl_.js",
+      "original": "e15db23c91fdd5353a1ede7697bfc2c154aa31c0c840915391719af3ba3b8d20",
+      "localized": "68923892453ac024314d6501cdaf9997fc685adee9a14f896791180314cc96bc",
+      "type": "edits",
+      "patch": "patches/chunk-markdown-audit-DBOdIrl_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-markdown-diff-Cby3XBAE.js",
+      "original": "69008a42961cf268110460765f041d14d4be4e0874bac7bda4f5bf05ed89a38d",
+      "localized": "c32cbebc0e2a01966f25ff558a4700e8e0e6cbce75b0d37f2c0630443a714a7c",
+      "type": "edits",
+      "patch": "patches/chunk-markdown-diff-Cby3XBAE.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-marketplace-sync-D58K4Esf.js",
+      "original": "524b339b896d365b688102d011dac18ec863b773f471244c2304ec98209bcd93",
+      "localized": "3d0110635439503b3d4ed4498ae2561a66cc9fd7fbe800f6900de2174688ca76",
+      "type": "edits",
+      "patch": "patches/chunk-marketplace-sync-D58K4Esf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-members-DIrQBGIg.js",
+      "original": "23960fc158dbf2e1c7320678000937572d0a1b0fd96bcfc819659a06db1c7cfc",
+      "localized": "9c57bb17f42597d29c8af682fc728bc65ffa995cc53f24ad4c97413831a2de97",
+      "type": "edits",
+      "patch": "patches/chunk-members-DIrQBGIg.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-menu-ypR26ygt.js",
+      "original": "21e7fa664759721b9ef7388383ae9c42f68d1559303a2d75ab4c9dac7c9e1f65",
+      "localized": "f7238eb064f014bb3d30469a0e365554c8a5c39aa3ede22b8aa4e2c61a476cf8",
+      "type": "edits",
+      "patch": "patches/chunk-menu-ypR26ygt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-message-preview-DpROZmv0.js",
+      "original": "6f23b97946ceba09d377bcc89bdf81e2d91d179b15d9c10fda0f48cb24332bd7",
+      "localized": "5cf6886ea21a467113389e20f36d0ac97bb02220da5cb1d1a23968e15be0be0b",
+      "type": "edits",
+      "patch": "patches/chunk-message-preview-DpROZmv0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-message-reactions-C8dZdaoo.js",
+      "original": "0a27587ab2d05722931a32fceb0f7cbf35f6a01f20ef8c7b30a64862e3ebb118",
+      "localized": "216b7d8dc9f7b556f86548014eba33bbf578937d6f4fdb02271c2032b918330f",
+      "type": "edits",
+      "patch": "patches/chunk-message-reactions-C8dZdaoo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-middle-truncate-BuWnCOlc.js",
+      "original": "0d721ed901e9e725c9852c1bd03b98423460d0e8decd49ab50f1af191beb4173",
+      "localized": "5c2a639b7de3becc921f2a564562fbeada314471b62372b6ff80a928d7178c9b",
+      "type": "edits",
+      "patch": "patches/chunk-middle-truncate-BuWnCOlc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-model-picker-concept-De_hfPJS.js",
+      "original": "caf537bd6f0a13be2161f0962946ba9bb38cb22712a874d3688597043a478f8c",
+      "localized": "90d0b7b08da0212735e7fed0269f964aa48af2510ff850c96a6e60a5c86ae17e",
+      "type": "edits",
+      "patch": "patches/chunk-model-picker-concept-De_hfPJS.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-navigation-menu-D9kOqf1n.js",
+      "original": "5ee33dc2cabaa4df322fcadbd03de545666e02c2ef2dd3badf23cb2f957dbef2",
+      "localized": "246c306e1afd45725adec06e3f2781e09610043eb96f59e27c9cb1df024acb22",
+      "type": "edits",
+      "patch": "patches/chunk-navigation-menu-D9kOqf1n.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-needs-you-card-De01Jhj0.js",
+      "original": "2ffe422f0c234228951c514df7bf2287652f16bcf0aba32b682b8630193f439d",
+      "localized": "05cae55f51ef9656d718a8a2298d2d26404b950411b605022cd8c1cf6ddd54d0",
+      "type": "edits",
+      "patch": "patches/chunk-needs-you-card-De01Jhj0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-network-access-governance-DflfovpH.js",
+      "original": "ec60f0c97f5de4177760239c52a5223e1e7566a8eced1ba5a6f46aca7fa4717d",
+      "localized": "91bc61dc491e45518fc8704e141b06271de1dd0a97fe05de3ca3e60198937f93",
+      "type": "edits",
+      "patch": "patches/chunk-network-access-governance-DflfovpH.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-network-access-request-card-BQT5DNy8.js",
+      "original": "49beed2d3a00ce7246fab5ea98657e3dbe028b0996c447895e426492f8398ca3",
+      "localized": "f9bdcdde61a13dba4da20e420ab14629835b69eeceadb2d737b368eb38bb7d7d",
+      "type": "edits",
+      "patch": "patches/chunk-network-access-request-card-BQT5DNy8.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-network-policy-editor-BnxELNNc.js",
+      "original": "0567f982a5092912b65b72f60a699e4fd1cf0403b98f590edd2eb9388cd51c9d",
+      "localized": "0fa36dd3cf72f9b599226e20a94f30f91a01ae73829f11b7e61cffcf76930742",
+      "type": "edits",
+      "patch": "patches/chunk-network-policy-editor-BnxELNNc.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-networking-D4ysUTGs.js",
+      "original": "b843dfa70fba905ae8132c879d342c3692528542058fc2fb2d7108917108c414",
+      "localized": "500b5dbe2d5c33cb5753f25496b92f8e52787969eebe96fd61b497ca3b8e7ed3",
+      "type": "edits",
+      "patch": "patches/chunk-networking-D4ysUTGs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-nivo-line-BOj3y-RQ.js",
+      "original": "a9870c9747a010c9d8f83987025745958fd7f4d64022d410998396f8e92a45aa",
+      "localized": "501db3c52c3a552d5bba9dcf94eb7e540c14d386ed3bd98fa2d7b96a04fcd5e9",
+      "type": "edits",
+      "patch": "patches/chunk-nivo-line-BOj3y-RQ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-no-break-icon-HJiO3HPB.js",
+      "original": "97e35f727ba69fbf8f7127fc149e9100b772904f344789490cc16e4e12019a4f",
+      "localized": "8ea04504ebce1c3fed8da6ba52ab576ec35af52c0b0da20bc9d5603248b36fc1",
+      "type": "edits",
+      "patch": "patches/chunk-no-break-icon-HJiO3HPB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-notification-row-DHY5m3h0.js",
+      "original": "79e47169696164aa374d89f034c825b63506f6ac020b431f36180b1e1689c4e6",
+      "localized": "87cef2c320e01fa30113edb7b3a22487c767217b7973cacff691c3f96db88ed0",
+      "type": "edits",
+      "patch": "patches/chunk-notification-row-DHY5m3h0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-notifications-bYRSceOK.js",
+      "original": "1fa672e60d6805ef431a79e0acc90c890d7bedb6a86f30380419dc0024fc86b7",
+      "localized": "17fbde8aaf1781b8ecf99498fbbc97f9d82c04c305e351434f42a9af776d08ee",
+      "type": "edits",
+      "patch": "patches/chunk-notifications-bYRSceOK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-organizations-M1KEmUoh.js",
+      "original": "eb3c429bd79ee46ad19a97cc93a257f7fe6821888a663645e610cdc502ce3ab1",
+      "localized": "7a57f6ec44fcdb3f01aff3a2998063ddf48a4c80c2f0e4e6c5f26aa50e83244e",
+      "type": "edits",
+      "patch": "patches/chunk-organizations-M1KEmUoh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-organizations-yF9szxnJ.js",
+      "original": "3aab4b3f25e6255e45d4fb58717e9311614eb40093034b1265fbf3d0092a8a70",
+      "localized": "cc7a2efbf6209f17fa087f3dec0dd62e17151278fb24d6685dfe92e22ad878a7",
+      "type": "edits",
+      "patch": "patches/chunk-organizations-yF9szxnJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-pagination-D_8i9m6f.js",
+      "original": "a789cbdb27e3cfd1070584cecff6af5191604898d7ffdbfca424273571dd566e",
+      "localized": "b17f5178abdf8c11345955b4e80f7aa5599f4b283fc8f4ee3c354fd8cf879e66",
+      "type": "edits",
+      "patch": "patches/chunk-pagination-D_8i9m6f.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-perf-xWfNIYWG.js",
+      "original": "246171699c8792217b36ff09bedd5cbc4d9ae6953ebf911bf0ab4587b773e080",
+      "localized": "16e0673b971e5c0ab7affe3e4c0c4f836215375af5ea3b08f281837c88fe7463",
+      "type": "edits",
+      "patch": "patches/chunk-perf-xWfNIYWG.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-pinned-rebuilds-CGnTygsO.js",
+      "original": "f6dc064a4b4aee32ada196d542ab7264d1e25f0c5a4cc1c57e286a8737237bfb",
+      "localized": "ac5577208028f614327dd58ace0b793cd7f43cb3b4d26dc8b950717004a35ba0",
+      "type": "edits",
+      "patch": "patches/chunk-pinned-rebuilds-CGnTygsO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-plain-table-CAmxYjxw.js",
+      "original": "e05872941024b7a49da5607ed25862804f2d5b68d04870e832e43fb0b37a0012",
+      "localized": "bb38c7ed2305c08415180dee5cc9ac094587ab9912bd5ddd758e132bafa728cc",
+      "type": "edits",
+      "patch": "patches/chunk-plain-table-CAmxYjxw.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-plan-BTXgVGRM.js",
+      "original": "9e7dabcfd3541d570fd5bd8e0e7819e36de97079b1354278a63b95728d35d5fe",
+      "localized": "05724aa074a33bdad54b7677a90238551a2122209729332584b07cbf73c748b6",
+      "type": "edits",
+      "patch": "patches/chunk-plan-BTXgVGRM.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-plugin-catalog-z2fAjBLo.js",
+      "original": "855248c3829bf7ce594d0c18f752fd653c61f3d0b1e77eec22bfda01eacfde89",
+      "localized": "1133384a9a6cee9b00731785522dc97360ca02129361d52cb17e950130e1d36f",
+      "type": "edits",
+      "patch": "patches/chunk-plugin-catalog-z2fAjBLo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-plugin-install-warning-dialog-B6C0GB58.js",
+      "original": "9c9894afbadbed4c4449d05cc53f559f250d481809f407ce144a8afc8a9f7600",
+      "localized": "3c738416c372ccc78ab84e34ed59d4d23d631aa13d064ef4e3a6faab8d7a4d0f",
+      "type": "edits",
+      "patch": "patches/chunk-plugin-install-warning-dialog-B6C0GB58.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-popover-CFcDdj3P.js",
+      "original": "f1bf38d23a2c7812ce26037ef23a546522dee0146efcd1a8f7c4612467bcfaf0",
+      "localized": "f793b03eb8ad8532585de5326581925a0643ea6ef8d31c3f61d80974b554f984",
+      "type": "edits",
+      "patch": "patches/chunk-popover-CFcDdj3P.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-pr-card-Dz9ehN_V.js",
+      "original": "7f77e745433dde1e2f7efe2e80b5f9f76af300397c34299b8d62df0ea38bd83f",
+      "localized": "f69032c2dd6360f14ae513cde999d72d3f398203b7379c1923e0d1a0af8ef59d",
+      "type": "edits",
+      "patch": "patches/chunk-pr-card-Dz9ehN_V.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-pr-state-icon-QmQ8T-gJ.js",
+      "original": "bb7d270239b23d0958126d61bdbd4c6e33469f0225adc66da89778c72ee31aa9",
+      "localized": "a9bfb4b94abd04fb1b35228825a7e318fdedcb3b622655a3946ecc965686dc5a",
+      "type": "edits",
+      "patch": "patches/chunk-pr-state-icon-QmQ8T-gJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-preview-card-4HqZaUCP.js",
+      "original": "85a985ee09ab5dabb96320dc618c8becfa10ec1c23372d065b76da418a1b58c8",
+      "localized": "8a0e33e4738f54a2de2229d2f9617e7c69fca88cd5f851e9087b5ffc17674dcb",
+      "type": "edits",
+      "patch": "patches/chunk-preview-card-4HqZaUCP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-productivity-Bh0AucJV.js",
+      "original": "7fe31d45452334b57a5415eb849e418aa57ed3534764c8b7e03071a9cf00a07d",
+      "localized": "249fcb9cc01146ac96f744edb5ea2e629891926f5270dd17d370f9c626d8a2f8",
+      "type": "edits",
+      "patch": "patches/chunk-productivity-Bh0AucJV.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-progress-bar-DNIDNK9p.js",
+      "original": "5eb0a54c6bcc2b922942c78f57420d5e7dcef7b7b216c93c0f5b799450e998bf",
+      "localized": "c3ad4ae1962a8396e76c9b166d0242b8ebacc8f032c671abda0ab7c070b8acf4",
+      "type": "edits",
+      "patch": "patches/chunk-progress-bar-DNIDNK9p.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-question-options-BqDKJUKB.js",
+      "original": "67a59947079a3368702859bb584f92403e90a0fb77ec33416a2b87e82868be3d",
+      "localized": "b4be5d3d547f65f05f8aa62ffd3761bba4317081e66cd01de2f60ae24a03068a",
+      "type": "edits",
+      "patch": "patches/chunk-question-options-BqDKJUKB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-queued-messages-jjMxYAAK.js",
+      "original": "96a7a910a71a2d4a1e6b64fc8736b8efc04ec3f334e8aa745ac468b24976c939",
+      "localized": "d2e352897261847db922c0e74d55d3fdcee3d11ad153f3f3a4f287cdc2921912",
+      "type": "edits",
+      "patch": "patches/chunk-queued-messages-jjMxYAAK.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-quote-attachment-pill-DPKMhN7W.js",
+      "original": "c0b6b6c7590995431450c743650f77a499fdd0f373b46d3f7cd033980bb1c19c",
+      "localized": "e33b03b9481fece9a94a95e0282b305bd8b10af2d88be8ce9aad305a88578da2",
+      "type": "edits",
+      "patch": "patches/chunk-quote-attachment-pill-DPKMhN7W.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-radio-BHta5dNr.js",
+      "original": "42dd92b8da227d5b698fb38e8a1855c5e2362062c38d4c32d296517b174e07de",
+      "localized": "33047f339e9217327229b6f93dcda55f25665677a257cd4be7ec88483dc81779",
+      "type": "edits",
+      "patch": "patches/chunk-radio-BHta5dNr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-range-slider-CMYxHQxj.js",
+      "original": "4034a6883c194e59e0d9b6c3b81af4e848fb2b47d4de4898eaea490cdd3de5c3",
+      "localized": "c2531e96a29455f0c6d22f718e6a540dfeb40098e78416a3acfa4960d2495a73",
+      "type": "edits",
+      "patch": "patches/chunk-range-slider-CMYxHQxj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-read-only-copy-field-BbY9FzwS.js",
+      "original": "c1a1e4e8bf60572977860d53533960509e11d1351cf39e375bdccd921ed587f7",
+      "localized": "58097521f33812acee899019a487970a4831e78f88b24f263ec57dab001ea115",
+      "type": "edits",
+      "patch": "patches/chunk-read-only-copy-field-BbY9FzwS.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-red-teaming-CuWdCOkO.js",
+      "original": "df29271198ff9c99cfc3a47fd1a3615a85e0030435c8ca7524469e46b0457902",
+      "localized": "e5860842802cdab700dc4ea119964e9a343521c58e898978a0134edbe762c26e",
+      "type": "edits",
+      "patch": "patches/chunk-red-teaming-CuWdCOkO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-red-teaming-DbyaxYJs.js",
+      "original": "3f0af61ba05b483158d46828db9d2609d72468a6b2a798213d06547694279cd6",
+      "localized": "eaf18f027b9a86071e89578e0d1545dcd550d5d983576501ac14bc8206cb8e85",
+      "type": "edits",
+      "patch": "patches/chunk-red-teaming-DbyaxYJs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-refresh-sfOX4n4z.js",
+      "original": "23f9260647023867962b2434b2d07d459301ad5378d8ef46b32c49ee7d0d0e85",
+      "localized": "4fddb6d4eb9cf7e50852a8d2631c7b6276f9cb0e1875b8daa29b3a4a47568c59",
+      "type": "edits",
+      "patch": "patches/chunk-refresh-sfOX4n4z.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-report-blocker-card-D_G6-vth.js",
+      "original": "827dbf0bffa60164da7a2fbb17c697d8d09a2153475b5f0781664d6144befc56",
+      "localized": "f93740da5a4022588486993f1074147cbd0a7bf51fc68d0a4c1d31570e30af08",
+      "type": "edits",
+      "patch": "patches/chunk-report-blocker-card-D_G6-vth.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-repositories-B-cGTkVt.js",
+      "original": "0dbb1b6cb4f445c2efac6fbe36b9205ddea43836c498ccac5256208971a0a95f",
+      "localized": "7d604c1aae6ff10a714b146be251ce9abf4bc2e949bf479c839506397281db0c",
+      "type": "edits",
+      "patch": "patches/chunk-repositories-B-cGTkVt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-requests-DE85Xj8Z.js",
+      "original": "dde18b574108018d6f0d46cd5c75d730a536f64554c96e3057b9ec3c4bc3ffbb",
+      "localized": "a406df91bbf8e919e16fc5815158e6eb4872fc9f639b113118f9878002f84f5d",
+      "type": "edits",
+      "patch": "patches/chunk-requests-DE85Xj8Z.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-resizable-DmDNVA5D.js",
+      "original": "ff35850798a2c696d59a078603546cada1a9f137f3ef83acb74a1e8d556e0b0f",
+      "localized": "853429fab553ffcc6a3707cc9b47f70283f6e11b07548a44881c8e8974217037",
+      "type": "edits",
+      "patch": "patches/chunk-resizable-DmDNVA5D.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-resources-BIaEOOY2.js",
+      "original": "f9afa28ae6450fb5610dd2f38146457b453aaeb0218f49c106144811230036e0",
+      "localized": "85c3b8c12f547ced9d9a24618ea40889d9a3f748bed4cb527d259e4bd07c05f9",
+      "type": "edits",
+      "patch": "patches/chunk-resources-BIaEOOY2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-roles-tkXvYzKS.js",
+      "original": "554ad7cc2b0ef26e6a31291486ae0c8bc4d17eb42a1b5d75a94cae166e59b10b",
+      "localized": "62351b3f952cfb2710700c737b23fd4470a5def44aaf59e98342f893da5937a4",
+      "type": "edits",
+      "patch": "patches/chunk-roles-tkXvYzKS.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-route-BGV4jbAm.js",
+      "original": "d0650692809375aadb5f4d92a591a53e31cb6b7944201c65ab598cb6c95c582d",
+      "localized": "0cc8678609436903312d1e6056387d724f5556039db574773e47a50f1fc5094b",
+      "type": "edits",
+      "patch": "patches/chunk-route-BGV4jbAm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-route-BOpiCFnS.js",
+      "original": "15a83912fdab939a114136888871ccfdfd773efb0ad5509172ac8a2c6bb0e272",
+      "localized": "8ebff2f2f6c6b76d3617ed9d172815be0d1a7cc350fab4df570904746fc007bf",
+      "type": "edits",
+      "patch": "patches/chunk-route-BOpiCFnS.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-route-BnzeRqr2.js",
+      "original": "4a2eee347d1208a142e2a2b7d444e1917fe7bc2e801e402f97675c946f7ef19d",
+      "localized": "dad766d7982610aa2e73205cd3a9410682a52888b8e41989a8ec788dd5823c34",
+      "type": "edits",
+      "patch": "patches/chunk-route-BnzeRqr2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-route-CkyUIsvR.js",
+      "original": "6fa40b32bc62768a723e973d60c57d26ec58fbc3c7ad1b8659aec42f0ce58ecd",
+      "localized": "7f5b13dbe0fac9a4b8f96532c7252475b6fcab5a44c727987a3c66356912928c",
+      "type": "edits",
+      "patch": "patches/chunk-route-CkyUIsvR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-schedule-time-select-B6VFAGhj.js",
+      "original": "dc8e53765364806e4a3f5caf594f37f190bcdd6fa61e96ef315e5eab0b1d94f6",
+      "localized": "106050c16f856b1c1f3238712742efa03b73d3051f3947af431ef4d2302e75da",
+      "type": "edits",
+      "patch": "patches/chunk-schedule-time-select-B6VFAGhj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-scm-Dg1TmnVX.js",
+      "original": "109913002e921c824961752eeceabf9ca192501db51056ca71b3dcb09fc149e0",
+      "localized": "cfe2c6306dc3826e37f0e40c036788f1f45846cfffaf90ff455c1255d2369e50",
+      "type": "edits",
+      "patch": "patches/chunk-scm-Dg1TmnVX.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-scroll-area-z6UV2gJD.js",
+      "original": "e47494bf8ee9a8f6b35b3060ad81445083759bbc4e7053802a8c7e2e17d5de37",
+      "localized": "c62658fa54a6bdf16f61ad4f8d09c3558135c35d0a1957a262d63a36e93af87b",
+      "type": "edits",
+      "patch": "patches/chunk-scroll-area-z6UV2gJD.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-scroll-to-bottom-button-1892mnVU.js",
+      "original": "79d9b7860abb307ca372bd8163285f2bc6617ecd7431d1b24ee622d49aa6cfd6",
+      "localized": "a23b0d5f4d4a93e007d92296d2fb49d82113333da2aff5dcbe92f5d6c6e506a3",
+      "type": "edits",
+      "patch": "patches/chunk-scroll-to-bottom-button-1892mnVU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-secret-input-BbzVU2LC.js",
+      "original": "9a778cf38c69d72b2d1d97a95e85fb8b5d77274001598fe5b40940d381c91014",
+      "localized": "3c25e639f18a1ea8b21eb5edcc28a307788371d99a75b68981c4d314722458a4",
+      "type": "edits",
+      "patch": "patches/chunk-secret-input-BbzVU2LC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-security-threats-xf26t30t.js",
+      "original": "9ce71b55afaa294f3494dd8cd0b577aa785abd4c141455d8940603f65203661f",
+      "localized": "e52a2ae3530cf35bf0b0450d87944c4066adcc210c6b1b48222a9001d6dc9e6c",
+      "type": "edits",
+      "patch": "patches/chunk-security-threats-xf26t30t.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-segmented-control-q8o74xHO.js",
+      "original": "6dbd12626d58e1022a5ea2f19944344f2d3f69bac5857fb99289ab208770626a",
+      "localized": "2e7ec1be123c6b4a985d42abece3aed66f5c1e0efe8fbb118f4cf2c42ddb6240",
+      "type": "edits",
+      "patch": "patches/chunk-segmented-control-q8o74xHO.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-select-BTuhjbSC.js",
+      "original": "d4603860bdc27ccd2eb196a3a314f9e05009bc970c2397d741d13c711105f135",
+      "localized": "d94383f1002c169119cb188fb59c6e7572cea5ff887f37733eeb9a24f1c5b48a",
+      "type": "edits",
+      "patch": "patches/chunk-select-BTuhjbSC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sequence-sync-8ayWixgU.js",
+      "original": "fe5e5e2e012b442a92c3c2826b97c7e7338722821696ecb65274df81aaaa6aa1",
+      "localized": "bfedc77c67af795bd298cae5a0cd73445e49be6a6b2484e27d5f91aa6c67d45d",
+      "type": "edits",
+      "patch": "patches/chunk-sequence-sync-8ayWixgU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-analysis-Qe1fGiIm.js",
+      "original": "1f8b204ecc70d527432913a3024e3a2fe419e2eb0fa42e80cfdf36320e377f7d",
+      "localized": "cecefea20461a04555405489a88b12a3a3f4dd7a44e7e004ca20b9b19c8d914d",
+      "type": "edits",
+      "patch": "patches/chunk-session-analysis-Qe1fGiIm.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-artifacts-CKrSUTdN.js",
+      "original": "6d17fb92c80b4b3cd7a64a741fff57227d068b119c36f63f27947f119b860a74",
+      "localized": "f44747a72d05d21b3f9c24cde9d4cd024a3deacd3860878a05471bd4a7827cd7",
+      "type": "edits",
+      "patch": "patches/chunk-session-artifacts-CKrSUTdN.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-dialogs-lE0sHlU_.js",
+      "original": "70f861c2d8ee5ebac8c033e309f078afffcceb1493bb33d6b15682379f6f270c",
+      "localized": "a83f8980f8371b485f3b3a9c46acec3661ba3a80aac0fb2d0d3b07e7cdd64dfe",
+      "type": "edits",
+      "patch": "patches/chunk-session-dialogs-lE0sHlU_.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-groups-C3Zduy-U.js",
+      "original": "5192a70deb86045c40a065a44aa7d0d94f18e0e51b148151d5d9ccaaa8ba6121",
+      "localized": "adb4ae93a8fc21ae2c7172f0bbd5da8e0858756611c162fdce158b61d8db3dde",
+      "type": "edits",
+      "patch": "patches/chunk-session-groups-C3Zduy-U.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-item-BCALu0vJ.js",
+      "original": "24b007f0e282e2bbfecf8ed74ddf55917338e685f510d3eab645d761407b97ae",
+      "localized": "1f76b3ba1a31339f6edf0e9af58044e44964037892d159e26065644cb3d8dc4c",
+      "type": "edits",
+      "patch": "patches/chunk-session-item-BCALu0vJ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-lead-states-C3u8UdL2.js",
+      "original": "7a9755180fd5d4190a8705a5c7726ce9b15a731c638f8fa9ac093b048cdd18a0",
+      "localized": "486f534d165aca8d057cca4d76f92a880da20b845bfd343201ffcf4c0c7a032a",
+      "type": "edits",
+      "patch": "patches/chunk-session-lead-states-C3u8UdL2.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-list-menus-BPoriU96.js",
+      "original": "ac3a9b05ccfcf395a143a670f090a851f2e9203f9a20f8fd418133fd52ec5a1f",
+      "localized": "5b2f34a7b2bb0e25062a0ad760055eb78a87398d66acaad159a437b3ac311a35",
+      "type": "edits",
+      "patch": "patches/chunk-session-list-menus-BPoriU96.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-list-row-mMLBZ_lT.js",
+      "original": "53c62aa6af8411109b4b3ac1123d58de7b8482aa5ab8721b111192b287b26bcc",
+      "localized": "de6c0374c2550dc75431f4e8c3294c39c6fcea71aa3518c9a7388ae0fb56a260",
+      "type": "edits",
+      "patch": "patches/chunk-session-list-row-mMLBZ_lT.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session-preview-card-BLZjIgSl.js",
+      "original": "831b26c73968f32ad9e32d0a323373c554f527e54990525355f3db22e2710a98",
+      "localized": "0cb490f79bb27004ee44682021fb5ac2e1f2670c5d94625c0b9783bced9ef3a2",
+      "type": "edits",
+      "patch": "patches/chunk-session-preview-card-BLZjIgSl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-session._sessionId-DYwcoCmr.js",
+      "original": "e14ca39033a49b42d080de870b2929cc5cc2ca0c3334b70586b0f995e9156b6a",
+      "localized": "918f027c02677068cfb72ae94b0165c989113092c093db210c4b7086fda93eb3",
+      "type": "edits",
+      "patch": "patches/chunk-session._sessionId-DYwcoCmr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sessions-Bc_BxKJ1.js",
+      "original": "5038cbdbb2063d5a0efd33d68bae2802b6bc4d5249207afbd82218d9facf7028",
+      "localized": "536b1d8ec1fa49d3b73361704891ebb583c281cd596b14fb03a94752852aafc7",
+      "type": "edits",
+      "patch": "patches/chunk-sessions-Bc_BxKJ1.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-settings-CzVVrcOZ.js",
+      "original": "eb32cc3a0df829a2e755991090e1cb303bcb230bde45d49a5ec3e2bbde6c6337",
+      "localized": "e85aa3868f6063dd5b5db27565d5b198b334d2d84d3c3ff53bffd5dbb5b8e046",
+      "type": "edits",
+      "patch": "patches/chunk-settings-CzVVrcOZ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-shared-C_BmwEhr.js",
+      "original": "a8dd3cadf3b3c881f6132849a270140738737ee96e4db12a1503997ffbb89c67",
+      "localized": "38194eff98c0c63bdaf77cf8c27b8c0e045107093851268cfb5f05e997e7ce51",
+      "type": "edits",
+      "patch": "patches/chunk-shared-C_BmwEhr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-shared-CziwH4Xh.js",
+      "original": "a8b463a46eb14f6e13e485716f86ff7b0fb62051664e9203ccc66f4d4030a5ec",
+      "localized": "53b7158b35816da96bc028205a26b07decdaccef2c06fb156dd35c969333fba7",
+      "type": "edits",
+      "patch": "patches/chunk-shared-CziwH4Xh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sheet-9e0pOavq.js",
+      "original": "e48acd40b4d097e68aa3b092f820576669833ee1f4d0337ec88a1eaaac005e06",
+      "localized": "712b0a68f93e8b38dc2014cc20fca56a9a2f91e130f1849f3fdbfa1136bcf11e",
+      "type": "edits",
+      "patch": "patches/chunk-sheet-9e0pOavq.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-shiny-text-BbjCtY9J.js",
+      "original": "81cb14affbe41799580241ea667fc719a8b8e728a3521b309673a751c44edc14",
+      "localized": "e0bd8e1883e06662b99c1a9b280b6cc0a673f8cca049fa7586bbe84d5f12b3e7",
+      "type": "edits",
+      "patch": "patches/chunk-shiny-text-BbjCtY9J.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sidebar-CsKt6yvo.js",
+      "original": "92f87c0135642e54668ce81d454351a1df460a41cfc2de693dcb62b2aff5bd55",
+      "localized": "691187f5c5a2ed3eebf63b98a828948c21e8c3e2ff4b1678514b197d746a62fe",
+      "type": "edits",
+      "patch": "patches/chunk-sidebar-CsKt6yvo.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sidebar-sessions-group-header-Co4BCksl.js",
+      "original": "23bb440c4e3fd05d964f70801c1585d0fb5a118984dd0413d97e1e1412b924b2",
+      "localized": "167cc78c9d8a3041b095c375c4e3c7b5f8dbf5e55ceb5f9e3219efd742c7b143",
+      "type": "edits",
+      "patch": "patches/chunk-sidebar-sessions-group-header-Co4BCksl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sidebar-space-header-C_nYgsOr.js",
+      "original": "fb29a50911cfa6c8dfa81ed4785d7edfc25d9a980dfa5a1e47419c5817b27760",
+      "localized": "39200d5ecbd392151229d71d4a5890065cbc7c98d88d6767c2a23744bd656928",
+      "type": "edits",
+      "patch": "patches/chunk-sidebar-space-header-C_nYgsOr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-sidebar-voice-call-CCKpdnv-.js",
+      "original": "ced132d0d437ea23a0cc7eef9644838aa5a0739b4e62ff3bc2d9ded4211145b6",
+      "localized": "eb8c41f96295a191bf60265996733108a2bdc8311c2b361ed0550b8db3edfcd7",
+      "type": "edits",
+      "patch": "patches/chunk-sidebar-voice-call-CCKpdnv-.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-site-banner-kuFgUokw.js",
+      "original": "9fc4b4f29a03a5d5173dc9bac350ca9f81abb10cdec2936139b780acc533e255",
+      "localized": "7aec4c43b082ffd6a327ca0a7bc695742acf139f3a8401ce1bbea4fa92fb0a76",
+      "type": "edits",
+      "patch": "patches/chunk-site-banner-kuFgUokw.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-skeleton-CPT-LElR.js",
+      "original": "f4ae226fa95aeea4cccec4e96141a656ccd3d6344eadd2e3bb90eb577f7c2258",
+      "localized": "690ffdd530c28dc2aa2adcda347fc99c9bd87941ca994cabbee004141842ce55",
+      "type": "edits",
+      "patch": "patches/chunk-skeleton-CPT-LElR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-slider-L2bcxFkx.js",
+      "original": "06d1f7b695d95626a6ba99d1d534eea997616b0a708354ab08747d5346d5459a",
+      "localized": "708ddbd71ed020906e9614500373dd375ca90c0f48ed220d9be382849d1f95e1",
+      "type": "edits",
+      "patch": "patches/chunk-slider-L2bcxFkx.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-snapshot-build-jobs-tfhfc6No.js",
+      "original": "e9058982e366ab9f3fbaca5e4bc36416f23b43b0a237c153b3c74c4d5728abf6",
+      "localized": "671ab77432000d32acfc84b4de8e311ac7540bcc0a5093784265ba1368c0041a",
+      "type": "edits",
+      "patch": "patches/chunk-snapshot-build-jobs-tfhfc6No.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-space-header-BtOk0-Wr.js",
+      "original": "5937f93aa6bc52dcd20a722af7245db47fef73d46ba7c1a9b8e020878332a3e7",
+      "localized": "3d836c4e871ff28795a7273bfd7c41de0a501ec01f273a88fde7ce2af8277e32",
+      "type": "edits",
+      "patch": "patches/chunk-space-header-BtOk0-Wr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-spinner-BkWMI6hr.js",
+      "original": "66b33bb769abdb2e65aaef0fe2dc2d3c9377553620c4187e2315f1fa672a1bbf",
+      "localized": "e5a78829dc7661989cc80f7ae7a27d36b45224fa6667980bfbcfda5ab5bfeaaa",
+      "type": "edits",
+      "patch": "patches/chunk-spinner-BkWMI6hr.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-split-button-playground-5VzZ-_2m.js",
+      "original": "dbbd65238515eb37ac85041151f2fd8827c0594b0a0f8d6ca3e18531ae912c18",
+      "localized": "f85d00a0dfc451d663b23c9e4e1d978adbaa924d0c7a1fbf85485c9803c6b9b5",
+      "type": "edits",
+      "patch": "patches/chunk-split-button-playground-5VzZ-_2m.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-stack-member-row-B1g3kISh.js",
+      "original": "52e9e3c0347bd66cc591c4e171cdf7675891e044bdc32340dfa82bf76cbf94b1",
+      "localized": "26593ebc711d75b8946b4dd5ecaed40a649954abed689794ffc8383be405b4f8",
+      "type": "edits",
+      "patch": "patches/chunk-stack-member-row-B1g3kISh.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-statistics-DY3v2FKg.js",
+      "original": "4b927c2adf8947901007f245cae839d1235b2a3ec5a71edb93ba69def553767f",
+      "localized": "dfd68cdb19a6db0368920878cf90e5cbf55e29aefd645866ba7eb28f3651ffd0",
+      "type": "edits",
+      "patch": "patches/chunk-statistics-DY3v2FKg.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-step-up-B_IKF42M.js",
+      "original": "7b048b26ab1fa89871e2429ee634a30f424cd9f342b9a0c47019ff35ca8aebe9",
+      "localized": "3df51ea15b710489ff32cd6c3e7847c1e92da465017d78fe803879848bf7ad88",
+      "type": "edits",
+      "patch": "patches/chunk-step-up-B_IKF42M.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-storage-migrations-Dt0jSPbA.js",
+      "original": "5d0550f48056bed955785fbd9d32bdf9cd8f619f6f33e7ec64e7d54fb327ef10",
+      "localized": "15f9d4cf0d9091ff9e17f549c0055fbd932cc1f95595ee0c337fa3e3c1b8add6",
+      "type": "edits",
+      "patch": "patches/chunk-storage-migrations-Dt0jSPbA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-streaming-markdown-block-link-suffix-DS3kqOjk.js",
+      "original": "9098174ef3bdccd5743ac5fc1891298b6270bf0f4032009c4047cce4d4b6d955",
+      "localized": "2c91307c99b868d9338b8ef57f83d2354b0979cb27fdb3b56bf2137ff21d9863",
+      "type": "edits",
+      "patch": "patches/chunk-streaming-markdown-block-link-suffix-DS3kqOjk.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-streaming-markdown-demo-BTLah9Xw.js",
+      "original": "1fcad80a0bc8beba7e163cc8206cfd141a7d8a335981e4f5df892b6bdc7bf5e3",
+      "localized": "0ae7785deba1c7ce9b25284a40ac89b14e93c1eceb52461495356ddbbe4bf2a4",
+      "type": "edits",
+      "patch": "patches/chunk-streaming-markdown-demo-BTLah9Xw.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-streaming-markdown-math-8xa5Q_10.js",
+      "original": "6cf73e9d1ae885956db78ca09647fe28757226cae9ff0aca3d8e8f22c103f49c",
+      "localized": "5331e6b6e75e27b61cadbb8d915e00a3a262c46453c76c1466c39efda9144cf8",
+      "type": "edits",
+      "patch": "patches/chunk-streaming-markdown-math-8xa5Q_10.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-style-PgYalFuB.js",
+      "original": "9479ceed442e96f3cb4902d4134bd3413893258561886481fe2b4006b1dc229a",
+      "localized": "77cc10a2fb0004970eca1ad5c0b390a29829290bdefb4419cf259841f3fbecdd",
+      "type": "edits",
+      "patch": "patches/chunk-style-PgYalFuB.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-suggestion-pill-Vm9sIe3C.js",
+      "original": "dbe94b59d7ccf138ff8237bca526d94ccb527915518d065cb42af93c7675de87",
+      "localized": "e28666067f8707d900a4cbe2b568896cb73b240352854c97f51c04d948cc9326",
+      "type": "edits",
+      "patch": "patches/chunk-suggestion-pill-Vm9sIe3C.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-suggestions-dropdown-iYQXIKSR.js",
+      "original": "560542a910d6f5f9612ba7912f357884f8bc0f9747c59bd61317fa6162f620c6",
+      "localized": "fcbc9c0bc298e464516ad9c5f50de22e8c61eb6a83374e8005396cd42268a326",
+      "type": "edits",
+      "patch": "patches/chunk-suggestions-dropdown-iYQXIKSR.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-support-tools-BmnpFFwl.js",
+      "original": "9b2ad07d92d7b7524b3439efe2442a4acfa1dbee7d44a916569d0c452933ecac",
+      "localized": "4c261b74bfe7f09a37a7483edab6d01609918c5b948416a1ed45d0dc3d62bdca",
+      "type": "edits",
+      "patch": "patches/chunk-support-tools-BmnpFFwl.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-switch-D42vBztf.js",
+      "original": "2c9e3c64a00f9dc72b974836410bf575ad8e63562223109e7448c6751107e4b6",
+      "localized": "4650fe24cb4990b47a96531c045632fb551ef46ef20cbbdb9e3dcb7ac69f8cfd",
+      "type": "edits",
+      "patch": "patches/chunk-switch-D42vBztf.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-synced-loading-circle-BG41AiDs.js",
+      "original": "cd6716bbf313253980e68f547caa726cb9205fb8e3ddedda36bd42c8db66c00f",
+      "localized": "b1c0f663180d4e24f948bb0d7e81d30f264c0f4f7c9993288f9d03a90747dffb",
+      "type": "edits",
+      "patch": "patches/chunk-synced-loading-circle-BG41AiDs.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-table-D-mWCJFv.js",
+      "original": "098670c2d5bbf243e3e19b11b75964f6d0f07b023dfee59222fc3eb455858e24",
+      "localized": "792e10c309a414b155af0ee41960136bc54a0110bddc737a0bab483745d223bb",
+      "type": "edits",
+      "patch": "patches/chunk-table-D-mWCJFv.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-tabs-BdTG5DDk.js",
+      "original": "6d4f9b16f4ccf8110242125358fb0f5f07120bdec7e72b89691c52f9d7324b1c",
+      "localized": "0d10ada9d1f4e8f4341f7ee5d19eb1931f25d7c0105f565149042119af35f13f",
+      "type": "edits",
+      "patch": "patches/chunk-tabs-BdTG5DDk.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-teams-graph-subscriptions-DR0IVcf0.js",
+      "original": "cc1ecf6d148dc5a5de007ecf81ad911597f66f7fa147c7ff8aae5fd93c4b1d91",
+      "localized": "c8b9b5afe460d2fa2b12439f3509f9bc4f0249aafd00731703a583a2d0c3a095",
+      "type": "edits",
+      "patch": "patches/chunk-teams-graph-subscriptions-DR0IVcf0.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-template-library-rail-BhM3sxWU.js",
+      "original": "a7f3583e7ca6f8bf9bc5834e97cea1eb4b32e63e3421ab382f073dfe3b8aee47",
+      "localized": "49e4d5970127c061559cea93cd47da9da6358ceb9624382dcd465e4952ba7ccc",
+      "type": "edits",
+      "patch": "patches/chunk-template-library-rail-BhM3sxWU.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-terminal-container-WFoEMRnt.js",
+      "original": "067ed5244f8ba88049b1f24b6d0df123ca2317242b600a2b6dd58a1dd629ee44",
+      "localized": "990e2e84ad5da141f4e78c9a8571236ee597a771ac70d5ded2bfa71ed37b5fbc",
+      "type": "edits",
+      "patch": "patches/chunk-terminal-container-WFoEMRnt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-test-recording-Dxvan2Xb.js",
+      "original": "770c6898e8dd06809036d7339e5f01719185a9011a538a357dcb30eac4dad481",
+      "localized": "51449c80c3e8ebd7ee2e09cc6f88d54d455e14bb240b2294cf3e1424e1938c21",
+      "type": "edits",
+      "patch": "patches/chunk-test-recording-Dxvan2Xb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-textarea-DfRbNp5V.js",
+      "original": "96e720ab6e943b87b613aa92f9c7bb813d19309450c7784e3b277674f9dd6f84",
+      "localized": "05130090fbc5390b77054ed651497c226d7c5e1418d40226d328f0dc3c63bd6c",
+      "type": "edits",
+      "patch": "patches/chunk-textarea-DfRbNp5V.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-time-ago-DTcDFOTA.js",
+      "original": "e91f2307b0bc081f35734331ad8aca5065ec8af9e2cc6e6f49addf891096d0a0",
+      "localized": "eff83b72e6dc7b13e613a2a92eff02746f1922d90ed1eb777bcc2db7b44ca47c",
+      "type": "edits",
+      "patch": "patches/chunk-time-ago-DTcDFOTA.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-timeseries-FzTCUjvd.js",
+      "original": "8a87f424d58162e51bdb47606d60754b5a0fb07c35a2dc144f8ff076f61c64f8",
+      "localized": "f66faa6697080bd6a4c9dbeca375a4ce36077c6043b88c8233536c01fa812861",
+      "type": "edits",
+      "patch": "patches/chunk-timeseries-FzTCUjvd.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-toast-DJ3SMqzz.js",
+      "original": "962e97c042dea9dca6a1c656ffeaafa2f699a4af8ee74831d0af1129910756ac",
+      "localized": "2733770c9e5a2375b0b1259237c53e6b0a5826363bb4e627a5d5e6aae13e2699",
+      "type": "edits",
+      "patch": "patches/chunk-toast-DJ3SMqzz.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-toast-gallery-content-YCB7tC5C.js",
+      "original": "7dcac7f9b167c543d3be6372c853309c03255d0db2865d012162ea5d070ef491",
+      "localized": "ca429f39bb1e92734175d86ee3359cbebe97b03639b1e6e955f8b4ce2e45bea6",
+      "type": "edits",
+      "patch": "patches/chunk-toast-gallery-content-YCB7tC5C.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-tooltip-B864I_VF.js",
+      "original": "1a6f9fd87421c7775cabbda36fb9e968301fc3444d52088e7c7fb8d2f0bdfcf5",
+      "localized": "eecaf57723b0ec1224b479b7a7aa33974317ab0dd6102051ca4569c24e21394c",
+      "type": "edits",
+      "patch": "patches/chunk-tooltip-B864I_VF.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-transcript-gallery-BSH9ZX9Q.js",
+      "original": "dba85acf53aaaf306e98139b1df74a99af2500d10825a0beba2819f5fa9f765a",
+      "localized": "d597cb11f496e791e05f124bc1bf95da6eda9cbefe488e7906acc2a5bc28824a",
+      "type": "edits",
+      "patch": "patches/chunk-transcript-gallery-BSH9ZX9Q.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-transcript-vtmcv_7H.js",
+      "original": "aa3e36d7081fe10be630b481abf70fc52ab134b5d241f5d6732600b7a1a2e46a",
+      "localized": "be8355cd8eebf836486af964adbe11bf712f25cca0b8f1005d7ce785ce426748",
+      "type": "edits",
+      "patch": "patches/chunk-transcript-vtmcv_7H.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-typing-bubble-aUueQqDj.js",
+      "original": "0ac44e8de2eaa8ee357eddca1413820d5d783461eecd8d727c7bd8511646c113",
+      "localized": "148587a600b323c1f9de0adfea8644173dde5554f9a05432d164a59eac300152",
+      "type": "edits",
+      "patch": "patches/chunk-typing-bubble-aUueQqDj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-typography-s4zdz2RM.js",
+      "original": "0abfed856bfedb166ef9c904d3134d94d72b951fb3e0fba22d8c3e004b193169",
+      "localized": "d21b703e5cc34e4f948a5e9166c41f3cbf11383f4d6d1f32efdd373902ab5fc2",
+      "type": "edits",
+      "patch": "patches/chunk-typography-s4zdz2RM.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-usage-DTAODKR4.js",
+      "original": "796cc56d95fec50b5be84bbc590195e3ad937cb6b68b43c193d602c05a7d5139",
+      "localized": "0a228ce7319c579ab805ef0a7cd44dc74bb4f055687ce45e8013c32b2c89a166",
+      "type": "edits",
+      "patch": "patches/chunk-usage-DTAODKR4.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-usage-policies-BjDrQ3bT.js",
+      "original": "d948741b776389d053a359cdb3775b3b6d746e762d85b853c43e5d7af37e8b84",
+      "localized": "840640fd41fff345b32c215160381ebccae026586ab33ecfc1e7a11df65ffa3c",
+      "type": "edits",
+      "patch": "patches/chunk-usage-policies-BjDrQ3bT.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useCostQueries-CNn69Hfg.js",
+      "original": "83e7c0f4a083e4054d8fa96102f75541b721b575ca6bc5f6235263a73cccde6a",
+      "localized": "33c15cf035940df1d889c4290115d38d8f379386b740db5d05884e51d78b0996",
+      "type": "edits",
+      "patch": "patches/chunk-useCostQueries-CNn69Hfg.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useImpersonateAction-xTV1DkYb.js",
+      "original": "38a808982a9298959af7133e7c688bda549d1db0f974d08e13f416cc199d9d65",
+      "localized": "5eb301514a2058b8b491570bfb908f5b623d1d3b23d9ef12df061313b722f626",
+      "type": "edits",
+      "patch": "patches/chunk-useImpersonateAction-xTV1DkYb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useMutation-CkNK1_Cj.js",
+      "original": "2d39683838234eb9f52888022d30e64634426f84c69dd922f977bba27739070e",
+      "localized": "6d25021963fa06f37d44f615a7e8dffe047db3e4bd02de2ba8d7d8105f17a7da",
+      "type": "edits",
+      "patch": "patches/chunk-useMutation-CkNK1_Cj.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useQuery-BAHTcMji.js",
+      "original": "39e7af099cfce0f68e42b0e31b4d86ce4c9578f1bfdef2fba906979bee18b159",
+      "localized": "856f13d4ab2054c0e8b1023dfbb5ff3a7c59434cfac23f22185f1ec18b15b6a2",
+      "type": "edits",
+      "patch": "patches/chunk-useQuery-BAHTcMji.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useQuery-CinEwT4Z.js",
+      "original": "d1ce332f687368d2fb27d784fc9d1e3c0bef15a390285a0795b14980a70caa65",
+      "localized": "6d5fbdd587587ddb615c3ba0de60bd4b0f311b7b4e84ac683f9786ae33fafc80",
+      "type": "edits",
+      "patch": "patches/chunk-useQuery-CinEwT4Z.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useQuery-CsNO2Pil.js",
+      "original": "83359a5d7354714d4da73af70c6c0eab3a0b5fd8302c41e343159bb3e0c93dd6",
+      "localized": "741cc10429f75f6977d4d6dbb05d2cbaba598b791eea2ca66c5d02dc7b28c28d",
+      "type": "edits",
+      "patch": "patches/chunk-useQuery-CsNO2Pil.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useQuery-DkNpzg5H.js",
+      "original": "f2a9d2d153390209f6497df2f2ffd1758ab561d2a4ee02a3607862760c7be5cf",
+      "localized": "242dba57cf3f2678fc2a157a1da465b84db4638900987a5fd79101211309f3a7",
+      "type": "edits",
+      "patch": "patches/chunk-useQuery-DkNpzg5H.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useSalesforceValidation-D-0-xDt5.js",
+      "original": "ca2c8546e6523df142151d8fd545327433dd1bc47830ef8a5371bd8483b21325",
+      "localized": "41f5806539fa64f3980fcea3fb0279cd91771d0a2590e7af6daddcddc039c78c",
+      "type": "edits",
+      "patch": "patches/chunk-useSalesforceValidation-D-0-xDt5.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-useSessionStatusPill-DGYguaWt.js",
+      "original": "41703dd614485cefd70c5d53592346f8bec477c9b29eb9f90aa056cb0994863f",
+      "localized": "a5daf55ade632ece437a128d219c4b7fc8191f0b8f9f5a415f5f688cd2bc45ac",
+      "type": "edits",
+      "patch": "patches/chunk-useSessionStatusPill-DGYguaWt.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-users-B-vp-R05.js",
+      "original": "212f7a7107ab6e2612a3de15e7710a83a04020c1921d95cfc6ec14d88e5ee225",
+      "localized": "bb749c05fd8ca3f44965ebb6f9e8dce230e3f0e9eb085f18ffa9cf5b43bceab0",
+      "type": "edits",
+      "patch": "patches/chunk-users-B-vp-R05.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-users-D-zTs0ve.js",
+      "original": "fc509a1c410ff350bdd38be38cb6db5aa43035783906ea24f11f127ab0bbc2cf",
+      "localized": "b81bf6ae44ac54f24d53467a975544c8cd6296bf00c9e3ba49f765e628021f35",
+      "type": "edits",
+      "patch": "patches/chunk-users-D-zTs0ve.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-video-attachment-BHexdzLb.js",
+      "original": "cb693c244ebbc4f953902053bc5f0ae62e74dec64c4a45edbcd969573bf1967f",
+      "localized": "62c2aa9d2bbc4cdf02c5deea4d0fc804ff42bc3ebee8f83e95100bbe9fb87015",
+      "type": "edits",
+      "patch": "patches/chunk-video-attachment-BHexdzLb.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-vnc-screen-DIawNIcQ.js",
+      "original": "711abfa2bb18908106ebaf6281b99b1bd04ee57bb99808b4217cc428955538ca",
+      "localized": "c33a1e96eca2947c577a5282deca2d7728d1006354ca17d06a0125c999f5d489",
+      "type": "edits",
+      "patch": "patches/chunk-vnc-screen-DIawNIcQ.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-vpc-D1ZWedAP.js",
+      "original": "82530e78b1cd8b8adf74916e3355faedf5454647bfe4afbb5e3d4b891b53d682",
+      "localized": "02be03a3af9d646f273101474633eebdf09ffdd7b39e656abc70a2fe04393d4b",
+      "type": "edits",
+      "patch": "patches/chunk-vpc-D1ZWedAP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-vpc-enterprise-DP8d4mk6.js",
+      "original": "bea51e7903d9386bbf42428b22f20393c505f06e37aa184a9064eccc7d7cbb44",
+      "localized": "f8f5df42d43878b169865f543f0bd3c1120a257748908b9fa1bbb035e647f25c",
+      "type": "edits",
+      "patch": "patches/chunk-vpc-enterprise-DP8d4mk6.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-vpc-om7l2rkP.js",
+      "original": "9b24fd95773489ac569ef5a68e061cc98b0a933d1fcaefaca23877b874301338",
+      "localized": "7a2397cf8bb4da28ad4e32f4c578de8c59fc833488da6c11902b5d18f080d1cc",
+      "type": "edits",
+      "patch": "patches/chunk-vpc-om7l2rkP.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-waterfall-WYkDMX5h.js",
+      "original": "396bce59300d2022756d86519c2bd276354c88b47c5339f6c282e0c3a9f53200",
+      "localized": "38af49e3dd612a259b9964d8246fe94796878ab08569c17f1cdc453f0cf2d290",
+      "type": "edits",
+      "patch": "patches/chunk-waterfall-WYkDMX5h.js.json"
+    },
+    {
+      "path": "out/vs/workbench/devin-webapp-host/assets/chunk-workshop-readiness-BNJMcpbC.js",
+      "original": "150ce39600c615edaf0d03164f9f964ec705e65f736c933e5ce2812618929679",
+      "localized": "3799b98975cebe6cf1df2a3727f27e68f48dd124b4285fb0d83ac15c93b16018",
+      "type": "edits",
+      "patch": "patches/chunk-workshop-readiness-BNJMcpbC.js.json"
+    },
+    {
+      "path": "out/vs/workbench/windsurf-chat-client/index.js",
+      "original": "d5849bcb55dbf224a043d2b7cfd2c79ce9cb50f56a771fa81e017622318411df",
+      "localized": "f8ac62506d0bb9106dc2d6383030d48d40df10a3e95e0e95e294c65082b39662",
+      "type": "edits",
+      "patch": "patches/windsurf-chat-client-index.js.json"
+    },
+    {
+      "path": "out/vs/workbench/workbench.desktop.main.js",
+      "original": "aabb39297e01b8efc8981ae8447a76aae5a1bbb99d4f83b17e09aeccf9b67d1c",
+      "localized": "e3afc8b049bd0c093e6a32d2db2a595c453a8cfd963fd493901c38c15b8c4895",
+      "type": "edits",
+      "patch": "patches/workbench.desktop.main.js.json"
+    },
+    {
+      "path": "product.json",
+      "original": "5236c27d3f176a243ed0e1d9912aa96dfd0096605558f2c837d36cacdb4d34c1",
+      "localized": "4d9c01f784bf00207b89110dce398825730ede456150537c36f961485fe1bdfb",
+      "type": "product"
+    }
+  ]
+}
