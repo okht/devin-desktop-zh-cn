@@ -107,9 +107,12 @@
     {
       "path": "out/vs/sessions/sessions.desktop.main.js",
       "original": "fc51e51d3348a25f6cf0b4fe7718390fe5e0953b1e60d5e3aa18a8053c762889",
-      "localized": "a0da6d3578477010f68573afc0c3fe0b40d1e5ba4d2cc02fd3bc1d8b5c0ef0f9",
+      "localized": "aded0695540259c229684a875fc6eee23bce949e586851456f20f929bdc82ce0",
       "type": "edits",
-      "patch": "patches/sessions.desktop.main.js.json"
+      "patch": "patches/sessions.desktop.main.js.json",
+      "previous": [
+        "a0da6d3578477010f68573afc0c3fe0b40d1e5ba4d2cc02fd3bc1d8b5c0ef0f9"
+      ]
     },
     {
       "path": "out/vs/workbench/devin-webapp-host/assets/AddAssetDialogs-McdChnTO.js",
@@ -1360,9 +1363,12 @@
     {
       "path": "out/vs/workbench/devin-webapp-host/assets/entry-host-editor-mode-menu-By4_JXI5.js",
       "original": "4f5d73330ee3f16a7bb8b0fd8e62cd719957dc81f11c66a71b587c3e310cf608",
-      "localized": "d57f083a3af8835b2111c4896c61d734b3cb053a9935bb6678898ddebccd4504",
+      "localized": "d272148e35777d738c62fac890bd8cb99566764c9267d168b6d2a3a90df86108",
       "type": "edits",
-      "patch": "patches/entry-host-editor-mode-menu-By4_JXI5.js.json"
+      "patch": "patches/entry-host-editor-mode-menu-By4_JXI5.js.json",
+      "previous": [
+        "d57f083a3af8835b2111c4896c61d734b3cb053a9935bb6678898ddebccd4504"
+      ]
     },
     {
       "path": "out/vs/workbench/devin-webapp-host/assets/entry-host-index-Bi4sREgs.js",
@@ -2284,22 +2290,49 @@
     {
       "path": "out/vs/workbench/windsurf-chat-client/index.js",
       "original": "014bb1a40ae726740f543fa3f52ddeccc7bebb2534851f587e69801fd404fe1f",
-      "localized": "84defcdc4640282e9d38db98fcfaa25037f98ead3b291526068f4acc4e1b409a",
+      "localized": "03e98a19f72bd4efa55ec8d5035e2dd8d2dbddde3e63278940356693a1f9ec6d",
       "type": "edits",
-      "patch": "patches/embedded-chat-index.json"
+      "patch": "patches/embedded-chat-index.json",
+      "previous": [
+        "84defcdc4640282e9d38db98fcfaa25037f98ead3b291526068f4acc4e1b409a"
+      ]
     },
     {
       "path": "out/vs/workbench/workbench.desktop.main.js",
       "original": "0f7daae4d14148f247a918a45878e2d0170bd7c998dd9762aa46dacd6213be4d",
-      "localized": "6b577a15e983bf3c1b8988050a1b90de127b659da3cd5832f905ea92d828ef2b",
+      "localized": "2c319d3ba2dc39a8252cf4cdf4ab1493e05400130b088d838fd0cb38c0865f61",
       "type": "edits",
-      "patch": "patches/workbench.desktop.main.js.json"
+      "patch": "patches/workbench.desktop.main.js.json",
+      "previous": [
+        "6b577a15e983bf3c1b8988050a1b90de127b659da3cd5832f905ea92d828ef2b"
+      ]
     },
     {
       "path": "product.json",
       "original": "c5eaed21f43153d8a9d12282761340a505f6fcac794f6553c78859ee199cb5c4",
-      "localized": "e5bcdf97c6523b189001937a136a852edbe4bde708ffba7e0f422b7086bbe6c2",
-      "type": "product"
+      "localized": "f7191983745c6fb8305bcbac4cf49367c01e0364db014d3937c88397b6dc116e",
+      "type": "product",
+      "previous": [
+        "e5bcdf97c6523b189001937a136a852edbe4bde708ffba7e0f422b7086bbe6c2"
+      ]
+    },
+    {
+      "path": "out/mainImpl.js",
+      "original": "653d60ffad06b1746a3018db0f10cfc2efd0b920ea71cbc0b69ebc30e28c3533",
+      "localized": "a3fe20af3d9d3bd0114bc5b166579f791908a41c92f8e17c91405a0ed36e26b6",
+      "type": "live-main"
+    },
+    {
+      "path": "out/vs/workbench/devin-live-language.js",
+      "original": null,
+      "localized": "c4916c8be128972b2716642cb8d8a413e4f432d5b9b065e1f5889eea4661ce58",
+      "type": "live-runtime"
+    },
+    {
+      "path": "out/vs/workbench/devin-live-messages.js",
+      "original": null,
+      "localized": "4148c27ab5201d6dcb4dd8906b031f5ba3b3dce9fc267ba540fa4cfa634e4d0a",
+      "type": "live-messages"
     }
   ]
 }

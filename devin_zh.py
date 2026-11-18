@@ -12,6 +12,7 @@ from contextlib import contextmanager
 from pathlib import Path
 
 from src.resources import apply_splices, build_editor, build_extension, build_product, embedded_catalog, pretty, read_json
+from src import live
 
 
 ROOT = Path(__file__).resolve().parent
@@ -178,6 +179,7 @@ class Installation:
             stock = sources[rel + "package.json"].read_bytes()
             builtins.update({rel + name: contents for name, contents in build_extension(stock, data).items()})
         hashes = {}
+        editor = build_editor(sources[self.pack["path"]].read_bytes(), read_json(ROOT / "locales/editor.zh-CN.json"))
         for row in self.entries:
             rel = row["path"]
             if row["type"] == "product":
@@ -185,10 +187,20 @@ class Installation:
             if row["type"] == "extension":
                 result = builtins[rel]
             elif row["type"] == "editor":
-                result = build_editor(sources[rel].read_bytes(), read_json(ROOT / "locales/editor.zh-CN.json"))
+                result = editor
+            elif rel == live.MESSAGES:
+                result = live.build_messages(self.app, editor)
+            elif rel == live.RUNTIME:
+                result = (ROOT / "src/live-language.js").read_bytes()
+            elif rel == live.MAIN:
+                result = live.main_process(sources[rel].read_bytes())
             else:
                 edits = read_json(under(ROOT, row["patch"]))
                 result = apply_splices(sources[rel].read_bytes().decode("utf-8"), edits, catalog)
+                if rel in (live.WORKBENCH, live.SESSIONS):
+                    result = live.renderer(ROOT, rel, result)
+                elif rel in (self.release["host"], live.CHAT):
+                    result = live.react_renderer(ROOT, result, rel == live.CHAT)
             hashes[rel] = hashlib.sha256(result).hexdigest()
             yield row, result
         product = self.rows["product.json"]
@@ -208,7 +220,7 @@ class Installation:
         states = self.states()
         for row in self.entries:
             current = states[row["path"]]
-            if current not in (row["original"], row["localized"]) and not (row["type"] == "editor" and current is None):
+            if current not in (row["original"], row["localized"], *row.get("previous", [])) and not (row["type"] == "editor" and current is None):
                 raise ValueError("发现与原版及本发布包都不匹配的文件：" + row["path"])
         registry, existing = self.ensure_pack(action)
         states[self.pack["path"]] = digest(self.pack_path)
@@ -247,7 +259,11 @@ class Installation:
                 atomic(target, contents)
                 undo.append((target, saved))
             try:
-                for rel, stage in ready.items():
+                # Publish module dependencies before their importers. Remove them last on restore.
+                priority = {live.MESSAGES: 0, live.RUNTIME: 1} if applying else {live.RUNTIME: 3, live.MESSAGES: 4}
+                ordered = sorted(ready, key=lambda rel: (rel == "product.json", priority.get(rel, 2)))
+                for rel in ordered:
+                    stage = ready[rel]
                     target = self.path(self.rows[rel])
                     if digest(target) != states[rel]:
                         raise RuntimeError("安装期间文件被其他进程修改：" + rel)
@@ -276,6 +292,8 @@ class Installation:
             current = states[row["path"]]
             if current == row["localized"]:
                 results["已汉化"] += 1
+            elif current in row.get("previous", []):
+                results["可升级"] += 1
             elif current == row["original"] or row["type"] == "editor" and current is None:
                 results["原版或未安装"] += 1
             else:
